@@ -2,8 +2,8 @@ name: Update ESG Automation Backtest
 
 on:
   schedule:
-    - cron: "0 0 * * 0"   # Weekly run (Sunday)
-  workflow_dispatch:      # Manual trigger
+    - cron: "0 0 * * 0"   # Every Sunday at 00:00 UTC
+  workflow_dispatch:      # Allow manual trigger
 
 jobs:
   build:
@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false   # Important for later push
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,15 +23,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install yfinance pandas numpy matplotlib
 
-      - name: Run backtest and generate docs
+      - name: Run backtest and update docs
         run: python main.py
 
-      - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add docs
-          git commit -m "Auto-update backtest results" || echo "No changes to commit"
+          git commit -m "Auto-update backtest results"
           git push
