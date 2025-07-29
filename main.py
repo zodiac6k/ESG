@@ -10,10 +10,10 @@ import shutil
 # -----------------------------
 START_DATE = "2019-01-01"
 END_DATE = "2025-07-01"
-REBALANCE = True  # Toggle quarterly rebalancing
-ROLLING_WINDOW = 126  # ~6 months for rolling Sharpe
+INITIAL_INVESTMENT = 100000  # USD
+ROLLING_WINDOW = 126  # ~6 months
 
-# Portfolio tickers
+# Portfolio tickers and weights
 stocks = [
     "ROK", "EMR", "HON", "MSFT", "NVDA", "PLTR", "CRWD",
     "CGNX", "AMAT", "SNOW", "SSYS", "DDD"
@@ -21,7 +21,6 @@ stocks = [
 etfs = ["ROBO", "SOXX", "ESGU", "ICLN"]
 portfolio = stocks + etfs
 
-# Portfolio weights
 weights = {
     "ROK": 0.05, "EMR": 0.04, "HON": 0.04, "MSFT": 0.07, "NVDA": 0.07,
     "PLTR": 0.04, "CRWD": 0.04, "CGNX": 0.03, "AMAT": 0.04, "SNOW": 0.03,
@@ -31,171 +30,245 @@ weights = {
 weights = {k: v / sum(weights.values()) for k, v in weights.items()}
 
 # -----------------------------
-# DATA DOWNLOAD
+# DOWNLOAD PORTFOLIO DATA
 # -----------------------------
-data = yf.download(portfolio, start=START_DATE, end=END_DATE, auto_adjust=False)
+pft_raw = yf.download(portfolio, start=START_DATE, end=END_DATE, auto_adjust=False)
 
-# Ensure correct price column
-if "Adj Close" in data.columns:
-    data = data["Adj Close"]
-elif "Close" in data.columns:
-    data = data["Close"]
+# Handle MultiIndex or single-level columns
+if isinstance(pft_raw.columns, pd.MultiIndex):
+    if "Adj Close" in pft_raw.columns.levels[0]:
+        data = pft_raw["Adj Close"].dropna()
+    else:
+        data = pft_raw["Close"].dropna()
 else:
-    raise ValueError("No 'Adj Close' or 'Close' found in downloaded data")
+    data = pft_raw.dropna()
 
-# Drop missing tickers and adjust weights
+# Drop missing tickers & adjust weights
 data = data.dropna(axis=1)
 weights = {k: v for k, v in weights.items() if k in data.columns}
-
 if not weights:
-    raise ValueError("No valid tickers found with available data!")
-
-weight_array = np.array(list(weights.values()))
-print("Using tickers:", list(weights.keys()))
+    raise ValueError("No valid tickers with available data!")
 
 # -----------------------------
-# CALCULATE RETURNS
+# CALCULATE QUANTITIES & VALUE
 # -----------------------------
-daily_returns = data.pct_change().dropna()
+first_prices = data.iloc[0]
+quantities = {t: (weights[t] * INITIAL_INVESTMENT) / first_prices[t] for t in weights}
 
-if REBALANCE:
-    rebalance_dates = pd.date_range(start=daily_returns.index[0], end=daily_returns.index[-1], freq='QE')
-    portfolio_returns = pd.Series(dtype=float)
+# Portfolio value
+portfolio_values = data[list(weights.keys())].mul(list(quantities.values()), axis=1).sum(axis=1)
+portfolio_returns = portfolio_values.pct_change().dropna()
 
-    for i in range(len(rebalance_dates)):
-        start_date = rebalance_dates[i]
-        end_date = rebalance_dates[i + 1] if i + 1 < len(rebalance_dates) else daily_returns.index[-1]
-        sub_returns = daily_returns.loc[start_date:end_date].dot(weight_array)
-        portfolio_returns = pd.concat([portfolio_returns, sub_returns])
+# -----------------------------
+# BENCHMARK DATA
+# -----------------------------
+bench_raw = yf.download(["QQQ", "SPY", "ESGU"], start=START_DATE, end=END_DATE, auto_adjust=False)
+
+# Handle MultiIndex or single-level columns
+if isinstance(bench_raw.columns, pd.MultiIndex):
+    if "Adj Close" in bench_raw.columns.levels[0]:
+        bench_data = bench_raw["Adj Close"].dropna()
+    else:
+        bench_data = bench_raw["Close"].dropna()
 else:
-    portfolio_returns = daily_returns.dot(weight_array)
-
-cumulative_returns = (1 + portfolio_returns).cumprod()
+    bench_data = bench_raw.dropna()
 
 # -----------------------------
-# BENCHMARKS
+# PERFORMANCE SNAPSHOT
 # -----------------------------
-benchmarks = yf.download(["QQQ", "SPY", "ESGU"], start=START_DATE, end=END_DATE, auto_adjust=False)
-if "Adj Close" in benchmarks.columns:
-    benchmarks = benchmarks["Adj Close"]
-else:
-    benchmarks = benchmarks["Close"]
+last_val = portfolio_values.iloc[-1]
+prev_val = portfolio_values.iloc[-2]
+daily_change_pct = ((last_val - prev_val) / prev_val) * 100
+arrow = "↑" if daily_change_pct > 0 else "↓"
+color_daily = "#28a745" if daily_change_pct > 0 else "#dc3545"
 
-benchmarks = benchmarks.pct_change().dropna()
-benchmarks_cum = (1 + benchmarks).cumprod()
+bench_daily = {}
+for b in bench_data.columns:
+    bench_daily[b] = ((bench_data[b].iloc[-1] - bench_data[b].iloc[-2]) / bench_data[b].iloc[-2]) * 100
 
 # -----------------------------
-# METRICS
+# PORTFOLIO METRICS
 # -----------------------------
-cagr = (cumulative_returns.iloc[-1]) ** (252 / len(portfolio_returns)) - 1
+cagr = (portfolio_values.iloc[-1] / portfolio_values.iloc[0]) ** (252 / len(portfolio_returns)) - 1
 volatility = portfolio_returns.std() * np.sqrt(252)
 sharpe = cagr / volatility
-max_drawdown = ((cumulative_returns / cumulative_returns.cummax()) - 1).min()
+max_drawdown = ((portfolio_values / portfolio_values.cummax()) - 1).min()
 
 metrics = pd.DataFrame({
-    "CAGR": [f"{cagr*100:.2f}%"],
-    "Volatility": [f"{volatility*100:.2f}%"],
-    "Sharpe Ratio": [f"{sharpe:.2f}"],
-    "Max Drawdown": [f"{max_drawdown*100:.2f}%"]
-})
+    "Portfolio": [f"{cagr*100:.2f}%", f"{volatility*100:.2f}%", f"{sharpe:.2f}", f"{max_drawdown*100:.2f}%"],
+    "QQQ": [
+        f"{((bench_data['QQQ'].iloc[-1]/bench_data['QQQ'].iloc[0])**(252/len(bench_data))-1)*100:.2f}%",
+        "", "", ""
+    ],
+    "SPY": [
+        f"{((bench_data['SPY'].iloc[-1]/bench_data['SPY'].iloc[0])**(252/len(bench_data))-1)*100:.2f}%",
+        "", "", ""
+    ]
+}, index=["CAGR", "Volatility", "Sharpe Ratio", "Max Drawdown"])
 
 # -----------------------------
-# SAVE OUTPUTS (Excel + Charts)
+# MULTI-TIMEFRAME COMPARISON
+# -----------------------------
+def calc_return(series, days):
+    if len(series) < days:
+        return np.nan
+    return ((series.iloc[-1] / series.iloc[-days]) - 1) * 100
+
+timeframes = {
+    "1M": 21, "3M": 63, "6M": 126, "YTD": (pd.Timestamp.today().dayofyear // 7) * 5,
+    "1Y": 252, "Since Inception": len(portfolio_values) - 1
+}
+
+comparison = pd.DataFrame(index=timeframes.keys())
+comparison["Portfolio"] = [calc_return(portfolio_values, d) for d in timeframes.values()]
+for b in ["QQQ", "SPY", "ESGU"]:
+    comparison[b] = [calc_return(bench_data[b], d) for d in timeframes.values()]
+
+# FIX: use map() instead of applymap (removes deprecation warning)
+comparison = comparison.map(lambda x: f"{x:.2f}%" if pd.notnull(x) else "-")
+
+# -----------------------------
+# PRICE CHANGE & NEWS
+# -----------------------------
+last_day_prices = data.iloc[-1]
+prev_day_prices = data.iloc[-2]
+price_change_colors = {
+    t: "#28a745" if last_day_prices[t] - prev_day_prices[t] > 0 else "#dc3545"
+    for t in weights
+}
+
+company_names = {}
+news_data = {}
+for t in weights.keys():
+    info = yf.Ticker(t).info
+    company_names[t] = info.get("longName", t)
+    try:
+        news_item = yf.Ticker(t).news[0]
+        news_data[t] = f'<a href="{news_item["link"]}" target="_blank">{news_item["title"]}</a>'
+    except Exception:
+        news_data[t] = "No news available"
+
+# -----------------------------
+# CHARTS
 # -----------------------------
 os.makedirs("outputs/charts", exist_ok=True)
-metrics.to_excel("outputs/portfolio_metrics.xlsx", index=False)
 
-# Cumulative returns chart
-plt.figure(figsize=(10, 6))
-plt.plot(cumulative_returns, label="ESG Automation Portfolio")
-for col in benchmarks_cum.columns:
-    plt.plot(benchmarks_cum[col], label=col)
-plt.legend()
-plt.title("Cumulative Returns: ESG Automation vs Benchmarks (2019-2025)")
-plt.xlabel("Date")
-plt.ylabel("Growth of $1")
-plt.grid(True)
-plt.tight_layout()
-plt.savefig("outputs/charts/cumulative_returns.png")
-plt.close()
+# Horizontal dashboard charts
+fig, axs = plt.subplots(1, 3, figsize=(20, 6))
 
-# Rolling Sharpe chart
+axs[0].plot(portfolio_values)
+axs[0].set_title("Portfolio Value ($)")
+axs[0].grid(True)
+
 rolling_sharpe = (
     (portfolio_returns.rolling(ROLLING_WINDOW).mean() * 252) /
     (portfolio_returns.rolling(ROLLING_WINDOW).std() * np.sqrt(252))
 )
-plt.figure(figsize=(10, 5))
-plt.plot(rolling_sharpe, label="Rolling Sharpe (6 months)")
-plt.axhline(1, color="gray", linestyle="--", linewidth=1)
+axs[1].plot(rolling_sharpe)
+axs[1].set_title("Rolling Sharpe Ratio")
+axs[1].grid(True)
+
+drawdown = (portfolio_values / portfolio_values.cummax()) - 1
+axs[2].plot(drawdown, color="red")
+axs[2].set_title("Drawdown")
+axs[2].grid(True)
+
+plt.tight_layout()
+plt.savefig("outputs/charts/dashboard_charts.png")
+plt.close()
+
+# Portfolio vs Benchmarks growth
+plt.figure(figsize=(10, 6))
+base_val = portfolio_values.iloc[0]
+plt.plot(portfolio_values / base_val * 100000, label="Portfolio")
+for b in ["QQQ", "SPY", "ESGU"]:
+    plt.plot(bench_data[b] / bench_data[b].iloc[0] * 100000, label=b)
+plt.title("Portfolio vs Benchmarks ($ Growth)")
+plt.ylabel("Value ($)")
 plt.legend()
-plt.title("Rolling Sharpe Ratio")
 plt.grid(True)
-plt.savefig("outputs/charts/rolling_sharpe.png")
+plt.tight_layout()
+plt.savefig("outputs/charts/portfolio_vs_benchmarks.png")
 plt.close()
-
-# Drawdown chart
-drawdown = (cumulative_returns / cumulative_returns.cummax()) - 1
-plt.figure(figsize=(10, 5))
-plt.plot(drawdown, label="Drawdown", color="red")
-plt.title("Portfolio Drawdown")
-plt.grid(True)
-plt.savefig("outputs/charts/drawdown.png")
-plt.close()
-
-print("Backtest complete. Results saved in outputs/ folder.")
 
 # -----------------------------
-# GENERATE GITHUB PAGES (HTML)
+# GENERATE HTML DASHBOARD
 # -----------------------------
 os.makedirs("docs/charts", exist_ok=True)
+shutil.copy("outputs/charts/dashboard_charts.png", "docs/charts/")
+shutil.copy("outputs/charts/portfolio_vs_benchmarks.png", "docs/charts/")
 
-# Copy charts to docs
-shutil.copy("outputs/charts/cumulative_returns.png", "docs/charts/")
-shutil.copy("outputs/charts/rolling_sharpe.png", "docs/charts/")
-shutil.copy("outputs/charts/drawdown.png", "docs/charts/")
+# Portfolio table rows
+table_rows = ""
+for t in weights.keys():
+    color = price_change_colors[t]
+    table_rows += f"""
+    <tr>
+        <td>{t}</td>
+        <td>{company_names[t]}</td>
+        <td>{weights[t]*100:.2f}%</td>
+        <td>{quantities[t]:.2f}</td>
+        <td>{first_prices[t]:.2f}</td>
+        <td style="color:{color}; font-weight:bold;">{last_day_prices[t]:.2f}</td>
+        <td>{news_data[t]}</td>
+    </tr>
+    """
 
-# Portfolio weights table
-weights_df = pd.DataFrame(list(weights.items()), columns=["Ticker", "Weight"])
-weights_df["Weight"] = (weights_df["Weight"] * 100).round(2).astype(str) + "%"
+# Performance snapshot card
+perf_html = f"""
+<div style="padding:10px;background:#f1f3f5;border-radius:10px;margin-bottom:20px;">
+<h2>Current Portfolio Value: ${last_val:,.2f} <span style="color:{color_daily};">{arrow} {daily_change_pct:.2f}%</span></h2>
+<p>QQQ daily: {bench_daily['QQQ']:.2f}% | SPY daily: {bench_daily['SPY']:.2f}% | ESGU daily: {bench_daily['ESGU']:.2f}%</p>
+</div>
+"""
 
-# Build HTML dashboard
+# Final HTML (UTF-8 safe)
 html_content = f"""
 <!DOCTYPE html>
 <html>
 <head>
     <title>ESG Automation Portfolio</title>
     <style>
-        body {{ font-family: Arial, sans-serif; padding: 20px; }}
+        body {{ font-family: Arial, sans-serif; padding: 20px; background-color: #f8f9fa; }}
         h1 {{ color: #2c3e50; }}
-        table {{ border-collapse: collapse; width: 400px; margin-bottom: 20px; }}
-        table, th, td {{ border: 1px solid #ddd; padding: 8px; text-align: center; }}
-        th {{ background-color: #f2f2f2; }}
-        img {{ max-width: 600px; display: block; margin-bottom: 20px; }}
+        table {{ border-collapse: collapse; width: 100%; margin-bottom: 20px; }}
+        th, td {{ border: 1px solid #ddd; padding: 8px; text-align: center; }}
+        th {{ background-color: #2c3e50; color: white; }}
+        tr:nth-child(even) {{ background-color: #f2f2f2; }}
+        tr:hover {{ background-color: #ddd; }}
+        img {{ max-width: 100%; display: block; margin: auto; }}
     </style>
 </head>
 <body>
-    <h1>ESG Automation Portfolio Backtest</h1>
+    <h1>ESG Automation Portfolio Dashboard</h1>
 
-    <h2>Portfolio Weights</h2>
-    {weights_df.to_html(index=False)}
+    {perf_html}
 
-    <h2>Metrics</h2>
-    {metrics.to_html(index=False)}
+    <h2>Portfolio Allocation & News</h2>
+    <table>
+        <tr>
+            <th>Ticker</th><th>Name</th><th>Weight</th><th>Quantity</th>
+            <th>Initial Price</th><th>Last Price</th><th>News</th>
+        </tr>
+        {table_rows}
+    </table>
+
+    <h2>Portfolio vs Benchmarks (Metrics)</h2>
+    {metrics.to_html(classes="data", header=True)}
+
+    <h2>Multi-Timeframe Performance (%)</h2>
+    {comparison.to_html(classes="data", header=True)}
 
     <h2>Charts</h2>
-    <h3>Cumulative Returns</h3>
-    <img src="charts/cumulative_returns.png" alt="Cumulative Returns">
-
-    <h3>Rolling Sharpe Ratio</h3>
-    <img src="charts/rolling_sharpe.png" alt="Rolling Sharpe Ratio">
-
-    <h3>Drawdown</h3>
-    <img src="charts/drawdown.png" alt="Drawdown">
+    <img src="charts/dashboard_charts.png" alt="Dashboard Charts">
+    <h3>Portfolio vs Benchmarks ($ Growth)</h3>
+    <img src="charts/portfolio_vs_benchmarks.png" alt="Portfolio vs Benchmarks">
 </body>
 </html>
 """
 
-with open("docs/index.html", "w") as f:
+# FIX: Use UTF-8 encoding for file write (avoids UnicodeEncodeError)
+with open("docs/index.html", "w", encoding="utf-8") as f:
     f.write(html_content)
 
 print("GitHub Pages dashboard generated at docs/index.html")
