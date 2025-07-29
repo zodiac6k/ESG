@@ -9,8 +9,8 @@ import os
 # -----------------------------
 START_DATE = "2019-01-01"
 END_DATE = "2025-07-01"
-REBALANCE = True
-ROLLING_WINDOW = 126  # 6 months rolling window
+REBALANCE = True  # Toggle quarterly rebalancing
+ROLLING_WINDOW = 126  # 6 months for rolling Sharpe
 
 # Portfolio tickers
 stocks = [
@@ -30,11 +30,11 @@ weights = {
 weights = {k: v / sum(weights.values()) for k, v in weights.items()}
 
 # -----------------------------
-# DOWNLOAD DATA (FORCE Adj Close)
+# DATA DOWNLOAD
 # -----------------------------
 data = yf.download(portfolio, start=START_DATE, end=END_DATE, auto_adjust=False)
 
-# Ensure we use "Adj Close" if available, else fallback to "Close"
+# Ensure correct price column
 if "Adj Close" in data.columns:
     data = data["Adj Close"]
 elif "Close" in data.columns:
@@ -47,14 +47,16 @@ data = data.dropna(axis=1)
 weights = {k: v for k, v in weights.items() if k in data.columns}
 weight_array = np.array(list(weights.values()))
 
+print("Using tickers:", list(weights.keys()))
+
 # -----------------------------
-# PORTFOLIO CALCULATIONS
+# CALCULATE RETURNS
 # -----------------------------
 daily_returns = data.pct_change().dropna()
 
 if REBALANCE:
-    # Quarterly rebalancing logic
-    rebalance_dates = pd.date_range(start=daily_returns.index[0], end=daily_returns.index[-1], freq='Q')
+    # Quarterly rebalancing (use QE to avoid deprecation warning)
+    rebalance_dates = pd.date_range(start=daily_returns.index[0], end=daily_returns.index[-1], freq='QE')
     portfolio_returns = pd.Series(dtype=float)
 
     for i in range(len(rebalance_dates)):
@@ -82,7 +84,7 @@ benchmarks_cum = (1 + benchmarks).cumprod()
 # -----------------------------
 # METRICS
 # -----------------------------
-cagr = (cumulative_returns[-1]) ** (252 / len(portfolio_returns)) - 1
+cagr = (cumulative_returns.iloc[-1]) ** (252 / len(portfolio_returns)) - 1
 volatility = portfolio_returns.std() * np.sqrt(252)
 sharpe = cagr / volatility
 max_drawdown = ((cumulative_returns / cumulative_returns.cummax()) - 1).min()
@@ -95,12 +97,16 @@ metrics = pd.DataFrame({
 })
 
 # -----------------------------
-# OUTPUTS
+# SAVE OUTPUTS
 # -----------------------------
+os.makedirs("outputs", exist_ok=True)
 os.makedirs("outputs/charts", exist_ok=True)
-metrics.to_excel("outputs/portfolio_metrics.xlsx", index=False)
 
-# Cumulative returns chart
+metrics_path = os.path.join("outputs", "portfolio_metrics.xlsx")
+metrics.to_excel(metrics_path, index=False)
+print(f"Metrics saved to {metrics_path}")
+
+# 1. Cumulative returns chart
 plt.figure(figsize=(10, 6))
 plt.plot(cumulative_returns, label="ESG Automation Portfolio")
 for col in benchmarks_cum.columns:
@@ -114,12 +120,11 @@ plt.tight_layout()
 plt.savefig("outputs/charts/cumulative_returns.png")
 plt.close()
 
-# Rolling Sharpe chart
+# 2. Rolling Sharpe chart
 rolling_sharpe = (
     (portfolio_returns.rolling(ROLLING_WINDOW).mean() * 252) /
     (portfolio_returns.rolling(ROLLING_WINDOW).std() * np.sqrt(252))
 )
-
 plt.figure(figsize=(10, 5))
 plt.plot(rolling_sharpe, label="Rolling Sharpe (6 months)")
 plt.axhline(1, color="gray", linestyle="--", linewidth=1)
@@ -129,7 +134,7 @@ plt.grid(True)
 plt.savefig("outputs/charts/rolling_sharpe.png")
 plt.close()
 
-# Drawdown chart
+# 3. Drawdown chart
 drawdown = (cumulative_returns / cumulative_returns.cummax()) - 1
 plt.figure(figsize=(10, 5))
 plt.plot(drawdown, label="Drawdown", color="red")
