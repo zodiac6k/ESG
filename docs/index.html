@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ESG Automation Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        h1 { color: #2c3e50; }
+        table { border-collapse: collapse; width: 300px; margin-bottom: 20px; }
+        table, th, td { border: 1px solid #ddd; padding: 8px; text-align: center; }
+        th { background-color: #f2f2f2; }
+        img { max-width: 600px; display: block; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>ESG Automation Portfolio Backtest</h1>
+    <h2>Metrics</h2>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>CAGR</th>
+      <th>Volatility</th>
+      <th>Sharpe Ratio</th>
+      <th>Max Drawdown</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>13.50%</td>
+      <td>24.92%</td>
+      <td>0.54</td>
+      <td>-38.81%</td>
+    </tr>
+  </tbody>
+</table>
+
+    <h2>Charts</h2>
+    <h3>Cumulative Returns</h3>
+    <img src="charts/cumulative_returns.png" alt="Cumulative Returns">
+
+    <h3>Rolling Sharpe Ratio</h3>
+    <img src="charts/rolling_sharpe.png" alt="Rolling Sharpe Ratio">
+
+    <h3>Drawdown</h3>
+    <img src="charts/drawdown.png" alt="Drawdown">
+</body>
+</html>
