@@ -4,6 +4,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
+# -----------------------------
+# CONFIGURATION
+# -----------------------------
+START_DATE = "2019-01-01"
+END_DATE = "2025-07-01"
+REBALANCE = True
+ROLLING_WINDOW = 126  # 6 months rolling window
+
 # Portfolio tickers
 stocks = [
     "ROK", "EMR", "HON", "MSFT", "NVDA", "PLTR", "CRWD",
@@ -12,35 +20,68 @@ stocks = [
 etfs = ["ROBO", "SOXX", "ESGU", "ICLN"]
 portfolio = stocks + etfs
 
-# Weights
+# Portfolio weights
 weights = {
     "ROK": 0.05, "EMR": 0.04, "HON": 0.04, "MSFT": 0.07, "NVDA": 0.07,
     "PLTR": 0.04, "CRWD": 0.04, "CGNX": 0.03, "AMAT": 0.04, "SNOW": 0.03,
     "SSYS": 0.03, "DDD": 0.02, "ROBO": 0.15, "SOXX": 0.10,
     "ESGU": 0.10, "ICLN": 0.05
 }
+weights = {k: v / sum(weights.values()) for k, v in weights.items()}
 
-total_weight = sum(weights.values())
-weights = {k: v / total_weight for k, v in weights.items()}
+# -----------------------------
+# DOWNLOAD DATA (FORCE Adj Close)
+# -----------------------------
+data = yf.download(portfolio, start=START_DATE, end=END_DATE, auto_adjust=False)
 
-# Download data
-data = yf.download(portfolio, start="2019-01-01", end="2025-07-01")['Adj Close'].dropna(axis=1)
+# Ensure we use "Adj Close" if available, else fallback to "Close"
+if "Adj Close" in data.columns:
+    data = data["Adj Close"]
+elif "Close" in data.columns:
+    data = data["Close"]
+else:
+    raise ValueError("No 'Adj Close' or 'Close' found in downloaded data")
 
-# Adjust weights for available tickers
+# Drop missing tickers and adjust weights
+data = data.dropna(axis=1)
 weights = {k: v for k, v in weights.items() if k in data.columns}
 weight_array = np.array(list(weights.values()))
 
-# Daily returns
+# -----------------------------
+# PORTFOLIO CALCULATIONS
+# -----------------------------
 daily_returns = data.pct_change().dropna()
-portfolio_returns = daily_returns.dot(weight_array)
+
+if REBALANCE:
+    # Quarterly rebalancing logic
+    rebalance_dates = pd.date_range(start=daily_returns.index[0], end=daily_returns.index[-1], freq='Q')
+    portfolio_returns = pd.Series(dtype=float)
+
+    for i in range(len(rebalance_dates)):
+        start_date = rebalance_dates[i]
+        end_date = rebalance_dates[i + 1] if i + 1 < len(rebalance_dates) else daily_returns.index[-1]
+        sub_returns = daily_returns.loc[start_date:end_date].dot(weight_array)
+        portfolio_returns = pd.concat([portfolio_returns, sub_returns])
+else:
+    portfolio_returns = daily_returns.dot(weight_array)
+
 cumulative_returns = (1 + portfolio_returns).cumprod()
 
-# Benchmarks
-benchmarks = yf.download(["QQQ", "SPY", "ESGU"], start="2019-01-01", end="2025-07-01")['Adj Close']
+# -----------------------------
+# BENCHMARKS
+# -----------------------------
+benchmarks = yf.download(["QQQ", "SPY", "ESGU"], start=START_DATE, end=END_DATE, auto_adjust=False)
+if "Adj Close" in benchmarks.columns:
+    benchmarks = benchmarks["Adj Close"]
+else:
+    benchmarks = benchmarks["Close"]
+
 benchmarks = benchmarks.pct_change().dropna()
 benchmarks_cum = (1 + benchmarks).cumprod()
 
-# Metrics
+# -----------------------------
+# METRICS
+# -----------------------------
 cagr = (cumulative_returns[-1]) ** (252 / len(portfolio_returns)) - 1
 volatility = portfolio_returns.std() * np.sqrt(252)
 sharpe = cagr / volatility
@@ -53,12 +94,14 @@ metrics = pd.DataFrame({
     "Max Drawdown": [f"{max_drawdown*100:.2f}%"]
 })
 
-# Save outputs
+# -----------------------------
+# OUTPUTS
+# -----------------------------
 os.makedirs("outputs/charts", exist_ok=True)
 metrics.to_excel("outputs/portfolio_metrics.xlsx", index=False)
 
-# Plot cumulative returns
-plt.figure(figsize=(10,6))
+# Cumulative returns chart
+plt.figure(figsize=(10, 6))
 plt.plot(cumulative_returns, label="ESG Automation Portfolio")
 for col in benchmarks_cum.columns:
     plt.plot(benchmarks_cum[col], label=col)
@@ -69,6 +112,30 @@ plt.ylabel("Growth of $1")
 plt.grid(True)
 plt.tight_layout()
 plt.savefig("outputs/charts/cumulative_returns.png")
+plt.close()
+
+# Rolling Sharpe chart
+rolling_sharpe = (
+    (portfolio_returns.rolling(ROLLING_WINDOW).mean() * 252) /
+    (portfolio_returns.rolling(ROLLING_WINDOW).std() * np.sqrt(252))
+)
+
+plt.figure(figsize=(10, 5))
+plt.plot(rolling_sharpe, label="Rolling Sharpe (6 months)")
+plt.axhline(1, color="gray", linestyle="--", linewidth=1)
+plt.legend()
+plt.title("Rolling Sharpe Ratio")
+plt.grid(True)
+plt.savefig("outputs/charts/rolling_sharpe.png")
+plt.close()
+
+# Drawdown chart
+drawdown = (cumulative_returns / cumulative_returns.cummax()) - 1
+plt.figure(figsize=(10, 5))
+plt.plot(drawdown, label="Drawdown", color="red")
+plt.title("Portfolio Drawdown")
+plt.grid(True)
+plt.savefig("outputs/charts/drawdown.png")
 plt.close()
 
 print("Backtest complete. Results saved in outputs/ folder.")
