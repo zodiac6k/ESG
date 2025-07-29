@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import os
+import shutil
 
 # -----------------------------
 # CONFIGURATION
@@ -30,7 +31,7 @@ weights = {
 weights = {k: v / sum(weights.values()) for k, v in weights.items()}
 
 # -----------------------------
-# DATA DOWNLOAD
+# DOWNLOAD DATA
 # -----------------------------
 data = yf.download(portfolio, start=START_DATE, end=END_DATE, auto_adjust=False)
 
@@ -55,7 +56,6 @@ print("Using tickers:", list(weights.keys()))
 daily_returns = data.pct_change().dropna()
 
 if REBALANCE:
-    # Quarterly rebalancing (use QE to avoid deprecation warning)
     rebalance_dates = pd.date_range(start=daily_returns.index[0], end=daily_returns.index[-1], freq='QE')
     portfolio_returns = pd.Series(dtype=float)
 
@@ -97,16 +97,12 @@ metrics = pd.DataFrame({
 })
 
 # -----------------------------
-# SAVE OUTPUTS
+# SAVE OUTPUTS (Excel + Charts)
 # -----------------------------
-os.makedirs("outputs", exist_ok=True)
 os.makedirs("outputs/charts", exist_ok=True)
+metrics.to_excel("outputs/portfolio_metrics.xlsx", index=False)
 
-metrics_path = os.path.join("outputs", "portfolio_metrics.xlsx")
-metrics.to_excel(metrics_path, index=False)
-print(f"Metrics saved to {metrics_path}")
-
-# 1. Cumulative returns chart
+# Cumulative returns chart
 plt.figure(figsize=(10, 6))
 plt.plot(cumulative_returns, label="ESG Automation Portfolio")
 for col in benchmarks_cum.columns:
@@ -120,7 +116,7 @@ plt.tight_layout()
 plt.savefig("outputs/charts/cumulative_returns.png")
 plt.close()
 
-# 2. Rolling Sharpe chart
+# Rolling Sharpe chart
 rolling_sharpe = (
     (portfolio_returns.rolling(ROLLING_WINDOW).mean() * 252) /
     (portfolio_returns.rolling(ROLLING_WINDOW).std() * np.sqrt(252))
@@ -134,7 +130,7 @@ plt.grid(True)
 plt.savefig("outputs/charts/rolling_sharpe.png")
 plt.close()
 
-# 3. Drawdown chart
+# Drawdown chart
 drawdown = (cumulative_returns / cumulative_returns.cummax()) - 1
 plt.figure(figsize=(10, 5))
 plt.plot(drawdown, label="Drawdown", color="red")
@@ -144,3 +140,51 @@ plt.savefig("outputs/charts/drawdown.png")
 plt.close()
 
 print("Backtest complete. Results saved in outputs/ folder.")
+
+# -----------------------------
+# GENERATE GITHUB PAGES (HTML)
+# -----------------------------
+os.makedirs("docs/charts", exist_ok=True)
+
+# Copy charts to docs
+shutil.copy("outputs/charts/cumulative_returns.png", "docs/charts/")
+shutil.copy("outputs/charts/rolling_sharpe.png", "docs/charts/")
+shutil.copy("outputs/charts/drawdown.png", "docs/charts/")
+
+# Build HTML dashboard
+html_content = f"""
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ESG Automation Portfolio</title>
+    <style>
+        body {{ font-family: Arial, sans-serif; padding: 20px; }}
+        h1 {{ color: #2c3e50; }}
+        table {{ border-collapse: collapse; width: 300px; margin-bottom: 20px; }}
+        table, th, td {{ border: 1px solid #ddd; padding: 8px; text-align: center; }}
+        th {{ background-color: #f2f2f2; }}
+        img {{ max-width: 600px; display: block; margin-bottom: 20px; }}
+    </style>
+</head>
+<body>
+    <h1>ESG Automation Portfolio Backtest</h1>
+    <h2>Metrics</h2>
+    {metrics.to_html(index=False)}
+
+    <h2>Charts</h2>
+    <h3>Cumulative Returns</h3>
+    <img src="charts/cumulative_returns.png" alt="Cumulative Returns">
+
+    <h3>Rolling Sharpe Ratio</h3>
+    <img src="charts/rolling_sharpe.png" alt="Rolling Sharpe Ratio">
+
+    <h3>Drawdown</h3>
+    <img src="charts/drawdown.png" alt="Drawdown">
+</body>
+</html>
+"""
+
+with open("docs/index.html", "w") as f:
+    f.write(html_content)
+
+print("GitHub Pages dashboard generated at docs/index.html")
