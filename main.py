@@ -11,7 +11,7 @@ import shutil
 START_DATE = "2019-01-01"
 END_DATE = "2025-07-01"
 REBALANCE = True  # Toggle quarterly rebalancing
-ROLLING_WINDOW = 126  # 6 months for rolling Sharpe
+ROLLING_WINDOW = 126  # ~6 months for rolling Sharpe
 
 # Portfolio tickers
 stocks = [
@@ -31,7 +31,7 @@ weights = {
 weights = {k: v / sum(weights.values()) for k, v in weights.items()}
 
 # -----------------------------
-# DOWNLOAD DATA
+# DATA DOWNLOAD
 # -----------------------------
 data = yf.download(portfolio, start=START_DATE, end=END_DATE, auto_adjust=False)
 
@@ -46,8 +46,11 @@ else:
 # Drop missing tickers and adjust weights
 data = data.dropna(axis=1)
 weights = {k: v for k, v in weights.items() if k in data.columns}
-weight_array = np.array(list(weights.values()))
 
+if not weights:
+    raise ValueError("No valid tickers found with available data!")
+
+weight_array = np.array(list(weights.values()))
 print("Using tickers:", list(weights.keys()))
 
 # -----------------------------
@@ -151,6 +154,10 @@ shutil.copy("outputs/charts/cumulative_returns.png", "docs/charts/")
 shutil.copy("outputs/charts/rolling_sharpe.png", "docs/charts/")
 shutil.copy("outputs/charts/drawdown.png", "docs/charts/")
 
+# Portfolio weights table
+weights_df = pd.DataFrame(list(weights.items()), columns=["Ticker", "Weight"])
+weights_df["Weight"] = (weights_df["Weight"] * 100).round(2).astype(str) + "%"
+
 # Build HTML dashboard
 html_content = f"""
 <!DOCTYPE html>
@@ -160,7 +167,7 @@ html_content = f"""
     <style>
         body {{ font-family: Arial, sans-serif; padding: 20px; }}
         h1 {{ color: #2c3e50; }}
-        table {{ border-collapse: collapse; width: 300px; margin-bottom: 20px; }}
+        table {{ border-collapse: collapse; width: 400px; margin-bottom: 20px; }}
         table, th, td {{ border: 1px solid #ddd; padding: 8px; text-align: center; }}
         th {{ background-color: #f2f2f2; }}
         img {{ max-width: 600px; display: block; margin-bottom: 20px; }}
@@ -168,6 +175,10 @@ html_content = f"""
 </head>
 <body>
     <h1>ESG Automation Portfolio Backtest</h1>
+
+    <h2>Portfolio Weights</h2>
+    {weights_df.to_html(index=False)}
+
     <h2>Metrics</h2>
     {metrics.to_html(index=False)}
 
