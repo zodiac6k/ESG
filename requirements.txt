@@ -1,1 +1,4 @@
-numpy\npandas\nyfinance\nmatplotlib
+numpy
+pandas
+yfinance
+matplotlib
