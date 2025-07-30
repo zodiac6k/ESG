@@ -5,8 +5,7 @@ import requests
 from datetime import datetime, UTC, timedelta
 import os
 
-# ===== CONFIGURATION =====
-NEWS_API_KEY = os.getenv("NEWS_API_KEY")  # Securely pulled from GitHub Secrets
+NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 
 portfolio_allocations = {
     "ROK": {"weight": 5.56, "quantity": 27.35, "initial_price": 203.14},
@@ -27,16 +26,14 @@ portfolio_allocations = {
     "ICLN": {"weight": 5.56, "quantity": 320.03, "initial_price": 17.36},
 }
 
-# ===== FUNCTIONS =====
 def fetch_live_prices(tickers):
-    """Fetch latest prices using yfinance"""
     data = yf.download(tickers, period="1d")["Adj Close"].iloc[-1]
     return {ticker: float(data.get(ticker, 0)) for ticker in tickers}
 
-def fetch_newsapi_articles(ticker, max_articles=1):
-    """Fetch ESG-related news using NewsAPI"""
+def fetch_newsapi_articles(ticker, max_articles=3):
+    """Fetch up to 3 ESG-related articles (title + link)"""
     if not NEWS_API_KEY:
-        return ["No news available"]
+        return []
     url = "https://newsapi.org/v2/everything"
     query = f'{ticker} AND (ESG OR sustainability OR environmental OR governance OR "social responsibility")'
     params = {
@@ -51,29 +48,31 @@ def fetch_newsapi_articles(ticker, max_articles=1):
         response = requests.get(url, params=params, timeout=10)
         data = response.json()
         if data.get("status") == "ok" and data.get("articles"):
-            return [data["articles"][0]["title"]]  # Top headline only
+            return [{"title": art["title"], "url": art["url"]}
+                    for art in data.get("articles", [])]
         else:
-            return ["No news available"]
+            return []
     except Exception:
-        return ["No news available"]
+        return []
 
 def calculate_metrics(portfolio_daily):
     cum_return = (1 + portfolio_daily).cumprod()
     total_return = float(cum_return[-1] - 1)
-    cagr = float(cum_return[-1] ** (1 / 3) - 1)  # Assume 3 years
+    cagr = float(cum_return[-1] ** (1 / 3) - 1)
     max_drawdown = float((cum_return / np.maximum.accumulate(cum_return) - 1).min())
     return total_return, cagr, max_drawdown
 
-# ===== MAIN =====
+# Generate portfolio data
 os.makedirs("docs", exist_ok=True)
-
 tickers = list(portfolio_allocations.keys())
 live_prices = fetch_live_prices(tickers)
 
 holdings = []
+news_summary = {}
+
 for ticker, info in portfolio_allocations.items():
     last_price = round(live_prices.get(ticker, 0), 2)
-    news_headline = fetch_newsapi_articles(ticker)[0]
+    articles = fetch_newsapi_articles(ticker)
 
     holdings.append({
         "ticker": ticker,
@@ -82,12 +81,14 @@ for ticker, info in portfolio_allocations.items():
         "quantity": info["quantity"],
         "initial_price": info["initial_price"],
         "last_price": last_price,
-        "news": news_headline
+        "news": articles[0]["title"] if articles else "No news available"
     })
 
-# Simulate performance metrics
+    news_summary[ticker] = articles  # For summary section
+
+# Metrics
 np.random.seed(42)
-portfolio_daily = np.random.normal(0.0005, 0.01, 252 * 3)  # 3 years
+portfolio_daily = np.random.normal(0.0005, 0.01, 252 * 3)
 total_return, cagr, max_drawdown = calculate_metrics(portfolio_daily)
 
 performance = {
@@ -108,6 +109,7 @@ data = {
         "sharpe_ratio": "0.88"
     },
     "holdings": holdings,
+    "news_summary": news_summary,   # NEW summary section
     "performance": performance,
     "last_updated": datetime.now(UTC).isoformat()
 }
@@ -115,4 +117,4 @@ data = {
 with open("docs/portfolio.json", "w") as f:
     json.dump(data, f, indent=2)
 
-print("Portfolio data updated with live prices and ESG news.")
+print("Portfolio data updated with clickable ESG news summaries.")
