@@ -19,7 +19,7 @@
 
     
 <div style="padding:10px;background:#f1f3f5;border-radius:10px;margin-bottom:20px;">
-<h2>Current Portfolio Value: $312,522.23 <span style="color:#28a745;">↑ 1.17%</span></h2>
+<h2>Current Portfolio Value: $312,522.25 <span style="color:#28a745;">↑ 1.17%</span></h2>
 <p>QQQ daily: 0.65% | SPY daily: 0.48% | ESGU daily: 0.72%</p>
 </div>
 
@@ -294,30 +294,3 @@
     <img src="charts/portfolio_vs_benchmarks.png" alt="Portfolio vs Benchmarks">
 </body>
 </html>
-<h2>ESG News Summary</h2>
-<div id="news-summary">
-    <script>
-        fetch('portfolio.json')
-            .then(res => res.json())
-            .then(data => {
-                const container = document.getElementById('news-summary');
-                for (const [ticker, articles] of Object.entries(data.news_summary)) {
-                    const div = document.createElement('div');
-                    div.innerHTML = `<h3>${ticker}</h3>`;
-                    if (articles.length > 0) {
-                        const list = document.createElement('ul');
-                        articles.forEach(article => {
-                            const li = document.createElement('li');
-                            li.innerHTML = `<a href="${article.url}" target="_blank">${article.title}</a>`;
-                            list.appendChild(li);
-                        });
-                        div.appendChild(list);
-                    } else {
-                        div.innerHTML += `<p>No ESG news available</p>`;
-                    }
-                    container.appendChild(div);
-                }
-            });
-    </script>
-</div>
-
