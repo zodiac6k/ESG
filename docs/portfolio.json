@@ -1,0 +1,48 @@
+{
+  "portfolio_weights": {
+    "ROBO": 32,
+    "ADSK": 8,
+    "ISRG": 8,
+    "ABB": 8,
+    "TER": 8,
+    "QCLN": 5,
+    "ENPH": 5,
+    "NEE": 5,
+    "Other ESG Automation": 21
+  },
+  "metrics": {
+    "total_return_3y": "32.25%",
+    "cagr": "9.77%",
+    "max_drawdown": "-6.80%",
+    "sharpe_ratio": "0.88"
+  },
+  "holdings": [
+    {
+      "ticker": "ROK",
+      "name": "Rockwell Automation, Inc.",
+      "weight": "5.56%",
+      "quantity": "27.35",
+      "initial_price": "203.14",
+      "last_price": "332.17",
+      "news": "No news available"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": "7.78%",
+      "quantity": "38.50",
+      "initial_price": "202.00",
+      "last_price": "497.41",
+      "news": "No news available"
+    }
+  ],
+  "performance": {
+    "1M": { "Portfolio": "10.15%", "QQQ": "6.39%", "SPY": "5.14%", "ESGU": "5.16%" },
+    "3M": { "Portfolio": "36.12%", "QQQ": "17.77%", "SPY": "10.78%", "ESGU": "11.26%" },
+    "6M": { "Portfolio": "18.99%", "QQQ": "4.43%", "SPY": "3.36%", "ESGU": "2.90%" },
+    "YTD": { "Portfolio": "23.72%", "QQQ": "10.10%", "SPY": "5.61%", "ESGU": "4.95%" },
+    "1Y": { "Portfolio": "36.02%", "QQQ": "15.19%", "SPY": "14.49%", "ESGU": "14.32%" },
+    "Since Inception": { "Portfolio": "209.84%", "QQQ": "101.27%", "SPY": "96.09%", "ESGU": "88.00%" }
+  },
+  "last_updated": "2025-07-29T00:00:00Z"
+}
