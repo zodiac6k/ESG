@@ -2,7 +2,7 @@ name: Daily Refresh
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily at 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -36,3 +36,4 @@ jobs:
           git commit -m "Auto-update dashboard (daily)" || echo "No changes to commit"
           git pull --rebase origin main || true
           git push origin main --force-with-lease
+        

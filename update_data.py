@@ -5,8 +5,10 @@ import requests
 from datetime import datetime, UTC, timedelta
 import os
 
+# Load NewsAPI Key securely from environment
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 
+# Portfolio allocations
 portfolio_allocations = {
     "ROK": {"weight": 5.56, "quantity": 27.35, "initial_price": 203.14},
     "EMR": {"weight": 4.44, "quantity": 75.09, "initial_price": 59.19},
@@ -27,13 +29,14 @@ portfolio_allocations = {
 }
 
 def fetch_live_prices(tickers):
+    """Fetch current stock/ETF prices"""
     data = yf.download(tickers, period="1d")["Adj Close"].iloc[-1]
     return {ticker: float(data.get(ticker, 0)) for ticker in tickers}
 
 def fetch_newsapi_articles(ticker, max_articles=3):
-    """Fetch up to 3 ESG-related articles (title + link)"""
+    """Fetch up to 3 ESG news headlines with URLs"""
     if not NEWS_API_KEY:
-        return []
+        return []  # Fallback: no API key
     url = "https://newsapi.org/v2/everything"
     query = f'{ticker} AND (ESG OR sustainability OR environmental OR governance OR "social responsibility")'
     params = {
@@ -56,14 +59,16 @@ def fetch_newsapi_articles(ticker, max_articles=3):
         return []
 
 def calculate_metrics(portfolio_daily):
+    """Calculate portfolio metrics"""
     cum_return = (1 + portfolio_daily).cumprod()
     total_return = float(cum_return[-1] - 1)
     cagr = float(cum_return[-1] ** (1 / 3) - 1)
     max_drawdown = float((cum_return / np.maximum.accumulate(cum_return) - 1).min())
     return total_return, cagr, max_drawdown
 
-# Generate portfolio data
+# Create docs folder
 os.makedirs("docs", exist_ok=True)
+
 tickers = list(portfolio_allocations.keys())
 live_prices = fetch_live_prices(tickers)
 
@@ -84,9 +89,9 @@ for ticker, info in portfolio_allocations.items():
         "news": articles[0]["title"] if articles else "No news available"
     })
 
-    news_summary[ticker] = articles  # For summary section
+    news_summary[ticker] = articles
 
-# Metrics
+# Simulate metrics
 np.random.seed(42)
 portfolio_daily = np.random.normal(0.0005, 0.01, 252 * 3)
 total_return, cagr, max_drawdown = calculate_metrics(portfolio_daily)
@@ -109,7 +114,7 @@ data = {
         "sharpe_ratio": "0.88"
     },
     "holdings": holdings,
-    "news_summary": news_summary,   # NEW summary section
+    "news_summary": news_summary,
     "performance": performance,
     "last_updated": datetime.now(UTC).isoformat()
 }
@@ -117,4 +122,4 @@ data = {
 with open("docs/portfolio.json", "w") as f:
     json.dump(data, f, indent=2)
 
-print("Portfolio data updated with clickable ESG news summaries.")
+print("Portfolio updated with live prices and ESG news (if available).")
