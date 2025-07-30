@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # Get News API Key from environment
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 
-# Portfolio allocations
+# ESG Portfolio (same as before)
 portfolio_allocations = {
     "ROK": {"weight": 5.56, "quantity": 27.35, "initial_price": 203.14},
     "EMR": {"weight": 4.44, "quantity": 75.09, "initial_price": 59.19},
@@ -83,7 +83,6 @@ def calculate_metrics(portfolio_daily):
     cagr = float(cum_return[-1] ** (1 / 3) - 1)
     max_drawdown = float((cum_return / np.maximum.accumulate(cum_return) - 1).min())
     return total_return, cagr, max_drawdown
-
 
 # Create output directories
 os.makedirs("docs/charts", exist_ok=True)
