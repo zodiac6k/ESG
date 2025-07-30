@@ -1,9 +1,8 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ESG Automation Portfolio Dashboard</title>
+    <title>ESG Automation Portfolio</title>
     <style>
         body { font-family: Arial, sans-serif; padding: 20px; background-color: #f8f9fa; }
         h1 { color: #2c3e50; }
@@ -12,69 +11,286 @@
         th { background-color: #2c3e50; color: white; }
         tr:nth-child(even) { background-color: #f2f2f2; }
         tr:hover { background-color: #ddd; }
-        .summary { margin-top: 15px; color: #555; }
-        a { text-decoration: none; color: #007bff; }
-        a:hover { text-decoration: underline; }
+        img { max-width: 100%; display: block; margin: auto; }
     </style>
 </head>
 <body>
     <h1>ESG Automation Portfolio Dashboard</h1>
 
-    <div id="portfolio-metrics" class="summary"></div>
-    <table id="portfolio-table">
+    
+<div style="padding:10px;background:#f1f3f5;border-radius:10px;margin-bottom:20px;">
+<h2>Current Portfolio Value: $312,522.25 <span style="color:#28a745;">↑ 1.17%</span></h2>
+<p>QQQ daily: 0.65% | SPY daily: 0.48% | ESGU daily: 0.72%</p>
+</div>
+
+
+    <h2>Portfolio Allocation & News</h2>
+    <table>
         <tr>
-            <th>Ticker</th>
-            <th>Name</th>
-            <th>Weight</th>
-            <th>Quantity</th>
-            <th>Initial Price</th>
-            <th>Last Price</th>
-            <th>News</th>
+            <th>Ticker</th><th>Name</th><th>Weight</th><th>Quantity</th>
+            <th>Initial Price</th><th>Last Price</th><th>News</th>
         </tr>
+        
+    <tr>
+        <td>ROK</td>
+        <td>Rockwell Automation, Inc.</td>
+        <td>5.56%</td>
+        <td>27.35</td>
+        <td>203.14</td>
+        <td style="color:#28a745; font-weight:bold;">332.17</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>EMR</td>
+        <td>Emerson Electric Co.</td>
+        <td>4.44%</td>
+        <td>75.09</td>
+        <td>59.19</td>
+        <td style="color:#28a745; font-weight:bold;">133.33</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>HON</td>
+        <td>Honeywell International Inc.</td>
+        <td>4.44%</td>
+        <td>29.71</td>
+        <td>149.62</td>
+        <td style="color:#28a745; font-weight:bold;">232.88</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>MSFT</td>
+        <td>Microsoft Corporation</td>
+        <td>7.78%</td>
+        <td>38.50</td>
+        <td>202.00</td>
+        <td style="color:#28a745; font-weight:bold;">497.41</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>NVDA</td>
+        <td>NVIDIA Corporation</td>
+        <td>7.78%</td>
+        <td>576.56</td>
+        <td>13.49</td>
+        <td style="color:#28a745; font-weight:bold;">157.99</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>PLTR</td>
+        <td>Palantir Technologies Inc.</td>
+        <td>4.44%</td>
+        <td>467.84</td>
+        <td>9.50</td>
+        <td style="color:#28a745; font-weight:bold;">136.32</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>CRWD</td>
+        <td>CrowdStrike Holdings, Inc.</td>
+        <td>4.44%</td>
+        <td>32.37</td>
+        <td>137.32</td>
+        <td style="color:#28a745; font-weight:bold;">509.31</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>CGNX</td>
+        <td>Cognex Corporation</td>
+        <td>3.33%</td>
+        <td>54.05</td>
+        <td>61.67</td>
+        <td style="color:#28a745; font-weight:bold;">31.72</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>AMAT</td>
+        <td>Applied Materials, Inc.</td>
+        <td>4.44%</td>
+        <td>77.92</td>
+        <td>57.04</td>
+        <td style="color:#dc3545; font-weight:bold;">183.07</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>SNOW</td>
+        <td>Snowflake Inc.</td>
+        <td>3.33%</td>
+        <td>13.28</td>
+        <td>251.00</td>
+        <td style="color:#28a745; font-weight:bold;">223.77</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>SSYS</td>
+        <td>Stratasys Ltd.</td>
+        <td>3.33%</td>
+        <td>267.31</td>
+        <td>12.47</td>
+        <td style="color:#28a745; font-weight:bold;">11.47</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>DDD</td>
+        <td>3D Systems Corporation</td>
+        <td>2.22%</td>
+        <td>452.59</td>
+        <td>4.91</td>
+        <td style="color:#28a745; font-weight:bold;">1.54</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>ROBO</td>
+        <td>Robo Global Robotics and Automation Index ETF</td>
+        <td>16.67%</td>
+        <td>349.31</td>
+        <td>47.71</td>
+        <td style="color:#28a745; font-weight:bold;">59.78</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>SOXX</td>
+        <td>iShares Semiconductor ETF</td>
+        <td>11.11%</td>
+        <td>113.92</td>
+        <td>97.53</td>
+        <td style="color:#dc3545; font-weight:bold;">238.70</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>ESGU</td>
+        <td>iShares ESG Aware MSCI USA ETF</td>
+        <td>11.11%</td>
+        <td>155.38</td>
+        <td>71.51</td>
+        <td style="color:#28a745; font-weight:bold;">135.30</td>
+        <td>No news available</td>
+    </tr>
+    
+    <tr>
+        <td>ICLN</td>
+        <td>iShares Global Clean Energy ETF</td>
+        <td>5.56%</td>
+        <td>320.03</td>
+        <td>17.36</td>
+        <td style="color:#28a745; font-weight:bold;">13.11</td>
+        <td>No news available</td>
+    </tr>
+    
     </table>
 
-    <div class="summary" id="last-updated"></div>
+    <h2>Portfolio vs Benchmarks (Metrics)</h2>
+    <table border="1" class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Portfolio</th>
+      <th>QQQ</th>
+      <th>SPY</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>CAGR</th>
+      <td>27.27%</td>
+      <td>22.45%</td>
+      <td>16.78%</td>
+    </tr>
+    <tr>
+      <th>Volatility</th>
+      <td>31.05%</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Sharpe Ratio</th>
+      <td>0.88</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Max Drawdown</th>
+      <td>-47.07%</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-    <script>
-        fetch('portfolio.json')
-            .then(response => response.json())
-            .then(data => {
-                // Portfolio Metrics
-                const metrics = data.metrics;
-                document.getElementById('portfolio-metrics').innerHTML = `
-                    <b>CAGR:</b> ${metrics.cagr} | 
-                    <b>Total Return (3Y):</b> ${metrics.total_return_3y} | 
-                    <b>Max Drawdown:</b> ${metrics.max_drawdown} | 
-                    <b>Sharpe Ratio:</b> ${metrics.sharpe_ratio}
-                `;
+    <h2>Multi-Timeframe Performance (%)</h2>
+    <table border="1" class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Portfolio</th>
+      <th>QQQ</th>
+      <th>SPY</th>
+      <th>ESGU</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1M</th>
+      <td>10.15%</td>
+      <td>6.39%</td>
+      <td>5.14%</td>
+      <td>5.16%</td>
+    </tr>
+    <tr>
+      <th>3M</th>
+      <td>36.12%</td>
+      <td>17.77%</td>
+      <td>10.78%</td>
+      <td>11.26%</td>
+    </tr>
+    <tr>
+      <th>6M</th>
+      <td>18.99%</td>
+      <td>4.43%</td>
+      <td>3.36%</td>
+      <td>2.90%</td>
+    </tr>
+    <tr>
+      <th>YTD</th>
+      <td>23.72%</td>
+      <td>10.10%</td>
+      <td>5.61%</td>
+      <td>4.95%</td>
+    </tr>
+    <tr>
+      <th>1Y</th>
+      <td>36.02%</td>
+      <td>15.19%</td>
+      <td>14.49%</td>
+      <td>14.32%</td>
+    </tr>
+    <tr>
+      <th>Since Inception</th>
+      <td>209.84%</td>
+      <td>101.27%</td>
+      <td>96.09%</td>
+      <td>88.00%</td>
+    </tr>
+  </tbody>
+</table>
 
-                // Populate Table
-                const table = document.getElementById('portfolio-table');
-                let rows = '';
-                data.holdings.forEach(stock => {
-                    rows += `
-                    <tr>
-                        <td>${stock.ticker}</td>
-                        <td>${stock.name}</td>
-                        <td>${stock.weight}</td>
-                        <td>${stock.quantity}</td>
-                        <td>${stock.initial_price}</td>
-                        <td>${stock.last_price}</td>
-                        <td>${stock.news}</td>
-                    </tr>`;
-                });
-                table.innerHTML = `
-                    <tr>
-                        <th>Ticker</th><th>Name</th><th>Weight</th><th>Quantity</th>
-                        <th>Initial Price</th><th>Last Price</th><th>News</th>
-                    </tr>
-                    ${rows}
-                `;
-
-                // Last Updated
-                document.getElementById('last-updated').innerHTML = 
-                    `<i>Last Updated: ${new Date(data.last_updated).toLocaleString()}</i>`;
-            });
-    </script>
+    <h2>Charts</h2>
+    <img src="charts/dashboard_charts.png" alt="Dashboard Charts">
+    <h3>Portfolio vs Benchmarks ($ Growth)</h3>
+    <img src="charts/portfolio_vs_benchmarks.png" alt="Portfolio vs Benchmarks">
 </body>
 </html>
