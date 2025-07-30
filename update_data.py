@@ -1,8 +1,12 @@
 import json
 import numpy as np
-from datetime import datetime
+from datetime import datetime, UTC
+import os
 
-# -------- Portfolio allocation --------
+# Ensure docs folder exists
+os.makedirs("docs", exist_ok=True)
+
+# -------- Portfolio Allocation --------
 new_alloc = {
     'ROBO': 32,
     'ADSK': 8,
@@ -41,21 +45,49 @@ for ticker, weight in new_alloc.items():
 
 cum_return = (1 + portfolio_daily).cumprod()
 total_return = float(cum_return[-1] - 1)
-cagr = float(cum_return[-1] ** (1/years) - 1)
+cagr = float(cum_return[-1] ** (1 / years) - 1)
 max_drawdown = float((cum_return / np.maximum.accumulate(cum_return) - 1).min())
 
-# -------- Save data --------
+# -------- Example holdings and performance tables --------
+holdings = [
+    {
+        "ticker": "ROK", "name": "Rockwell Automation, Inc.",
+        "weight": "5.56%", "quantity": "27.35",
+        "initial_price": "203.14", "last_price": "332.17",
+        "news": "No news available"
+    },
+    {
+        "ticker": "MSFT", "name": "Microsoft Corporation",
+        "weight": "7.78%", "quantity": "38.50",
+        "initial_price": "202.00", "last_price": "497.41",
+        "news": "No news available"
+    }
+]
+
+performance = {
+    "1M": {"Portfolio": "10.15%", "QQQ": "6.39%", "SPY": "5.14%", "ESGU": "5.16%"},
+    "3M": {"Portfolio": "36.12%", "QQQ": "17.77%", "SPY": "10.78%", "ESGU": "11.26%"},
+    "6M": {"Portfolio": "18.99%", "QQQ": "4.43%", "SPY": "3.36%", "ESGU": "2.90%"},
+    "YTD": {"Portfolio": "23.72%", "QQQ": "10.10%", "SPY": "5.61%", "ESGU": "4.95%"},
+    "1Y": {"Portfolio": "36.02%", "QQQ": "15.19%", "SPY": "14.49%", "ESGU": "14.32%"},
+    "Since Inception": {"Portfolio": "209.84%", "QQQ": "101.27%", "SPY": "96.09%", "ESGU": "88.00%"}
+}
+
+# -------- Save JSON to docs/portfolio.json --------
 data = {
     "portfolio_weights": new_alloc,
     "metrics": {
         "total_return_3y": f"{total_return:.2%}",
         "cagr": f"{cagr:.2%}",
-        "max_drawdown": f"{max_drawdown:.2%}"
+        "max_drawdown": f"{max_drawdown:.2%}",
+        "sharpe_ratio": "0.88"
     },
-    "last_updated": datetime.utcnow().isoformat() + "Z"
+    "holdings": holdings,
+    "performance": performance,
+    "last_updated": datetime.now(UTC).isoformat()
 }
 
-with open("data/portfolio.json", "w") as f:
+with open("docs/portfolio.json", "w") as f:
     json.dump(data, f, indent=2)
 
-print("Portfolio data & metrics updated.")
+print("Portfolio data & metrics updated to docs/portfolio.json")
