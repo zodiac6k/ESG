@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "48.67%",
-      "CAGR": "14.13%",
+      "Total Return": "48.82%",
+      "CAGR": "14.17%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
     },
     "QQQ": {
-      "Total Return": "44.67%",
-      "CAGR": "13.10%",
+      "Total Return": "43.90%",
+      "CAGR": "12.90%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "39.61%",
-      "CAGR": "11.76%",
+      "Total Return": "39.08%",
+      "CAGR": "11.62%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 351.19,
+      "last_price": 351.71,
       "news": "<a href=\"https://www.cleanthesky.com/innovation/rok-coffee\" target=\"_blank\">Sustainable At-Home Brewing Systems - ROK Coffee Delivers Espresso with No Pods or Electricity (TrendHunter.com)</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 146.06,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/07/28/3122637/0/en/Healthcare-Cloud-Computing-Market-Size-Worth-USD-277-26-Billion-by-2034-AI-Telehealth-and-Secure-Data-Storage-Drive-Adoption-Across-Hospitals-and-Payers.html\" target=\"_blank\">Healthcare Cloud Computing Market Size Worth USD 277.26 Billion by 2034 AI, Telehealth, and Secure Data Storage Drive Adoption Across Hospitals and Payers</a>"
+      "last_price": 145.51,
+      "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013297\" target=\"_blank\">Diarrhea in Yemeni children under five: A multi-level analysis of population-based surveys, 1991\u20132022</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 222.16,
-      "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2025/07/mil-250728-ukfcdo01.htm\" target=\"_blank\">The humanitarian pause in fighting in Gaza is essential, but long overdue. The United Nations must be allowed to save lives, reduce suffering and preserve dignity: UK statement at the UN Two-State Solution conference.</a>"
+      "last_price": 222.35,
+      "news": "<a href=\"https://thechronicle.com.gh/minority-respond-to-mid-year-budget-full-report/\" target=\"_blank\">Minority Respond To Mid-Year Budget \u2013 Full Report</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 513.24,
-      "news": "<a href=\"https://www.forbes.com/sites/robertdaugherty/2025/07/29/the-monthly-dividend-calendar-how-the-ultra-wealthy-build-cash-machines/\" target=\"_blank\">The Monthly Dividend Calendar: How The Ultra Wealthy Build Cash Machines</a>"
+      "last_price": 533.5,
+      "news": "<a href=\"https://www.finextra.com/blogposting/29019/microsoft-q4-2025-earnings-conference-call-a-comprehensive-analysis\" target=\"_blank\">Microsoft Q4 2025 Earnings Conference Call: A Comprehensive Analysis (Serhii Bondarenko)</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 179.27,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/07/27/top-metaverse-stocks-to-follow-now-july-25th/\" target=\"_blank\">Top Metaverse Stocks To Follow Now \u2013 July 25th</a>"
+      "last_price": 177.87,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/07/30/metaverse-stocks-to-watch-today-july-28th/\" target=\"_blank\">Metaverse Stocks To Watch Today \u2013 July 28th</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 158.61,
-      "news": "<a href=\"https://www.fool.com.au/2025/07/16/own-asx-a200-ndq-or-armr-etfs-its-dividend-payday-for-you/\" target=\"_blank\">Own ASX A200, NDQ, or ARMR ETFs? It's dividend payday for you!</a>"
+      "last_price": 158.35,
+      "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013152\" target=\"_blank\">Outcomes of posterior lamellar tarsal rotation vs bilamellar tarsal rotation for trachomatous trichiasis</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 463.15,
+      "last_price": 454.57,
       "news": "<a href=\"https://finance.yahoo.com/news/crwd-vs-cybr-cybersecurity-stock-150100221.html\" target=\"_blank\">CRWD vs. CYBR: Which Cybersecurity Stock is the Better Buy Now?</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 33.76,
+      "last_price": 40.77,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 189.39,
+      "last_price": 180.06,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327039\" target=\"_blank\">Molecular identification and genetic variations of forensically significant blow flies (Diptera: Calliphoridae) from Eastern India using DNA barcoding</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 220.28,
-      "news": "No news available"
+      "last_price": 223.5,
+      "news": "<a href=\"https://theconversation.com/rules-for-calculating-climate-risk-in-financial-reporting-by-nz-businesses-need-revisiting-new-research-262024\" target=\"_blank\">Rules for calculating climate risk in financial reporting by NZ businesses need revisiting \u2013 new research</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.86,
+      "last_price": 10.83,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.67,
+      "last_price": 1.63,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011793\" target=\"_blank\">Genetic inference of on-target and off-target side-effects of antipsychotic medications</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 62.58,
+      "last_price": 62.33,
       "news": "<a href=\"https://www.pcgamer.com/games/survival-crafting/grounded-2-orc-transmitter-locations-signals-and-stashes/\" target=\"_blank\">How to reach the O.R.C. transmitters for the Signals and Stashes mission in Grounded 2</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 247.95,
+      "last_price": 240.03,
       "news": "<a href=\"https://siliconangle.com/2025/07/24/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 138.68,
+      "last_price": 138.24,
       "news": "<a href=\"https://www.etfdailynews.com/2025/07/25/pfg-advisors-has-594000-stock-position-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">PFG Advisors Has $594,000 Stock Position in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
     },
     {
@@ -177,10 +177,10 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 13.55,
+      "last_price": 13.41,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-07-31T01:47:55.926390+00:00",
+  "last_updated": "2025-08-01T01:58:01.948092+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
