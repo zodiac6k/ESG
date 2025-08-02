@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "48.82%",
-      "CAGR": "14.17%",
+      "Total Return": "46.35%",
+      "CAGR": "13.54%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
     },
     "QQQ": {
-      "Total Return": "43.90%",
-      "CAGR": "12.90%",
+      "Total Return": "41.07%",
+      "CAGR": "12.15%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "39.08%",
-      "CAGR": "11.62%",
+      "Total Return": "36.80%",
+      "CAGR": "11.01%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 351.71,
-      "news": "<a href=\"https://www.cleanthesky.com/innovation/rok-coffee\" target=\"_blank\">Sustainable At-Home Brewing Systems - ROK Coffee Delivers Espresso with No Pods or Electricity (TrendHunter.com)</a>"
+      "last_price": 344.5,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/promising-waste-management-stocks-to-watch-now-july-29th/\" target=\"_blank\">Promising Waste Management Stocks To Watch Now \u2013 July 29th</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 145.51,
+      "last_price": 141.78,
       "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013297\" target=\"_blank\">Diarrhea in Yemeni children under five: A multi-level analysis of population-based surveys, 1991\u20132022</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 222.35,
-      "news": "<a href=\"https://thechronicle.com.gh/minority-respond-to-mid-year-budget-full-report/\" target=\"_blank\">Minority Respond To Mid-Year Budget \u2013 Full Report</a>"
+      "last_price": 217.71,
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 533.5,
+      "last_price": 524.11,
       "news": "<a href=\"https://www.finextra.com/blogposting/29019/microsoft-q4-2025-earnings-conference-call-a-comprehensive-analysis\" target=\"_blank\">Microsoft Q4 2025 Earnings Conference Call: A Comprehensive Analysis (Serhii Bondarenko)</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 177.87,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/07/30/metaverse-stocks-to-watch-today-july-28th/\" target=\"_blank\">Metaverse Stocks To Watch Today \u2013 July 28th</a>"
+      "last_price": 173.72,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/metaverse-stocks-to-follow-today-july-29th/\" target=\"_blank\">Metaverse Stocks To Follow Today \u2013 July 29th</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 158.35,
-      "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013152\" target=\"_blank\">Outcomes of posterior lamellar tarsal rotation vs bilamellar tarsal rotation for trachomatous trichiasis</a>"
+      "last_price": 154.27,
+      "news": "<a href=\"https://www.thestreet.com/technology/veteran-analyst-drops-bold-price-target-on-palantir-stock\" target=\"_blank\">Veteran analyst drops bold price target on Palantir stock ahead of earnings</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 454.57,
+      "last_price": 446.66,
       "news": "<a href=\"https://finance.yahoo.com/news/crwd-vs-cybr-cybersecurity-stock-150100221.html\" target=\"_blank\">CRWD vs. CYBR: Which Cybersecurity Stock is the Better Buy Now?</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 40.77,
+      "last_price": 40.47,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 180.06,
+      "last_price": 179.99,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327039\" target=\"_blank\">Molecular identification and genetic variations of forensically significant blow flies (Diptera: Calliphoridae) from Eastern India using DNA barcoding</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 223.5,
-      "news": "<a href=\"https://theconversation.com/rules-for-calculating-climate-risk-in-financial-reporting-by-nz-businesses-need-revisiting-new-research-262024\" target=\"_blank\">Rules for calculating climate risk in financial reporting by NZ businesses need revisiting \u2013 new research</a>"
+      "last_price": 205.02,
+      "news": "<a href=\"https://chilledmagazine.com/industry-news-snow-monkey-born-free-usa-primate-conservation/\" target=\"_blank\">Snow Monkey Teams Up with Born Free USA to Support Primate Conservation</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.83,
+      "last_price": 10.59,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.63,
+      "last_price": 1.6,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011793\" target=\"_blank\">Genetic inference of on-target and off-target side-effects of antipsychotic medications</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 62.33,
-      "news": "<a href=\"https://www.pcgamer.com/games/survival-crafting/grounded-2-orc-transmitter-locations-signals-and-stashes/\" target=\"_blank\">How to reach the O.R.C. transmitters for the Signals and Stashes mission in Grounded 2</a>"
+      "last_price": 61.8,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/07/31/3124799/28124/en/Robo-Taxis-Market-Outlook-Report-2025-2034-Leading-Companies-Such-as-Waymo-Baidu-and-Cruise-Expand-Services-and-Pilot-Programs-Amid-Growing-Consumer-Demand.html\" target=\"_blank\">Robo Taxis Market Outlook Report 2025-2034 | Leading Companies Such as Waymo, Baidu, and Cruise Expand Services and Pilot Programs Amid Growing Consumer Demand</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 240.03,
+      "last_price": 237.24,
       "news": "<a href=\"https://siliconangle.com/2025/07/24/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,8 +168,8 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 138.24,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/07/25/pfg-advisors-has-594000-stock-position-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">PFG Advisors Has $594,000 Stock Position in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
+      "last_price": 135.88,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/eastern-bank-has-794000-stock-holdings-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">Eastern Bank Has $794,000 Stock Holdings in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
     },
     {
       "ticker": "ICLN",
@@ -177,10 +177,10 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 13.41,
+      "last_price": 13.53,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-01T01:58:01.948092+00:00",
+  "last_updated": "2025-08-02T01:43:07.083268+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
