@@ -19,7 +19,7 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "46.35%",
+      "Total Return": "46.36%",
       "CAGR": "13.54%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 524.11,
-      "news": "<a href=\"https://www.finextra.com/blogposting/29019/microsoft-q4-2025-earnings-conference-call-a-comprehensive-analysis\" target=\"_blank\">Microsoft Q4 2025 Earnings Conference Call: A Comprehensive Analysis (Serhii Bondarenko)</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/microsoft-corporation-msft-restructures-workforce-151636903.html\" target=\"_blank\">Microsoft Corporation (MSFT) Restructures Workforce to Power $80B AI Investment</a>"
     },
     {
       "ticker": "NVDA",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 205.02,
-      "news": "<a href=\"https://chilledmagazine.com/industry-news-snow-monkey-born-free-usa-primate-conservation/\" target=\"_blank\">Snow Monkey Teams Up with Born Free USA to Support Primate Conservation</a>"
+      "news": "<a href=\"https://www.nationalobserver.com/2025/08/01/news/glencore-accused-discharging-copper-concentrate-dust-horne-smelter-quebec\" target=\"_blank\">Glencore accused of discharging copper concentrate dust at Horne smelter in Quebec</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,6 +181,6 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-02T01:43:07.083268+00:00",
+  "last_updated": "2025-08-03T01:56:14.921882+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
