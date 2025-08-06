@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "49.13%",
-      "CAGR": "14.25%",
+      "Total Return": "48.90%",
+      "CAGR": "14.19%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
     },
     "QQQ": {
-      "Total Return": "43.67%",
-      "CAGR": "12.84%",
+      "Total Return": "42.69%",
+      "CAGR": "12.58%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "38.88%",
-      "CAGR": "11.57%",
+      "Total Return": "38.18%",
+      "CAGR": "11.38%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 350.16,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/02/promising-waste-management-stocks-to-follow-today-july-31st/\" target=\"_blank\">Promising Waste Management Stocks To Follow Today \u2013 July 31st</a>"
+      "last_price": 346.0,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/04/top-waste-management-stocks-to-research-august-2nd/\" target=\"_blank\">Top Waste Management Stocks To Research \u2013 August 2nd</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 142.62,
+      "last_price": 140.57,
       "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013297\" target=\"_blank\">Diarrhea in Yemeni children under five: A multi-level analysis of population-based surveys, 1991\u20132022</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 220.79,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/economy/indicators/hardeep-singh-puri-fadnavis-counter-rahul-gandhis-dead-economy-claim-with-imf-data/articleshow/123078160.cms\" target=\"_blank\">Hardeep Singh Puri & Fadnavis counter Rahul Gandhi\u2019s \u2018dead economy\u2019 claim with IMF data</a>"
+      "last_price": 221.06,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/04/3126414/0/en/TMC-and-Tonga-Announce-Updated-Sponsorship-Agreement-for-Tonga-Offshore-Mining-Ltd-TOML.html\" target=\"_blank\">TMC and Tonga Announce Updated Sponsorship Agreement for Tonga Offshore Mining Ltd (TOML)</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 535.64,
-      "news": "<a href=\"https://finance.yahoo.com/news/microsoft-corporation-msft-restructures-workforce-151636903.html\" target=\"_blank\">Microsoft Corporation (MSFT) Restructures Workforce to Power $80B AI Investment</a>"
+      "last_price": 527.75,
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-rally-explodes-dow-soars-500-points-sp-500-nasdaq-roar-back-as-microsoft-nvidia-apple-palantir-surgeweak-jobs-report-fuels-fed-cut-buzz-trump-fires-bls-chief-in-shock-move/articleshow/123103923.cms\" target=\"_blank\">US stock market rally explodes: Dow soars 500 points, S&P 500 & Nasdaq roar back as Microsoft, Nvidia, Apple, Palantir surge\u2014weak jobs report fuels Fed cut buzz, Trump fires BLS chief in shock move</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 180.0,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/03/promising-metaverse-stocks-to-follow-today-july-31st/\" target=\"_blank\">Promising Metaverse Stocks To Follow Today \u2013 July 31st</a>"
+      "last_price": 178.26,
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-rally-explodes-dow-soars-500-points-sp-500-nasdaq-roar-back-as-microsoft-nvidia-apple-palantir-surgeweak-jobs-report-fuels-fed-cut-buzz-trump-fires-bls-chief-in-shock-move/articleshow/123103923.cms\" target=\"_blank\">US stock market rally explodes: Dow soars 500 points, S&P 500 & Nasdaq roar back as Microsoft, Nvidia, Apple, Palantir surge\u2014weak jobs report fuels Fed cut buzz, Trump fires BLS chief in shock move</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 160.66,
-      "news": "<a href=\"https://www.barchart.com/story/news/33848112/tariffs-earnings-and-other-can-t-miss-items-this-week\" target=\"_blank\">Tariffs, Earnings and Other Can't Miss Items this Week</a>"
+      "last_price": 173.27,
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-rally-explodes-dow-soars-500-points-sp-500-nasdaq-roar-back-as-microsoft-nvidia-apple-palantir-surgeweak-jobs-report-fuels-fed-cut-buzz-trump-fires-bls-chief-in-shock-move/articleshow/123103923.cms\" target=\"_blank\">US stock market rally explodes: Dow soars 500 points, S&P 500 & Nasdaq roar back as Microsoft, Nvidia, Apple, Palantir surge\u2014weak jobs report fuels Fed cut buzz, Trump fires BLS chief in shock move</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 454.86,
+      "last_price": 441.75,
       "news": "<a href=\"https://finance.yahoo.com/news/crwd-vs-cybr-cybersecurity-stock-150100221.html\" target=\"_blank\">CRWD vs. CYBR: Which Cybersecurity Stock is the Better Buy Now?</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 41.43,
+      "last_price": 41.86,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 182.82,
+      "last_price": 179.15,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327039\" target=\"_blank\">Molecular identification and genetic variations of forensically significant blow flies (Diptera: Calliphoridae) from Eastern India using DNA barcoding</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 208.48,
-      "news": "<a href=\"https://rollingout.com/2025/08/03/wkrp-star-loni-anderson-dies-at-79-after-long-illness/\" target=\"_blank\">WKRP star Loni Anderson dies at 79 after long illness</a>"
+      "last_price": 205.77,
+      "news": "<a href=\"https://phys.org/news/2025-08-mountain-accident-deep-pre-climb.html\" target=\"_blank\">Predicting mountain accident risks with deep learning and pre-climb data</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.72,
+      "last_price": 10.89,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.65,
+      "last_price": 1.74,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011793\" target=\"_blank\">Genetic inference of on-target and off-target side-effects of antipsychotic medications</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 63.04,
+      "last_price": 63.0,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/07/31/3124799/28124/en/Robo-Taxis-Market-Outlook-Report-2025-2034-Leading-Companies-Such-as-Waymo-Baidu-and-Cruise-Expand-Services-and-Pilot-Programs-Amid-Growing-Consumer-Demand.html\" target=\"_blank\">Robo Taxis Market Outlook Report 2025-2034 | Leading Companies Such as Waymo, Baidu, and Cruise Expand Services and Pilot Programs Amid Growing Consumer Demand</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 240.4,
+      "last_price": 238.73,
       "news": "<a href=\"https://siliconangle.com/2025/08/02/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 138.08,
+      "last_price": 137.33,
       "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/eastern-bank-has-794000-stock-holdings-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">Eastern Bank Has $794,000 Stock Holdings in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
     },
     {
@@ -177,10 +177,10 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 13.57,
+      "last_price": 13.59,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-05T01:50:52.157904+00:00",
+  "last_updated": "2025-08-06T01:49:32.694790+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
