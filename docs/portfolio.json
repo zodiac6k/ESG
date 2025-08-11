@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 182.7,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/08/best-infrastructure-stocks-to-follow-now-august-6th/\" target=\"_blank\">Best Infrastructure Stocks To Follow Now \u2013 August 6th</a>"
+      "news": "<a href=\"https://cointelegraph.com/news/three-catalysts-that-will-help-bitcoin-break-122k-in\" target=\"_blank\">These three catalysts will help Bitcoin break $122K</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 191.73,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/india/kheer-ganga-disaster-why-nature-struck-back/articleshow/123194540.cms\" target=\"_blank\">Kheer Ganga disaster: Why nature struck back</a>"
+      "news": "<a href=\"https://www.irishtimes.com/environment/2025/08/09/revealed-irelands-greenest-places-2025-long-list/\" target=\"_blank\">Revealed: Ireland\u2019s Greenest Places 2025 long list</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,6 +181,6 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-10T01:52:35.953852+00:00",
+  "last_updated": "2025-08-11T01:49:19.963102+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
