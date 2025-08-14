@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "52.02%",
-      "CAGR": "14.98%",
+      "Total Return": "52.31%",
+      "CAGR": "15.05%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
     },
     "QQQ": {
-      "Total Return": "47.73%",
-      "CAGR": "13.89%",
+      "Total Return": "47.81%",
+      "CAGR": "13.91%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "41.42%",
-      "CAGR": "12.24%",
+      "Total Return": "41.90%",
+      "CAGR": "12.37%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 339.75,
+      "last_price": 349.01,
       "news": "<a href=\"https://www.etfdailynews.com/2025/08/10/waste-management-stocks-to-follow-now-august-8th/\" target=\"_blank\">Waste Management Stocks To Follow Now \u2013 August 8th</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 132.95,
-      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329369\" target=\"_blank\">Improving pediatric care in Uganda with a digital platform and quality improvement initiative: A retrospective review of Smart Triage + QI</a>"
+      "last_price": 135.0,
+      "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/how-indegenes-ai-powered-social-intelligence-for-life-sciences-turns-social-media-conversations-into-insights/\" target=\"_blank\">How Indegene\u2019s AI-powered social intelligence for life sciences turns social media conversations into insights</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 217.01,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/new-updates/we-get-late-to-school-a-5-year-olds-letter-to-pm-modi-reflects-it-capitals-worsening-traffic-nightmare/articleshow/123239295.cms\" target=\"_blank\">\u2018We get late to school\u2019: A 5-year-old\u2019s letter to PM Modi reflects IT capital's worsening traffic nightmare</a>"
+      "last_price": 219.74,
+      "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2025/08/mil-250811-australia-pm01.htm\" target=\"_blank\">Australia to recognise Palestinian State</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 529.24,
+      "last_price": 520.58,
       "news": "<a href=\"https://finance.yahoo.com/news/aris-water-aris-q2-earnings-030458972.html\" target=\"_blank\">Aris Water (ARIS) Q2 Earnings Report Preview: What To Look For</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 183.16,
-      "news": "<a href=\"https://cointelegraph.com/news/three-catalysts-that-will-help-bitcoin-break-122k-in\" target=\"_blank\">These three catalysts will help Bitcoin break $122K</a>"
+      "last_price": 181.59,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/12/esg-planning-dba-harper-investing-sells-7014-shares-of-nvidia-corporation-nasdaqnvda/\" target=\"_blank\">ESG Planning DBA Harper Investing Sells 7,014 Shares of NVIDIA Corporation (NASDAQ:NVDA)</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 186.97,
+      "last_price": 184.37,
       "news": "<a href=\"https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548\" target=\"_blank\">There are few assets hated like coal \u2014 why this dirty fuel may have a future</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 435.8,
+      "last_price": 432.12,
       "news": "<a href=\"https://finance.yahoo.com/news/crowdstrike-crwd-unveils-ai-agent-071113472.html\" target=\"_blank\">CrowdStrike (CRWD) Unveils AI Agent Monitoring via ChatGPT Enterprise API</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 42.2,
+      "last_price": 44.18,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 188.45,
+      "last_price": 190.03,
       "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 193.06,
-      "news": "<a href=\"https://petapixel.com/2025/08/11/are-photoshops-two-new-ai-features-useful-for-photographers/\" target=\"_blank\">Are Photoshop\u2019s Two New AI Features Useful for Photographers?</a>"
+      "last_price": 196.87,
+      "news": "<a href=\"https://mypeoplesreview.com/2025/08/13/the-xinjiang-tibet-railway/\" target=\"_blank\">The Xinjiang-Tibet Railway</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.37,
+      "last_price": 10.01,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.28,
+      "last_price": 2.33,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011793\" target=\"_blank\">Genetic inference of on-target and off-target side-effects of antipsychotic medications</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 63.94,
+      "last_price": 64.23,
       "news": "<a href=\"https://www.activistpost.com/waymo-faces-growing-opposition-from-left-wing-luddite-activists/\" target=\"_blank\">Waymo Faces Growing Opposition from Left-Wing Luddite Activists</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 250.16,
+      "last_price": 253.88,
       "news": "<a href=\"https://siliconangle.com/2025/08/08/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 140.44,
+      "last_price": 140.95,
       "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/eastern-bank-has-794000-stock-holdings-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">Eastern Bank Has $794,000 Stock Holdings in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
     },
     {
@@ -177,10 +177,10 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 13.77,
+      "last_price": 13.8,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-13T01:40:44.404971+00:00",
+  "last_updated": "2025-08-14T01:41:18.729158+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
