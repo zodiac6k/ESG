@@ -19,8 +19,8 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "49.16%",
-      "CAGR": "14.26%",
+      "Total Return": "49.22%",
+      "CAGR": "14.27%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
     },
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 216.77,
-      "news": "<a href=\"https://www.gov.uk/government/news/canadian-winners-of-chevening-scholarship-announced\" target=\"_blank\">Canadian winners of Chevening Scholarship announced</a>"
+      "news": "<a href=\"https://www.kqed.org/news/12052388/california-vs-texas-in-a-battle-for-democracy\" target=\"_blank\">California vs. Texas in a \u201cBattle for Democracy\u201d</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 180.45,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/14/metaverse-stocks-to-watch-today-august-12th/\" target=\"_blank\">Metaverse Stocks To Watch Today \u2013 August 12th</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/15/metaverse-stocks-to-add-to-your-watchlist-august-13th/\" target=\"_blank\">Metaverse Stocks To Add to Your Watchlist \u2013 August 13th</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 199.08,
-      "news": "<a href=\"https://theweek.com/world-news/kabul-ground-wells-water-drought\" target=\"_blank\">Kabul braces for a waterless future</a>"
+      "news": "<a href=\"https://www.cbc.ca/radio/asithappens/india-elbows-up-1.7610229\" target=\"_blank\">Trump's tariff threats inspire an 'Elbows Up' movement in India \u2014 minus the hockey</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 63.55,
-      "news": "<a href=\"https://www.activistpost.com/waymo-faces-growing-opposition-from-left-wing-luddite-activists/\" target=\"_blank\">Waymo Faces Growing Opposition from Left-Wing Luddite Activists</a>"
+      "news": "<a href=\"https://www.animenewsnetwork.com/this-week-in-games/2025-08-15/robos-saved-ninja-babes-and-sega-ai-plans/.227546\" target=\"_blank\">This Week in Games - Robos Saved, Ninja Babes, and Sega's AI Plans</a>"
     },
     {
       "ticker": "SOXX",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 248.32,
-      "news": "<a href=\"https://siliconangle.com/2025/08/08/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
+      "news": "<a href=\"https://siliconangle.com/2025/08/15/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
       "ticker": "ESGU",
@@ -181,6 +181,6 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-16T01:28:26.529847+00:00",
+  "last_updated": "2025-08-17T01:46:48.542236+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
