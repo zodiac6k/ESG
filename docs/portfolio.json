@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 342.28,
-      "news": "<a href=\"http://nymag.com/intelligencer/article/the-strange-espionage-case-of-sue-mi-terry.html\" target=\"_blank\">The Strange Espionage Case of Sue Mi Terry</a>"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/16/3134574/0/en/Best-Plumbing-Contractor-Business-Loans-ROK-Financial-Expands-No-Credit-Check-Financing-Access-for-Companies-Facing-Credit-Challenges.html\" target=\"_blank\">Best Plumbing Contractor Business Loans: ROK Financial Expands No Credit Check Financing Access for Companies Facing Credit Challenges</a>"
     },
     {
       "ticker": "EMR",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 63.55,
-      "news": "<a href=\"https://www.animenewsnetwork.com/this-week-in-games/2025-08-15/robos-saved-ninja-babes-and-sega-ai-plans/.227546\" target=\"_blank\">This Week in Games - Robos Saved, Ninja Babes, and Sega's AI Plans</a>"
+      "news": "No news available"
     },
     {
       "ticker": "SOXX",
@@ -181,6 +181,6 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-17T01:46:48.542236+00:00",
+  "last_updated": "2025-08-18T01:47:02.346738+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
