@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "49.22%",
-      "CAGR": "14.27%",
+      "Total Return": "49.62%",
+      "CAGR": "14.37%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
     },
     "QQQ": {
-      "Total Return": "47.04%",
-      "CAGR": "13.71%",
+      "Total Return": "46.98%",
+      "CAGR": "13.70%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "41.58%",
-      "CAGR": "12.29%",
+      "Total Return": "41.55%",
+      "CAGR": "12.28%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 342.28,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/16/3134574/0/en/Best-Plumbing-Contractor-Business-Loans-ROK-Financial-Expands-No-Credit-Check-Financing-Access-for-Companies-Facing-Credit-Challenges.html\" target=\"_blank\">Best Plumbing Contractor Business Loans: ROK Financial Expands No Credit Check Financing Access for Companies Facing Credit Challenges</a>"
+      "last_price": 342.82,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/17/renewable-energy-stocks-to-consider-august-15th/\" target=\"_blank\">Renewable Energy Stocks To Consider \u2013 August 15th</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 131.75,
+      "last_price": 131.83,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/13/3132678/0/en/Florida-Hospital-Selects-SCWorx-for-Data-Management-for-Workday-Implementation.html\" target=\"_blank\">Florida Hospital Selects SCWorx for Data Management for Workday Implementation</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 216.77,
+      "last_price": 216.4,
       "news": "<a href=\"https://www.kqed.org/news/12052388/california-vs-texas-in-a-battle-for-democracy\" target=\"_blank\">California vs. Texas in a \u201cBattle for Democracy\u201d</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 520.17,
+      "last_price": 517.1,
       "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-financial-analysis-agent-with-langgraph-and-strands-agents/\" target=\"_blank\">Build an intelligent financial analysis agent with LangGraph and Strands Agents</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 180.45,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/15/metaverse-stocks-to-add-to-your-watchlist-august-13th/\" target=\"_blank\">Metaverse Stocks To Add to Your Watchlist \u2013 August 13th</a>"
+      "last_price": 182.01,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/17/best-automotive-stocks-to-add-to-your-watchlist-august-14th/\" target=\"_blank\">Best Automotive Stocks To Add to Your Watchlist \u2013 August 14th</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 177.17,
+      "last_price": 174.03,
       "news": "<a href=\"https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548\" target=\"_blank\">There are few assets hated like coal \u2014 why this dirty fuel may have a future</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 427.9,
+      "last_price": 426.34,
       "news": "<a href=\"https://finance.yahoo.com/news/crowdstrike-crwd-unveils-ai-agent-071113472.html\" target=\"_blank\">CrowdStrike (CRWD) Unveils AI Agent Monitoring via ChatGPT Enterprise API</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 42.7,
+      "last_price": 43.01,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 161.76,
+      "last_price": 163.53,
       "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 199.08,
-      "news": "<a href=\"https://www.cbc.ca/radio/asithappens/india-elbows-up-1.7610229\" target=\"_blank\">Trump's tariff threats inspire an 'Elbows Up' movement in India \u2014 minus the hockey</a>"
+      "last_price": 198.24,
+      "news": "No news available"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.4,
+      "last_price": 9.32,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.05,
+      "last_price": 2.09,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011793\" target=\"_blank\">Genetic inference of on-target and off-target side-effects of antipsychotic medications</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 63.55,
+      "last_price": 63.84,
       "news": "No news available"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 248.32,
+      "last_price": 249.05,
       "news": "<a href=\"https://siliconangle.com/2025/08/15/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 140.6,
+      "last_price": 140.59,
       "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/eastern-bank-has-794000-stock-holdings-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">Eastern Bank Has $794,000 Stock Holdings in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
     },
     {
@@ -177,10 +177,10 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.1,
+      "last_price": 14.49,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-18T01:47:02.346738+00:00",
+  "last_updated": "2025-08-19T01:28:12.133006+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
