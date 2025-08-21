@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "47.98%",
-      "CAGR": "13.96%",
+      "Total Return": "47.07%",
+      "CAGR": "13.72%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.88"
     },
     "QQQ": {
-      "Total Return": "44.99%",
-      "CAGR": "13.18%",
+      "Total Return": "44.13%",
+      "CAGR": "12.96%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "40.78%",
-      "CAGR": "12.08%",
+      "Total Return": "40.41%",
+      "CAGR": "11.98%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 343.51,
+      "last_price": 339.62,
       "news": "<a href=\"https://www.etfdailynews.com/2025/08/17/renewable-energy-stocks-to-consider-august-15th/\" target=\"_blank\">Renewable Energy Stocks To Consider \u2013 August 15th</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 131.59,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/guide-to-adopting-amazon-sagemaker-unified-studio-from-atpcos-journey/\" target=\"_blank\">Guide to adopting Amazon SageMaker Unified Studio from ATPCO\u2019s Journey</a>"
+      "last_price": 130.89,
+      "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/simplify-access-control-and-auditing-for-amazon-sagemaker-studio-using-trusted-identity-propagation/\" target=\"_blank\">Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 216.74,
-      "news": "<a href=\"https://www.kqed.org/news/12052388/california-vs-texas-in-a-battle-for-democracy\" target=\"_blank\">California vs. Texas in a \u201cBattle for Democracy\u201d</a>"
+      "last_price": 217.0,
+      "news": "<a href=\"https://thekenyatimes.com/business/afya-sacco-membership-requirements-savings-loans-options-and-interest/\" target=\"_blank\">Afya Sacco: Membership Requirements, Savings, Loans Options, And Interest</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 509.77,
+      "last_price": 505.72,
       "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-financial-analysis-agent-with-langgraph-and-strands-agents/\" target=\"_blank\">Build an intelligent financial analysis agent with LangGraph and Strands Agents</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 175.64,
-      "news": "<a href=\"https://www.barchart.com/story/news/34219136/billionaire-philippe-laffont-just-ditched-super-micro-computer-stock-should-you\" target=\"_blank\">Billionaire Philippe Laffont Just Ditched Super Micro Computer Stock. Should You?</a>"
+      "last_price": 175.4,
+      "news": "<a href=\"https://www.marketwatch.com/story/gold-has-crushed-stocks-bonds-and-even-bitcoin-in-2025-this-banking-giant-just-got-more-bullish-9071df48\" target=\"_blank\">Gold has crushed stocks, bonds and even bitcoin in 2025. This banking giant just got more bullish.</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 157.75,
-      "news": "<a href=\"https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548\" target=\"_blank\">There are few assets hated like coal \u2014 why this dirty fuel may have a future</a>"
+      "last_price": 156.01,
+      "news": "<a href=\"https://www.marketwatch.com/story/gold-has-crushed-stocks-bonds-and-even-bitcoin-in-2025-this-banking-giant-just-got-more-bullish-9071df48\" target=\"_blank\">Gold has crushed stocks, bonds and even bitcoin in 2025. This banking giant just got more bullish.</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 418.6,
+      "last_price": 419.17,
       "news": "<a href=\"https://finance.yahoo.com/news/crowdstrike-crwd-unveils-ai-agent-071113472.html\" target=\"_blank\">CrowdStrike (CRWD) Unveils AI Agent Monitoring via ChatGPT Enterprise API</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 43.4,
+      "last_price": 42.71,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 162.22,
+      "last_price": 160.96,
       "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 192.63,
-      "news": "<a href=\"https://science.nasa.gov/science-research/earth-science/a-decade-of-global-water-cycle-monitoring-nasa-soil-moisture-active-passive-mission/\" target=\"_blank\">A Decade of Global Water Cycle Monitoring: NASA Soil Moisture Active Passive Mission</a>"
+      "last_price": 194.8,
+      "news": "<a href=\"https://theconversation.com/extreme-weather-alerts-can-move-markets-heres-what-investors-can-learn-from-our-new-research-263400\" target=\"_blank\">Extreme weather alerts can move markets \u2013 here\u2019s what investors can learn from our new research</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.61,
+      "last_price": 10.32,
       "news": "No news available"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 63.16,
+      "last_price": 62.35,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/18/3134810/28124/en/China-HNW-Investors-Report-2025-Robo-Advice-and-ESG-Investments-Driving-Growth-Among-Chinese-HNWs.html\" target=\"_blank\">China HNW Investors Report 2025 | Robo-Advice and ESG Investments Driving Growth Among Chinese HNWs</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 245.15,
+      "last_price": 243.74,
       "news": "<a href=\"https://siliconangle.com/2025/08/15/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 139.76,
+      "last_price": 139.42,
       "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/eastern-bank-has-794000-stock-holdings-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">Eastern Bank Has $794,000 Stock Holdings in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
     },
     {
@@ -177,10 +177,10 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.33,
+      "last_price": 14.39,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-20T01:26:23.731594+00:00",
+  "last_updated": "2025-08-21T01:25:46.012902+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
