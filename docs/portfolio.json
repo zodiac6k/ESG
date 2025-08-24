@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 222.83,
-      "news": "No news available"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/22/3137692/0/en/Environmental-Justice-Foundation-welcomes-historic-assent-to-Ghana-s-Fisheries-and-Aquaculture-Bill.html\" target=\"_blank\">Environmental Justice Foundation welcomes historic assent to Ghana\u2019s Fisheries and Aquaculture Bill</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 177.99,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-dow-sp-futures-slip-as-walmart-stumbles-nasdaq-steadies-on-nvidia-rebound-tesla-drags-tech-lower-ahead-of-feds-jackson-hole-test/articleshow/123432201.cms\" target=\"_blank\">Dow, S&P futures dip as Walmart misses; Nasdaq steadies on Nvidia bounce, Tesla slides</a>"
+      "news": "<a href=\"https://www.coindesk.com/daybook-us/2025/08/22/all-eyes-on-powell-as-bitcoin-holds-below-usd113k-crypto-daybook-americas\" target=\"_blank\">All Eyes on Powell as Bitcoin Holds Below $113K: Crypto Daybook Americas</a>"
     },
     {
       "ticker": "PLTR",
@@ -97,7 +97,7 @@
       "quantity": 32.37,
       "initial_price": 137.32,
       "last_price": 420.55,
-      "news": "<a href=\"https://finance.yahoo.com/news/crowdstrike-crwd-unveils-ai-agent-071113472.html\" target=\"_blank\">CrowdStrike (CRWD) Unveils AI Agent Monitoring via ChatGPT Enterprise API</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/crwd-stock-price-prediction-where-085929380.html\" target=\"_blank\">CRWD Stock Price Prediction: Where CrowdStrike Could Be by 2025, 2026, and 2030</a>"
     },
     {
       "ticker": "CGNX",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 196.81,
-      "news": "<a href=\"https://www.yankodesign.com/2025/08/21/when-function-meets-form-the-wotancraft-rider-v2-redefines-photography-carry/\" target=\"_blank\">When Function Meets Form: The Wotancraft Rider V2 Redefines Photography Carry</a>"
+      "news": "<a href=\"https://www.cheapinsurance.com/blog/year-round-motorcycle-insurance-for-enthusiasts/\" target=\"_blank\">Year-round motorcycle insurance for enthusiasts</a>"
     },
     {
       "ticker": "SSYS",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 249.09,
-      "news": "<a href=\"https://siliconangle.com/2025/08/15/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
+      "news": "<a href=\"https://siliconangle.com/2025/08/22/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
       "ticker": "ESGU",
@@ -181,6 +181,6 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-23T01:23:51.690631+00:00",
+  "last_updated": "2025-08-24T01:43:05.945616+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
