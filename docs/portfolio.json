@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 222.83,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/22/3137692/0/en/Environmental-Justice-Foundation-welcomes-historic-assent-to-Ghana-s-Fisheries-and-Aquaculture-Bill.html\" target=\"_blank\">Environmental Justice Foundation welcomes historic assent to Ghana\u2019s Fisheries and Aquaculture Bill</a>"
+      "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/08/24/health-risks-of-5g.aspx\" target=\"_blank\">10 Studies Detail Health Risks of 5G</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 177.99,
-      "news": "<a href=\"https://www.coindesk.com/daybook-us/2025/08/22/all-eyes-on-powell-as-bitcoin-holds-below-usd113k-crypto-daybook-americas\" target=\"_blank\">All Eyes on Powell as Bitcoin Holds Below $113K: Crypto Daybook Americas</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-800-points-to-record-sp-500-nasdaq-soar-as-powells-jackson-hole-finale-fuels-bets-on-september-rate-cut-200110990.html\" target=\"_blank\">Stock market today: Dow jumps 800 points to record, S&P 500, Nasdaq soar as Powell's Jackson Hole finale fuels bets on September rate cut</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 196.81,
-      "news": "<a href=\"https://www.cheapinsurance.com/blog/year-round-motorcycle-insurance-for-enthusiasts/\" target=\"_blank\">Year-round motorcycle insurance for enthusiasts</a>"
+      "news": "<a href=\"https://www.nationalgeographic.com/travel/article/royal-highland-festival-laya-bhutans-remote-spiritual-side\" target=\"_blank\">Find Bhutan's spiritual side at this remote highland festival</a>"
     },
     {
       "ticker": "SSYS",
@@ -169,7 +169,7 @@
       "quantity": 155.38,
       "initial_price": 71.51,
       "last_price": 141.08,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/07/31/eastern-bank-has-794000-stock-holdings-in-ishares-esg-aware-msci-usa-etf-nasdaqesgu/\" target=\"_blank\">Eastern Bank Has $794,000 Stock Holdings in iShares ESG Aware MSCI USA ETF (NASDAQ:ESGU)</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/23/cresset-asset-management-llc-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Cresset Asset Management LLC Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
       "ticker": "ICLN",
@@ -181,6 +181,6 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-24T01:43:05.945616+00:00",
+  "last_updated": "2025-08-25T01:38:21.264042+00:00",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
