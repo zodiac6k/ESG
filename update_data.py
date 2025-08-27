@@ -6,6 +6,7 @@ import requests
 from datetime import datetime, UTC, timedelta
 import os
 import matplotlib.pyplot as plt
+import time
 
 # Get News API Key from environment
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
@@ -93,12 +94,36 @@ def calculate_metrics(portfolio_daily):
     max_drawdown = float((cum_return / np.maximum.accumulate(cum_return) - 1).min())
     return total_return, cagr, max_drawdown
 
+def calculate_sharpe_ratio(returns, risk_free_rate=0.03):
+    """Calculate annualized Sharpe ratio"""
+    excess_returns = returns - risk_free_rate/252  # Daily risk-free rate
+    return (returns.mean() * 252) / (returns.std() * np.sqrt(252))
+
 # Create output directories
 os.makedirs("docs/charts", exist_ok=True)
 
 # Fetch live prices
 tickers = list(portfolio_allocations.keys())
 live_prices = fetch_live_prices(tickers)
+
+# After fetching prices
+for ticker, price in live_prices.items():
+    if price == 0:
+        print(f"⚠️ Warning: Unable to get valid price for {ticker}")
+
+# Add this function:
+def get_company_names(tickers):
+    """Get actual company names for tickers"""
+    names = {}
+    for ticker in tickers:
+        try:
+            info = yf.Ticker(ticker).info
+            names[ticker] = info.get('longName', f"{ticker}")
+        except:
+            names[ticker] = f"{ticker}"
+    return names
+
+company_names = get_company_names(tickers)
 
 # Build holdings list with news
 holdings = []
@@ -107,7 +132,7 @@ for ticker, info in portfolio_allocations.items():
     news_html = fetch_newsapi_articles(ticker) or "No news available"
     holdings.append({
         "ticker": ticker,
-        "name": f"{ticker} Corporation",
+        "name": company_names.get(ticker, f"{ticker}"),
         "weight": f"{info['weight']}%",
         "quantity": info["quantity"],
         "initial_price": info["initial_price"],
@@ -145,13 +170,14 @@ plt.close()
 portfolio_total_return, portfolio_cagr, portfolio_mdd = calculate_metrics(portfolio_returns)
 qqq_total_return, qqq_cagr, qqq_mdd = calculate_metrics(data["QQQ"].pct_change().dropna())
 spy_total_return, spy_cagr, spy_mdd = calculate_metrics(data["SPY"].pct_change().dropna())
+portfolio_sharpe = calculate_sharpe_ratio(portfolio_returns)
 
 benchmark_metrics = {
     "Portfolio": {
         "Total Return": f"{portfolio_total_return:.2%}",
         "CAGR": f"{portfolio_cagr:.2%}",
         "Max Drawdown": f"{portfolio_mdd:.2%}",
-        "Sharpe Ratio": "0.88"
+        "Sharpe Ratio": f"{portfolio_sharpe:.2f}"
     },
     "QQQ": {
         "Total Return": f"{qqq_total_return:.2%}",
@@ -180,3 +206,7 @@ with open("docs/portfolio.json", "w") as f:
     json.dump(output, f, indent=2)
 
 print(f"Portfolio updated successfully with yesterday's data ({yesterday.strftime('%Y-%m-%d')}), benchmarks, ESG news, and robust error handling.")
+
+# Set NEWS_API_KEY environment variable before running:
+# Windows: set NEWS_API_KEY=your_api_key
+# Linux/Mac: export NEWS_API_KEY=your_api_key

@@ -19,10 +19,10 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "50.36%",
-      "CAGR": "14.56%",
+      "Total Return": "50.62%",
+      "CAGR": "14.63%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.88"
+      "Sharpe Ratio": "0.55"
     },
     "QQQ": {
       "Total Return": "45.84%",
@@ -38,149 +38,150 @@
   "holdings": [
     {
       "ticker": "ROK",
-      "name": "ROK Corporation",
+      "name": "Rockwell Automation, Inc.",
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 355.67,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/25/best-waste-management-stocks-to-add-to-your-watchlist-august-23rd/\" target=\"_blank\">Best Waste Management Stocks To Add to Your Watchlist \u2013 August 23rd</a>"
+      "last_price": 348.43,
+      "news": "No news available"
     },
     {
       "ticker": "EMR",
-      "name": "EMR Corporation",
+      "name": "Emerson Electric Co.",
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 133.35,
-      "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004663\" target=\"_blank\">Shared decision-making and deprescribing to support anti-thrombotic therapy (dis)continuance for persons living with cancer in their last phase of life: A realist synthesis</a>"
+      "last_price": 133.46,
+      "news": "No news available"
     },
     {
       "ticker": "HON",
-      "name": "HON Corporation",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 222.56,
-      "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/08/24/health-risks-of-5g.aspx\" target=\"_blank\">10 Studies Detail Health Risks of 5G</a>"
+      "last_price": 221.13,
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
-      "name": "MSFT Corporation",
+      "name": "Microsoft Corporation",
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 502.04,
-      "news": "<a href=\"https://finance.yahoo.com/news/short-sellers-reap-over-5-billion-on-big-tech-bets-as-ai-fears-roil-market-100040412.html\" target=\"_blank\">Short sellers reap over $5 billion on Big Tech bets as AI fears roil market</a>"
+      "last_price": 506.22,
+      "news": "No news available"
     },
     {
       "ticker": "NVDA",
-      "name": "NVDA Corporation",
+      "name": "NVIDIA Corporation",
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 181.77,
-      "news": "<a href=\"https://www.coindesk.com/daybook-us/2025/08/25/here-is-why-bitcoin-s-flash-crash-may-signal-altcoin-season-crypto-daybook-americas\" target=\"_blank\">Here Is Why Bitcoin's Flash Crash May Signal Altcoin Season: Crypto Daybook Americas</a>"
+      "last_price": 181.49,
+      "news": "No news available"
     },
     {
       "ticker": "PLTR",
-      "name": "PLTR Corporation",
+      "name": "Palantir Technologies Inc.",
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 160.87,
-      "news": "<a href=\"https://fortune.com/2025/08/21/why-palantir-stock-falling-openai-bubble-citron-shortseller-andrew-left/\" target=\"_blank\">How AI darling Palantir became the S&P 500\u2019s best and worst stock of 2025, climbing 144% before shedding value in 6 straight sessions</a>"
+      "last_price": 156.08,
+      "news": "No news available"
     },
     {
       "ticker": "CRWD",
-      "name": "CRWD Corporation",
+      "name": "CrowdStrike Holdings, Inc.",
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 417.6,
-      "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
+      "last_price": 426.25,
+      "news": "No news available"
     },
     {
       "ticker": "CGNX",
-      "name": "CGNX Corporation",
+      "name": "Cognex Corporation",
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 43.89,
+      "last_price": 44.33,
       "news": "No news available"
     },
     {
       "ticker": "AMAT",
-      "name": "AMAT Corporation",
+      "name": "Applied Materials, Inc.",
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 164.51,
-      "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
+      "last_price": 164.03,
+      "news": "No news available"
     },
     {
       "ticker": "SNOW",
-      "name": "SNOW Corporation",
+      "name": "Snowflake Inc.",
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 194.35,
-      "news": "<a href=\"http://robbreport.com/travel/destinations/ponant-twelve-night-adventure-north-pole-1237000656/\" target=\"_blank\">This New 12-Night Polar Cruise Will Take You to the Northern-Most Point on Earth</a>"
+      "last_price": 201.61,
+      "news": "No news available"
     },
     {
       "ticker": "SSYS",
-      "name": "SSYS Corporation",
+      "name": "Stratasys Ltd.",
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.75,
+      "last_price": 11.08,
       "news": "No news available"
     },
     {
       "ticker": "DDD",
-      "name": "DDD Corporation",
+      "name": "3D Systems Corporation",
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.15,
-      "news": "<a href=\"https://fortune.com/2025/08/21/new-target-ceo-former-cfo-must-prove-hes-not-just-another-insider-executive-recruiter-says/\" target=\"_blank\">New Target CEO, a former CFO, \u2018must prove he\u2019s not just another insider,\u2019 executive recruiter says</a>"
+      "last_price": 2.55,
+      "news": "No news available"
     },
     {
       "ticker": "ROBO",
-      "name": "ROBO Corporation",
+      "name": "Robo Global Robotics and Automation Index ETF",
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 63.96,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/18/3134810/28124/en/China-HNW-Investors-Report-2025-Robo-Advice-and-ESG-Investments-Driving-Growth-Among-Chinese-HNWs.html\" target=\"_blank\">China HNW Investors Report 2025 | Robo-Advice and ESG Investments Driving Growth Among Chinese HNWs</a>"
+      "last_price": 64.15,
+      "news": "No news available"
     },
     {
       "ticker": "SOXX",
-      "name": "SOXX Corporation",
+      "name": "iShares Semiconductor ETF",
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 250.85,
-      "news": "<a href=\"https://siliconangle.com/2025/08/22/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
+      "last_price": 251.24,
+      "news": "No news available"
     },
     {
       "ticker": "ESGU",
-      "name": "ESGU Corporation",
+      "name": "iShares ESG Aware MSCI USA ETF",
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 141.03,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/23/cresset-asset-management-llc-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Cresset Asset Management LLC Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
+      "last_price": 141.39,
+      "news": "No news available"
     },
     {
       "ticker": "ICLN",
-      "name": "ICLN Corporation",
+      "name": "iShares Global Clean Energy ETF",
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.39,
+      "last_price": 14.35,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-27T01:24:36.446546+00:00",
+  "last_updated": "2025-08-26T16:00:00+00:00",
+  "data_date": "2025-08-26",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
