@@ -32,21 +32,30 @@ portfolio_allocations = {
 
 
 def fetch_live_prices(tickers):
-    """Fetch live prices for multiple tickers with retry and fallback"""
+    """Fetch live prices for multiple tickers as of yesterday with retry and fallback"""
     results = {}
+    yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+    
     for ticker in tickers:
         try:
-            data = yf.download(ticker, period="1d", auto_adjust=False, progress=False)
+            # Fetch data for yesterday specifically
+            data = yf.download(ticker, start=yesterday, end=yesterday, auto_adjust=False, progress=False)
             if data.empty:
-                print(f"⚠ No data for {ticker}")
-                results[ticker] = 0
+                print(f"⚠ No data for {ticker} on {yesterday}")
+                # Fallback to most recent available data
+                fallback_data = yf.download(ticker, period="5d", auto_adjust=False, progress=False)
+                if not fallback_data.empty:
+                    results[ticker] = float(fallback_data["Adj Close"].iloc[-1])
+                    print(f"⚠ Using most recent data for {ticker}: {results[ticker]}")
+                else:
+                    results[ticker] = 0
             else:
                 results[ticker] = float(data["Adj Close"].iloc[-1])
+                print(f"✓ Fetched {ticker} price for {yesterday}: {results[ticker]}")
         except Exception as e:
             print(f"⚠ Failed to fetch {ticker}: {e}")
             results[ticker] = 0
     return results
-
 
 def fetch_newsapi_articles(ticker):
     """Fetch ESG-related news via NewsAPI"""
@@ -156,16 +165,18 @@ benchmark_metrics = {
     }
 }
 
-# Final JSON Output
+# === Final JSON Output ===
+yesterday = datetime.now() - timedelta(days=1)
 output = {
     "portfolio_weights": {k: v["weight"] for k, v in portfolio_allocations.items()},
     "metrics": benchmark_metrics,
     "holdings": holdings,
-    "last_updated": datetime.now(UTC).isoformat(),
+    "last_updated": yesterday.replace(hour=16, minute=0, second=0, microsecond=0, tzinfo=UTC).isoformat(),
+    "data_date": yesterday.strftime('%Y-%m-%d'),
     "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
 
 with open("docs/portfolio.json", "w") as f:
     json.dump(output, f, indent=2)
 
-print("Portfolio updated successfully with benchmarks, ESG news, and robust error handling.")
+print(f"Portfolio updated successfully with yesterday's data ({yesterday.strftime('%Y-%m-%d')}), benchmarks, ESG news, and robust error handling.")
