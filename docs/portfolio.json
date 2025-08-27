@@ -19,8 +19,8 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "50.62%",
-      "CAGR": "14.63%",
+      "Total Return": "51.21%",
+      "CAGR": "14.78%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.55"
     },
@@ -30,8 +30,8 @@
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "41.96%",
-      "CAGR": "12.39%",
+      "Total Return": "42.41%",
+      "CAGR": "12.51%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 348.43,
+      "last_price": 348.42,
       "news": "No news available"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 133.46,
+      "last_price": 133.31,
       "news": "No news available"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 221.13,
+      "last_price": 221.6,
       "news": "No news available"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 506.22,
+      "last_price": 506.8,
       "news": "No news available"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 181.49,
+      "last_price": 181.48,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 426.25,
+      "last_price": 423.29,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.33,
+      "last_price": 44.28,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 164.03,
+      "last_price": 164.47,
       "news": "No news available"
     },
     {
@@ -123,7 +123,7 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 201.61,
+      "last_price": 200.15,
       "news": "No news available"
     },
     {
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.08,
+      "last_price": 11.11,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.55,
+      "last_price": 2.57,
       "news": "No news available"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 64.15,
+      "last_price": 64.21,
       "news": "No news available"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 251.24,
+      "last_price": 251.49,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 141.39,
+      "last_price": 141.49,
       "news": "No news available"
     },
     {
