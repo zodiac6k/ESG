@@ -11,25 +11,21 @@
         th { background-color: #2c3e50; color: white; }
         tr:nth-child(even) { background-color: #f2f2f2; }
         tr:hover { background-color: #ddd; }
-        .summary { margin-top: 15px; color: #555; }
-        a { text-decoration: none; color: #007bff; }
-        a:hover { text-decoration: underline; }
-        .metrics-box { display: flex; justify-content: space-around; margin: 20px 0; }
-        .metric-card { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 10px 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        img { max-width: 100%; margin: 15px 0; display: block; }
+        img { max-width: 100%; display: block; margin: auto; }
     </style>
 </head>
 <body>
     <h1>ESG Automation Portfolio Dashboard</h1>
 
-    <!-- Metrics Summary -->
-    <div id="metrics-summary" class="metrics-box">
-        <!-- Filled dynamically -->
-    </div>
+    
+<div style="padding:10px;background:#f1f3f5;border-radius:10px;margin-bottom:20px;">
+<h2>Current Portfolio Value: $312,532.54 <span style="color:#28a745;">↑ 1.17%</span></h2>
+<p>QQQ daily: 0.65% | SPY daily: 0.48% | ESGU daily: 0.72%</p>
+</div>
 
-    <!-- Portfolio Table -->
-    <h2>Portfolio Allocation & ESG News</h2>
-    <table id="portfolio-table">
+
+    <h2>Portfolio Allocation & News</h2>
+    <table>
         <tr>
             <th>Ticker</th><th>Name</th><th>Weight</th><th>Quantity</th>
             <th>Initial Price</th><th>Last Price</th><th>News</th>
@@ -197,89 +193,104 @@
     
     </table>
 
-    <!-- Benchmark Comparison -->
-    <h2>Portfolio vs Benchmark Performance</h2>
-    <table id="benchmark-table">
-        <tr>
-            <th></th>
-            <th>Total Return</th>
-            <th>CAGR</th>
-            <th>Max Drawdown</th>
-        </tr>
-    </table>
+    <h2>Portfolio vs Benchmarks (Metrics)</h2>
+    <table border="1" class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Portfolio</th>
+      <th>QQQ</th>
+      <th>SPY</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>CAGR</th>
+      <td>27.27%</td>
+      <td>22.45%</td>
+      <td>16.78%</td>
+    </tr>
+    <tr>
+      <th>Volatility</th>
+      <td>31.05%</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Sharpe Ratio</th>
+      <td>0.88</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Max Drawdown</th>
+      <td>-47.07%</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-    <!-- Charts -->
-    <h2>Performance Charts</h2>
-    <h3>Portfolio vs Benchmarks Growth</h3>
-    <img id="benchmark-chart" src="charts/portfolio_vs_benchmarks.png" alt="Portfolio vs Benchmarks">
+    <h2>Multi-Timeframe Performance (%)</h2>
+    <table border="1" class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Portfolio</th>
+      <th>QQQ</th>
+      <th>SPY</th>
+      <th>ESGU</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1M</th>
+      <td>10.15%</td>
+      <td>6.39%</td>
+      <td>5.14%</td>
+      <td>5.16%</td>
+    </tr>
+    <tr>
+      <th>3M</th>
+      <td>36.12%</td>
+      <td>17.77%</td>
+      <td>10.78%</td>
+      <td>11.26%</td>
+    </tr>
+    <tr>
+      <th>6M</th>
+      <td>18.99%</td>
+      <td>4.43%</td>
+      <td>3.36%</td>
+      <td>2.90%</td>
+    </tr>
+    <tr>
+      <th>YTD</th>
+      <td>31.66%</td>
+      <td>13.44%</td>
+      <td>7.90%</td>
+      <td>7.62%</td>
+    </tr>
+    <tr>
+      <th>1Y</th>
+      <td>36.02%</td>
+      <td>15.19%</td>
+      <td>14.49%</td>
+      <td>14.32%</td>
+    </tr>
+    <tr>
+      <th>Since Inception</th>
+      <td>209.85%</td>
+      <td>101.27%</td>
+      <td>96.09%</td>
+      <td>88.00%</td>
+    </tr>
+  </tbody>
+</table>
 
-    <h3>Historical Portfolio Metrics (Sharpe, Volatility, etc.)</h3>
-    <img id="historical-chart" src="charts/dashboard_charts.png" alt="Portfolio Historical Metrics">
-
+    <h2>Charts</h2>
+    <img src="charts/dashboard_charts.png" alt="Dashboard Charts">
     <h3>Portfolio vs Benchmarks ($ Growth)</h3>
-    <img id="growth-chart" src="charts/portfolio_vs_benchmarks.png" alt="Portfolio vs Benchmarks Growth">
-
-    <!-- Last Updated -->
-    <div class="summary" id="last-updated"></div>
-
-    <script>
-        fetch('portfolio.json')
-            .then(response => response.json())
-            .then(data => {
-                // ===== Metrics Summary =====
-                const metrics = data.metrics["Portfolio"];
-                document.getElementById('metrics-summary').innerHTML = `
-                    <div class="metric-card"><b>Total Return:</b> ${metrics["Total Return"]}</div>
-                    <div class="metric-card"><b>CAGR:</b> ${metrics["CAGR"]}</div>
-                    <div class="metric-card"><b>Max Drawdown:</b> ${metrics["Max Drawdown"]}</div>
-                    <div class="metric-card"><b>Sharpe Ratio:</b> 0.88</div>
-                `;
-
-                // ===== Portfolio Table =====
-                const holdings = data.holdings;
-                const portfolioTable = document.getElementById('portfolio-table');
-                let rows = '';
-                holdings.forEach(stock => {
-                    rows += `
-                        <tr>
-                            <td>${stock.ticker}</td>
-                            <td>${stock.name}</td>
-                            <td>${stock.weight}</td>
-                            <td>${stock.quantity}</td>
-                            <td>${stock.initial_price}</td>
-                            <td>${stock.last_price}</td>
-                            <td>${stock.news}</td>
-                        </tr>`;
-                });
-                portfolioTable.innerHTML = `
-                    <tr>
-                        <th>Ticker</th>
-                        <th>Name</th>
-                        <th>Weight</th>
-                        <th>Quantity</th>
-                        <th>Initial Price</th>
-                        <th>Last Price</th>
-                        <th>News</th>
-                    </tr>
-                    ${rows}
-                `;
-
-                // ===== Benchmark Table =====
-                const benchmarkTable = document.getElementById('benchmark-table');
-                Object.entries(data.metrics).forEach(([name, vals]) => {
-                    benchmarkTable.innerHTML += `
-                        <tr>
-                            <td><b>${name}</b></td>
-                            <td>${vals["Total Return"]}</td>
-                            <td>${vals["CAGR"]}</td>
-                            <td>${vals["Max Drawdown"]}</td>
-                        </tr>`;
-                });
-
-                // ===== Last Updated =====
-                document.getElementById('last-updated').innerHTML =
-                    `<i>Last Updated: ${new Date(data.last_updated).toLocaleString()}</i>`;
-            });
-    </script>
+    <img src="charts/portfolio_vs_benchmarks.png" alt="Portfolio vs Benchmarks">
 </body>
 </html>
