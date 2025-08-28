@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "51.21%",
-      "CAGR": "14.78%",
+      "Total Return": "51.33%",
+      "CAGR": "14.81%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.55"
     },
     "QQQ": {
-      "Total Return": "45.84%",
-      "CAGR": "13.40%",
+      "Total Return": "46.06%",
+      "CAGR": "13.46%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "42.41%",
-      "CAGR": "12.51%",
+      "Total Return": "42.28%",
+      "CAGR": "12.47%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 348.42,
-      "news": "No news available"
+      "last_price": 349.2,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/26/best-waste-management-stocks-to-consider-august-24th/\" target=\"_blank\">Best Waste Management Stocks To Consider \u2013 August 24th</a>"
     },
     {
       "ticker": "EMR",
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 133.31,
-      "news": "No news available"
+      "last_price": 133.45,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/26/3139426/0/en/SCWorx-Expands-Healthcare-Data-Management-Network-with-New-Collaboration.html\" target=\"_blank\">SCWorx Expands Healthcare Data Management Network with New Collaboration</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 221.6,
-      "news": "No news available"
+      "last_price": 221.25,
+      "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/08/24/health-risks-of-5g.aspx\" target=\"_blank\">10 Studies Detail Health Risks of 5G</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 506.8,
-      "news": "No news available"
+      "last_price": 506.74,
+      "news": "<a href=\"https://finance.yahoo.com/news/short-sellers-reap-over-5-billion-on-big-tech-bets-as-ai-fears-roil-market-100040412.html\" target=\"_blank\">Short sellers reap over $5 billion on Big Tech bets as AI fears roil market</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 181.48,
-      "news": "No news available"
+      "last_price": 181.6,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/26/metaverse-stocks-to-research-august-23rd/\" target=\"_blank\">Metaverse Stocks To Research \u2013 August 23rd</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 156.08,
-      "news": "No news available"
+      "last_price": 156.72,
+      "news": "<a href=\"https://fortune.com/2025/08/21/why-palantir-stock-falling-openai-bubble-citron-shortseller-andrew-left/\" target=\"_blank\">How AI darling Palantir became the S&P 500\u2019s best and worst stock of 2025, climbing 144% before shedding value in 6 straight sessions</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 423.29,
-      "news": "No news available"
+      "last_price": 422.61,
+      "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.28,
+      "last_price": 44.25,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 164.47,
-      "news": "No news available"
+      "last_price": 164.39,
+      "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 200.15,
-      "news": "No news available"
+      "last_price": 200.39,
+      "news": "<a href=\"https://www.abc.net.au/news/2025-08-27/nt-world-solar-challenge-darwin-car-race-to-adelaide-technology/105689306\" target=\"_blank\">Futuristic homemade cars zoom through the outback in the name of science</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.11,
+      "last_price": 11.04,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.57,
-      "news": "No news available"
+      "last_price": 2.56,
+      "news": "<a href=\"https://fortune.com/2025/08/21/new-target-ceo-former-cfo-must-prove-hes-not-just-another-insider-executive-recruiter-says/\" target=\"_blank\">New Target CEO, a former CFO, \u2018must prove he\u2019s not just another insider,\u2019 executive recruiter says</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 64.21,
-      "news": "No news available"
+      "last_price": 64.29,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/18/3134810/28124/en/China-HNW-Investors-Report-2025-Robo-Advice-and-ESG-Investments-Driving-Growth-Among-Chinese-HNWs.html\" target=\"_blank\">China HNW Investors Report 2025 | Robo-Advice and ESG Investments Driving Growth Among Chinese HNWs</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,8 +159,8 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 251.49,
-      "news": "No news available"
+      "last_price": 251.34,
+      "news": "<a href=\"https://siliconangle.com/2025/08/22/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
       "ticker": "ESGU",
@@ -168,8 +168,8 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 141.49,
-      "news": "No news available"
+      "last_price": 141.43,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/23/cresset-asset-management-llc-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Cresset Asset Management LLC Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
       "ticker": "ICLN",
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.35,
+      "last_price": 14.34,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-26T16:00:00+00:00",
-  "data_date": "2025-08-26",
+  "last_updated": "2025-08-27T16:00:00+00:00",
+  "data_date": "2025-08-27",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
