@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 343.43,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/28/waste-management-stocks-to-watch-now-august-25th/\" target=\"_blank\">Waste Management Stocks To Watch Now \u2013 August 25th</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/29/renewable-energy-stocks-to-watch-today-august-27th/\" target=\"_blank\">Renewable Energy Stocks To Watch Today \u2013 August 27th</a>"
     },
     {
       "ticker": "EMR",
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 132.0,
-      "news": "<a href=\"https://www.naturalnews.com/2025-08-27-residents-of-sitka-alaska-battle-against-cell-tower.html\" target=\"_blank\">Residents of Sitka, Alaska, battle against 120-foot cell tower</a>"
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/the-amazon-sagemaker-lakehouse-architecture-now-supports-tag-based-access-control-for-federated-catalogs/\" target=\"_blank\">The Amazon SageMaker Lakehouse Architecture now supports Tag-Based Access Control for federated catalogs</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 219.5,
-      "news": "<a href=\"https://www.lawyersgunsmoneyblog.com/2025/08/gaming-notes-8\" target=\"_blank\">Gaming Notes</a>"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141752/0/en/Crisis-as-Catalyst-How-Some-Businesses-Transformed-Pain-into-Power.html\" target=\"_blank\">Crisis as Catalyst: How Some Businesses Transformed Pain into Power</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 506.69,
-      "news": "<a href=\"https://finance.yahoo.com/news/analysis-investors-worry-trumps-intel-110402330.html\" target=\"_blank\">Analysis: Investors worry Trump's Intel deal kicks off era of US industrial policy</a>"
+      "news": "<a href=\"https://www.investopedia.com/nvidia-earnings-sustain-the-ai-stock-rally-just-without-nvidia-11800018\" target=\"_blank\">Nvidia Earnings Sustain the AI Stock Rally\u2014Just Without Nvidia</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 174.18,
-      "news": "No news available"
+      "news": "<a href=\"https://cointelegraph.com/news/bitcoin-risks-dollar100k-crash-as-us-china-economic-woes-take-hold\" target=\"_blank\">Bitcoin heads toward $100K as US trade deficit, China bank woes raise alarm</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 238.66,
-      "news": "<a href=\"https://www.on3.com/teams/north-carolina-tar-heels/news/john-preyer-bill-belichick-unc-board-of-trustees/\" target=\"_blank\">Q&A with John Preyer of UNC\u2019s Board of Trustees</a>"
+      "news": "<a href=\"https://www.thestreet.com/investing/bank-of-america-tweaks-snowflake-stock-price-target-after-earnings\" target=\"_blank\">Bank of America Tweaks Snowflake Stock Price Target after Earnings</a>"
     },
     {
       "ticker": "SSYS",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 245.32,
-      "news": "<a href=\"https://siliconangle.com/2025/08/22/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
+      "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
       "ticker": "ESGU",
@@ -169,7 +169,7 @@
       "quantity": 155.38,
       "initial_price": 71.51,
       "last_price": 141.02,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/23/cresset-asset-management-llc-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Cresset Asset Management LLC Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/08/29/ameriprise-financial-inc-lowers-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Ameriprise Financial Inc. Lowers Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
       "ticker": "ICLN",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-29T16:00:00+00:00",
-  "data_date": "2025-08-29",
+  "last_updated": "2025-08-30T16:00:00+00:00",
+  "data_date": "2025-08-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
