@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 219.5,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141752/0/en/Crisis-as-Catalyst-How-Some-Businesses-Transformed-Pain-into-Power.html\" target=\"_blank\">Crisis as Catalyst: How Some Businesses Transformed Pain into Power</a>"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/30/3141860/0/en/Grow-London-London-Stock-Exchange-and-The-Global-City-partner-with-London-FinTech-Summit-to-connect-global-finance-capitals-and-drive-cross-border-collaboration.html\" target=\"_blank\">Grow London, London Stock Exchange and The Global City partner with London FinTech Summit to connect global finance capitals and drive cross-border collaboration</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 174.18,
-      "news": "<a href=\"https://cointelegraph.com/news/bitcoin-risks-dollar100k-crash-as-us-china-economic-woes-take-hold\" target=\"_blank\">Bitcoin heads toward $100K as US trade deficit, China bank woes raise alarm</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/34508193/china-s-ai-plans-employment-data-and-other-key-things-to-watch-this-week\" target=\"_blank\">China's AI Plans, Employment Data and Other Key Things to Watch this Week</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 238.66,
-      "news": "<a href=\"https://www.thestreet.com/investing/bank-of-america-tweaks-snowflake-stock-price-target-after-earnings\" target=\"_blank\">Bank of America Tweaks Snowflake Stock Price Target after Earnings</a>"
+      "news": "<a href=\"https://screenrant.com/fallout-new-vegas-vaults-ranked/\" target=\"_blank\">Every Vault In Fallout: New Vegas, Ranked</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-08-30T16:00:00+00:00",
-  "data_date": "2025-08-30",
+  "last_updated": "2025-08-31T16:00:00+00:00",
+  "data_date": "2025-08-31",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
