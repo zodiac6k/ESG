@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "50.21%",
-      "CAGR": "14.53%",
+      "Total Return": "48.16%",
+      "CAGR": "14.00%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.54"
+      "Sharpe Ratio": "0.53"
     },
     "QQQ": {
-      "Total Return": "45.27%",
-      "CAGR": "13.26%",
+      "Total Return": "44.06%",
+      "CAGR": "12.94%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "41.94%",
-      "CAGR": "12.38%",
+      "Total Return": "40.88%",
+      "CAGR": "12.10%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 343.43,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/31/waste-management-stocks-worth-watching-august-29th/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 August 29th</a>"
+      "last_price": 337.84,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/01/best-waste-management-stocks-to-research-august-30th/\" target=\"_blank\">Best Waste Management Stocks To Research \u2013 August 30th</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 132.0,
+      "last_price": 131.38,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/the-amazon-sagemaker-lakehouse-architecture-now-supports-tag-based-access-control-for-federated-catalogs/\" target=\"_blank\">The Amazon SageMaker Lakehouse Architecture now supports Tag-Based Access Control for federated catalogs</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 219.5,
+      "last_price": 217.6,
       "news": "<a href=\"https://capitalandmain.com/trump-administration-gives-coal-plants-and-chemical-facilities-a-pass\" target=\"_blank\">Trump EPA Rollbacks Put Texas Communities at Risk</a>"
     },
     {
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 506.69,
-      "news": "<a href=\"https://www.investopedia.com/nvidia-earnings-sustain-the-ai-stock-rally-just-without-nvidia-11800018\" target=\"_blank\">Nvidia Earnings Sustain the AI Stock Rally\u2014Just Without Nvidia</a>"
+      "last_price": 505.12,
+      "news": "<a href=\"https://4sysops.com/archives/windows-backup-for-organizations-features-installation-and-user-feedback/\" target=\"_blank\">Windows Backup for Organizations: Features, installation, and user feedback</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 174.18,
-      "news": "<a href=\"https://www.barchart.com/story/news/34508193/china-s-ai-plans-employment-data-and-other-key-things-to-watch-this-week\" target=\"_blank\">China's AI Plans, Employment Data and Other Key Things to Watch this Week</a>"
+      "last_price": 170.78,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/01/metaverse-stocks-to-keep-an-eye-on-august-30th/\" target=\"_blank\">Metaverse Stocks To Keep An Eye On \u2013 August 30th</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 156.71,
+      "last_price": 157.09,
       "news": "<a href=\"https://www.barchart.com/story/news/34425864/ceo-alex-karp-just-sold-60-million-in-palantir-stock-should-you-ditch-pltr-here-too\" target=\"_blank\">CEO Alex Karp Just Sold $60 Million in Palantir Stock. Should You Ditch PLTR Here Too?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 423.7,
+      "last_price": 413.5,
       "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 43.94,
+      "last_price": 44.27,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 160.76,
+      "last_price": 157.57,
       "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 238.66,
-      "news": "<a href=\"https://www.pbs.org/newshour/health/can-you-poop-outdoors-without-contaminating-the-environment-a-researcher-explains-how\" target=\"_blank\">Can you poop outdoors without contaminating the environment? A researcher explains how</a>"
+      "last_price": 233.6,
+      "news": "<a href=\"https://www.yankodesign.com/2025/09/01/2025-lexus-gx-550-overtrail-review-off-road-luxury-with-compromises/\" target=\"_blank\">2025 Lexus GX 550 Overtrail+ Review: Off-Road Luxury With Compromises</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.65,
+      "last_price": 10.37,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.3,
+      "last_price": 2.18,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 63.75,
-      "news": "<a href=\"https://rollingout.com/2025/08/31/how-build-investment-portfolio-that-last/\" target=\"_blank\">How to build an investment portfolio that lasts</a>"
+      "last_price": 62.54,
+      "news": "<a href=\"https://www.forbes.com/sites/prakharkhanna/2025/09/01/labor-day-deal-save-1000-on-this-robot-vacuum-with-a-robo-arm/\" target=\"_blank\">Labor Day Deal: Save $1000 On This Robot Vacuum With A Robo Arm</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 245.32,
+      "last_price": 242.83,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 141.02,
+      "last_price": 139.92,
       "news": "<a href=\"https://www.etfdailynews.com/2025/08/29/ameriprise-financial-inc-lowers-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Ameriprise Financial Inc. Lowers Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.39,
+      "last_price": 14.16,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-01T16:00:00+00:00",
-  "data_date": "2025-09-01",
+  "last_updated": "2025-09-02T16:00:00+00:00",
+  "data_date": "2025-09-02",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
