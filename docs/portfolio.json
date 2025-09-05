@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "47.44%",
-      "CAGR": "13.82%",
+      "Total Return": "48.49%",
+      "CAGR": "14.09%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.52"
+      "Sharpe Ratio": "0.53"
     },
     "QQQ": {
-      "Total Return": "45.19%",
-      "CAGR": "13.23%",
+      "Total Return": "46.50%",
+      "CAGR": "13.58%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "41.65%",
-      "CAGR": "12.31%",
+      "Total Return": "42.83%",
+      "CAGR": "12.62%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 338.66,
+      "last_price": 341.86,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/02/top-waste-management-stocks-to-watch-now-august-31st/\" target=\"_blank\">Top Waste Management Stocks To Watch Now \u2013 August 31st</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 129.5,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/the-amazon-sagemaker-lakehouse-architecture-now-supports-tag-based-access-control-for-federated-catalogs/\" target=\"_blank\">The Amazon SageMaker Lakehouse Architecture now supports Tag-Based Access Control for federated catalogs</a>"
+      "last_price": 133.1,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/03/3143887/0/en/SCWorx-Corp-Appoints-New-Chief-Technology-Officer-to-Accelerate-Innovation-in-Healthcare-Data-Solutions.html\" target=\"_blank\">SCWorx Corp. Appoints New Chief Technology Officer to Accelerate Innovation in Healthcare Data Solutions</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 214.0,
-      "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2025/09/mil-250901-ukfcdo01.htm\" target=\"_blank\">Foreign Secretary statement on the Middle East</a>"
+      "last_price": 215.16,
+      "news": "<a href=\"https://en.protothema.gr/2025/09/03/ecumenical-patriarch-bartholomews-third-visit-to-stockholm-photos/\" target=\"_blank\">Ecumenical Patriarch Bartholomew\u2019s third visit to Stockholm (photos)</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 505.35,
+      "last_price": 507.97,
       "news": "<a href=\"https://4sysops.com/archives/windows-backup-for-organizations-features-installation-and-user-feedback/\" target=\"_blank\">Windows Backup for Organizations: Features, installation, and user feedback</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 170.62,
-      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tumble-as-rising-yields-trump-tariff-uncertainty-rattle-markets-200528170.html\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq tumble as rising yields, Trump tariff uncertainty rattle markets</a>"
+      "last_price": 171.66,
+      "news": "<a href=\"https://www.marketwatch.com/story/14-stocks-of-companies-that-could-benefit-from-trumps-state-capitalism-66681cc2\" target=\"_blank\">14 stocks of companies that could benefit from Trump\u2019s state capitalism</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 154.9,
+      "last_price": 156.14,
       "news": "<a href=\"https://www.barchart.com/story/news/34425864/ceo-alex-karp-just-sold-60-million-in-palantir-stock-should-you-ditch-pltr-here-too\" target=\"_blank\">CEO Alex Karp Just Sold $60 Million in Palantir Stock. Should You Ditch PLTR Here Too?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 413.2,
+      "last_price": 412.46,
       "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 43.97,
+      "last_price": 44.27,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 156.25,
+      "last_price": 158.24,
       "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 229.33,
-      "news": "<a href=\"https://www.designboom.com/architecture/japan-first-circular-timber-soccer-stadium-fukushima-united-fc-vuild-09-02-2025/\" target=\"_blank\">japan\u2019s first circular timber soccer stadium to be built in fukushima</a>"
+      "last_price": 221.9,
+      "news": "<a href=\"https://inthesetimes.com/article/mobile-home-cooperative-village-vermont-westbury-colchester-collective\" target=\"_blank\">Mobile Home Mobilization</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.14,
+      "last_price": 10.18,
       "news": "No news available"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 62.58,
-      "news": "<a href=\"https://www.forbes.com/sites/prakharkhanna/2025/09/01/labor-day-deal-save-1000-on-this-robot-vacuum-with-a-robo-arm/\" target=\"_blank\">Labor Day Deal: Save $1000 On This Robot Vacuum With A Robo Arm</a>"
+      "last_price": 63.18,
+      "news": "<a href=\"https://www.joblo.com/robocop-cartoons/\" target=\"_blank\">R-Rated Movies Into Kids\u2019 Cartoons: RoboCop and RoboCop: Alpha Commando</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 241.68,
+      "last_price": 244.17,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 140.59,
+      "last_price": 141.72,
       "news": "<a href=\"https://www.etfdailynews.com/2025/08/29/ameriprise-financial-inc-lowers-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Ameriprise Financial Inc. Lowers Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.2,
+      "last_price": 14.33,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-03T16:00:00+00:00",
-  "data_date": "2025-09-03",
+  "last_updated": "2025-09-04T16:00:00+00:00",
+  "data_date": "2025-09-04",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
