@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 339.76,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/02/top-waste-management-stocks-to-watch-now-august-31st/\" target=\"_blank\">Top Waste Management Stocks To Watch Now \u2013 August 31st</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/05/waste-management-stocks-worth-watching-september-3rd/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 September 3rd</a>"
     },
     {
       "ticker": "EMR",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 214.25,
-      "news": "No news available"
+      "news": "<a href=\"https://finance.yahoo.com/news/honeywell-international-inc-hon-bull-151216378.html\" target=\"_blank\">Honeywell International Inc. (HON): A Bull Case Theory</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 167.02,
-      "news": "<a href=\"https://www.marketwatch.com/story/14-stocks-of-companies-that-could-benefit-from-trumps-state-capitalism-66681cc2\" target=\"_blank\">14 stocks of companies that could benefit from Trump\u2019s state capitalism</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/05/metaverse-stocks-to-watch-today-september-3rd/\" target=\"_blank\">Metaverse Stocks To Watch Today \u2013 September 3rd</a>"
     },
     {
       "ticker": "PLTR",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 153.11,
-      "news": "<a href=\"https://www.barchart.com/story/news/34425864/ceo-alex-karp-just-sold-60-million-in-palantir-stock-should-you-ditch-pltr-here-too\" target=\"_blank\">CEO Alex Karp Just Sold $60 Million in Palantir Stock. Should You Ditch PLTR Here Too?</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
       "ticker": "CRWD",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 225.58,
-      "news": "<a href=\"https://newsonjapan.com/article/146757.php\" target=\"_blank\">Alpine Plants in Japan's Alps Threatened by Deer and Invasive Species</a>"
+      "news": "<a href=\"https://www.abc.net.au/news/2025-09-06/future-of-tasmanian-skiing-destination-ben-lomond/105677780\" target=\"_blank\">Snow guns prove Ben Lomond ski field 'very viable' as park considers future</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 63.97,
-      "news": "<a href=\"https://www.joblo.com/robocop-cartoons/\" target=\"_blank\">R-Rated Movies Into Kids\u2019 Cartoons: RoboCop and RoboCop: Alpha Commando</a>"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/05/3145304/0/en/Peer-to-Peer-P2P-Lending-Market-Size-to-Exceed-USD-1-380-80-Billion-by-2034-Driven-by-Digitalization-and-Fintech-Adoption.html\" target=\"_blank\">Peer-to-Peer (P2P) Lending Market Size to Exceed USD 1,380.80 Billion by 2034 Driven by Digitalization and Fintech Adoption</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-05T16:00:00+00:00",
-  "data_date": "2025-09-05",
+  "last_updated": "2025-09-06T16:00:00+00:00",
+  "data_date": "2025-09-06",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
