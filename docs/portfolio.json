@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "48.89%",
-      "CAGR": "14.19%",
+      "Total Return": "49.94%",
+      "CAGR": "14.46%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.53"
+      "Sharpe Ratio": "0.54"
     },
     "QQQ": {
-      "Total Return": "46.72%",
-      "CAGR": "13.63%",
+      "Total Return": "47.43%",
+      "CAGR": "13.81%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "42.42%",
-      "CAGR": "12.51%",
+      "Total Return": "42.77%",
+      "CAGR": "12.60%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 339.76,
+      "last_price": 344.67,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/05/waste-management-stocks-worth-watching-september-3rd/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 September 3rd</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 132.55,
+      "last_price": 132.73,
       "news": "<a href=\"https://www.forbes.com/sites/shimiteobialo/2025/09/04/meroka-raises-6m-to-drive-employee-ownership-at-independent-medical-practices/\" target=\"_blank\">Meroka Raises $6M To Drive Employee Ownership At Independent Medical Practices</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 214.25,
-      "news": "<a href=\"https://finance.yahoo.com/news/honeywell-international-inc-hon-bull-151216378.html\" target=\"_blank\">Honeywell International Inc. (HON): A Bull Case Theory</a>"
+      "last_price": 214.75,
+      "news": "<a href=\"https://www.tuko.co.ke/entertainment/celebrities/602258-dalmas-otieno-late-mps-grand-rongo-mansion-wows-kenyans-residents-mourn-him/\" target=\"_blank\">Dalmas Otieno: Late MP\u2019s Grand Rongo Mansion Wows Kenyans as Residents\u00a0Mourn\u00a0Him</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 495.0,
+      "last_price": 498.2,
       "news": "<a href=\"https://4sysops.com/archives/windows-backup-for-organizations-features-installation-and-user-feedback/\" target=\"_blank\">Windows Backup for Organizations: Features, installation, and user feedback</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 167.02,
+      "last_price": 168.31,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/06/metaverse-stocks-to-watch-today-september-4th/\" target=\"_blank\">Metaverse Stocks To Watch Today \u2013 September 4th</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 153.11,
+      "last_price": 156.1,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 417.63,
+      "last_price": 428.06,
       "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.94,
+      "last_price": 44.61,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 162.75,
+      "last_price": 162.05,
       "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 225.58,
-      "news": "<a href=\"https://www.yankodesign.com/2025/09/06/fukushima-fc-to-build-timber-stadium-as-a-symbol-of-recovery-community-and-sustainable-design/\" target=\"_blank\">Fukushima FC to build timber stadium as a symbol of recovery, community, and sustainable design</a>"
+      "last_price": 226.52,
+      "news": "<a href=\"https://purenintendo.com/review-herdling-nintendo-switch/\" target=\"_blank\">Review: Herdling (Nintendo Switch)</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.24,
+      "last_price": 10.3,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.12,
+      "last_price": 2.17,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 63.97,
+      "last_price": 64.71,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/05/3145304/0/en/Peer-to-Peer-P2P-Lending-Market-Size-to-Exceed-USD-1-380-80-Billion-by-2034-Driven-by-Digitalization-and-Fintech-Adoption.html\" target=\"_blank\">Peer-to-Peer (P2P) Lending Market Size to Exceed USD 1,380.80 Billion by 2034 Driven by Digitalization and Fintech Adoption</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 247.05,
+      "last_price": 248.85,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 141.42,
+      "last_price": 141.8,
       "news": "<a href=\"https://www.etfdailynews.com/2025/08/29/ameriprise-financial-inc-lowers-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Ameriprise Financial Inc. Lowers Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.68,
+      "last_price": 14.57,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-07T16:00:00+00:00",
-  "data_date": "2025-09-07",
+  "last_updated": "2025-09-08T16:00:00+00:00",
+  "data_date": "2025-09-08",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
