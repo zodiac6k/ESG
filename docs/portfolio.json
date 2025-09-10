@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "49.94%",
-      "CAGR": "14.46%",
+      "Total Return": "49.83%",
+      "CAGR": "14.43%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.54"
     },
     "QQQ": {
-      "Total Return": "47.43%",
-      "CAGR": "13.81%",
+      "Total Return": "47.85%",
+      "CAGR": "13.92%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "42.77%",
-      "CAGR": "12.60%",
+      "Total Return": "43.10%",
+      "CAGR": "12.69%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 344.67,
+      "last_price": 342.95,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/05/waste-management-stocks-worth-watching-september-3rd/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 September 3rd</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 132.73,
-      "news": "<a href=\"https://www.forbes.com/sites/shimiteobialo/2025/09/04/meroka-raises-6m-to-drive-employee-ownership-at-independent-medical-practices/\" target=\"_blank\">Meroka Raises $6M To Drive Employee Ownership At Independent Medical Practices</a>"
+      "last_price": 132.05,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/announcing-sagemaker-unified-studio-workshops-for-financial-services/\" target=\"_blank\">Announcing SageMaker Unified Studio Workshops for Financial Services</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 214.75,
-      "news": "<a href=\"https://www.tuko.co.ke/entertainment/celebrities/602258-dalmas-otieno-late-mps-grand-rongo-mansion-wows-kenyans-residents-mourn-him/\" target=\"_blank\">Dalmas Otieno: Late MP\u2019s Grand Rongo Mansion Wows Kenyans as Residents\u00a0Mourn\u00a0Him</a>"
+      "last_price": 214.2,
+      "news": "<a href=\"https://dirt.asla.org/2025/09/08/asla-reduced-greenhouse-gas-emissions-by-20-percent-in-2024/\" target=\"_blank\">ASLA Reduced Greenhouse Gas Emissions by 20 Percent in 2024</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 498.2,
+      "last_price": 498.41,
       "news": "<a href=\"https://4sysops.com/archives/windows-backup-for-organizations-features-installation-and-user-feedback/\" target=\"_blank\">Windows Backup for Organizations: Features, installation, and user feedback</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 168.31,
+      "last_price": 170.76,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/06/metaverse-stocks-to-watch-today-september-4th/\" target=\"_blank\">Metaverse Stocks To Watch Today \u2013 September 4th</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 156.1,
+      "last_price": 162.36,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 428.06,
+      "last_price": 423.51,
       "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.61,
+      "last_price": 44.36,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 162.05,
-      "news": "<a href=\"https://www.barchart.com/story/news/34037277/inflation-fed-leadership-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation, Fed Leadership and Other Key Things to Watch this Week</a>"
+      "last_price": 163.5,
+      "news": "No news available"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 226.52,
-      "news": "<a href=\"https://purenintendo.com/review-herdling-nintendo-switch/\" target=\"_blank\">Review: Herdling (Nintendo Switch)</a>"
+      "last_price": 225.56,
+      "news": "<a href=\"https://www.bostonherald.com/2025/09/08/sweden-climate-reindeer/\" target=\"_blank\">Sweden\u2019s plans to mine rare-earth minerals could ruin the lives of Indigenous Sami reindeer herders</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.3,
+      "last_price": 10.12,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.17,
+      "last_price": 2.1,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 64.71,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/05/3145304/0/en/Peer-to-Peer-P2P-Lending-Market-Size-to-Exceed-USD-1-380-80-Billion-by-2034-Driven-by-Digitalization-and-Fintech-Adoption.html\" target=\"_blank\">Peer-to-Peer (P2P) Lending Market Size to Exceed USD 1,380.80 Billion by 2034 Driven by Digitalization and Fintech Adoption</a>"
+      "last_price": 64.3,
+      "news": "<a href=\"https://variety.com/2025/shopping/news/ifa-berlin-2025-best-tech-1236509112/\" target=\"_blank\">The Best of IFA Berlin 2025: 100-Inch LED TVs, 360-Degree AI Drones, Stair-Climbing Vacuums and More</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 248.85,
+      "last_price": 249.06,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,8 +168,8 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 141.8,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/08/29/ameriprise-financial-inc-lowers-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Ameriprise Financial Inc. Lowers Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
+      "last_price": 142.13,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/08/baird-financial-group-inc-decreases-stock-holdings-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Baird Financial Group Inc. Decreases Stock Holdings in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
       "ticker": "ICLN",
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.57,
+      "last_price": 14.39,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-08T16:00:00+00:00",
-  "data_date": "2025-09-08",
+  "last_updated": "2025-09-09T16:00:00+00:00",
+  "data_date": "2025-09-09",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
