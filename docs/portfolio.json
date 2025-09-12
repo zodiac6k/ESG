@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "50.72%",
-      "CAGR": "14.65%",
+      "Total Return": "52.67%",
+      "CAGR": "15.15%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.54"
+      "Sharpe Ratio": "0.56"
     },
     "QQQ": {
-      "Total Return": "47.90%",
-      "CAGR": "13.93%",
+      "Total Return": "48.76%",
+      "CAGR": "14.15%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "43.51%",
-      "CAGR": "12.80%",
+      "Total Return": "44.70%",
+      "CAGR": "13.11%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 339.39,
-      "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/rok/2025/rok-250904-rok-mnd03.htm\" target=\"_blank\">Ulchi Freedom Shield (UFS) Exercise Reinforces \"Fight Tonight\" Combined Defense Posture</a>"
+      "last_price": 350.54,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/10/waste-management-stocks-worth-watching-september-8th/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 September 8th</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 133.67,
+      "last_price": 137.47,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/announcing-sagemaker-unified-studio-workshops-for-financial-services/\" target=\"_blank\">Announcing SageMaker Unified Studio Workshops for Financial Services</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 211.7,
-      "news": "<a href=\"https://financialpost.com/pmn/business-wire-news-releases-pmn/lgc-group-opens-100m-organic-chemistry-synthesis-centre-of-excellence-in-vaughan-strengthening-canadas-role-in-global-life-sciences\" target=\"_blank\">LGC Group Opens $100M Organic Chemistry Synthesis Centre of Excellence in Vaughan, Strengthening Canada\u2019s Role in Global Life Sciences</a>"
+      "last_price": 215.31,
+      "news": "<a href=\"https://freerepublic.com/focus/f-news/4339596/posts\" target=\"_blank\">RFK Jr. Has Declared Full-Blown War on CDC</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 500.37,
+      "last_price": 501.01,
       "news": "<a href=\"https://4sysops.com/archives/windows-backup-for-organizations-features-installation-and-user-feedback/\" target=\"_blank\">Windows Backup for Organizations: Features, installation, and user feedback</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 177.33,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/06/metaverse-stocks-to-watch-today-september-4th/\" target=\"_blank\">Metaverse Stocks To Watch Today \u2013 September 4th</a>"
+      "last_price": 177.17,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/10/best-penny-stocks-to-consider-september-8th/\" target=\"_blank\">Best Penny Stocks To Consider \u2013 September 8th</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 166.74,
+      "last_price": 164.36,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 424.87,
+      "last_price": 433.38,
       "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.4,
+      "last_price": 44.95,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 163.42,
+      "last_price": 170.15,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 225.85,
-      "news": "<a href=\"https://crookedtimber.org/2025/09/09/my-down-the-back-of-the-sofa-theory-of-the-emerging-stage-of-capitalism-plus-australian-magpies/\" target=\"_blank\">My down the back of the sofa theory of the emerging stage of capitalism. Plus, Australian magpies.</a>"
+      "last_price": 224.53,
+      "news": "<a href=\"https://science.nasa.gov/science-research/earth-science/summary-of-the-11th-above-science-team-meeting/\" target=\"_blank\">Summary of the 11th ABoVE Science Team Meeting</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.8,
+      "last_price": 9.85,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.12,
+      "last_price": 2.25,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 64.19,
-      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331845\" target=\"_blank\">How data assets influence enterprise persistent innovation: Evidence from China</a>"
+      "last_price": 65.36,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/10/3147670/28124/en/Autonomous-Vehicles-Market-Forecast-and-Competitive-Analysis-Report-2025-2033-Featuring-Ford-Volvo-AUDI-Aktiengesellschaft-General-Motors-Tesla-Toyota-Uber-Technologies-BMW.html\" target=\"_blank\">Autonomous Vehicles Market Forecast and Competitive Analysis Report 2025-2033 Featuring Ford, Volvo, AUDI Aktiengesellschaft, General Motors, Tesla, Toyota, Uber Technologies, BMW</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 253.45,
+      "last_price": 255.19,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 142.5,
+      "last_price": 143.75,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/08/baird-financial-group-inc-decreases-stock-holdings-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Baird Financial Group Inc. Decreases Stock Holdings in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.56,
+      "last_price": 14.69,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-10T16:00:00+00:00",
-  "data_date": "2025-09-10",
+  "last_updated": "2025-09-11T16:00:00+00:00",
+  "data_date": "2025-09-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
