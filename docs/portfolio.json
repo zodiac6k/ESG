@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "52.67%",
-      "CAGR": "15.15%",
+      "Total Return": "52.38%",
+      "CAGR": "15.07%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.56"
+      "Sharpe Ratio": "0.55"
     },
     "QQQ": {
-      "Total Return": "48.76%",
-      "CAGR": "14.15%",
+      "Total Return": "49.41%",
+      "CAGR": "14.32%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "44.70%",
-      "CAGR": "13.11%",
+      "Total Return": "44.66%",
+      "CAGR": "13.10%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 350.54,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/10/waste-management-stocks-worth-watching-september-8th/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 September 8th</a>"
+      "last_price": 344.93,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/11/waste-management-stocks-worth-watching-september-9th/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 September 9th</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 137.47,
+      "last_price": 135.1,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/announcing-sagemaker-unified-studio-workshops-for-financial-services/\" target=\"_blank\">Announcing SageMaker Unified Studio Workshops for Financial Services</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 215.31,
+      "last_price": 211.46,
       "news": "<a href=\"https://freerepublic.com/focus/f-news/4339596/posts\" target=\"_blank\">RFK Jr. Has Declared Full-Blown War on CDC</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 501.01,
+      "last_price": 509.9,
       "news": "<a href=\"https://4sysops.com/archives/windows-backup-for-organizations-features-installation-and-user-feedback/\" target=\"_blank\">Windows Backup for Organizations: Features, installation, and user feedback</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 177.17,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/10/best-penny-stocks-to-consider-september-8th/\" target=\"_blank\">Best Penny Stocks To Consider \u2013 September 8th</a>"
+      "last_price": 177.82,
+      "news": "<a href=\"https://cointelegraph.com/news/bitcoin-dollar4-3b-monthly-options-expiry-paves-path-to-dollar120k\" target=\"_blank\">$4.3B Bitcoin options expiry could open the door for a BTC rally to $120K</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 164.36,
+      "last_price": 171.43,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 433.38,
+      "last_price": 436.1,
       "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.95,
+      "last_price": 44.39,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 170.15,
+      "last_price": 167.8,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 224.53,
-      "news": "<a href=\"https://science.nasa.gov/science-research/earth-science/summary-of-the-11th-above-science-team-meeting/\" target=\"_blank\">Summary of the 11th ABoVE Science Team Meeting</a>"
+      "last_price": 221.15,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/11/3148717/28124/en/The-Global-Aftermarket-for-Wiper-Motors-2025-2030-Consumer-Demand-for-Digital-Services-is-Prompting-Distributors-to-Adopt-Smart-Platforms.html\" target=\"_blank\">The Global Aftermarket for Wiper Motors 2025-2030: Consumer Demand for Digital Services is Prompting Distributors to Adopt Smart Platforms</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.85,
+      "last_price": 9.81,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.25,
+      "last_price": 2.23,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 65.36,
+      "last_price": 64.85,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/10/3147670/28124/en/Autonomous-Vehicles-Market-Forecast-and-Competitive-Analysis-Report-2025-2033-Featuring-Ford-Volvo-AUDI-Aktiengesellschaft-General-Motors-Tesla-Toyota-Uber-Technologies-BMW.html\" target=\"_blank\">Autonomous Vehicles Market Forecast and Competitive Analysis Report 2025-2033 Featuring Ford, Volvo, AUDI Aktiengesellschaft, General Motors, Tesla, Toyota, Uber Technologies, BMW</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 255.19,
+      "last_price": 255.64,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 143.75,
+      "last_price": 143.59,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/08/baird-financial-group-inc-decreases-stock-holdings-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Baird Financial Group Inc. Decreases Stock Holdings in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.69,
+      "last_price": 14.63,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-11T16:00:00+00:00",
-  "data_date": "2025-09-11",
+  "last_updated": "2025-09-12T16:00:00+00:00",
+  "data_date": "2025-09-12",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
