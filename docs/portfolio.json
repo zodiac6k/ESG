@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 135.1,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/announcing-sagemaker-unified-studio-workshops-for-financial-services/\" target=\"_blank\">Announcing SageMaker Unified Studio Workshops for Financial Services</a>"
+      "news": "<a href=\"https://www.forbes.com/sites/jamiehailstone/2025/09/12/how-startups-are-helping-the-livestock-farming-sector-reduce-emissions/\" target=\"_blank\">How Startups Are Helping The Livestock Farming Sector Reduce Emissions</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 211.46,
-      "news": "<a href=\"https://freerepublic.com/focus/f-news/4339596/posts\" target=\"_blank\">RFK Jr. Has Declared Full-Blown War on CDC</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/honeywell-international-inc-hon-announces-150930679.html\" target=\"_blank\">Honeywell International Inc. (HON) Announces $600 Million Equity Capital Raise for Its Quantum Subsidiary Quantinuum</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 509.9,
-      "news": "<a href=\"https://4sysops.com/archives/windows-backup-for-organizations-features-installation-and-user-feedback/\" target=\"_blank\">Windows Backup for Organizations: Features, installation, and user feedback</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/34757161/should-you-buy-sell-or-hold-uipath-stock-after-q2-earnings\" target=\"_blank\">Should You Buy, Sell, or Hold UiPath Stock After Q2 Earnings?</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 177.82,
-      "news": "<a href=\"https://cointelegraph.com/news/bitcoin-dollar4-3b-monthly-options-expiry-paves-path-to-dollar120k\" target=\"_blank\">$4.3B Bitcoin options expiry could open the door for a BTC rally to $120K</a>"
+      "news": "<a href=\"https://www.fool.com.au/2025/09/13/thematic-asx-etf-investing-ideas/\" target=\"_blank\">Thematic ASX ETF investing ideas</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 221.15,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/11/3148717/28124/en/The-Global-Aftermarket-for-Wiper-Motors-2025-2030-Consumer-Demand-for-Digital-Services-is-Prompting-Distributors-to-Adopt-Smart-Platforms.html\" target=\"_blank\">The Global Aftermarket for Wiper Motors 2025-2030: Consumer Demand for Digital Services is Prompting Distributors to Adopt Smart Platforms</a>"
+      "news": "<a href=\"https://richmond.com/news/local/government-politics/article_a7d3a257-03c6-49af-975a-7965cf6505d8.html\" target=\"_blank\">Public housing CEO apologizes for saying Mayor Avula supports Gilpin redevelopment</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 64.85,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/10/3147670/28124/en/Autonomous-Vehicles-Market-Forecast-and-Competitive-Analysis-Report-2025-2033-Featuring-Ford-Volvo-AUDI-Aktiengesellschaft-General-Motors-Tesla-Toyota-Uber-Technologies-BMW.html\" target=\"_blank\">Autonomous Vehicles Market Forecast and Competitive Analysis Report 2025-2033 Featuring Ford, Volvo, AUDI Aktiengesellschaft, General Motors, Tesla, Toyota, Uber Technologies, BMW</a>"
+      "news": "<a href=\"https://www.fool.com.au/2025/09/13/thematic-asx-etf-investing-ideas/\" target=\"_blank\">Thematic ASX ETF investing ideas</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-12T16:00:00+00:00",
-  "data_date": "2025-09-12",
+  "last_updated": "2025-09-13T16:00:00+00:00",
+  "data_date": "2025-09-13",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
