@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 211.46,
-      "news": "<a href=\"https://finance.yahoo.com/news/honeywell-international-inc-hon-announces-150930679.html\" target=\"_blank\">Honeywell International Inc. (HON) Announces $600 Million Equity Capital Raise for Its Quantum Subsidiary Quantinuum</a>"
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 221.15,
-      "news": "<a href=\"https://richmond.com/news/local/government-politics/article_a7d3a257-03c6-49af-975a-7965cf6505d8.html\" target=\"_blank\">Public housing CEO apologizes for saying Mayor Avula supports Gilpin redevelopment</a>"
+      "news": "<a href=\"https://www.lawyersgunsmoneyblog.com/2025/09/music-notes-222\" target=\"_blank\">Music Notes</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-13T16:00:00+00:00",
-  "data_date": "2025-09-13",
+  "last_updated": "2025-09-14T16:00:00+00:00",
+  "data_date": "2025-09-14",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
