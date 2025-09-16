@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "52.38%",
-      "CAGR": "15.07%",
+      "Total Return": "53.60%",
+      "CAGR": "15.38%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.55"
+      "Sharpe Ratio": "0.56"
     },
     "QQQ": {
-      "Total Return": "49.41%",
-      "CAGR": "14.32%",
+      "Total Return": "50.69%",
+      "CAGR": "14.65%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "44.66%",
-      "CAGR": "13.10%",
+      "Total Return": "45.43%",
+      "CAGR": "13.30%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 344.93,
+      "last_price": 346.44,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/11/waste-management-stocks-worth-watching-september-9th/\" target=\"_blank\">Waste Management Stocks Worth Watching \u2013 September 9th</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 135.1,
+      "last_price": 135.66,
       "news": "<a href=\"https://www.forbes.com/sites/jamiehailstone/2025/09/12/how-startups-are-helping-the-livestock-farming-sector-reduce-emissions/\" target=\"_blank\">How Startups Are Helping The Livestock Farming Sector Reduce Emissions</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 211.46,
+      "last_price": 211.74,
       "news": "No news available"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 509.9,
+      "last_price": 515.36,
       "news": "<a href=\"https://www.barchart.com/story/news/34757161/should-you-buy-sell-or-hold-uipath-stock-after-q2-earnings\" target=\"_blank\">Should You Buy, Sell, or Hold UiPath Stock After Q2 Earnings?</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 177.82,
+      "last_price": 177.75,
       "news": "<a href=\"https://www.fool.com.au/2025/09/13/thematic-asx-etf-investing-ideas/\" target=\"_blank\">Thematic ASX ETF investing ideas</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 171.43,
+      "last_price": 171.21,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 436.1,
+      "last_price": 444.77,
       "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.39,
+      "last_price": 44.16,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 167.8,
+      "last_price": 170.93,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 221.15,
-      "news": "<a href=\"https://www.lawyersgunsmoneyblog.com/2025/09/music-notes-222\" target=\"_blank\">Music Notes</a>"
+      "last_price": 225.79,
+      "news": "<a href=\"https://screenrant.com/tv-shows-defined-2010s/\" target=\"_blank\">The 10 Best TV Shows That Defined The 2010s Golden Age Of Television</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.81,
+      "last_price": 9.87,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.23,
+      "last_price": 2.33,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 64.85,
+      "last_price": 65.29,
       "news": "<a href=\"https://www.fool.com.au/2025/09/13/thematic-asx-etf-investing-ideas/\" target=\"_blank\">Thematic ASX ETF investing ideas</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 255.64,
+      "last_price": 257.8,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,8 +168,8 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 143.59,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/08/baird-financial-group-inc-decreases-stock-holdings-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Baird Financial Group Inc. Decreases Stock Holdings in iShares ESG Aware MSCI USA ETF $ESGU</a>"
+      "last_price": 144.37,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/14/modern-wealth-management-llc-raises-stock-holdings-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Modern Wealth Management LLC Raises Stock Holdings in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
       "ticker": "ICLN",
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.63,
+      "last_price": 14.81,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-14T16:00:00+00:00",
-  "data_date": "2025-09-14",
+  "last_updated": "2025-09-15T16:00:00+00:00",
+  "data_date": "2025-09-15",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
