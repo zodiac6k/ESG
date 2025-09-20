@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "56.69%",
-      "CAGR": "16.15%",
+      "Total Return": "57.74%",
+      "CAGR": "16.41%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.58"
     },
     "QQQ": {
-      "Total Return": "51.62%",
-      "CAGR": "14.88%",
+      "Total Return": "52.65%",
+      "CAGR": "15.14%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "45.72%",
-      "CAGR": "13.37%",
+      "Total Return": "46.04%",
+      "CAGR": "13.45%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 348.56,
+      "last_price": 347.82,
       "news": "<a href=\"https://www.kiwipolitico.com/2025/09/the-chaotic-reaction/\" target=\"_blank\">The Chaotic Reaction.</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 131.91,
+      "last_price": 132.34,
       "news": "<a href=\"https://healthsystemcio.com/2025/09/17/cms-opens-50b-rural-health-transformation-funding-with-tech-modernization-in-the-spotlight/\" target=\"_blank\">CMS Opens $50B Rural Health Transformation Funding With Tech Modernization in the Spotlight</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 210.2,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/17/honeywell-international-inc-hon-shares-bought-by-nbc-securities-inc/\" target=\"_blank\">Honeywell International Inc. $HON Shares Bought by NBC Securities Inc.</a>"
+      "last_price": 209.37,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/18/harbor-capital-advisors-inc-sells-60-shares-of-honeywell-international-inc-hon/\" target=\"_blank\">Harbor Capital Advisors Inc. Sells 60 Shares of Honeywell International Inc. $HON</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 508.45,
+      "last_price": 517.93,
       "news": "<a href=\"https://biztoc.com/x/57010ad64ffe6f9e\" target=\"_blank\">OpenAI Restructure Progress Eases Investor Concerns, Microsoft\u2019s (MSFT) Ties Bolster AI Growth Outlook</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 176.24,
-      "news": "<a href=\"https://biztoc.com/x/67aa2b308201a751\" target=\"_blank\">Analysts Stay Bullish on Nvidia (NVDA) Despite Rising Competitive Pressures from China</a>"
+      "last_price": 176.67,
+      "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 176.97,
+      "last_price": 182.39,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 502.63,
-      "news": "<a href=\"https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week\" target=\"_blank\">NVDA Earnings, PCE and Other Key Things to Watch this Week</a>"
+      "last_price": 502.55,
+      "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 46.19,
+      "last_price": 46.48,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 189.76,
+      "last_price": 190.1,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 222.11,
-      "news": "No news available"
+      "last_price": 230.48,
+      "news": "<a href=\"https://www.digitaljournal.com/tech-science/environment-snow-melts-more-quickly-in-forests-that-have-been-burned/article\" target=\"_blank\">Environment: Snow melts more quickly in forests that have been burned</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.93,
+      "last_price": 10.53,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.47,
+      "last_price": 2.45,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 66.34,
+      "last_price": 66.4,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/17/3151452/28124/en/FinTech-Marketplace-Forecast-Report-2025-2030-with-Profiles-of-PayPal-Fiserv-Adyen-Global-Payments-Stripe-Fidelity-National-Information-Services-Block-Worldline-Klarna-Bank-and-Aff.html\" target=\"_blank\">FinTech Marketplace Forecast Report 2025-2030, with Profiles of PayPal, Fiserv, Adyen, Global Payments, Stripe, Fidelity National Information Services, Block, Worldline, Klarna Bank, and Affirm</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 267.57,
+      "last_price": 265.86,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 144.45,
+      "last_price": 145.14,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/15/focus-partners-wealth-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Focus Partners Wealth Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.04,
+      "last_price": 15.17,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-18T16:00:00+00:00",
-  "data_date": "2025-09-18",
+  "last_updated": "2025-09-19T16:00:00+00:00",
+  "data_date": "2025-09-19",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
