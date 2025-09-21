@@ -30,8 +30,8 @@
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "46.04%",
-      "CAGR": "13.45%",
+      "Total Return": "46.44%",
+      "CAGR": "13.56%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 347.82,
-      "news": "<a href=\"https://www.kiwipolitico.com/2025/09/the-chaotic-reaction/\" target=\"_blank\">The Chaotic Reaction.</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/19/renewable-energy-stocks-to-consider-september-17th/\" target=\"_blank\">Renewable Energy Stocks To Consider \u2013 September 17th</a>"
     },
     {
       "ticker": "EMR",
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 132.34,
-      "news": "<a href=\"https://healthsystemcio.com/2025/09/17/cms-opens-50b-rural-health-transformation-funding-with-tech-modernization-in-the-spotlight/\" target=\"_blank\">CMS Opens $50B Rural Health Transformation Funding With Tech Modernization in the Spotlight</a>"
+      "news": "<a href=\"https://www.gov.uk/government/publications/b8-1af-european-metal-recycling-limited-environmental-permit-issued-eprcb3402mlv005\" target=\"_blank\">Notice: B8 1AF, European Metal Recycling Limited: environmental permit issued - EPR/CB3402ML/V005</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 209.37,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/18/harbor-capital-advisors-inc-sells-60-shares-of-honeywell-international-inc-hon/\" target=\"_blank\">Harbor Capital Advisors Inc. Sells 60 Shares of Honeywell International Inc. $HON</a>"
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/india/mea-issues-welcome-message-to-nepals-new-interim-govt-reaffirms-steadfast-support-for-peace-stability/articleshow/123998875.cms\" target=\"_blank\">MEA issues welcome message to Nepal's new interim govt, reaffirms steadfast support for peace, stability</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 517.93,
-      "news": "<a href=\"https://biztoc.com/x/57010ad64ffe6f9e\" target=\"_blank\">OpenAI Restructure Progress Eases Investor Concerns, Microsoft\u2019s (MSFT) Ties Bolster AI Growth Outlook</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now\" target=\"_blank\">A $6.3 Billion Reason to Buy CoreWeave Stock Now</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 176.67,
-      "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now\" target=\"_blank\">A $6.3 Billion Reason to Buy CoreWeave Stock Now</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 230.48,
-      "news": "<a href=\"https://www.digitaljournal.com/tech-science/environment-snow-melts-more-quickly-in-forests-that-have-been-burned/article\" target=\"_blank\">Environment: Snow melts more quickly in forests that have been burned</a>"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/20/3153479/0/en/Masonry-Expert-Alan-Williams-Discusses-When-to-Repair-Concrete-Walkways-or-Patios-for-HelloNation.html\" target=\"_blank\">Masonry Expert Alan Williams Discusses When to Repair Concrete Walkways or Patios for HelloNation</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 66.4,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/17/3151452/28124/en/FinTech-Marketplace-Forecast-Report-2025-2030-with-Profiles-of-PayPal-Fiserv-Adyen-Global-Payments-Stripe-Fidelity-National-Information-Services-Block-Worldline-Klarna-Bank-and-Aff.html\" target=\"_blank\">FinTech Marketplace Forecast Report 2025-2030, with Profiles of PayPal, Fiserv, Adyen, Global Payments, Stripe, Fidelity National Information Services, Block, Worldline, Klarna Bank, and Affirm</a>"
+      "news": "<a href=\"https://news.harvard.edu/gazette/story/2025/09/how-ai-could-radically-change-schools-by-2050/\" target=\"_blank\">How AI could radically change schools\u00a0by 2050</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-19T16:00:00+00:00",
-  "data_date": "2025-09-19",
+  "last_updated": "2025-09-20T16:00:00+00:00",
+  "data_date": "2025-09-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
