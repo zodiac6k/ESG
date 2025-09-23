@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "57.74%",
-      "CAGR": "16.41%",
+      "Total Return": "58.99%",
+      "CAGR": "16.71%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.58"
+      "Sharpe Ratio": "0.59"
     },
     "QQQ": {
-      "Total Return": "52.65%",
-      "CAGR": "15.14%",
+      "Total Return": "53.37%",
+      "CAGR": "15.32%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "46.44%",
-      "CAGR": "13.56%",
+      "Total Return": "47.14%",
+      "CAGR": "13.74%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 347.82,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/19/renewable-energy-stocks-to-consider-september-17th/\" target=\"_blank\">Renewable Energy Stocks To Consider \u2013 September 17th</a>"
+      "last_price": 345.36,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/21/top-waste-management-stocks-to-watch-today-september-19th/\" target=\"_blank\">Top Waste Management Stocks To Watch Today \u2013 September 19th</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 132.34,
+      "last_price": 132.84,
       "news": "<a href=\"https://www.gov.uk/government/publications/b8-1af-european-metal-recycling-limited-environmental-permit-issued-eprcb3402mlv005\" target=\"_blank\">Notice: B8 1AF, European Metal Recycling Limited: environmental permit issued - EPR/CB3402ML/V005</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 209.37,
+      "last_price": 209.0,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/20/sovran-advisors-llc-boosts-stake-in-honeywell-international-inc-hon/\" target=\"_blank\">Sovran Advisors LLC Boosts Stake in Honeywell International Inc. $HON</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 517.93,
+      "last_price": 514.45,
       "news": "<a href=\"https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now\" target=\"_blank\">A $6.3 Billion Reason to Buy CoreWeave Stock Now</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 176.67,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/20/top-metaverse-stocks-to-follow-now-september-18th/\" target=\"_blank\">Top Metaverse Stocks To Follow Now \u2013 September 18th</a>"
+      "last_price": 183.61,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/21/promising-metaverse-stocks-to-add-to-your-watchlist-september-19th/\" target=\"_blank\">Promising Metaverse Stocks To Add to Your Watchlist \u2013 September 19th</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 182.39,
+      "last_price": 179.33,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 502.55,
+      "last_price": 493.14,
       "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 46.48,
+      "last_price": 46.54,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 190.1,
+      "last_price": 200.52,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 230.48,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/20/willis-lease-finance-nasdaqwlfc-vs-nabtesco-otcmktsnctkf-head-to-head-analysis/\" target=\"_blank\">Willis Lease Finance (NASDAQ:WLFC) vs. Nabtesco (OTCMKTS:NCTKF) Head-To-Head Analysis</a>"
+      "last_price": 229.54,
+      "news": "No news available"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.53,
+      "last_price": 10.37,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.45,
+      "last_price": 2.5,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 66.4,
-      "news": "<a href=\"https://timesofindia.indiatimes.com/education/news/are-you-a-history-professor-cracking-the-new-us-citizenship-test-could-be-easier-for-you-heres-why/articleshow/124009019.cms\" target=\"_blank\">Are you a history professor? Cracking the new US citizenship test could be easier for you, here\u2019s why</a>"
+      "last_price": 67.23,
+      "news": "<a href=\"https://zycrypto.com/final-stage-rcof-token-presale-at-0-16-ends-soon-before-bitmart-launch/\" target=\"_blank\">Final Stage: RCOF Token Presale at $0.16 Ends Soon Before Bitmart Launch</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 265.86,
+      "last_price": 269.83,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 145.14,
+      "last_price": 145.86,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/20/ishares-esg-aware-msci-usa-etf-esgu-shares-sold-by-pallas-capital-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Sold by Pallas Capital Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.17,
+      "last_price": 15.36,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-21T16:00:00+00:00",
-  "data_date": "2025-09-21",
+  "last_updated": "2025-09-22T16:00:00+00:00",
+  "data_date": "2025-09-22",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
