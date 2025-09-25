@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "59.05%",
-      "CAGR": "16.73%",
+      "Total Return": "58.24%",
+      "CAGR": "16.53%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.59"
     },
     "QQQ": {
-      "Total Return": "52.53%",
-      "CAGR": "15.11%",
+      "Total Return": "51.99%",
+      "CAGR": "14.98%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "46.34%",
-      "CAGR": "13.53%",
+      "Total Return": "45.87%",
+      "CAGR": "13.41%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 342.73,
-      "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/rok/2025/rok-250917-prc-mofa01.htm\" target=\"_blank\">Wang Yi Holds Talks with ROK Foreign Minister Cho Hyun</a>"
+      "last_price": 342.48,
+      "news": "<a href=\"https://financialpost.com/globe-newswire/neo-battery-materials-upsizes-private-placement-to-5-5-million-appoints-korean-admiral-and-major-general-to-strengthen-defense-related-capabilities\" target=\"_blank\">NEO Battery Materials Upsizes Private Placement to $5.5 Million & Appoints Korean Admiral and Major General to Strengthen Defense-Related Capabilities</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 131.46,
+      "last_price": 131.92,
       "news": "<a href=\"https://www.gov.uk/government/publications/b8-1af-european-metal-recycling-limited-environmental-permit-issued-eprcb3402mlv005\" target=\"_blank\">Notice: B8 1AF, European Metal Recycling Limited: environmental permit issued - EPR/CB3402ML/V005</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 209.31,
-      "news": "<a href=\"https://www.gov.uk/government/speeches/i-stand-before-you-today-beneath-the-emblem-of-the-united-nations-to-confirm-the-historic-decision-of-the-british-government-to-recognise-the-state\" target=\"_blank\">I stand before you today, beneath the emblem of the United Nations, to confirm the historic decision of the British government to recognise the state of Palestine: UK Statement at the High-Level Conference for the Implementation of the Two-State Solution</a>"
+      "last_price": 208.6,
+      "news": "<a href=\"https://www.foxnews.com/politics/jim-jordan-pressed-subpoena-climate-group-accused-judicial-manipulation\" target=\"_blank\">Jim Jordan pressed to subpoena climate group accused of 'judicial manipulation'</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 509.23,
+      "last_price": 510.15,
       "news": "<a href=\"https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now\" target=\"_blank\">A $6.3 Billion Reason to Buy CoreWeave Stock Now</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 178.43,
-      "news": "<a href=\"https://decrypt.co/340794/nvidia-100-billion-openai-historic-ai-infrastructure-deal-stock-pops\" target=\"_blank\">Nvidia Commits $100 Billion to OpenAI in Historic AI Infrastructure Deal\u2014Stock Pops</a>"
+      "last_price": 176.97,
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-retreats-after-record-highs-as-powell-warns-of-highly-valued-markets-sp-500-slips-nasdaq-hit-by-nvidia-selloff-micron-jumps-on-strong-results/articleshow/124078451.cms\" target=\"_blank\">US stock market retreats after record highs as Powell warns of \u201chighly valued\u201d markets \u2014 S&P 500 slips, Nasdaq hit by Nvidia selloff, Micron jumps on strong results</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 182.55,
+      "last_price": 179.56,
       "news": "<a href=\"https://www.barchart.com/story/news/34609535/palantir-just-announced-a-lumen-deal-what-does-that-mean-for-pltr-stock-here\" target=\"_blank\">Palantir Just Announced a Lumen Deal. What Does That Mean for PLTR Stock Here?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 484.1,
+      "last_price": 476.33,
       "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 46.43,
+      "last_price": 45.52,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 200.87,
+      "last_price": 201.44,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 223.54,
-      "news": "<a href=\"https://allthatsinteresting.com/early-california-photos\" target=\"_blank\">Early Photos Of California Taken Long Before The Hollywood Walk Of Fame And The Golden Gate Bridge Were Built</a>"
+      "last_price": 222.57,
+      "news": "<a href=\"https://theconversation.com/how-indias-unplanned-hydropower-dams-and-tunnels-are-disrupting-himalayan-landscapes-261956\" target=\"_blank\">How India\u2019s unplanned hydropower dams and tunnels are disrupting Himalayan landscapes</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.69,
+      "last_price": 11.66,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.81,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/08/29/3141237/0/en/Banner-Year-for-Mesoblast-With-First-FDA-Product-Approval-and-Successful-Commercial-Launch-of-Ryoncil.html\" target=\"_blank\">Banner Year for Mesoblast With First FDA Product Approval and Successful Commercial Launch of Ryoncil\u00ae</a>"
+      "last_price": 2.92,
+      "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/09/24/childrens-multivitamins-pfas.aspx\" target=\"_blank\">Mamavation Investigation Finds Disturbing Toxins in Children's Multivitamins</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 67.02,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/22/reviewing-siebert-financial-nasdaqsieb-and-diamond-hill-investment-group-nasdaqdhil/\" target=\"_blank\">Reviewing Siebert Financial (NASDAQ:SIEB) and Diamond Hill Investment Group (NASDAQ:DHIL)</a>"
+      "last_price": 66.0,
+      "news": "<a href=\"https://newatlas.com/robotics/tum-seaclear-2-autonomous-diving-robot-gets-to-grips-with-seabed-trash/\" target=\"_blank\">Autonomous diving robot gets to grips with seabed trash</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 269.51,
+      "last_price": 269.1,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 145.03,
+      "last_price": 144.58,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/20/ishares-esg-aware-msci-usa-etf-esgu-shares-sold-by-pallas-capital-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Sold by Pallas Capital Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.19,
+      "last_price": 15.14,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-23T16:00:00+00:00",
-  "data_date": "2025-09-23",
+  "last_updated": "2025-09-24T16:00:00+00:00",
+  "data_date": "2025-09-24",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
