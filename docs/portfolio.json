@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "57.39%",
-      "CAGR": "16.32%",
+      "Total Return": "58.32%",
+      "CAGR": "16.55%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.58"
+      "Sharpe Ratio": "0.59"
     },
     "QQQ": {
-      "Total Return": "51.34%",
-      "CAGR": "14.81%",
+      "Total Return": "51.96%",
+      "CAGR": "14.97%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "45.20%",
-      "CAGR": "13.24%",
+      "Total Return": "46.03%",
+      "CAGR": "13.45%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 340.03,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/24/promising-waste-management-stocks-to-research-september-22nd/\" target=\"_blank\">Promising Waste Management Stocks To Research \u2013 September 22nd</a>"
+      "last_price": 343.58,
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/25/best-waste-management-stocks-worth-watching-september-23rd/\" target=\"_blank\">Best Waste Management Stocks Worth Watching \u2013 September 23rd</a>"
     },
     {
       "ticker": "EMR",
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 130.11,
-      "news": "<a href=\"https://www.databricks.com/blog/lag-agility-reinventing-freshworks-data-ingestion-architecture\" target=\"_blank\">From Lag to Agility: Reinventing Freshworks\u2019 Data Ingestion Architecture</a>"
+      "last_price": 128.6,
+      "news": "<a href=\"https://www.computerweekly.com/blog/Open-Source-Insider/Cloudera-Evolve25-Iceberg-foundations-form-unified-data-approach-to-AI-analytics\" target=\"_blank\">Cloudera Evolve25: Iceberg foundations form unified data approach to AI & analytics</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 207.6,
-      "news": "<a href=\"https://economictimes.indiatimes.com/wealth/tax/demand-for-extension-of-due-date-of-tax-audit-report-and-itr-filing-is-getting-wider-with-many-tax-bodies-writing-to-finance-minister-and-pmo/articleshow/124088405.cms\" target=\"_blank\">Demand for extension of due date of tax audit report and ITR filing is getting wider with many tax bodies writing to finance minister and PMO</a>"
+      "last_price": 208.19,
+      "news": "<a href=\"https://www.thehindubusinessline.com/companies/afcons-infrastructure-inducts-firoze-mistry-on-its-board/article70092990.ece\" target=\"_blank\">Afcons Infrastructure inducts Firoze Mistry on its board</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 507.03,
+      "last_price": 511.46,
       "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/09/24/ge-vernova-is-up-350-but-can-it-deliver/\" target=\"_blank\">GE Vernova Is Up 350%, But Can It Deliver?</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 177.69,
-      "news": "<a href=\"https://finance.yahoo.com/news/must-watch-robotics-stocks-could-151000347.html\" target=\"_blank\">Must-Watch Robotics Stocks That Could Drive Future Growth Trends</a>"
+      "last_price": 178.19,
+      "news": "<a href=\"https://www.barchart.com/story/news/35042216/as-intel-pops-on-potential-apple-stake-options-data-tells-us-intc-stock-could-be-headed-here-next\" target=\"_blank\">As Intel Pops on Potential Apple Stake, Options Data Tells Us INTC Stock Could Be Headed Here Next</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 179.12,
-      "news": "<a href=\"https://www.barchart.com/story/news/34988681/analysts-still-cant-get-enough-of-palantirs-secret-sauce-as-bofa-hikes-price-target-should-you-buy-pltr-stock-here\" target=\"_blank\">Analysts Still Can\u2019t Get Enough of Palantir\u2019s \u2018Secret Sauce\u2019 as BofA Hikes Price Target. Should You Buy PLTR Stock Here?</a>"
+      "last_price": 177.57,
+      "news": "<a href=\"https://finance.yahoo.com/news/why-analysts-palantir-pltr-unique-083020416.html\" target=\"_blank\">Why Analysts Say Palantir\u2019s (PLTR) Unique FDE Model Is Its \u2018Secret Sauce\u2019</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 473.09,
+      "last_price": 481.42,
       "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 44.87,
+      "last_price": 45.79,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 199.6,
-      "news": "No news available"
+      "last_price": 203.92,
+      "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 221.6,
-      "news": "<a href=\"https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-announces-snowflake-for-startups-to-help-companies-build-launch-and-scale-enterprise-grade-ai-innovations\" target=\"_blank\">Snowflake Announces Snowflake for Startups to Help Companies Build, Launch and Scale Enterprise-Grade AI Innovations</a>"
+      "last_price": 224.64,
+      "news": "<a href=\"https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/fullscreen-effects-pack-330743\" target=\"_blank\">Fullscreen Effects Pack by Gece Studio</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.59,
+      "last_price": 11.62,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.91,
+      "last_price": 3.11,
       "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/09/24/childrens-multivitamins-pfas.aspx\" target=\"_blank\">Mamavation Investigation Finds Disturbing Toxins in Children's Multivitamins</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 65.43,
+      "last_price": 65.27,
       "news": "<a href=\"https://newatlas.com/robotics/tum-seaclear-2-autonomous-diving-robot-gets-to-grips-with-seabed-trash/\" target=\"_blank\">Autonomous diving robot gets to grips with seabed trash</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 268.24,
+      "last_price": 268.83,
       "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 143.84,
+      "last_price": 144.75,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/20/ishares-esg-aware-msci-usa-etf-esgu-shares-sold-by-pallas-capital-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Sold by Pallas Capital Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.16,
+      "last_price": 15.21,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-25T16:00:00+00:00",
-  "data_date": "2025-09-25",
+  "last_updated": "2025-09-26T16:00:00+00:00",
+  "data_date": "2025-09-26",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
