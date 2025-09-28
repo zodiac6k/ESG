@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 208.19,
-      "news": "<a href=\"https://www.thehindubusinessline.com/companies/afcons-infrastructure-inducts-firoze-mistry-on-its-board/article70092990.ece\" target=\"_blank\">Afcons Infrastructure inducts Firoze Mistry on its board</a>"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/26/3157222/0/en/HNI-Corporation-Commences-Exchange-Offer-and-Consent-Solicitation.html\" target=\"_blank\">HNI Corporation Commences Exchange Offer and Consent Solicitation</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 511.46,
-      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/09/24/ge-vernova-is-up-350-but-can-it-deliver/\" target=\"_blank\">GE Vernova Is Up 350%, But Can It Deliver?</a>"
+      "news": "<a href=\"https://www.marketwatch.com/story/stocks-are-falling-for-the-third-day-in-a-row-is-this-the-start-of-a-deeper-pullback-62e4059e\" target=\"_blank\">Stocks fall for the third day in a row. Is this the start of a deeper pullback?</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 178.19,
-      "news": "<a href=\"https://www.barchart.com/story/news/35042216/as-intel-pops-on-potential-apple-stake-options-data-tells-us-intc-stock-could-be-headed-here-next\" target=\"_blank\">As Intel Pops on Potential Apple Stake, Options Data Tells Us INTC Stock Could Be Headed Here Next</a>"
+      "news": "<a href=\"https://biztoc.com/x/c135e796f83eab83\" target=\"_blank\">Are Nvidia\u2019s Latest AI Bets the Biggest Risk to Its $4.3 Trillion Valuation?</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 224.64,
-      "news": "<a href=\"https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/fullscreen-effects-pack-330743\" target=\"_blank\">Fullscreen Effects Pack by Gece Studio</a>"
+      "news": "<a href=\"https://www.digitaljournal.com/world/baby-its-cold-outside-states-that-need-to-save-the-most-for-utility-costs-this-winter/article\" target=\"_blank\">Baby it\u2019s cold outside: States that need to save the most for utility costs this winter</a>"
     },
     {
       "ticker": "SSYS",
@@ -169,7 +169,7 @@
       "quantity": 155.38,
       "initial_price": 71.51,
       "last_price": 144.75,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/09/20/ishares-esg-aware-msci-usa-etf-esgu-shares-sold-by-pallas-capital-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Sold by Pallas Capital Advisors LLC</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/09/26/traveka-wealth-llc-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Traveka Wealth LLC Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
       "ticker": "ICLN",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-26T16:00:00+00:00",
-  "data_date": "2025-09-26",
+  "last_updated": "2025-09-27T16:00:00+00:00",
+  "data_date": "2025-09-27",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
