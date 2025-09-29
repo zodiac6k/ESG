@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 224.64,
-      "news": "<a href=\"https://www.digitaljournal.com/world/baby-its-cold-outside-states-that-need-to-save-the-most-for-utility-costs-this-winter/article\" target=\"_blank\">Baby it\u2019s cold outside: States that need to save the most for utility costs this winter</a>"
+      "news": "<a href=\"https://www.syllad.com/meghalaya-positions-itself-as-model-for-responsible-tourism-in-india/\" target=\"_blank\">Meghalaya positions itself as model for responsible tourism in India</a>"
     },
     {
       "ticker": "SSYS",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 268.83,
-      "news": "<a href=\"https://siliconangle.com/2025/08/29/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
+      "news": "No news available"
     },
     {
       "ticker": "ESGU",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-27T16:00:00+00:00",
-  "data_date": "2025-09-27",
+  "last_updated": "2025-09-28T16:00:00+00:00",
+  "data_date": "2025-09-28",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
