@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "58.32%",
-      "CAGR": "16.55%",
+      "Total Return": "58.79%",
+      "CAGR": "16.66%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.59"
     },
     "QQQ": {
-      "Total Return": "51.96%",
-      "CAGR": "14.97%",
+      "Total Return": "52.67%",
+      "CAGR": "15.15%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "46.03%",
-      "CAGR": "13.45%",
+      "Total Return": "46.44%",
+      "CAGR": "13.56%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 343.58,
+      "last_price": 344.53,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/25/best-waste-management-stocks-worth-watching-september-23rd/\" target=\"_blank\">Best Waste Management Stocks Worth Watching \u2013 September 23rd</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 128.6,
-      "news": "<a href=\"https://www.computerweekly.com/blog/Open-Source-Insider/Cloudera-Evolve25-Iceberg-foundations-form-unified-data-approach-to-AI-analytics\" target=\"_blank\">Cloudera Evolve25: Iceberg foundations form unified data approach to AI & analytics</a>"
+      "last_price": 129.25,
+      "news": "<a href=\"https://www.forbes.com/sites/saharhashmi/2025/09/28/why-ai-evals-and-kpis-are-the-new-standard-for-scaling-healthcare-ai/\" target=\"_blank\">Why AI Evals And KPIs Are The New Standard For Scaling Healthcare AI</a>"
     },
     {
       "ticker": "HON",
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 208.19,
+      "last_price": 209.28,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/26/3157222/0/en/HNI-Corporation-Commences-Exchange-Offer-and-Consent-Solicitation.html\" target=\"_blank\">HNI Corporation Commences Exchange Offer and Consent Solicitation</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 511.46,
+      "last_price": 514.6,
       "news": "<a href=\"https://www.marketwatch.com/story/stocks-are-falling-for-the-third-day-in-a-row-is-this-the-start-of-a-deeper-pullback-62e4059e\" target=\"_blank\">Stocks fall for the third day in a row. Is this the start of a deeper pullback?</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 178.19,
+      "last_price": 181.85,
       "news": "<a href=\"https://biztoc.com/x/c135e796f83eab83\" target=\"_blank\">Are Nvidia\u2019s Latest AI Bets the Biggest Risk to Its $4.3 Trillion Valuation?</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 177.57,
+      "last_price": 178.86,
       "news": "<a href=\"https://finance.yahoo.com/news/why-analysts-palantir-pltr-unique-083020416.html\" target=\"_blank\">Why Analysts Say Palantir\u2019s (PLTR) Unique FDE Model Is Its \u2018Secret Sauce\u2019</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 481.42,
+      "last_price": 488.45,
       "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 45.79,
+      "last_price": 45.55,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 203.92,
+      "last_price": 204.95,
       "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 224.64,
-      "news": "<a href=\"https://www.syllad.com/meghalaya-positions-itself-as-model-for-responsible-tourism-in-india/\" target=\"_blank\">Meghalaya positions itself as model for responsible tourism in India</a>"
+      "last_price": 225.25,
+      "news": "<a href=\"https://www.yahoo.com/lifestyle/articles/best-cities-mbas-150409176.html\" target=\"_blank\">The Best Cities For MBAs</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.62,
+      "last_price": 11.31,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.11,
+      "last_price": 2.96,
       "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/09/24/childrens-multivitamins-pfas.aspx\" target=\"_blank\">Mamavation Investigation Finds Disturbing Toxins in Children's Multivitamins</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 268.83,
+      "last_price": 268.93,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 144.75,
+      "last_price": 145.19,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/26/traveka-wealth-llc-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Traveka Wealth LLC Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.21,
+      "last_price": 15.41,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-28T16:00:00+00:00",
-  "data_date": "2025-09-28",
+  "last_updated": "2025-09-29T16:00:00+00:00",
+  "data_date": "2025-09-29",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
