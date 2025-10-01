@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "58.79%",
-      "CAGR": "16.66%",
+      "Total Return": "59.83%",
+      "CAGR": "16.92%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.59"
+      "Sharpe Ratio": "0.60"
     },
     "QQQ": {
-      "Total Return": "52.67%",
-      "CAGR": "15.15%",
+      "Total Return": "53.08%",
+      "CAGR": "15.25%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "46.44%",
-      "CAGR": "13.56%",
+      "Total Return": "46.99%",
+      "CAGR": "13.70%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 344.53,
+      "last_price": 349.53,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/25/best-waste-management-stocks-worth-watching-september-23rd/\" target=\"_blank\">Best Waste Management Stocks Worth Watching \u2013 September 23rd</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 129.25,
+      "last_price": 131.18,
       "news": "<a href=\"https://www.forbes.com/sites/saharhashmi/2025/09/28/why-ai-evals-and-kpis-are-the-new-standard-for-scaling-healthcare-ai/\" target=\"_blank\">Why AI Evals And KPIs Are The New Standard For Scaling Healthcare AI</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 209.28,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/26/3157222/0/en/HNI-Corporation-Commences-Exchange-Offer-and-Consent-Solicitation.html\" target=\"_blank\">HNI Corporation Commences Exchange Offer and Consent Solicitation</a>"
+      "last_price": 210.5,
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 514.6,
+      "last_price": 517.95,
       "news": "<a href=\"https://www.marketwatch.com/story/stocks-are-falling-for-the-third-day-in-a-row-is-this-the-start-of-a-deeper-pullback-62e4059e\" target=\"_blank\">Stocks fall for the third day in a row. Is this the start of a deeper pullback?</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 181.85,
+      "last_price": 186.58,
       "news": "<a href=\"https://biztoc.com/x/c135e796f83eab83\" target=\"_blank\">Are Nvidia\u2019s Latest AI Bets the Biggest Risk to Its $4.3 Trillion Valuation?</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 178.86,
+      "last_price": 182.42,
       "news": "<a href=\"https://finance.yahoo.com/news/why-analysts-palantir-pltr-unique-083020416.html\" target=\"_blank\">Why Analysts Say Palantir\u2019s (PLTR) Unique FDE Model Is Its \u2018Secret Sauce\u2019</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 488.45,
+      "last_price": 490.38,
       "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 45.55,
+      "last_price": 45.3,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 204.95,
+      "last_price": 204.74,
       "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 225.25,
-      "news": "<a href=\"https://www.yahoo.com/lifestyle/articles/best-cities-mbas-150409176.html\" target=\"_blank\">The Best Cities For MBAs</a>"
+      "last_price": 225.55,
+      "news": "<a href=\"https://www.thestar.com.my/news/world/2025/09/30/norway-expects-deeper-cooperation-with-china-in-maritime-industry-official\" target=\"_blank\">Norway expects deeper cooperation with China in maritime industry: official</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.31,
+      "last_price": 11.2,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.96,
+      "last_price": 2.9,
       "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/09/24/childrens-multivitamins-pfas.aspx\" target=\"_blank\">Mamavation Investigation Finds Disturbing Toxins in Children's Multivitamins</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 65.27,
+      "last_price": 65.56,
       "news": "<a href=\"https://newatlas.com/robotics/tum-seaclear-2-autonomous-diving-robot-gets-to-grips-with-seabed-trash/\" target=\"_blank\">Autonomous diving robot gets to grips with seabed trash</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 268.93,
+      "last_price": 271.12,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 145.19,
+      "last_price": 145.6,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/26/traveka-wealth-llc-raises-stock-position-in-ishares-esg-aware-msci-usa-etf-esgu/\" target=\"_blank\">Traveka Wealth LLC Raises Stock Position in iShares ESG Aware MSCI USA ETF $ESGU</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.41,
+      "last_price": 15.48,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-09-29T16:00:00+00:00",
-  "data_date": "2025-09-29",
+  "last_updated": "2025-09-30T16:00:00+00:00",
+  "data_date": "2025-09-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
