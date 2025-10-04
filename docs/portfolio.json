@@ -19,14 +19,14 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "63.37%",
-      "CAGR": "17.78%",
+      "Total Return": "62.83%",
+      "CAGR": "17.65%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.62"
+      "Sharpe Ratio": "0.61"
     },
     "QQQ": {
-      "Total Return": "54.45%",
-      "CAGR": "15.59%",
+      "Total Return": "53.80%",
+      "CAGR": "15.43%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 348.69,
+      "last_price": 349.4,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/25/best-waste-management-stocks-worth-watching-september-23rd/\" target=\"_blank\">Best Waste Management Stocks Worth Watching \u2013 September 23rd</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 133.05,
+      "last_price": 134.76,
       "news": "<a href=\"https://www.esri.com/arcgis-blog/products/geoanalytics-engine/analytics/streamlining-spatial-data-discovery-and-analytics-on-amazon-emr-with-aws-glue-data-catalog-and-arcgis-geoanalytics-engine\" target=\"_blank\">Streamlining Spatial Data Discovery and Analytics on Amazon EMR with AWS Glue Data Catalog and ArcGIS GeoAnalytics Engine</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 211.01,
-      "news": "<a href=\"https://thechronicle.com.gh/feature-galamsey-issues-nearer-el-salvador-to-thee-1/\" target=\"_blank\">Feature: Galamsey Issues: Nearer El Salvador to Thee (1)</a>"
+      "last_price": 209.05,
+      "news": "<a href=\"https://ssir.org/articles/entry/oil-and-gas-health\" target=\"_blank\">Resisting Oil and Gas, For Health\u2019s Sake (Blog)</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 515.74,
+      "last_price": 517.35,
       "news": "<a href=\"https://www.marketwatch.com/story/stocks-are-falling-for-the-third-day-in-a-row-is-this-the-start-of-a-deeper-pullback-62e4059e\" target=\"_blank\">Stocks fall for the third day in a row. Is this the start of a deeper pullback?</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 188.89,
-      "news": "<a href=\"https://cointelegraph.com/news/eth-drops-as-crypto-stocks-correct-dollar547m-in-spot-etf-inflows-may-save-the-day\" target=\"_blank\">ETH falls as crypto, stocks correct, but $547M spot ETF inflows show TradFi positioning</a>"
+      "last_price": 187.62,
+      "news": "<a href=\"https://www.investopedia.com/could-amd-make-intel-business-as-hot-as-its-stock-11823153\" target=\"_blank\">Could AMD Make Intel's Business as Hot as Its Stock?</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 187.05,
+      "last_price": 173.07,
       "news": "<a href=\"https://finance.yahoo.com/news/why-analysts-palantir-pltr-unique-083020416.html\" target=\"_blank\">Why Analysts Say Palantir\u2019s (PLTR) Unique FDE Model Is Its \u2018Secret Sauce\u2019</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 496.8,
+      "last_price": 489.88,
       "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 45.64,
+      "last_price": 46.3,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 223.59,
+      "last_price": 217.53,
       "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 240.54,
-      "news": "<a href=\"https://autos.yahoo.com/classic-and-collector/articles/car-expert-gives-incredible-modern-134500893.html\" target=\"_blank\">Car expert gives incredible modern upgrade to stunning classic vehicle: 'I converted it'</a>"
+      "last_price": 235.09,
+      "news": "<a href=\"https://www.cbc.ca/news/canada/new-brunswick/water-levels-low-nb-colin-forsythe-watershed-steamboat-wharf-species-at-risk-1.7649568\" target=\"_blank\">'Scary' low water levels in N.B. are the new normal, says environmental scientist</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.58,
+      "last_price": 11.64,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.99,
+      "last_price": 3.12,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/30/3158585/8852/en/3D-Systems-Elevates-the-Art-of-Jewelry-Making-with-Introduction-of-MJP-300W-Plus.html\" target=\"_blank\">3D Systems Elevates the Art of Jewelry Making with Introduction of MJP 300W Plus</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 67.28,
+      "last_price": 67.82,
       "news": "<a href=\"https://newatlas.com/robotics/tum-seaclear-2-autonomous-diving-robot-gets-to-grips-with-seabed-trash/\" target=\"_blank\">Autonomous diving robot gets to grips with seabed trash</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 281.69,
+      "last_price": 279.96,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 146.44,
+      "last_price": 146.46,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/01/ishares-esg-aware-msci-usa-etf-esgu-shares-sold-by-signaturefd-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Sold by Signaturefd LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.89,
+      "last_price": 15.98,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-02T16:00:00+00:00",
-  "data_date": "2025-10-02",
+  "last_updated": "2025-10-03T16:00:00+00:00",
+  "data_date": "2025-10-03",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
