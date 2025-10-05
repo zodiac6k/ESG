@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 209.05,
-      "news": "<a href=\"https://ssir.org/articles/entry/oil-and-gas-health\" target=\"_blank\">Resisting Oil and Gas, For Health\u2019s Sake (Blog)</a>"
+      "news": "<a href=\"https://financialpost.com/pmn/business-wire-news-releases-pmn/world-green-economy-summit-hosts-a-high-level-ministerial-roundtable\" target=\"_blank\">World Green Economy Summit Hosts a High-Level Ministerial Roundtable</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 235.09,
-      "news": "<a href=\"https://www.cbc.ca/news/canada/new-brunswick/water-levels-low-nb-colin-forsythe-watershed-steamboat-wharf-species-at-risk-1.7649568\" target=\"_blank\">'Scary' low water levels in N.B. are the new normal, says environmental scientist</a>"
+      "news": "<a href=\"https://www.forbes.com/sites/petertaylor/2025/10/02/fueled-by-water-climate-change-isnt-slowing-down-south-floridas-waterfront-real-estate-boom-anytime-soon/\" target=\"_blank\">Fueled By Water: Climate Change Isn\u2019t Slowing Down South Florida\u2019s Waterfront Real Estate Boom Anytime Soon</a>"
     },
     {
       "ticker": "SSYS",
@@ -169,7 +169,7 @@
       "quantity": 155.38,
       "initial_price": 71.51,
       "last_price": 146.46,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/10/01/ishares-esg-aware-msci-usa-etf-esgu-shares-sold-by-signaturefd-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Sold by Signaturefd LLC</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
       "ticker": "ICLN",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-03T16:00:00+00:00",
-  "data_date": "2025-10-03",
+  "last_updated": "2025-10-04T16:00:00+00:00",
+  "data_date": "2025-10-04",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
