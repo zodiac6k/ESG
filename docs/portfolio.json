@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 209.05,
-      "news": "<a href=\"https://financialpost.com/pmn/business-wire-news-releases-pmn/world-green-economy-summit-hosts-a-high-level-ministerial-roundtable\" target=\"_blank\">World Green Economy Summit Hosts a High-Level Ministerial Roundtable</a>"
+      "news": "<a href=\"https://www.etfdailynews.com/2025/10/04/deutsche-bank-aktiengesellschaft-increases-honeywell-international-nasdaqhon-price-target-to-271-00/\" target=\"_blank\">Deutsche Bank Aktiengesellschaft Increases Honeywell International (NASDAQ:HON) Price Target to $271.00</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 235.09,
-      "news": "<a href=\"https://www.forbes.com/sites/petertaylor/2025/10/02/fueled-by-water-climate-change-isnt-slowing-down-south-floridas-waterfront-real-estate-boom-anytime-soon/\" target=\"_blank\">Fueled By Water: Climate Change Isn\u2019t Slowing Down South Florida\u2019s Waterfront Real Estate Boom Anytime Soon</a>"
+      "news": "<a href=\"https://www.cbc.ca/news/canada/edmonton/governments-jurisdiction-powers-1.7643702\" target=\"_blank\">Duties and division of powers: Which governments do what as Edmonton votes for new city council</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-04T16:00:00+00:00",
-  "data_date": "2025-10-04",
+  "last_updated": "2025-10-05T16:00:00+00:00",
+  "data_date": "2025-10-05",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
