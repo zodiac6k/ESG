@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "65.05%",
-      "CAGR": "18.18%",
+      "Total Return": "62.59%",
+      "CAGR": "17.59%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.63"
+      "Sharpe Ratio": "0.61"
     },
     "QQQ": {
-      "Total Return": "54.96%",
-      "CAGR": "15.72%",
+      "Total Return": "54.14%",
+      "CAGR": "15.51%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "48.19%",
-      "CAGR": "14.01%",
+      "Total Return": "47.64%",
+      "CAGR": "13.87%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 348.57,
+      "last_price": 344.22,
       "news": "<a href=\"https://www.etfdailynews.com/2025/09/25/best-waste-management-stocks-worth-watching-september-23rd/\" target=\"_blank\">Best Waste Management Stocks Worth Watching \u2013 September 23rd</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 134.77,
-      "news": "<a href=\"https://www.esri.com/arcgis-blog/products/geoanalytics-engine/analytics/streamlining-spatial-data-discovery-and-analytics-on-amazon-emr-with-aws-glue-data-catalog-and-arcgis-geoanalytics-engine\" target=\"_blank\">Streamlining Spatial Data Discovery and Analytics on Amazon EMR with AWS Glue Data Catalog and ArcGIS GeoAnalytics Engine</a>"
+      "last_price": 131.49,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/06/3161876/0/en/SCWorx-Renews-Agreement-with-Existing-Healthcare-Partner-for-Additional-Three-Years-and-113-Increase-in-Contract-Value.html\" target=\"_blank\">SCWorx Renews Agreement with Existing Healthcare Partner for Additional Three Years and 113% Increase in Contract Value</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 209.0,
-      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tick-up-as-government-shutdown-drags-on-232706734.html\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq futures tick up as government shutdown drags on</a>"
+      "last_price": 208.98,
+      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html\" target=\"_blank\">Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 528.57,
+      "last_price": 523.98,
       "news": "<a href=\"https://www.marketwatch.com/story/stocks-are-falling-for-the-third-day-in-a-row-is-this-the-start-of-a-deeper-pullback-62e4059e\" target=\"_blank\">Stocks fall for the third day in a row. Is this the start of a deeper pullback?</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 185.54,
-      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tick-up-as-government-shutdown-drags-on-232706734.html\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq futures tick up as government shutdown drags on</a>"
+      "last_price": 185.04,
+      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html\" target=\"_blank\">Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 179.53,
-      "news": "<a href=\"https://finance.yahoo.com/news/why-analysts-palantir-pltr-unique-083020416.html\" target=\"_blank\">Why Analysts Say Palantir\u2019s (PLTR) Unique FDE Model Is Its \u2018Secret Sauce\u2019</a>"
+      "last_price": 182.17,
+      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html\" target=\"_blank\">Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 495.95,
+      "last_price": 484.62,
       "news": "<a href=\"https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike\" target=\"_blank\">Wall Street blinked, then Nvidia built its boldest partnership yet</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 46.87,
+      "last_price": 45.95,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 223.91,
+      "last_price": 211.56,
       "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 242.52,
-      "news": "<a href=\"http://www.newgeography.com/content/008681-theodore-waddell-and-urgency-real\" target=\"_blank\">Theodore Waddell and the Urgency of the Real</a>"
+      "last_price": 234.81,
+      "news": "<a href=\"https://phys.org/news/2025-10-lake-tahoe-algae-seasonal-shifts.html\" target=\"_blank\">Lake Tahoe algae experiment suggests seasonal shifts ahead</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.88,
+      "last_price": 11.55,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.17,
+      "last_price": 3.14,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/30/3158585/8852/en/3D-Systems-Elevates-the-Art-of-Jewelry-Making-with-Introduction-of-MJP-300W-Plus.html\" target=\"_blank\">3D Systems Elevates the Art of Jewelry Making with Introduction of MJP 300W Plus</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.0,
-      "news": "<a href=\"https://economictimes.indiatimes.com/wealth/invest/choosing-a-financial-adviser-heres-where-to-look-and-what-to-check/articleshow/124302598.cms\" target=\"_blank\">Choosing a financial adviser? Here\u2019s where to look and what to check</a>"
+      "last_price": 67.8,
+      "news": "<a href=\"https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html\" target=\"_blank\">Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 288.36,
+      "last_price": 281.91,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 146.93,
+      "last_price": 146.27,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.08,
+      "last_price": 15.89,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-06T16:00:00+00:00",
-  "data_date": "2025-10-06",
+  "last_updated": "2025-10-07T16:00:00+00:00",
+  "data_date": "2025-10-07",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
