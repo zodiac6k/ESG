@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 200.91,
-      "news": "<a href=\"https://www.gov.uk/government/news/india-uk-joint-statement-9-october-2025\" target=\"_blank\">India-UK Joint Statement: 9 October 2025</a>"
+      "news": "<a href=\"https://www.asla.org/NewsReleaseDetails.aspx?id=67940\" target=\"_blank\">Landscape Architects Commit to Zero Emissions and Biodiversity Increases by 2040</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 242.17,
-      "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013520\" target=\"_blank\">Modelling the distribution of the tick Ixodes ricinus in England and Wales using passive surveillance data from citizen science reports</a>"
+      "news": "<a href=\"https://www.esquire.com/news-politics/politics/a68999655/trump-nobel-peace-prize/\" target=\"_blank\">Trump Didn\u2019t Win the Nobel Peace Prize, and He\u2019s Taking It as Well as You\u2019d Expect</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 65.31,
-      "news": "<a href=\"https://en.antaranews.com/news/384553/uob-asset-management-markets-at-an-inflection-point-in-4q25\" target=\"_blank\">UOB Asset Management: Markets at an Inflection Point in 4Q25</a>"
+      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/10/10/steal-profits-from-a-little-known-technology-movement-with-ituran/\" target=\"_blank\">Steal Profits From A Little-Known Technology Movement With Ituran</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-10T16:00:00+00:00",
-  "data_date": "2025-10-10",
+  "last_updated": "2025-10-11T16:00:00+00:00",
+  "data_date": "2025-10-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
