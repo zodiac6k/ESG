@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 200.91,
-      "news": "<a href=\"https://www.asla.org/NewsReleaseDetails.aspx?id=67940\" target=\"_blank\">Landscape Architects Commit to Zero Emissions and Biodiversity Increases by 2040</a>"
+      "news": "<a href=\"https://dirt.asla.org/2025/10/11/landscape-architects-commit-to-zero-emissions-and-biodiversity-increases-by-2040/\" target=\"_blank\">Landscape Architects Commit to Zero Emissions and Biodiversity Increases by 2040</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 242.17,
-      "news": "<a href=\"https://www.esquire.com/news-politics/politics/a68999655/trump-nobel-peace-prize/\" target=\"_blank\">Trump Didn\u2019t Win the Nobel Peace Prize, and He\u2019s Taking It as Well as You\u2019d Expect</a>"
+      "news": "<a href=\"http://wwd.com/eye/lifestyle/wwd-weekend-english-language-euphemisms-buzzwords-1238278509/\" target=\"_blank\">Are You Speaking\u00a0English?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-11T16:00:00+00:00",
-  "data_date": "2025-10-11",
+  "last_updated": "2025-10-12T16:00:00+00:00",
+  "data_date": "2025-10-12",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
