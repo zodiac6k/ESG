@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "63.51%",
-      "CAGR": "17.81%",
+      "Total Return": "63.15%",
+      "CAGR": "17.72%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.61"
     },
     "QQQ": {
-      "Total Return": "53.56%",
-      "CAGR": "15.37%",
+      "Total Return": "52.99%",
+      "CAGR": "15.23%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "46.77%",
-      "CAGR": "13.64%",
+      "Total Return": "45.77%",
+      "CAGR": "13.38%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 352.09,
+      "last_price": 348.02,
       "news": "<a href=\"https://landezine.com/krater-collective-crafts-biodiversity-by-grazing-hands/\" target=\"_blank\">Krater Collective Crafts Biodiversity by Grazing Hands</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 130.27,
+      "last_price": 128.89,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/14/3166410/0/en/SCWorx-Granted-180-Day-Extension-to-Meet-Nasdaq-Minimum-Bid-Price-Requirement.html\" target=\"_blank\">SCWorx Granted 180-Day Extension to Meet Nasdaq Minimum Bid Price Requirement</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 202.5,
+      "last_price": 203.17,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334611\" target=\"_blank\">Data-driven Bayesian networks for risk scenario mapping of Falls from height accidents</a>"
     },
     {
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 513.43,
-      "news": "<a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/\" target=\"_blank\">Disrupting threats targeting Microsoft Teams</a>"
+      "last_price": 511.61,
+      "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 179.83,
-      "news": "<a href=\"https://www.barchart.com/story/news/35346870/oracle-just-teamed-up-with-softbank-should-you-buy-sell-or-hold-orcl-stock-now\" target=\"_blank\">Oracle Just Teamed Up With SoftBank. Should You Buy, Sell, or Hold ORCL Stock Now?</a>"
+      "last_price": 181.81,
+      "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 179.62,
+      "last_price": 178.12,
       "news": "<a href=\"https://www.marketwatch.com/story/billionaire-ken-griffin-warns-on-golds-rally-as-goldman-targets-nearly-5-000-857edd74\" target=\"_blank\">Billionaire Ken Griffin warns on consequences of gold\u2019s rally as Goldman targets nearly $5,000</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 489.02,
+      "last_price": 482.23,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 45.79,
+      "last_price": 46.32,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 227.58,
+      "last_price": 227.72,
       "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 240.86,
-      "news": "<a href=\"http://wwd.com/shop/shop-shoes/fall-2025-boot-trends-best-styles-shop-online-1238301230/\" target=\"_blank\">Zappos Unveils 2025 \u2018Boot Guide\u2019 With the 5 Trending It-Styles to Shop This\u00a0Season</a>"
+      "last_price": 240.06,
+      "news": "<a href=\"https://www.nature.com/articles/s41467-025-64238-9\" target=\"_blank\">Synchronizing climate-carbon cycle heartbeats in the Phanerozoic vegetated icehouses</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.54,
+      "last_price": 11.48,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.27,
+      "last_price": 3.26,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/09/30/3158585/8852/en/3D-Systems-Elevates-the-Art-of-Jewelry-Making-with-Introduction-of-MJP-300W-Plus.html\" target=\"_blank\">3D Systems Elevates the Art of Jewelry Making with Introduction of MJP 300W Plus</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 67.61,
-      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-electric-actuator-market-growth-accelerates-amid-rising-adoption-in-water-treatment-automotive-and-energy-sectors--valuates-reports-302582033.html\" target=\"_blank\">Global Electric Actuator Market Growth Accelerates Amid Rising Adoption in Water Treatment, Automotive, and Energy Sectors | Valuates Reports</a>"
+      "last_price": 67.42,
+      "news": "<a href=\"https://www.nature.com/articles/s41591-025-03999-8\" target=\"_blank\">MRI-based multi-organ clocks for healthy aging and disease assessment</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 287.64,
+      "last_price": 288.98,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 145.34,
+      "last_price": 144.48,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.87,
+      "last_price": 16.79,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-15T16:00:00+00:00",
-  "data_date": "2025-10-15",
+  "last_updated": "2025-10-16T16:00:00+00:00",
+  "data_date": "2025-10-16",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
