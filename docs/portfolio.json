@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 129.28,
-      "news": "<a href=\"https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Certified-AWS-Data-Engineer-Exam-Dumps-and-Braindumps\" target=\"_blank\">Certified AWS Data Engineer Exam Dumps and Braindumps</a>"
+      "news": "<a href=\"https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/AWS-Solutions-Architect-Professional-Sample-Exams\" target=\"_blank\">AWS Solutions Architect Professional Sample Exams</a>"
     },
     {
       "ticker": "HON",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-18T16:00:00+00:00",
-  "data_date": "2025-10-18",
+  "last_updated": "2025-10-19T16:00:00+00:00",
+  "data_date": "2025-10-19",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
