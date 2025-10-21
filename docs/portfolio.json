@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "62.51%",
-      "CAGR": "17.57%",
+      "Total Return": "66.42%",
+      "CAGR": "18.51%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.61"
+      "Sharpe Ratio": "0.63"
     },
     "QQQ": {
-      "Total Return": "53.99%",
-      "CAGR": "15.48%",
+      "Total Return": "55.93%",
+      "CAGR": "15.96%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "46.60%",
-      "CAGR": "13.60%",
+      "Total Return": "48.12%",
+      "CAGR": "13.99%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 347.66,
+      "last_price": 352.79,
       "news": "<a href=\"https://landezine.com/krater-collective-crafts-biodiversity-by-grazing-hands/\" target=\"_blank\">Krater Collective Crafts Biodiversity by Grazing Hands</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 129.28,
+      "last_price": 130.35,
       "news": "<a href=\"https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/AWS-Solutions-Architect-Professional-Sample-Exams\" target=\"_blank\">AWS Solutions Architect Professional Sample Exams</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 202.96,
+      "last_price": 206.03,
       "news": "<a href=\"https://gcaptain.com/imo-delays-adoption-of-global-shipping-carbon-tax-by-one-year-after-u-s-pressure-campaign/\" target=\"_blank\">IMO Delays Vote on Global Shipping Carbon Tax by One Year After U.S. Pressure Campaign</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 513.58,
+      "last_price": 516.79,
       "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 183.22,
+      "last_price": 182.64,
       "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 178.15,
+      "last_price": 181.59,
       "news": "<a href=\"https://www.barchart.com/story/news/35508024/snowflake-is-partnering-with-palantir-does-that-make-snow-stock-a-buy-now\" target=\"_blank\">Snowflake Is Partnering with Palantir. Does That Make SNOW Stock a Buy Now?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 484.65,
+      "last_price": 503.61,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 46.04,
+      "last_price": 47.31,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 224.99,
+      "last_price": 228.13,
       "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 240.74,
-      "news": "<a href=\"https://www.housedigest.com/1996294/types-of-insurance-homeowners-need/\" target=\"_blank\">16 Types Of Insurance Homeowners May Need And Why</a>"
+      "last_price": 245.67,
+      "news": "<a href=\"https://www.wnd.com/2025/10/consumer-guide-common-sense/\" target=\"_blank\">A consumer guide to common sense</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.92,
+      "last_price": 12.44,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.11,
+      "last_price": 3.78,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334758\" target=\"_blank\">Antimicrobial stewardship programs and antibiotic use in Africa: A systematic review and meta-analysis protocol</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 66.92,
+      "last_price": 68.71,
       "news": "<a href=\"https://www.bloodinthemachine.com/p/silicon-valleys-capture-of-our-political\" target=\"_blank\">Silicon Valley's capture of our political institutions is all but complete</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 288.17,
+      "last_price": 292.97,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 145.28,
+      "last_price": 146.82,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.53,
+      "last_price": 16.6,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-19T16:00:00+00:00",
-  "data_date": "2025-10-19",
+  "last_updated": "2025-10-20T16:00:00+00:00",
+  "data_date": "2025-10-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
