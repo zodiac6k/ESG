@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "66.01%",
-      "CAGR": "18.41%",
+      "Total Return": "63.00%",
+      "CAGR": "17.69%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.62"
+      "Sharpe Ratio": "0.61"
     },
     "QQQ": {
-      "Total Return": "55.89%",
-      "CAGR": "15.95%",
+      "Total Return": "54.39%",
+      "CAGR": "15.58%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "48.12%",
-      "CAGR": "13.99%",
+      "Total Return": "47.35%",
+      "CAGR": "13.79%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 354.16,
+      "last_price": 350.3,
       "news": "<a href=\"https://landezine.com/krater-collective-crafts-biodiversity-by-grazing-hands/\" target=\"_blank\">Krater Collective Crafts Biodiversity by Grazing Hands</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 132.17,
-      "news": "<a href=\"https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/AWS-Solutions-Architect-Professional-Sample-Exams\" target=\"_blank\">AWS Solutions Architect Professional Sample Exams</a>"
+      "last_price": 130.11,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/automate-email-notifications-for-governance-teams-working-with-amazon-sagemaker-catalog/\" target=\"_blank\">Automate email notifications for governance teams working with Amazon SageMaker Catalog</a>"
     },
     {
       "ticker": "HON",
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 209.08,
+      "last_price": 206.61,
       "news": "<a href=\"https://thechronicle.com.gh/mary-and-the-rosary-congress-catholics-pick-up-the-holy-rosary-again/\" target=\"_blank\">Mary and the Rosary Congress Catholics Pick Up the Holy Rosary Again</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 517.66,
+      "last_price": 520.54,
       "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 181.16,
+      "last_price": 180.28,
       "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
     },
     {
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 181.51,
-      "news": "<a href=\"https://www.barchart.com/story/news/35508024/snowflake-is-partnering-with-palantir-does-that-make-snow-stock-a-buy-now\" target=\"_blank\">Snowflake Is Partnering with Palantir. Does That Make SNOW Stock a Buy Now?</a>"
+      "last_price": 175.49,
+      "news": "<a href=\"https://finance.yahoo.com/news/palantir-snowflake-partner-boost-enterprise-093739259.html\" target=\"_blank\">Palantir, Snowflake Partner to Boost Enterprise AI and Analytics</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 503.95,
+      "last_price": 500.11,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 48.27,
+      "last_price": 46.29,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 226.0,
+      "last_price": 220.56,
       "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 247.52,
-      "news": "<a href=\"https://www.forbes.com/sites/forbes-personal-shopper/2025/10/20/best-mattress-sales/\" target=\"_blank\">The Best Mattress Sales We Found On 31 Editor-Approved Beds</a>"
+      "last_price": 241.67,
+      "news": "<a href=\"https://www.cbc.ca/news/canada/nova-scotia/limited-water-options-shelburne-residents-with-dry-wells-9.6947293\" target=\"_blank\">Limited water options for Shelburne residents with dry wells</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 12.35,
+      "last_price": 11.3,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.38,
+      "last_price": 3.01,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334758\" target=\"_blank\">Antimicrobial stewardship programs and antibiotic use in Africa: A systematic review and meta-analysis protocol</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 68.7,
+      "last_price": 67.93,
       "news": "<a href=\"https://www.bloodinthemachine.com/p/silicon-valleys-capture-of-our-political\" target=\"_blank\">Silicon Valley's capture of our political institutions is all but complete</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 291.33,
+      "last_price": 284.13,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 146.94,
+      "last_price": 146.04,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.34,
+      "last_price": 16.12,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-21T16:00:00+00:00",
-  "data_date": "2025-10-21",
+  "last_updated": "2025-10-22T16:00:00+00:00",
+  "data_date": "2025-10-22",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
