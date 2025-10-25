@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "66.62%",
-      "CAGR": "18.55%",
+      "Total Return": "68.22%",
+      "CAGR": "18.93%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.63"
+      "Sharpe Ratio": "0.64"
     },
     "QQQ": {
-      "Total Return": "55.69%",
-      "CAGR": "15.90%",
+      "Total Return": "57.35%",
+      "CAGR": "16.31%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "48.22%",
-      "CAGR": "14.02%",
+      "Total Return": "49.43%",
+      "CAGR": "14.33%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 357.16,
+      "last_price": 356.48,
       "news": "<a href=\"https://landezine.com/krater-collective-crafts-biodiversity-by-grazing-hands/\" target=\"_blank\">Krater Collective Crafts Biodiversity by Grazing Hands</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 133.19,
+      "last_price": 132.68,
       "news": "<a href=\"https://www.infoq.com/presentations/transforming-primary-care/\" target=\"_blank\">Presentation: Transforming Primary Care: A Case Study in Evolving From Start-Up To Scale-Up</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 220.67,
-      "news": "<a href=\"https://www.edf.org/media/community-health-and-environmental-groups-sue-stop-president-trumps-unlawful-toxic-air\" target=\"_blank\">Community, Health and Environmental Groups Sue to Stop President Trump\u2019s Unlawful Toxic Air Pollution Exemptions</a>"
+      "last_price": 216.14,
+      "news": "<a href=\"https://dirt.asla.org/2025/10/23/making-the-case-for-nature-based-solutions-to-insurers/\" target=\"_blank\">Making the Case for Nature-based Solutions to Insurers</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 520.56,
-      "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
+      "last_price": 523.61,
+      "news": "<a href=\"https://www.databricks.com/blog/multi-agent-supervisor-architecture-orchestrating-enterprise-ai-scale\" target=\"_blank\">Multi-Agent Supervisor Architecture: Orchestrating Enterprise AI at Scale</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 182.16,
-      "news": "<a href=\"https://finance.yahoo.com/news/nscale-signs-landmark-deal-microsoft-130218856.html\" target=\"_blank\">Nscale Signs Landmark Deal with Microsoft for 200,000 NVIDIA GPUs</a>"
+      "last_price": 186.26,
+      "news": "<a href=\"https://www.barchart.com/story/news/35642548/super-micro-computer-just-lowered-its-guidance-again-should-you-buy-the-dip-in-smci-stock\" target=\"_blank\">Super Micro Computer Just Lowered Its Guidance (Again). Should You Buy the Dip in SMCI Stock?</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 180.48,
+      "last_price": 184.63,
       "news": "<a href=\"https://finance.yahoo.com/news/palantir-snowflake-partner-boost-enterprise-093739259.html\" target=\"_blank\">Palantir, Snowflake Partner to Boost Enterprise AI and Analytics</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 521.98,
+      "last_price": 527.32,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 48.04,
+      "last_price": 48.35,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 228.47,
-      "news": "<a href=\"https://www.barchart.com/story/news/35041503/morgan-stanley-is-pounding-the-table-on-this-chip-stock\" target=\"_blank\">Morgan Stanley Is Pounding the Table on this Chip Stock</a>"
+      "last_price": 228.75,
+      "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 252.99,
-      "news": "<a href=\"https://www.yankodesign.com/2025/10/22/vivo-x300-pro-review-a-camera-powerhouse-with-battery-concerns/\" target=\"_blank\">Vivo X300 Pro Review: A Camera Powerhouse with Battery Concerns</a>"
+      "last_price": 257.94,
+      "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/10/24/knee-and-groin-pain-hip-problems.aspx\" target=\"_blank\">Knee and Groin Pain Could Signal Hip Problems</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.78,
+      "last_price": 11.99,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.08,
+      "last_price": 3.13,
       "news": "<a href=\"https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013616\" target=\"_blank\">External factors influence intrinsic differences in Stx2e production by Porcine Shiga Toxin-producing Escherichia coli strains</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 68.96,
-      "news": "<a href=\"https://www.bloodinthemachine.com/p/silicon-valleys-capture-of-our-political\" target=\"_blank\">Silicon Valley's capture of our political institutions is all but complete</a>"
+      "last_price": 69.46,
+      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/10/23/catch-a-free-ride-on-the-lng-wave-with-cheniere-energy/\" target=\"_blank\">Catch A Free Ride On The LNG Wave With Cheniere Energy</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 291.06,
+      "last_price": 295.86,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 146.96,
+      "last_price": 148.23,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.34,
+      "last_price": 16.7,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-23T16:00:00+00:00",
-  "data_date": "2025-10-23",
+  "last_updated": "2025-10-24T16:00:00+00:00",
+  "data_date": "2025-10-24",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
