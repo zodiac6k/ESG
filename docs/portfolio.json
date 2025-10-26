@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 132.68,
-      "news": "<a href=\"https://www.infoq.com/presentations/transforming-primary-care/\" target=\"_blank\">Presentation: Transforming Primary Care: A Case Study in Evolving From Start-Up To Scale-Up</a>"
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/accelerate-data-governance-with-custom-subscription-workflows-in-amazon-sagemaker/\" target=\"_blank\">Accelerate data governance with custom subscription workflows in Amazon SageMaker</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 216.14,
-      "news": "<a href=\"https://dirt.asla.org/2025/10/23/making-the-case-for-nature-based-solutions-to-insurers/\" target=\"_blank\">Making the Case for Nature-based Solutions to Insurers</a>"
+      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/10/24/should-you-buy-or-sell-honeywell-international-stock/\" target=\"_blank\">Should You Buy Or Sell Honeywell International Stock?</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 257.94,
-      "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/10/24/knee-and-groin-pain-hip-problems.aspx\" target=\"_blank\">Knee and Groin Pain Could Signal Hip Problems</a>"
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/world-news/afghanistan-plans-to-build-dam-over-kunar-river-that-flows-into-pakistan-days-after-border-clashes/articleshow/124794110.cms\" target=\"_blank\">Afghanistan plans to build dam over Kunar River that flows into Pakistan, days after border clashes</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 69.46,
-      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/10/23/catch-a-free-ride-on-the-lng-wave-with-cheniere-energy/\" target=\"_blank\">Catch A Free Ride On The LNG Wave With Cheniere Energy</a>"
+      "news": "<a href=\"https://clsbluesky.law.columbia.edu/2025/10/24/latham-watkins-discusses-californias-role-as-lead-u-s-regulator-of-ai/\" target=\"_blank\">Latham & Watkins Discusses California\u2019s Role as Lead U.S. Regulator of AI</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-24T16:00:00+00:00",
-  "data_date": "2025-10-24",
+  "last_updated": "2025-10-25T16:00:00+00:00",
+  "data_date": "2025-10-25",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
