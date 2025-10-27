@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 257.94,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/world-news/afghanistan-plans-to-build-dam-over-kunar-river-that-flows-into-pakistan-days-after-border-clashes/articleshow/124794110.cms\" target=\"_blank\">Afghanistan plans to build dam over Kunar River that flows into Pakistan, days after border clashes</a>"
+      "news": "<a href=\"https://wattsupwiththat.com/2025/10/25/climate-change-weekly-560-study-net-zero-wind-and-solar-buildout-needs-huge-amount-of-land/\" target=\"_blank\">Climate Change Weekly # 560\u2014Study: Net Zero Wind and Solar Buildout Needs Huge Amount of Land</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-25T16:00:00+00:00",
-  "data_date": "2025-10-25",
+  "last_updated": "2025-10-26T16:00:00+00:00",
+  "data_date": "2025-10-26",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
