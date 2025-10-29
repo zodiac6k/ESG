@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "70.44%",
-      "CAGR": "19.45%",
+      "Total Return": "71.28%",
+      "CAGR": "19.65%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.65"
     },
     "QQQ": {
-      "Total Return": "60.15%",
-      "CAGR": "17.00%",
+      "Total Return": "61.38%",
+      "CAGR": "17.30%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "51.20%",
-      "CAGR": "14.78%",
+      "Total Return": "51.60%",
+      "CAGR": "14.88%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 361.53,
-      "news": "<a href=\"https://landezine.com/krater-collective-crafts-biodiversity-by-grazing-hands/\" target=\"_blank\">Krater Collective Crafts Biodiversity by Grazing Hands</a>"
+      "last_price": 361.98,
+      "news": "<a href=\"https://en.antaranews.com/news/388217/prabowo-pushes-asean-south-korea-to-boost-digital-economy-ties\" target=\"_blank\">Prabowo pushes ASEAN, South Korea to boost digital economy ties</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 134.46,
+      "last_price": 134.52,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/accelerate-data-governance-with-custom-subscription-workflows-in-amazon-sagemaker/\" target=\"_blank\">Accelerate data governance with custom subscription workflows in Amazon SageMaker</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 215.07,
-      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/10/24/should-you-buy-or-sell-honeywell-international-stock/\" target=\"_blank\">Should You Buy Or Sell Honeywell International Stock?</a>"
+      "last_price": 214.41,
+      "news": "<a href=\"https://thechronicle.com.gh/this-iim-and-the-fate-of-our-renewable-resources/\" target=\"_blank\">This IIM and the Fate of Our Renewable Resources</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 531.52,
+      "last_price": 542.07,
       "news": "<a href=\"https://www.barchart.com/story/news/35686665/earnings-trade-war-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Trade War and Other Can't Miss Items this Week</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 191.49,
+      "last_price": 201.03,
       "news": "<a href=\"https://www.barchart.com/story/news/35642548/super-micro-computer-just-lowered-its-guidance-again-should-you-buy-the-dip-in-smci-stock\" target=\"_blank\">Super Micro Computer Just Lowered Its Guidance (Again). Should You Buy the Dip in SMCI Stock?</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 189.18,
+      "last_price": 189.6,
       "news": "<a href=\"https://www.thestreet.com/latest-news/palantir-just-signed-deal-that-could-shift-ai-power-balance\" target=\"_blank\">Palantir just signed deal that could shift AI power balance</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 529.7,
+      "last_price": 546.94,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 48.28,
+      "last_price": 47.29,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 231.33,
+      "last_price": 227.64,
       "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 265.97,
-      "news": "<a href=\"https://statetimes.in/historical-legacy-and-modern-realities-of-pojk-and-jammu-kashmir-2/\" target=\"_blank\">Historical Legacy and Modern Realities of PoJK and Jammu & Kashmir</a>"
+      "last_price": 267.05,
+      "news": "<a href=\"https://petapixel.com/2025/10/27/ethical-wildlife-photography-a-field-guide-to-photographing-animals-with-respect/\" target=\"_blank\">Ethical Wildlife Photography: A Field Guide to Photographing Animals with Respect</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.91,
+      "last_price": 11.53,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.07,
-      "news": "<a href=\"https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013616\" target=\"_blank\">External factors influence intrinsic differences in Stx2e production by Porcine Shiga Toxin-producing Escherichia coli strains</a>"
+      "last_price": 3.19,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/27/3174720/0/en/Animal-Healthcare-Market-Size-Worth-USD-159-56-Billion-by-2034.html\" target=\"_blank\">Animal Healthcare Market Size Worth USD 159.56 Billion by 2034</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 70.26,
+      "last_price": 69.67,
       "news": "<a href=\"https://clsbluesky.law.columbia.edu/2025/10/24/latham-watkins-discusses-californias-role-as-lead-u-s-regulator-of-ai/\" target=\"_blank\">Latham & Watkins Discusses California\u2019s Role as Lead U.S. Regulator of AI</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 304.08,
+      "last_price": 304.45,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.03,
+      "last_price": 150.34,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.75,
+      "last_price": 16.89,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-27T16:00:00+00:00",
-  "data_date": "2025-10-27",
+  "last_updated": "2025-10-28T16:00:00+00:00",
+  "data_date": "2025-10-28",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
