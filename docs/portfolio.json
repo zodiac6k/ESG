@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "71.28%",
-      "CAGR": "19.65%",
+      "Total Return": "72.81%",
+      "CAGR": "20.00%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.65"
+      "Sharpe Ratio": "0.66"
     },
     "QQQ": {
-      "Total Return": "61.38%",
-      "CAGR": "17.30%",
+      "Total Return": "62.11%",
+      "CAGR": "17.47%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "51.60%",
-      "CAGR": "14.88%",
+      "Total Return": "51.67%",
+      "CAGR": "14.89%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 361.98,
+      "last_price": 368.15,
       "news": "<a href=\"https://en.antaranews.com/news/388217/prabowo-pushes-asean-south-korea-to-boost-digital-economy-ties\" target=\"_blank\">Prabowo pushes ASEAN, South Korea to boost digital economy ties</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 134.52,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/accelerate-data-governance-with-custom-subscription-workflows-in-amazon-sagemaker/\" target=\"_blank\">Accelerate data governance with custom subscription workflows in Amazon SageMaker</a>"
+      "last_price": 136.43,
+      "news": "<a href=\"https://kotaku.com/battlefield-6-update-redsec-season-1-download-free-ea-ps5-steam-2000639598\" target=\"_blank\">Battlefield 6\u2018s Biggest Update And Its Free Battle Royale Mode Are Now Live</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 214.41,
-      "news": "<a href=\"https://thechronicle.com.gh/this-iim-and-the-fate-of-our-renewable-resources/\" target=\"_blank\">This IIM and the Fate of Our Renewable Resources</a>"
+      "last_price": 212.89,
+      "news": "<a href=\"https://biztoc.com/x/c7d7d53437ee81b8\" target=\"_blank\">Dear Honeywell Stock Fans, Mark Your Calendars for October 30</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 542.07,
+      "last_price": 541.55,
       "news": "<a href=\"https://www.barchart.com/story/news/35686665/earnings-trade-war-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Trade War and Other Can't Miss Items this Week</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 201.03,
-      "news": "<a href=\"https://www.barchart.com/story/news/35642548/super-micro-computer-just-lowered-its-guidance-again-should-you-buy-the-dip-in-smci-stock\" target=\"_blank\">Super Micro Computer Just Lowered Its Guidance (Again). Should You Buy the Dip in SMCI Stock?</a>"
+      "last_price": 207.04,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/28/3175820/0/en/NVIDIA-and-US-Manufacturing-and-Robotics-Leaders-Drive-America-s-Reindustrialization-With-Physical-AI.html\" target=\"_blank\">NVIDIA and US Manufacturing and Robotics Leaders Drive America\u2019s Reindustrialization With Physical AI</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 189.6,
+      "last_price": 198.81,
       "news": "<a href=\"https://www.thestreet.com/latest-news/palantir-just-signed-deal-that-could-shift-ai-power-balance\" target=\"_blank\">Palantir just signed deal that could shift AI power balance</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 546.94,
+      "last_price": 545.5,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 47.29,
+      "last_price": 47.44,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 227.64,
+      "last_price": 235.75,
       "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 267.05,
-      "news": "<a href=\"https://petapixel.com/2025/10/27/ethical-wildlife-photography-a-field-guide-to-photographing-animals-with-respect/\" target=\"_blank\">Ethical Wildlife Photography: A Field Guide to Photographing Animals with Respect</a>"
+      "last_price": 269.7,
+      "news": "<a href=\"https://english.khabarhub.com/2025/28/503240/\" target=\"_blank\">Today\u2019s News in a Nutshell</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.53,
+      "last_price": 11.1,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.19,
+      "last_price": 3.03,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/27/3174720/0/en/Animal-Healthcare-Market-Size-Worth-USD-159-56-Billion-by-2034.html\" target=\"_blank\">Animal Healthcare Market Size Worth USD 159.56 Billion by 2034</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.67,
-      "news": "<a href=\"https://clsbluesky.law.columbia.edu/2025/10/24/latham-watkins-discusses-californias-role-as-lead-u-s-regulator-of-ai/\" target=\"_blank\">Latham & Watkins Discusses California\u2019s Role as Lead U.S. Regulator of AI</a>"
+      "last_price": 69.85,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/28/3175095/0/en/Amundi-Third-quarter-and-Nine-month-2025-results.html\" target=\"_blank\">Amundi: Third quarter and Nine-month 2025 results</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 304.45,
+      "last_price": 309.6,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.34,
+      "last_price": 150.36,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.89,
+      "last_price": 17.32,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-28T16:00:00+00:00",
-  "data_date": "2025-10-28",
+  "last_updated": "2025-10-29T16:00:00+00:00",
+  "data_date": "2025-10-29",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
