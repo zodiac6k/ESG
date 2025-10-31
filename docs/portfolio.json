@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "72.81%",
-      "CAGR": "20.00%",
+      "Total Return": "69.15%",
+      "CAGR": "19.15%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.66"
+      "Sharpe Ratio": "0.64"
     },
     "QQQ": {
-      "Total Return": "62.11%",
-      "CAGR": "17.47%",
+      "Total Return": "59.63%",
+      "CAGR": "16.87%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "51.67%",
-      "CAGR": "14.89%",
+      "Total Return": "50.00%",
+      "CAGR": "14.47%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 368.15,
+      "last_price": 365.66,
       "news": "<a href=\"https://en.antaranews.com/news/388217/prabowo-pushes-asean-south-korea-to-boost-digital-economy-ties\" target=\"_blank\">Prabowo pushes ASEAN, South Korea to boost digital economy ties</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 136.43,
+      "last_price": 136.82,
       "news": "<a href=\"https://kotaku.com/battlefield-6-update-redsec-season-1-download-free-ea-ps5-steam-2000639598\" target=\"_blank\">Battlefield 6\u2018s Biggest Update And Its Free Battle Royale Mode Are Now Live</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 212.89,
-      "news": "<a href=\"https://biztoc.com/x/c7d7d53437ee81b8\" target=\"_blank\">Dear Honeywell Stock Fans, Mark Your Calendars for October 30</a>"
+      "last_price": 200.11,
+      "news": "<a href=\"https://www.gov.uk/government/news/joint-declaration-on-the-elevation-of-uk-viet-nam-relations-to-comprehensive-strategic-partnership\" target=\"_blank\">Joint declaration on the elevation of UK - Viet Nam relations to Comprehensive Strategic Partnership</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 541.55,
-      "news": "<a href=\"https://www.barchart.com/story/news/35686665/earnings-trade-war-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Trade War and Other Can't Miss Items this Week</a>"
+      "last_price": 525.76,
+      "news": "<a href=\"https://www.barchart.com/story/news/35737748/ibms-new-quantum-computing-announcement-is-a-big-deal-should-you-buy-ibm-stock-here\" target=\"_blank\">IBM\u2019s New Quantum Computing Announcement Is a \u2018Big Deal.\u2019 Should You Buy IBM Stock Here?</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 207.04,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/28/3175820/0/en/NVIDIA-and-US-Manufacturing-and-Robotics-Leaders-Drive-America-s-Reindustrialization-With-Physical-AI.html\" target=\"_blank\">NVIDIA and US Manufacturing and Robotics Leaders Drive America\u2019s Reindustrialization With Physical AI</a>"
+      "last_price": 202.89,
+      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/10/29/nvidias-1-billion-bet-turns-nokia-into-the-new-ai-contender/\" target=\"_blank\">Nvidia\u2019s $1 Billion Bet Turns Nokia Into The New AI Contender</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 198.81,
+      "last_price": 194.55,
       "news": "<a href=\"https://www.thestreet.com/latest-news/palantir-just-signed-deal-that-could-shift-ai-power-balance\" target=\"_blank\">Palantir just signed deal that could shift AI power balance</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 545.5,
+      "last_price": 538.68,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 47.44,
+      "last_price": 41.31,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 235.75,
+      "last_price": 232.55,
       "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 269.7,
-      "news": "<a href=\"https://english.khabarhub.com/2025/28/503240/\" target=\"_blank\">Today\u2019s News in a Nutshell</a>"
+      "last_price": 271.18,
+      "news": "<a href=\"https://survivalblog.com/2025/10/30/a-top-10-prepping-list-multi-tool-not-included-part-2-by-st-funogas/\" target=\"_blank\">A Top-10 Prepping List, Multi-Tool Not Included \u2013 Part 2, by St. Funogas</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.1,
+      "last_price": 10.78,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.03,
+      "last_price": 2.82,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/27/3174720/0/en/Animal-Healthcare-Market-Size-Worth-USD-159-56-Billion-by-2034.html\" target=\"_blank\">Animal Healthcare Market Size Worth USD 159.56 Billion by 2034</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.85,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/28/3175095/0/en/Amundi-Third-quarter-and-Nine-month-2025-results.html\" target=\"_blank\">Amundi: Third quarter and Nine-month 2025 results</a>"
+      "last_price": 68.92,
+      "news": "<a href=\"https://www.nowg.net/top-profitable-niches-for-affiliate-marketing/\" target=\"_blank\">The Ultimate 100 Profitable Niches For Affiliate Marketing To Monetize In 2026 - NowG.net</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 309.6,
+      "last_price": 305.41,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.36,
+      "last_price": 148.92,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.32,
+      "last_price": 17.03,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-29T16:00:00+00:00",
-  "data_date": "2025-10-29",
+  "last_updated": "2025-10-30T16:00:00+00:00",
+  "data_date": "2025-10-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
