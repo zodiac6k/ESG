@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "69.15%",
-      "CAGR": "19.15%",
+      "Total Return": "70.59%",
+      "CAGR": "19.49%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.64"
+      "Sharpe Ratio": "0.65"
     },
     "QQQ": {
-      "Total Return": "59.63%",
-      "CAGR": "16.87%",
+      "Total Return": "60.40%",
+      "CAGR": "17.06%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "50.00%",
-      "CAGR": "14.47%",
+      "Total Return": "50.50%",
+      "CAGR": "14.60%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 365.66,
+      "last_price": 368.36,
       "news": "<a href=\"https://en.antaranews.com/news/388217/prabowo-pushes-asean-south-korea-to-boost-digital-economy-ties\" target=\"_blank\">Prabowo pushes ASEAN, South Korea to boost digital economy ties</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 136.82,
-      "news": "<a href=\"https://kotaku.com/battlefield-6-update-redsec-season-1-download-free-ea-ps5-steam-2000639598\" target=\"_blank\">Battlefield 6\u2018s Biggest Update And Its Free Battle Royale Mode Are Now Live</a>"
+      "last_price": 139.57,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/30/3177714/0/en/U-S-Physical-Therapy-Clinics-Back-Office-Software-Market-Insights-and-Growth-Outlook-by-Towards-Healthcare.html\" target=\"_blank\">U.S. Physical Therapy Clinics Back-Office Software Market Insights and Growth Outlook by Towards Healthcare</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 200.11,
-      "news": "<a href=\"https://www.gov.uk/government/news/joint-declaration-on-the-elevation-of-uk-viet-nam-relations-to-comprehensive-strategic-partnership\" target=\"_blank\">Joint declaration on the elevation of UK - Viet Nam relations to Comprehensive Strategic Partnership</a>"
+      "last_price": 201.33,
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 525.76,
-      "news": "<a href=\"https://www.barchart.com/story/news/35737748/ibms-new-quantum-computing-announcement-is-a-big-deal-should-you-buy-ibm-stock-here\" target=\"_blank\">IBM\u2019s New Quantum Computing Announcement Is a \u2018Big Deal.\u2019 Should You Buy IBM Stock Here?</a>"
+      "last_price": 517.81,
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 202.89,
-      "news": "<a href=\"https://www.forbes.com/sites/greatspeculations/2025/10/29/nvidias-1-billion-bet-turns-nokia-into-the-new-ai-contender/\" target=\"_blank\">Nvidia\u2019s $1 Billion Bet Turns Nokia Into The New AI Contender</a>"
+      "last_price": 202.49,
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 194.55,
-      "news": "<a href=\"https://www.thestreet.com/latest-news/palantir-just-signed-deal-that-could-shift-ai-power-balance\" target=\"_blank\">Palantir just signed deal that could shift AI power balance</a>"
+      "last_price": 200.47,
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 538.68,
-      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html\" target=\"_blank\">Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032</a>"
+      "last_price": 543.01,
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 41.31,
+      "last_price": 41.39,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 232.55,
+      "last_price": 233.1,
       "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 271.18,
-      "news": "<a href=\"https://survivalblog.com/2025/10/30/a-top-10-prepping-list-multi-tool-not-included-part-2-by-st-funogas/\" target=\"_blank\">A Top-10 Prepping List, Multi-Tool Not Included \u2013 Part 2, by St. Funogas</a>"
+      "last_price": 274.88,
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.78,
+      "last_price": 10.62,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.82,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/27/3174720/0/en/Animal-Healthcare-Market-Size-Worth-USD-159-56-Billion-by-2034.html\" target=\"_blank\">Animal Healthcare Market Size Worth USD 159.56 Billion by 2034</a>"
+      "last_price": 2.86,
+      "news": "<a href=\"https://www.iss.europa.eu/publications/analysis/northern-frosts-eu-should-contain-and-unpower-russia-arctic\" target=\"_blank\">The northern frosts: The EU should contain and unpower Russia in the Arctic</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 68.92,
-      "news": "<a href=\"https://www.nowg.net/top-profitable-niches-for-affiliate-marketing/\" target=\"_blank\">The Ultimate 100 Profitable Niches For Affiliate Marketing To Monetize In 2026 - NowG.net</a>"
+      "last_price": 69.62,
+      "news": "<a href=\"https://www.privatebankerinternational.com/features/trust-and-technology-in-balance/\" target=\"_blank\">Trust and Technology in Balance</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 305.41,
+      "last_price": 306.55,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 148.92,
+      "last_price": 149.62,
       "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.03,
+      "last_price": 17.3,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-30T16:00:00+00:00",
-  "data_date": "2025-10-30",
+  "last_updated": "2025-10-31T16:00:00+00:00",
+  "data_date": "2025-10-31",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
