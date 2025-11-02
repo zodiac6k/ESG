@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 139.57,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/10/30/3177714/0/en/U-S-Physical-Therapy-Clinics-Back-Office-Software-Market-Insights-and-Growth-Outlook-by-Towards-Healthcare.html\" target=\"_blank\">U.S. Physical Therapy Clinics Back-Office Software Market Insights and Growth Outlook by Towards Healthcare</a>"
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/use-trusted-identity-propagation-for-apache-spark-interactive-sessions-in-amazon-sagemaker-unified-studio/\" target=\"_blank\">Use trusted identity propagation for Apache Spark interactive sessions in Amazon SageMaker Unified Studio</a>"
     },
     {
       "ticker": "HON",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 517.81,
-      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/great-ai-buildout-shows-no-100532758.html\" target=\"_blank\">The great AI buildout shows no sign of slowing</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 202.49,
-      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/great-ai-buildout-shows-no-100532758.html\" target=\"_blank\">The great AI buildout shows no sign of slowing</a>"
     },
     {
       "ticker": "PLTR",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 200.47,
-      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-rising-sharply-today-why-is-dow-jones-sp-500-nasdaq-climbing-amazon-netflix-tesla-and-palantir-boost-wall-street-confidence/articleshow/124998052.cms\" target=\"_blank\">US stock market rising sharply today: Why is Dow Jones, S&P 500, Nasdaq climbing? Amazon, Netflix, Tesla, and Palantir boost Wall Street confidence</a>"
     },
     {
       "ticker": "CRWD",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 274.88,
-      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
+      "news": "<a href=\"https://www.sciencealert.com/oldest-air-ever-measured-found-in-ice-from-6-million-years-ago\" target=\"_blank\">Oldest Air Ever Measured Found in Ice From 6 Million Years Ago</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-10-31T16:00:00+00:00",
-  "data_date": "2025-10-31",
+  "last_updated": "2025-11-01T16:00:00+00:00",
+  "data_date": "2025-11-01",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
