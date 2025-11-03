@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 139.57,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/use-trusted-identity-propagation-for-apache-spark-interactive-sessions-in-amazon-sagemaker-unified-studio/\" target=\"_blank\">Use trusted identity propagation for Apache Spark interactive sessions in Amazon SageMaker Unified Studio</a>"
+      "news": "<a href=\"https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/AWS-AI-Practitioner-Exam-Topics-Tips-Practice-Exams\" target=\"_blank\">Free AWS AI Practitioner Test Simulator Covering all Exam Topics</a>"
     },
     {
       "ticker": "HON",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 274.88,
-      "news": "<a href=\"https://www.sciencealert.com/oldest-air-ever-measured-found-in-ice-from-6-million-years-ago\" target=\"_blank\">Oldest Air Ever Measured Found in Ice From 6 Million Years Ago</a>"
+      "news": "<a href=\"https://pypi.org/project/aiverify-environment-corruptions/2.2.0/\" target=\"_blank\">aiverify-environment-corruptions 2.2.0</a>"
     },
     {
       "ticker": "SSYS",
@@ -169,7 +169,7 @@
       "quantity": 155.38,
       "initial_price": 71.51,
       "last_price": 149.62,
-      "news": "<a href=\"https://www.etfdailynews.com/2025/10/03/ishares-esg-aware-msci-usa-etf-esgu-shares-bought-by-capital-investment-advisors-llc/\" target=\"_blank\">iShares ESG Aware MSCI USA ETF $ESGU Shares Bought by Capital Investment Advisors LLC</a>"
+      "news": "No news available"
     },
     {
       "ticker": "ICLN",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-01T16:00:00+00:00",
-  "data_date": "2025-11-01",
+  "last_updated": "2025-11-02T16:00:00+00:00",
+  "data_date": "2025-11-02",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
