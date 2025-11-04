@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "70.59%",
-      "CAGR": "19.49%",
+      "Total Return": "71.48%",
+      "CAGR": "19.69%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.65"
     },
     "QQQ": {
-      "Total Return": "60.40%",
-      "CAGR": "17.06%",
+      "Total Return": "61.17%",
+      "CAGR": "17.24%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "50.50%",
-      "CAGR": "14.60%",
+      "Total Return": "50.78%",
+      "CAGR": "14.67%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 368.36,
+      "last_price": 364.54,
       "news": "<a href=\"https://en.antaranews.com/news/388217/prabowo-pushes-asean-south-korea-to-boost-digital-economy-ties\" target=\"_blank\">Prabowo pushes ASEAN, South Korea to boost digital economy ties</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 139.57,
+      "last_price": 140.03,
       "news": "<a href=\"https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/AWS-AI-Practitioner-Exam-Topics-Tips-Practice-Exams\" target=\"_blank\">Free AWS AI Practitioner Test Simulator Covering all Exam Topics</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 201.33,
+      "last_price": 197.77,
       "news": "No news available"
     },
     {
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 517.81,
-      "news": "<a href=\"https://finance.yahoo.com/news/great-ai-buildout-shows-no-100532758.html\" target=\"_blank\">The great AI buildout shows no sign of slowing</a>"
+      "last_price": 517.03,
+      "news": "<a href=\"https://www.barchart.com/story/news/35852639/earnings-manufacturing-data-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Manufacturing Data and Other Can't Miss Items this Week</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 202.49,
+      "last_price": 206.88,
       "news": "<a href=\"https://finance.yahoo.com/news/great-ai-buildout-shows-no-100532758.html\" target=\"_blank\">The great AI buildout shows no sign of slowing</a>"
     },
     {
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 200.47,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-rising-sharply-today-why-is-dow-jones-sp-500-nasdaq-climbing-amazon-netflix-tesla-and-palantir-boost-wall-street-confidence/articleshow/124998052.cms\" target=\"_blank\">US stock market rising sharply today: Why is Dow Jones, S&P 500, Nasdaq climbing? Amazon, Netflix, Tesla, and Palantir boost Wall Street confidence</a>"
+      "last_price": 207.18,
+      "news": "<a href=\"https://www.barchart.com/story/news/35852639/earnings-manufacturing-data-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Manufacturing Data and Other Can't Miss Items this Week</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 543.01,
+      "last_price": 551.92,
       "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 41.39,
+      "last_price": 41.7,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 233.1,
+      "last_price": 237.71,
       "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 274.88,
-      "news": "<a href=\"https://pypi.org/project/aiverify-environment-corruptions/2.2.0/\" target=\"_blank\">aiverify-environment-corruptions 2.2.0</a>"
+      "last_price": 277.14,
+      "news": "<a href=\"https://www.blessthisstuff.com/stuff/culture/travel/vipp-lofoten-cabin/\" target=\"_blank\">VIPP LOFOTEN CABIN</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.62,
+      "last_price": 10.59,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.86,
+      "last_price": 2.76,
       "news": "<a href=\"https://www.iss.europa.eu/publications/analysis/northern-frosts-eu-should-contain-and-unpower-russia-arctic\" target=\"_blank\">The northern frosts: The EU should contain and unpower Russia in the Arctic</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.62,
+      "last_price": 69.73,
       "news": "<a href=\"https://www.privatebankerinternational.com/features/trust-and-technology-in-balance/\" target=\"_blank\">Trust and Technology in Balance</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 306.55,
+      "last_price": 308.38,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 149.62,
+      "last_price": 149.94,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.3,
+      "last_price": 17.6,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-02T16:00:00+00:00",
-  "data_date": "2025-11-02",
+  "last_updated": "2025-11-03T16:00:00+00:00",
+  "data_date": "2025-11-03",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
