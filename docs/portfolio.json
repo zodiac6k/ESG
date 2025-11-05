@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "71.48%",
-      "CAGR": "19.69%",
+      "Total Return": "66.59%",
+      "CAGR": "18.55%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.65"
+      "Sharpe Ratio": "0.62"
     },
     "QQQ": {
-      "Total Return": "61.17%",
-      "CAGR": "17.24%",
+      "Total Return": "57.90%",
+      "CAGR": "16.45%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "50.78%",
-      "CAGR": "14.67%",
+      "Total Return": "48.99%",
+      "CAGR": "14.21%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 364.54,
-      "news": "<a href=\"https://en.antaranews.com/news/388217/prabowo-pushes-asean-south-korea-to-boost-digital-economy-ties\" target=\"_blank\">Prabowo pushes ASEAN, South Korea to boost digital economy ties</a>"
+      "last_price": 359.85,
+      "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/china/2025/11/china-251101-prc-mofa01.htm\" target=\"_blank\">President Xi Jinping Holds Talks with ROK President Lee Jae Myung</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 140.03,
+      "last_price": 137.74,
       "news": "<a href=\"https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/AWS-AI-Practitioner-Exam-Topics-Tips-Practice-Exams\" target=\"_blank\">Free AWS AI Practitioner Test Simulator Covering all Exam Topics</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 197.77,
-      "news": "No news available"
+      "last_price": 196.46,
+      "news": "<a href=\"https://financialpost.com/globe-newswire/distinguished-legal-scholar-and-advocate-for-public-governance-professor-spyridon-flogaitis-receives-prestigious-global-citizen-award\" target=\"_blank\">Distinguished Legal Scholar and Advocate for Public Governance Professor Spyridon Flogaitis Receives Prestigious Global Citizen Award</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 517.03,
+      "last_price": 514.33,
       "news": "<a href=\"https://www.barchart.com/story/news/35852639/earnings-manufacturing-data-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Manufacturing Data and Other Can't Miss Items this Week</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 206.88,
+      "last_price": 198.69,
       "news": "<a href=\"https://finance.yahoo.com/news/great-ai-buildout-shows-no-100532758.html\" target=\"_blank\">The great AI buildout shows no sign of slowing</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 207.18,
+      "last_price": 190.74,
       "news": "<a href=\"https://www.barchart.com/story/news/35852639/earnings-manufacturing-data-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Manufacturing Data and Other Can't Miss Items this Week</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 551.92,
+      "last_price": 533.92,
       "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 41.7,
+      "last_price": 40.0,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 237.71,
+      "last_price": 230.19,
       "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 277.14,
-      "news": "<a href=\"https://www.blessthisstuff.com/stuff/culture/travel/vipp-lofoten-cabin/\" target=\"_blank\">VIPP LOFOTEN CABIN</a>"
+      "last_price": 265.42,
+      "news": "<a href=\"https://mymodernmet.com/2025-drone-photo-awards/\" target=\"_blank\">Winners of the 2025 Drone Photo Awards Explore the Beauty of the World Above</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.59,
+      "last_price": 9.87,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.76,
+      "last_price": 2.62,
       "news": "<a href=\"https://www.iss.europa.eu/publications/analysis/northern-frosts-eu-should-contain-and-unpower-russia-arctic\" target=\"_blank\">The northern frosts: The EU should contain and unpower Russia in the Arctic</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.73,
+      "last_price": 68.21,
       "news": "<a href=\"https://www.privatebankerinternational.com/features/trust-and-technology-in-balance/\" target=\"_blank\">Trust and Technology in Balance</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 308.38,
+      "last_price": 296.26,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 149.94,
+      "last_price": 148.06,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.6,
+      "last_price": 17.17,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-03T16:00:00+00:00",
-  "data_date": "2025-11-03",
+  "last_updated": "2025-11-04T16:00:00+00:00",
+  "data_date": "2025-11-04",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
