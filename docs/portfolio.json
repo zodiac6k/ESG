@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "64.33%",
-      "CAGR": "18.01%",
+      "Total Return": "63.90%",
+      "CAGR": "17.90%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.61"
     },
     "QQQ": {
-      "Total Return": "55.97%",
-      "CAGR": "15.97%",
+      "Total Return": "55.47%",
+      "CAGR": "15.85%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "47.90%",
-      "CAGR": "13.94%",
+      "Total Return": "48.05%",
+      "CAGR": "13.97%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 372.5,
-      "news": "<a href=\"https://en.antaranews.com/news/389901/66th-wsm-in-seoul-discusses-strategic-transformation-under-the-apo-vision-2030\" target=\"_blank\">66th WSM in Seoul Discusses Strategic Transformation under the APO Vision 2030</a>"
+      "last_price": 373.49,
+      "news": "<a href=\"https://finance.yahoo.com/news/kimball-electronics-ke-q1-earnings-231003230.html\" target=\"_blank\">Kimball Electronics (KE) Q1 Earnings and Revenues Beat Estimates</a>"
     },
     {
       "ticker": "EMR",
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 131.49,
-      "news": "<a href=\"https://finance.yahoo.com/news/emerson-electric-emr-meets-q4-130502280.html\" target=\"_blank\">Emerson Electric (EMR) Meets Q4 Earnings Estimates</a>"
+      "last_price": 129.49,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/06/3182232/0/en/LASIK-Eye-Surgery-Devices-Market-Size-Worth-USD-3-14-Billion-by-2034.html\" target=\"_blank\">LASIK Eye Surgery Devices Market Size Worth USD 3.14 Billion by 2034</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 195.91,
-      "news": "<a href=\"https://thefield.asla.org/2025/11/04/asla-2025-conference-on-landscape-architecture-recordings/\" target=\"_blank\">ASLA 2025 Conference on Landscape Architecture Recordings</a>"
+      "last_price": 194.07,
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 497.1,
-      "news": "<a href=\"https://www.barchart.com/story/news/35852639/earnings-manufacturing-data-and-other-can-t-miss-items-this-week\" target=\"_blank\">Earnings, Manufacturing Data and Other Can't Miss Items this Week</a>"
+      "last_price": 496.82,
+      "news": "<a href=\"https://finance.yahoo.com/news/3-key-reasons-buy-snowflake-170200860.html\" target=\"_blank\">3 Key Reasons to Buy Snowflake Stock Beyond the 71% Surge YTD</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 188.08,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-today-why-are-dow-sp-500-and-nasdaq-falling-as-wall-street-questions-sky-high-tech-valuations-amid-palantir-tesla-and-russian-oil-shocks/articleshow/125091707.cms\" target=\"_blank\">US stock market crashes today: Why are Dow, S&P 500, and Nasdaq falling as Wall Street questions sky-high tech valuations amid Palantir, Tesla, and Russian oil shocks</a>"
+      "last_price": 188.15,
+      "news": "<a href=\"https://techreport.com/news/openai-1-trillion-loan-guarantee-possible-ai-bubble/\" target=\"_blank\">OpenAI\u2019s Government Lifeline: A $1T Ask Amid Wall Street\u2019s AI Doubts</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 175.05,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-today-why-are-dow-sp-500-and-nasdaq-falling-as-wall-street-questions-sky-high-tech-valuations-amid-palantir-tesla-and-russian-oil-shocks/articleshow/125091707.cms\" target=\"_blank\">US stock market crashes today: Why are Dow, S&P 500, and Nasdaq falling as Wall Street questions sky-high tech valuations amid Palantir, Tesla, and Russian oil shocks</a>"
+      "last_price": 177.93,
+      "news": "<a href=\"https://techreport.com/news/openai-1-trillion-loan-guarantee-possible-ai-bubble/\" target=\"_blank\">OpenAI\u2019s Government Lifeline: A $1T Ask Amid Wall Street\u2019s AI Doubts</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 532.52,
+      "last_price": 539.81,
       "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 39.54,
+      "last_price": 39.27,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 233.53,
-      "news": "<a href=\"https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-025-02445-0\" target=\"_blank\">Mito-nuclear discordance reveals introgressive hybridization following vicariance and secondary contact in Iberian scorpions (Buthidae: Buthus)</a>"
+      "last_price": 230.07,
+      "news": "<a href=\"https://finance.yahoo.com/news/quantum-si-incorporated-qsi-reports-005001617.html\" target=\"_blank\">Quantum-Si Incorporated (QSI) Reports Q3 Loss, Lags Revenue Estimates</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 264.72,
-      "news": "<a href=\"https://hiconsumption.com/style/the-north-face-base-camp-footwear-collection/\" target=\"_blank\">The North Face Turns Its Legendary Base Camp Duffel Into a Full Footwear Collection</a>"
+      "last_price": 262.86,
+      "news": "<a href=\"https://www.nature.com/articles/s41467-025-64455-2\" target=\"_blank\">Multifunctionally diverse alkaline phosphatases of Alteromonas drive the phosphorus cycle in the ocean</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.46,
+      "last_price": 9.5,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.25,
+      "last_price": 2.22,
       "news": "<a href=\"https://www.iss.europa.eu/publications/analysis/northern-frosts-eu-should-contain-and-unpower-russia-arctic\" target=\"_blank\">The northern frosts: The EU should contain and unpower Russia in the Arctic</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 68.22,
+      "last_price": 68.06,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/04/3180027/0/en/Kuvi-ai-Announces-KUVI-TGE-and-Listing-on-MEXC-Ushering-in-the-Era-of-Agentic-Finance.html\" target=\"_blank\">Kuvi.ai Announces $KUVI TGE and Listing on MEXC, Ushering in the Era of Agentic Finance</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 297.5,
+      "last_price": 294.38,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 146.89,
+      "last_price": 147.06,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.77,
+      "last_price": 17.66,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-06T16:00:00+00:00",
-  "data_date": "2025-11-06",
+  "last_updated": "2025-11-07T16:00:00+00:00",
+  "data_date": "2025-11-07",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
