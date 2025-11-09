@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 373.49,
-      "news": "<a href=\"https://finance.yahoo.com/news/kimball-electronics-ke-q1-earnings-231003230.html\" target=\"_blank\">Kimball Electronics (KE) Q1 Earnings and Revenues Beat Estimates</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/rockwell-automation-q4-earnings-beat-183900923.html\" target=\"_blank\">Rockwell Automation Q4 Earnings Beat Estimates, Revenues Rise Y/Y</a>"
     },
     {
       "ticker": "EMR",
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 129.49,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/06/3182232/0/en/LASIK-Eye-Surgery-Devices-Market-Size-Worth-USD-3-14-Billion-by-2034.html\" target=\"_blank\">LASIK Eye Surgery Devices Market Size Worth USD 3.14 Billion by 2034</a>"
+      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336393\" target=\"_blank\">Impact of outer width of the metacarpal diaphysis on the identification of low bone mass in children</a>"
     },
     {
       "ticker": "HON",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 188.15,
-      "news": "<a href=\"https://techreport.com/news/openai-1-trillion-loan-guarantee-possible-ai-bubble/\" target=\"_blank\">OpenAI\u2019s Government Lifeline: A $1T Ask Amid Wall Street\u2019s AI Doubts</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/top-founder-led-companies-safer-182100105.html\" target=\"_blank\">Top Founder-Led Companies That Can Be Safer Long-Term Bets</a>"
     },
     {
       "ticker": "PLTR",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 177.93,
-      "news": "<a href=\"https://techreport.com/news/openai-1-trillion-loan-guarantee-possible-ai-bubble/\" target=\"_blank\">OpenAI\u2019s Government Lifeline: A $1T Ask Amid Wall Street\u2019s AI Doubts</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/top-founder-led-companies-safer-182100105.html\" target=\"_blank\">Top Founder-Led Companies That Can Be Safer Long-Term Bets</a>"
     },
     {
       "ticker": "CRWD",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 262.86,
-      "news": "<a href=\"https://www.nature.com/articles/s41467-025-64455-2\" target=\"_blank\">Multifunctionally diverse alkaline phosphatases of Alteromonas drive the phosphorus cycle in the ocean</a>"
+      "news": "<a href=\"https://statetimes.in/asias-largest-chrysanthemum-garden-blooms-in-kashmir/\" target=\"_blank\">Asia\u2019s largest Chrysanthemum garden blooms in Kashmir</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-07T16:00:00+00:00",
-  "data_date": "2025-11-07",
+  "last_updated": "2025-11-08T16:00:00+00:00",
+  "data_date": "2025-11-08",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
