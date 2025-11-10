@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 194.07,
-      "news": "No news available"
+      "news": "<a href=\"https://www.tuko.co.ke/entertainment/celebrities/608914-wavinya-ndeti-breaks-silence-awkward-hug-ida-odinga/\" target=\"_blank\">Wavinya Ndeti Breaks Silence after Her Awkward Hug with Ida Odinga: \"Yaliyo Ndwele Sipite\"</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 262.86,
-      "news": "<a href=\"https://statetimes.in/asias-largest-chrysanthemum-garden-blooms-in-kashmir/\" target=\"_blank\">Asia\u2019s largest Chrysanthemum garden blooms in Kashmir</a>"
+      "news": "<a href=\"http://www.popsci.com/science/edmund-fitzgerald-wreck-science/\" target=\"_blank\">How the Witch of November doomed the \u2018Edmund Fitzgerald\u2019</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-08T16:00:00+00:00",
-  "data_date": "2025-11-08",
+  "last_updated": "2025-11-09T16:00:00+00:00",
+  "data_date": "2025-11-09",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
