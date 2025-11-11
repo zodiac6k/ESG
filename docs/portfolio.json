@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "63.90%",
-      "CAGR": "17.90%",
+      "Total Return": "67.98%",
+      "CAGR": "18.87%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.61"
+      "Sharpe Ratio": "0.63"
     },
     "QQQ": {
-      "Total Return": "55.47%",
-      "CAGR": "15.85%",
+      "Total Return": "58.91%",
+      "CAGR": "16.70%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "48.05%",
-      "CAGR": "13.97%",
+      "Total Return": "50.36%",
+      "CAGR": "14.56%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 373.49,
+      "last_price": 391.24,
       "news": "<a href=\"https://finance.yahoo.com/news/rockwell-automation-q4-earnings-beat-183900923.html\" target=\"_blank\">Rockwell Automation Q4 Earnings Beat Estimates, Revenues Rise Y/Y</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 129.49,
+      "last_price": 129.99,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336393\" target=\"_blank\">Impact of outer width of the metacarpal diaphysis on the identification of low bone mass in children</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 194.07,
-      "news": "<a href=\"https://www.tuko.co.ke/entertainment/celebrities/608914-wavinya-ndeti-breaks-silence-awkward-hug-ida-odinga/\" target=\"_blank\">Wavinya Ndeti Breaks Silence after Her Awkward Hug with Ida Odinga: \"Yaliyo Ndwele Sipite\"</a>"
+      "last_price": 196.07,
+      "news": "<a href=\"https://www.asla.org/NewsReleaseDetails.aspx?id=68065\" target=\"_blank\">At COP30, Landscape Architects Will Show How Design Improves Nature-based Solutions to Climate Change and Biodiversity Loss</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 496.82,
+      "last_price": 506.0,
       "news": "<a href=\"https://finance.yahoo.com/news/3-key-reasons-buy-snowflake-170200860.html\" target=\"_blank\">3 Key Reasons to Buy Snowflake Stock Beyond the 71% Surge YTD</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 188.15,
+      "last_price": 199.05,
       "news": "<a href=\"https://finance.yahoo.com/news/top-founder-led-companies-safer-182100105.html\" target=\"_blank\">Top Founder-Led Companies That Can Be Safer Long-Term Bets</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 177.93,
+      "last_price": 193.61,
       "news": "<a href=\"https://finance.yahoo.com/news/top-founder-led-companies-safer-182100105.html\" target=\"_blank\">Top Founder-Led Companies That Can Be Safer Long-Term Bets</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 539.81,
+      "last_price": 557.53,
       "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 39.27,
+      "last_price": 38.58,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 230.07,
+      "last_price": 235.08,
       "news": "<a href=\"https://finance.yahoo.com/news/quantum-si-incorporated-qsi-reports-005001617.html\" target=\"_blank\">Quantum-Si Incorporated (QSI) Reports Q3 Loss, Lags Revenue Estimates</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 262.86,
-      "news": "<a href=\"http://www.popsci.com/science/edmund-fitzgerald-wreck-science/\" target=\"_blank\">How the Witch of November doomed the \u2018Edmund Fitzgerald\u2019</a>"
+      "last_price": 268.51,
+      "news": "<a href=\"https://english.khabarhub.com/2025/09/505227/\" target=\"_blank\">Today\u2019s News in a Nutshell</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.5,
+      "last_price": 9.6,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.22,
+      "last_price": 2.27,
       "news": "<a href=\"https://www.iss.europa.eu/publications/analysis/northern-frosts-eu-should-contain-and-unpower-russia-arctic\" target=\"_blank\">The northern frosts: The EU should contain and unpower Russia in the Arctic</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 68.06,
+      "last_price": 69.13,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/04/3180027/0/en/Kuvi-ai-Announces-KUVI-TGE-and-Listing-on-MEXC-Ushering-in-the-Era-of-Agentic-Finance.html\" target=\"_blank\">Kuvi.ai Announces $KUVI TGE and Listing on MEXC, Ushering in the Era of Agentic Finance</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 294.38,
+      "last_price": 302.0,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 147.06,
+      "last_price": 149.4,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.66,
+      "last_price": 18.01,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-09T16:00:00+00:00",
-  "data_date": "2025-11-09",
+  "last_updated": "2025-11-10T16:00:00+00:00",
+  "data_date": "2025-11-10",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
