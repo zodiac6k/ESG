@@ -19,18 +19,18 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "62.03%",
-      "CAGR": "17.45%",
+      "Total Return": "62.14%",
+      "CAGR": "17.48%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.59"
     },
     "QQQ": {
-      "Total Return": "55.13%",
-      "CAGR": "15.76%",
+      "Total Return": "55.25%",
+      "CAGR": "15.79%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "48.28%",
+      "Total Return": "48.26%",
       "CAGR": "14.03%",
       "Max Drawdown": "-24.47%"
     }
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 379.69,
+      "last_price": 377.13,
       "news": "<a href=\"https://finance.yahoo.com/news/rockwell-automation-q4-earnings-beat-183900923.html\" target=\"_blank\">Rockwell Automation Q4 Earnings Beat Estimates, Revenues Rise Y/Y</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 128.46,
-      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336393\" target=\"_blank\">Impact of outer width of the metacarpal diaphysis on the identification of low bone mass in children</a>"
+      "last_price": 127.58,
+      "news": "<a href=\"https://bengreenfieldlife.com/podcast/versea/\" target=\"_blank\">Are YOU Taking Too Many Supplements, Doing Too Much Ice Bathing Or Eating the Wrong Diet? (Here\u2019s How To Know!) With Mescreen\u2019s Sean Fetcho & Dr. Luis Fandos</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 199.87,
-      "news": "<a href=\"https://www.barchart.com/story/news/36048914/honeywell-international-stock-outlook-is-wall-street-bullish-or-bearish\" target=\"_blank\">Honeywell International Stock Outlook: Is Wall Street Bullish or Bearish?</a>"
+      "last_price": 199.04,
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 503.29,
+      "last_price": 510.18,
       "news": "<a href=\"https://www.marketbeat.com/originals/microsoft-and-irens-97b-ai-deal-could-spark-msft-stock-rally/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Microsoft and IREN\u2019s $9.7B AI Deal Could Spark MSFT Stock Rally</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 186.86,
+      "last_price": 190.17,
       "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/nvidia-nvda-earnings-next-week-will-the-ai-giant-defy-techs-sell-off-trend/articleshow/125276020.cms\" target=\"_blank\">Nvidia (NVDA) earnings next week \u2014 will the AI giant defy tech\u2019s sell-off trend?</a>"
     },
     {
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 172.14,
-      "news": "<a href=\"https://www.thestreet.com/automotive/celebrity-ceos-spark-attention-and-controversy\" target=\"_blank\">Celebrity CEOs spark attention and controversy</a>"
+      "last_price": 174.01,
+      "news": "<a href=\"https://finance.yahoo.com/news/dont-bet-against-crazy-people-213114440.html\" target=\"_blank\">'Don't Bet Against Crazy People,' Says Ross Gerber. 'Shorting Palantir Is A Bad Idea'</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 529.78,
+      "last_price": 537.55,
       "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 37.05,
+      "last_price": 36.77,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 223.23,
-      "news": "<a href=\"https://finance.yahoo.com/news/quantum-si-incorporated-qsi-reports-005001617.html\" target=\"_blank\">Quantum-Si Incorporated (QSI) Reports Q3 Loss, Lags Revenue Estimates</a>"
+      "last_price": 226.01,
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-23665-w\" target=\"_blank\">Insect vectors have personality: first evidence with the tiger mosquito Aedes albopictus</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 256.92,
-      "news": "<a href=\"https://www.digitaljournal.com/business/inside-the-five-decade-rise-of-merrimack-valley-roofing-as-new-englands-trusted-roofing-partner/article\" target=\"_blank\">Inside the five-decade rise of Merrimack Valley Roofing as New England\u2019s trusted roofing partner</a>"
+      "last_price": 257.02,
+      "news": "<a href=\"https://fstoppers.com/education/pro-photographers-location-scouting-checklist-stop-winging-it-and-start-planning-715960\" target=\"_blank\">The Pro Photographer's Location Scouting Checklist: Stop Winging It and Start Planning Like You Mean It</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.33,
+      "last_price": 8.95,
       "news": "No news available"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 67.12,
+      "last_price": 66.71,
       "news": "<a href=\"https://www.project-syndicate.org/commentary/ai-can-expand-access-to-equity-finance-by-ricardo-hausmann-2025-11\" target=\"_blank\">Will AI Democratize Access to Equity Financing?</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 289.38,
+      "last_price": 288.52,
       "news": "<a href=\"https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/\" target=\"_blank\">Dave Vellante\u2019s Breaking Analysis: The complete collection</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 147.14,
+      "last_price": 146.89,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.87,
+      "last_price": 17.02,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-13T16:00:00+00:00",
-  "data_date": "2025-11-13",
+  "last_updated": "2025-11-14T16:00:00+00:00",
+  "data_date": "2025-11-14",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
