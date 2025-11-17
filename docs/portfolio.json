@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 199.04,
-      "news": "<a href=\"https://www.gov.uk/government/speeches/kings-birthday-party-2025-charge-daffaires-ed-barnetts-speech\" target=\"_blank\">King's Birthday Party 2025: Charg\u00e9 d\u2019Affaires Ed Barnett's speech</a>"
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/15/3188690/0/en/Creative-Women-Forum-Saudi-Arabia-2025-Empower-Engage-Sustain-Women-Leading-Initiatives.html\" target=\"_blank\">Creative Women Forum Saudi Arabia 2025: Empower Engage Sustain \u2013 Women Leading Initiatives</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 510.18,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/tech-crash-alert-1-5-trillion-lost-from-us-stock-market-in-just-48-hours-nasdaq-sp-500-dow-fall-as-rate-cut-hopes-fade/articleshow/125331514.cms\" target=\"_blank\">Tech crash alert: $1.5 trillion lost from US stock market in just 48 hours \u2014 Nasdaq, S&P 500, Dow fall as rate cut hopes fade</a>"
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/bill-and-melinda-gates-foundation-just-slashed-its-microsoft-holdings-by-nearly-65-move-raises-eyebrows/articleshow/125347417.cms\" target=\"_blank\">Bill and Melinda Gates Foundation just slashed its Microsoft holdings by nearly 65%, move raises eyebrows</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 190.17,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/tech-crash-alert-1-5-trillion-lost-from-us-stock-market-in-just-48-hours-nasdaq-sp-500-dow-fall-as-rate-cut-hopes-fade/articleshow/125331514.cms\" target=\"_blank\">Tech crash alert: $1.5 trillion lost from US stock market in just 48 hours \u2014 Nasdaq, S&P 500, Dow fall as rate cut hopes fade</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/ubs-reaffirms-buy-nvidia-nvda-061033776.html\" target=\"_blank\">UBS Reaffirms Buy on Nvidia (NVDA) Despite Growth Sustainability and Valuation Concerns</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 257.02,
-      "news": "<a href=\"https://www.cbc.ca/radio/asithappens/irans-water-bankruptcy-problem-is-nothing-new-says-un-expert-9.6978257\" target=\"_blank\">Iran\u2019s 'water bankruptcy problem' is nothing new, says UN expert</a>"
+      "news": "<a href=\"https://www.dezeen.com/2025/11/15/prospect-berkshires-landscape-hotel-cedar-clad-cabins-massachusetts/\" target=\"_blank\">Prospect Berkshires \"landscape hotel\" features cedar-clad cabins in Massachusetts</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-15T16:00:00+00:00",
-  "data_date": "2025-11-15",
+  "last_updated": "2025-11-16T16:00:00+00:00",
+  "data_date": "2025-11-16",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
