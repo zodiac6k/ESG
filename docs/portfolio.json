@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "62.22%",
-      "CAGR": "17.50%",
+      "Total Return": "59.77%",
+      "CAGR": "16.90%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.59"
+      "Sharpe Ratio": "0.58"
     },
     "QQQ": {
-      "Total Return": "55.25%",
-      "CAGR": "15.79%",
+      "Total Return": "53.92%",
+      "CAGR": "15.46%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "48.26%",
-      "CAGR": "14.03%",
+      "Total Return": "46.88%",
+      "CAGR": "13.67%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 377.13,
+      "last_price": 370.1,
       "news": "<a href=\"https://finance.yahoo.com/news/rockwell-automation-q4-earnings-beat-183900923.html\" target=\"_blank\">Rockwell Automation Q4 Earnings Beat Estimates, Revenues Rise Y/Y</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 127.58,
+      "last_price": 126.93,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/14/3188365/0/en/Copper-Scrap-Market-Size-to-Hit-USD-148-57-Billion-by-2034.html\" target=\"_blank\">Copper Scrap Market Size to Hit USD 148.57 Billion by 2034</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 199.04,
+      "last_price": 196.08,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/15/3188690/0/en/Creative-Women-Forum-Saudi-Arabia-2025-Empower-Engage-Sustain-Women-Leading-Initiatives.html\" target=\"_blank\">Creative Women Forum Saudi Arabia 2025: Empower Engage Sustain \u2013 Women Leading Initiatives</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 510.18,
+      "last_price": 507.49,
       "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/bill-and-melinda-gates-foundation-just-slashed-its-microsoft-holdings-by-nearly-65-move-raises-eyebrows/articleshow/125347417.cms\" target=\"_blank\">Bill and Melinda Gates Foundation just slashed its Microsoft holdings by nearly 65%, move raises eyebrows</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 190.17,
-      "news": "<a href=\"https://finance.yahoo.com/news/ubs-reaffirms-buy-nvidia-nvda-061033776.html\" target=\"_blank\">UBS Reaffirms Buy on Nvidia (NVDA) Despite Growth Sustainability and Valuation Concerns</a>"
+      "last_price": 186.6,
+      "news": "<a href=\"https://slashdot.org/firehose.pl?op=view&amp;id=180099837\" target=\"_blank\">Nvidia Shares May Plunge After Results (NASDAQ:NVDA) - Seeking Alpha</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 174.01,
+      "last_price": 171.25,
       "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/tech-crash-alert-1-5-trillion-lost-from-us-stock-market-in-just-48-hours-nasdaq-sp-500-dow-fall-as-rate-cut-hopes-fade/articleshow/125331514.cms\" target=\"_blank\">Tech crash alert: $1.5 trillion lost from US stock market in just 48 hours \u2014 Nasdaq, S&P 500, Dow fall as rate cut hopes fade</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 537.55,
+      "last_price": 529.78,
       "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 36.77,
+      "last_price": 35.98,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 226.01,
+      "last_price": 228.71,
       "news": "<a href=\"https://finance.yahoo.com/news/microsoft-initiated-home-depot-downgraded-143847471.html\" target=\"_blank\">Microsoft initiated, Home Depot downgraded: Wall Street's top analyst calls</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 257.02,
-      "news": "<a href=\"https://www.dezeen.com/2025/11/15/prospect-berkshires-landscape-hotel-cedar-clad-cabins-massachusetts/\" target=\"_blank\">Prospect Berkshires \"landscape hotel\" features cedar-clad cabins in Massachusetts</a>"
+      "last_price": 252.79,
+      "news": "<a href=\"https://news.slashdot.org/story/25/11/16/2339215/some-americans-are-trying-to-heat-their-homes-with-bitcoin-mining\" target=\"_blank\">Some Americans Are Trying to Heat Their Homes With Bitcoin Mining</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.95,
+      "last_price": 8.53,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.16,
+      "last_price": 2.08,
       "news": "<a href=\"https://www.iss.europa.eu/publications/analysis/northern-frosts-eu-should-contain-and-unpower-russia-arctic\" target=\"_blank\">The northern frosts: The EU should contain and unpower Russia in the Arctic</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 66.71,
+      "last_price": 65.4,
       "news": "<a href=\"https://finance.yahoo.com/news/living-1-3-states-driving-151700638.html\" target=\"_blank\">Is living in 1 of these 3 states driving your car insurance costs sky high? How to reduce costs no matter where you live</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 288.52,
+      "last_price": 283.56,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 146.89,
+      "last_price": 145.63,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.02,
+      "last_price": 16.8,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-16T16:00:00+00:00",
-  "data_date": "2025-11-16",
+  "last_updated": "2025-11-17T16:00:00+00:00",
+  "data_date": "2025-11-17",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
