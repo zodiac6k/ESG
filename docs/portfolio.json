@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 128.22,
-      "news": "<a href=\"https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-emr-eks-sso/\" target=\"_blank\">Amazon SageMaker Unified Studio adds EMR on EKS support with SSO capabilities</a>"
+      "news": "<a href=\"https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-serverless-apache-spark/\" target=\"_blank\">Amazon EMR Serverless now supports Apache Spark 4.0.1 (preview)</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 190.02,
-      "news": "No news available"
+      "news": "<a href=\"https://www.standardmedia.co.ke/business/business/article/2001534734/eac-mulls-new-strategy-to-improve-blue-economy\" target=\"_blank\">EAC mulls new strategy to improve blue economy</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 472.12,
-      "news": "<a href=\"https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ge-vernova-powers-higher-eversource-energy-stock-plunges-11853053\" target=\"_blank\">S&P 500 Gains and Losses Today: Nvidia Climbs Ahead of Earnings; GE Vernova Powers Higher</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/guggenheim-stays-bullish-microsoft-msft-153714846.html\" target=\"_blank\">Guggenheim Stays Bullish on Microsoft (MSFT) as Ignite Showcases AI Momentum</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 178.88,
-      "news": "<a href=\"https://www.barchart.com/story/news/36226367/jensen-huang-says-blackwell-sales-are-off-the-charts-and-cloud-gpus-are-sold-out-as-nvidia-crushes-q3-earnings-and-beats-analyst-expectations\" target=\"_blank\">Jensen Huang Says \u2018Blackwell Sales Are Off the Charts, and Cloud GPUs Are Sold Out\u2019 as Nvidia Crushes Q3 Earnings and Beats Analyst Expectations</a>"
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/1-trillion-swing-in-54-hours-nvidia-gains-450-billion-loses-600-billion-the-swing-shaking-stock-market/articleshow/125490646.cms\" target=\"_blank\">$1 trillion swing in 54 hours: Nvidia gains $450 billion, loses $600 billion \u2014 The swing shaking stock market</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 234.03,
-      "news": "<a href=\"https://www.nature.com/articles/s41598-025-27432-9\" target=\"_blank\">Lidar reveals distinct insect daily activity and diversity between habitats</a>"
+      "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013732\" target=\"_blank\">Nationwide variation of snakebite incidence in Kenya: Community surveys as an integrated NTD approach</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 64.07,
-      "news": "<a href=\"https://www.edf.org/media/report-clean-energy-manufacturing-investments-dropped-34-billion-last-month\" target=\"_blank\">Report: Clean Energy Manufacturing Investments Dropped $3.4 Billion Last Month</a>"
+      "news": "<a href=\"https://www.project-syndicate.org/onpoint/will-the-ai-boom-continue\" target=\"_blank\">Will the AI Boom Continue?</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-21T16:00:00+00:00",
-  "data_date": "2025-11-21",
+  "last_updated": "2025-11-22T16:00:00+00:00",
+  "data_date": "2025-11-22",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
