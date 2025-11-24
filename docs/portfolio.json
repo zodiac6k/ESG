@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 190.02,
-      "news": "<a href=\"https://www.standardmedia.co.ke/business/business/article/2001534734/eac-mulls-new-strategy-to-improve-blue-economy\" target=\"_blank\">EAC mulls new strategy to improve blue economy</a>"
+      "news": "<a href=\"https://articles.mercola.com/sites/articles/archive/2025/11/23/health-risks-of-5g.aspx\" target=\"_blank\">10 Studies Detail Health Risks of 5G</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 234.03,
-      "news": "<a href=\"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013732\" target=\"_blank\">Nationwide variation of snakebite incidence in Kenya: Community surveys as an integrated NTD approach</a>"
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-27734-y\" target=\"_blank\">Quantitative modeling of the non-monotonic sensitivity of defect-engineered graphene sensors</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-22T16:00:00+00:00",
-  "data_date": "2025-11-22",
+  "last_updated": "2025-11-23T16:00:00+00:00",
+  "data_date": "2025-11-23",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
