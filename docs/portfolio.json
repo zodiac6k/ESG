@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "59.56%",
-      "CAGR": "16.85%",
+      "Total Return": "61.42%",
+      "CAGR": "17.31%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.58"
+      "Sharpe Ratio": "0.59"
     },
     "QQQ": {
-      "Total Return": "55.26%",
-      "CAGR": "15.79%",
+      "Total Return": "56.63%",
+      "CAGR": "16.13%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "48.94%",
-      "CAGR": "14.20%",
+      "Total Return": "49.97%",
+      "CAGR": "14.46%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 391.3,
+      "last_price": 393.99,
       "news": "<a href=\"https://finance.yahoo.com/news/rockwell-automation-q4-earnings-beat-183900923.html\" target=\"_blank\">Rockwell Automation Q4 Earnings Beat Estimates, Revenues Rise Y/Y</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 130.9,
-      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337436\" target=\"_blank\">Spiritual care in the outpatient environment for chronically ill older African American patients: Protocol for a pilot feasibility study</a>"
+      "last_price": 131.44,
+      "news": "<a href=\"https://childrenshealthdefense.org/defender/chd-tells-fcc-protect-people-or-get-out-of-the-way-radiation-exposure/\" target=\"_blank\">\u2018New Phase of Attack\u2019: Children\u2019s Health Defense Tells FCC to Protect People, or \u2018Get Out of the Way\u2019</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 191.02,
-      "news": "<a href=\"https://www.nature.com/articles/s41467-025-66639-2\" target=\"_blank\">A lignin-enrichment approach for processing natural wood into highly NIR-selective optical filters</a>"
+      "last_price": 189.99,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/25/3194225/0/en/Nokia-Canada-breaks-ground-on-new-Ottawa-innovation-campus-helping-to-shape-the-future-of-Canadian-Tech-leadership.html\" target=\"_blank\">Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 476.99,
-      "news": "<a href=\"https://finance.yahoo.com/news/guggenheim-stays-bullish-microsoft-msft-153714846.html\" target=\"_blank\">Guggenheim Stays Bullish on Microsoft (MSFT) as Ignite Showcases AI Momentum</a>"
+      "last_price": 485.5,
+      "news": "<a href=\"https://www.barchart.com/story/news/36304196/is-microsoft-stock-underperforming-the-nasdaq\" target=\"_blank\">Is Microsoft Stock Underperforming the Nasdaq?</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 177.82,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-full-list-of-top-pre-market-movers-across-dow-sp-500-and-nasdaq-as-gold-slides-and-bitcoin-keeps-falling/articleshow/125538716.cms\" target=\"_blank\">US stock market today: Full list of top pre-market movers across Dow, S&P 500 and Nasdaq as gold slides and Bitcoin keeps falling</a>"
+      "last_price": 180.26,
+      "news": "<a href=\"https://www.barchart.com/story/news/36304196/is-microsoft-stock-underperforming-the-nasdaq\" target=\"_blank\">Is Microsoft Stock Underperforming the Nasdaq?</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 163.55,
+      "last_price": 165.77,
       "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/tech-crash-alert-1-5-trillion-lost-from-us-stock-market-in-just-48-hours-nasdaq-sp-500-dow-fall-as-rate-cut-hopes-fade/articleshow/125331514.cms\" target=\"_blank\">Tech crash alert: $1.5 trillion lost from US stock market in just 48 hours \u2014 Nasdaq, S&P 500, Dow fall as rate cut hopes fade</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 512.34,
+      "last_price": 501.54,
       "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 37.76,
+      "last_price": 38.21,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 242.46,
+      "last_price": 249.97,
       "news": "<a href=\"http://coolhunting.com/design/a-dip-in-basin-glacial-waters/\" target=\"_blank\">A Dip in BASIN Glacial Waters</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 250.32,
-      "news": "<a href=\"http://wwd.com/shop/shop-shoes/best-black-friday-shoe-deals-footwear-sale-2025-shop-1238360493/\" target=\"_blank\">20 Best Black Friday Footwear Deals to Shop ASAP: From Celeb-Worn Nike Vomeros to High-Achieving On Sneakers</a>"
+      "last_price": 248.66,
+      "news": "<a href=\"https://www.nature.com/articles/s41586-025-09736-y\" target=\"_blank\">Detection of triboelectric discharges during dust events on Mars</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.54,
+      "last_price": 8.64,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.02,
-      "news": "<a href=\"https://www.iss.europa.eu/publications/analysis/northern-frosts-eu-should-contain-and-unpower-russia-arctic\" target=\"_blank\">The northern frosts: The EU should contain and unpower Russia in the Arctic</a>"
+      "last_price": 2.04,
+      "news": "<a href=\"https://github.com/PearlThoughts/CodeCompass\" target=\"_blank\">Show HN: I vibe-coded a tool to decode a legacy system nobody understood</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 66.52,
+      "last_price": 67.32,
       "news": "<a href=\"https://www.project-syndicate.org/onpoint/will-the-ai-boom-continue\" target=\"_blank\">Will the AI Boom Continue?</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 283.58,
+      "last_price": 291.39,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 147.62,
+      "last_price": 148.6,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.43,
+      "last_price": 16.8,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-25T16:00:00+00:00",
-  "data_date": "2025-11-25",
+  "last_updated": "2025-11-26T16:00:00+00:00",
+  "data_date": "2025-11-26",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
