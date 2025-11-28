@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 131.44,
-      "news": "<a href=\"https://childrenshealthdefense.org/defender/chd-tells-fcc-protect-people-or-get-out-of-the-way-radiation-exposure/\" target=\"_blank\">\u2018New Phase of Attack\u2019: Children\u2019s Health Defense Tells FCC to Protect People, or \u2018Get Out of the Way\u2019</a>"
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/introducing-catalog-federation-for-apache-iceberg-tables-in-the-aws-glue-data-catalog/\" target=\"_blank\">Introducing catalog federation for Apache Iceberg tables in the AWS Glue Data Catalog</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 189.99,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/11/25/3194225/0/en/Nokia-Canada-breaks-ground-on-new-Ottawa-innovation-campus-helping-to-shape-the-future-of-Canadian-Tech-leadership.html\" target=\"_blank\">Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership</a>"
+      "news": "<a href=\"https://thechronicle.com.gh/abedi-pele-joins-sports-ministrys-advisory-board/\" target=\"_blank\">Abedi Pele joins Sports Ministry\u2019s advisory board</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 180.26,
-      "news": "<a href=\"https://www.barchart.com/story/news/36304196/is-microsoft-stock-underperforming-the-nasdaq\" target=\"_blank\">Is Microsoft Stock Underperforming the Nasdaq?</a>"
+      "news": "<a href=\"https://www.finextra.com/blogposting/30228/european-fintech-draws-in-investors-seeking-refuge-from-wall-streets-ai-bubble\" target=\"_blank\">European Fintech Draws in Investors Seeking Refuge From Wall Street\u2019s AI Bubble (Dmytro Spilka)</a>"
     },
     {
       "ticker": "PLTR",
@@ -97,7 +97,7 @@
       "quantity": 32.37,
       "initial_price": 137.32,
       "last_price": 501.54,
-      "news": "<a href=\"https://www.nature.com/articles/s41598-025-22926-y\" target=\"_blank\">Integrating event information and multi dimensional relationships for improved financial time series forecasting</a>"
+      "news": "<a href=\"https://www.forrester.com/blogs/paying-to-observe-it-all-palo-alto-networks-acquisition-of-chronosphere/\" target=\"_blank\">Paying To Observe It All: Palo Alto Networks Acquisition Of Chronosphere</a>"
     },
     {
       "ticker": "CGNX",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 248.66,
-      "news": "<a href=\"https://www.nature.com/articles/s41586-025-09736-y\" target=\"_blank\">Detection of triboelectric discharges during dust events on Mars</a>"
+      "news": "<a href=\"https://www.nature.com/articles/s41598-025-29279-6\" target=\"_blank\">Evaluating the role of microplastics and wastewater in shaping Vibrio spp. and antibiotic resistance gene abundance in urban freshwaters</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 67.32,
-      "news": "<a href=\"https://www.project-syndicate.org/onpoint/will-the-ai-boom-continue\" target=\"_blank\">Will the AI Boom Continue?</a>"
+      "news": "<a href=\"https://economictimes.indiatimes.com/tech/artificial-intelligence/et-ai-awards-2025-nominate-now-for-the-ai-for-banking-financial-services-transformation-category/articleshow/125588216.cms\" target=\"_blank\">ET AI Awards 2025: Nominate now for the AI for Banking & Financial Services Transformation category</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-26T16:00:00+00:00",
-  "data_date": "2025-11-26",
+  "last_updated": "2025-11-27T16:00:00+00:00",
+  "data_date": "2025-11-27",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
