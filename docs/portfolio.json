@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 133.38,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/introducing-catalog-federation-for-apache-iceberg-tables-in-the-aws-glue-data-catalog/\" target=\"_blank\">Introducing catalog federation for Apache Iceberg tables in the AWS Glue Data Catalog</a>"
+      "news": "<a href=\"https://www.forbes.com/sites/jimvinoski/2025/11/28/can-america-recover-from-its-shipbuilding-crisis/\" target=\"_blank\">Can America Recover From Its Shipbuilding Crisis?</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 192.19,
-      "news": "<a href=\"https://punchng.com/outgoing-neiti-boss-orji-hands-over-highlights-3bn-recoveries/\" target=\"_blank\">Outgoing NEITI boss Orji hands over, highlights $3bn recoveries</a>"
+      "news": "<a href=\"https://punchng.com/?p=1996641\" target=\"_blank\">NHRC faults court ruling, seeks right to handle oil pollution cases</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 251.24,
-      "news": "<a href=\"https://www.nature.com/articles/s41598-025-30316-7\" target=\"_blank\">Unveiling shifts in Eurasian annual temperature cycles under anthropogenic warming</a>"
+      "news": "<a href=\"https://www.nature.com/articles/s41467-025-66671-2\" target=\"_blank\">Ocean driven retreat of the Northeast Greenland Ice Stream following the Last Glacial Maximum</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-11-28T16:00:00+00:00",
-  "data_date": "2025-11-28",
+  "last_updated": "2025-11-29T16:00:00+00:00",
+  "data_date": "2025-11-29",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
