@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 404.29,
-      "news": "<a href=\"https://finance.yahoo.com/news/rockwell-automation-q4-earnings-beat-183900923.html\" target=\"_blank\">Rockwell Automation Q4 Earnings Beat Estimates, Revenues Rise Y/Y</a>"
+      "news": "No news available"
     },
     {
       "ticker": "EMR",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 191.33,
-      "news": "No news available"
+      "news": "<a href=\"https://punchng.com/youre-enemies-of-democracy-pdp-slams-defecting-rivers-lawmakers/\" target=\"_blank\">You\u2019re enemies of democracy, PDP slams defecting Rivers lawmakers</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 182.41,
-      "news": "<a href=\"https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583\" target=\"_blank\">These 5 charts hint at where stocks might go next after a wild November for the market</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/chatgpt-thinks-nvidia-stock-price-143238749.html\" target=\"_blank\">ChatGPT Thinks Nvidia Stock Price Will Close At This Price By The End of 2025</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 228.79,
-      "news": "<a href=\"https://finance.yahoo.com/news/tokenization-everything-digital-asset-treasury-172659635.html\" target=\"_blank\">Tokenization of Everything \u2013 Digital Asset Treasury Panel, 5th Palm Beach CorpGov Forum</a>"
+      "news": "<a href=\"https://www.arlnow.com/2025/12/05/debrief-1252025/\" target=\"_blank\">ARLnow Daily Debrief for Dec 5, 2025</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-05T16:00:00+00:00",
-  "data_date": "2025-12-05",
+  "last_updated": "2025-12-06T16:00:00+00:00",
+  "data_date": "2025-12-06",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
