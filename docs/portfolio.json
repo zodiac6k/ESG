@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 137.39,
-      "news": "<a href=\"https://childrenshealthdefense.org/defender/kids-cellphones-before-age-12-higher-risk-obesity-depression-poor-sleep-study/\" target=\"_blank\">Kids Who Get Cellphones Before Age 12 at Higher Risk of Obesity, Depression, Poor Sleep</a>"
+      "news": "No news available"
     },
     {
       "ticker": "HON",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 181.76,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/tech-crash-alert-1-5-trillion-lost-from-us-stock-market-in-just-48-hours-nasdaq-sp-500-dow-fall-as-rate-cut-hopes-fade/articleshow/125331514.cms\" target=\"_blank\">Tech crash alert: $1.5 trillion lost from US stock market in just 48 hours \u2014 Nasdaq, S&P 500, Dow fall as rate cut hopes fade</a>"
+      "news": "No news available"
     },
     {
       "ticker": "CRWD",
@@ -115,7 +115,7 @@
       "quantity": 77.92,
       "initial_price": 57.04,
       "last_price": 268.0,
-      "news": "<a href=\"http://coolhunting.com/design/a-dip-in-basin-glacial-waters/\" target=\"_blank\">A Dip in BASIN Glacial Waters</a>"
+      "news": "<a href=\"https://sports.yahoo.com/articles/high-school-basketball-fridays-boys-071811989.html\" target=\"_blank\">High school basketball: Friday's boys' and girls' scores</a>"
     },
     {
       "ticker": "SNOW",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 228.79,
-      "news": "<a href=\"https://www.arlnow.com/2025/12/05/debrief-1252025/\" target=\"_blank\">ARLnow Daily Debrief for Dec 5, 2025</a>"
+      "news": "<a href=\"https://www.yahoo.com/news/articles/tourist-captures-unprecedented-photo-rare-010000744.html\" target=\"_blank\">Tourist captures unprecedented photo of rare 'white ghost' animal experts thought was extinct: 'I couldn't believe what I was seeing'</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-06T16:00:00+00:00",
-  "data_date": "2025-12-06",
+  "last_updated": "2025-12-07T16:00:00+00:00",
+  "data_date": "2025-12-07",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
