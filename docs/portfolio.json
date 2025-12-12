@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "66.77%",
-      "CAGR": "18.59%",
+      "Total Return": "67.47%",
+      "CAGR": "18.75%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.61"
+      "Sharpe Ratio": "0.62"
     },
     "QQQ": {
-      "Total Return": "60.03%",
-      "CAGR": "16.97%",
+      "Total Return": "59.51%",
+      "CAGR": "16.84%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "51.71%",
-      "CAGR": "14.91%",
+      "Total Return": "52.06%",
+      "CAGR": "14.99%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 410.23,
-      "news": "<a href=\"https://www.wallpaper.com/architecture/residential/bungalow-ofis-ljubljana-slovenia\" target=\"_blank\">A new bungalow in Ljubljana is infused with the spirit of place</a>"
+      "last_price": 413.05,
+      "news": "<a href=\"https://www.firstshowing.net/2025/sundance-2026-official-selection-feature-films-announced/\" target=\"_blank\">Sundance 2026: Official Selection of All 90 Feature Films Announced</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 137.01,
+      "last_price": 139.57,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/introducing-aws-glue-5-1-for-apache-spark/\" target=\"_blank\">Introducing AWS Glue 5.1 for Apache Spark</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 192.06,
+      "last_price": 193.85,
       "news": "<a href=\"https://punchng.com/2027-ogun-nnpp-chair-re-elected-vows-massive-mobilisation/\" target=\"_blank\">2027: Ogun NNPP chair re-elected, vows massive mobilisation</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 478.56,
+      "last_price": 483.47,
       "news": "<a href=\"https://www.thestreet.com/investing/microsofts-ai-jitters-look-where-the-real-money-shows-up\" target=\"_blank\">Microsoft sends harsh message to millions of Microsoft 365 customers</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 183.78,
+      "last_price": 180.93,
       "news": "<a href=\"https://coinjournal.net/news/injective-inj-jumps-over-5-as-price-nears-6-amid-volume-surge-and-market-rebound/\" target=\"_blank\">Injective (INJ) jumps over 5% as price nears $6 amid volume surge and market rebound</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 187.91,
+      "last_price": 187.54,
       "news": "<a href=\"https://finance.yahoo.com/news/palantir-technologies-inc-pltr-bull-212009505.html\" target=\"_blank\">Palantir Technologies Inc. (PLTR): A\u00a0Bull\u00a0Case Theory</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 519.54,
+      "last_price": 517.65,
       "news": "<a href=\"https://www.barchart.com/story/news/36405490/this-under-100-growth-stock-is-a-smart-buy-with-80-upside-potential\" target=\"_blank\">This Under-$100 Growth Stock Is a Smart Buy With 80% Upside Potential</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 37.91,
+      "last_price": 36.88,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 275.15,
+      "last_price": 270.11,
       "news": "<a href=\"https://sports.yahoo.com/articles/high-school-basketball-fridays-boys-071811989.html\" target=\"_blank\">High school basketball: Friday's boys' and girls' scores</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 216.55,
-      "news": "<a href=\"https://www.nature.com/articles/s41586-025-09753-x\" target=\"_blank\">The influence of short-lived halogens on atmospheric chemistry and climate</a>"
+      "last_price": 220.51,
+      "news": "No news available"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.29,
+      "last_price": 9.44,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.77,
+      "last_price": 1.97,
       "news": "<a href=\"https://github.com/PearlThoughts/CodeCompass\" target=\"_blank\">Show HN: I vibe-coded a tool to decode a legacy system nobody understood</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 71.59,
+      "last_price": 71.88,
       "news": "<a href=\"https://economictimes.indiatimes.com/tech/artificial-intelligence/et-ai-awards-2025-nominate-now-for-the-ai-for-banking-financial-services-transformation-category/articleshow/125588216.cms\" target=\"_blank\">ET AI Awards 2025: Nominate now for the AI for Banking & Financial Services Transformation category</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 316.33,
+      "last_price": 314.52,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.46,
+      "last_price": 150.85,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.74,
+      "last_price": 17.04,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-10T16:00:00+00:00",
-  "data_date": "2025-12-10",
+  "last_updated": "2025-12-11T16:00:00+00:00",
+  "data_date": "2025-12-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
