@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 193.66,
-      "news": "<a href=\"https://punchng.com/monitor-land-usage-oyo-urges-residents/\" target=\"_blank\">Monitor land usage, Oyo urges residents</a>"
+      "news": "<a href=\"https://financialpost.com/pmn/business-wire-news-releases-pmn/porter-preps-for-start-of-five-sun-routes-from-ottawa\" target=\"_blank\">Porter Preps for Start of Five Sun Routes From Ottawa</a>"
     },
     {
       "ticker": "MSFT",
@@ -115,7 +115,7 @@
       "quantity": 77.92,
       "initial_price": 57.04,
       "last_price": 259.21,
-      "news": "<a href=\"https://sports.yahoo.com/articles/high-school-basketball-fridays-boys-071811989.html\" target=\"_blank\">High school basketball: Friday's boys' and girls' scores</a>"
+      "news": "<a href=\"https://sports.yahoo.com/articles/high-school-basketball-thursdays-boys-065841405.html\" target=\"_blank\">High school basketball: Thursday's boys' and girls' scores</a>"
     },
     {
       "ticker": "SNOW",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 217.93,
-      "news": "<a href=\"https://wattsupwiththat.com/2025/12/11/the-christmas-gift-that-climate-grinches-cant-abide/\" target=\"_blank\">The Christmas Gift that Climate Grinches Can\u2019t Abide</a>"
+      "news": "<a href=\"https://www.insurancejournal.com/news/west/2025/12/12/850927.htm\" target=\"_blank\">Climate Change Is Straining Alaska\u2019s Arctic, But A Mining Road May Push It Past The Brink</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-12T16:00:00+00:00",
-  "data_date": "2025-12-12",
+  "last_updated": "2025-12-13T16:00:00+00:00",
+  "data_date": "2025-12-13",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
