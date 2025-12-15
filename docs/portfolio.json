@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 193.66,
-      "news": "<a href=\"https://financialpost.com/pmn/business-wire-news-releases-pmn/porter-preps-for-start-of-five-sun-routes-from-ottawa\" target=\"_blank\">Porter Preps for Start of Five Sun Routes From Ottawa</a>"
+      "news": "<a href=\"https://punchng.com/makinde-promises-lasting-solution-to-ibadan-refuse-challenge/\" target=\"_blank\">Makinde promises lasting solution to Ibadan refuse challenge</a>"
     },
     {
       "ticker": "MSFT",
@@ -115,7 +115,7 @@
       "quantity": 77.92,
       "initial_price": 57.04,
       "last_price": 259.21,
-      "news": "<a href=\"https://sports.yahoo.com/articles/high-school-basketball-thursdays-boys-065841405.html\" target=\"_blank\">High school basketball: Thursday's boys' and girls' scores</a>"
+      "news": "No news available"
     },
     {
       "ticker": "SNOW",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 217.93,
-      "news": "<a href=\"https://www.insurancejournal.com/news/west/2025/12/12/850927.htm\" target=\"_blank\">Climate Change Is Straining Alaska\u2019s Arctic, But A Mining Road May Push It Past The Brink</a>"
+      "news": "<a href=\"https://www.disneytouristblog.com/new-scenes-rivers-america-at-disneyland-paris/\" target=\"_blank\">New Scenes Coming to Rivers of America at Disneyland Paris</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-13T16:00:00+00:00",
-  "data_date": "2025-12-13",
+  "last_updated": "2025-12-14T16:00:00+00:00",
+  "data_date": "2025-12-14",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
