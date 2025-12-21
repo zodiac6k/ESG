@@ -30,8 +30,8 @@
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "50.17%",
-      "CAGR": "14.51%",
+      "Total Return": "50.61%",
+      "CAGR": "14.63%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 199.11,
-      "news": "<a href=\"https://www.barchart.com/story/news/36685067/solstice-stock-is-sols-outperforming-the-materials-sector\" target=\"_blank\">Solstice Stock: Is SOLS Outperforming the Materials Sector?</a>"
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 222.46,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/12/18/3208158/0/en/Talisker-Resumes-Normal-Operations-at-Bralorne-Gold-Mine.html\" target=\"_blank\">Talisker Resumes Normal Operations at Bralorne Gold Mine</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/were-there-horses-in-the-ice-age/\" target=\"_blank\">Were there horses in the Ice Age?</a>"
     },
     {
       "ticker": "SSYS",
@@ -142,7 +142,7 @@
       "quantity": 452.59,
       "initial_price": 4.91,
       "last_price": 1.84,
-      "news": "<a href=\"https://github.com/PearlThoughts/CodeCompass\" target=\"_blank\">Show HN: I vibe-coded a tool to decode a legacy system nobody understood</a>"
+      "news": "<a href=\"https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1\" target=\"_blank\">How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?</a>"
     },
     {
       "ticker": "ROBO",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-19T16:00:00+00:00",
-  "data_date": "2025-12-19",
+  "last_updated": "2025-12-20T16:00:00+00:00",
+  "data_date": "2025-12-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
