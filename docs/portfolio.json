@@ -19,7 +19,7 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "63.56%",
+      "Total Return": "63.55%",
       "CAGR": "17.82%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.59"
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 199.11,
-      "news": "No news available"
+      "news": "<a href=\"https://punchng.com/?p=2015410\" target=\"_blank\">ADC demands suspension of tax laws over modification allegations</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 222.46,
-      "news": "<a href=\"https://www.lifesciencesworld.com/were-there-horses-in-the-ice-age/\" target=\"_blank\">Were there horses in the Ice Age?</a>"
+      "news": "<a href=\"http://comicbook.com/gaming/feature/whats-going-on-with-the-division-3/\" target=\"_blank\">What\u2019s Going On With The Division 3?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-20T16:00:00+00:00",
-  "data_date": "2025-12-20",
+  "last_updated": "2025-12-21T16:00:00+00:00",
+  "data_date": "2025-12-21",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
