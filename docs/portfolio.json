@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "64.90%",
-      "CAGR": "18.14%",
+      "Total Return": "65.23%",
+      "CAGR": "18.22%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.60"
     },
     "QQQ": {
-      "Total Return": "57.89%",
-      "CAGR": "16.44%",
+      "Total Return": "58.83%",
+      "CAGR": "16.68%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "51.55%",
-      "CAGR": "14.87%",
+      "Total Return": "52.25%",
+      "CAGR": "15.04%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 398.6,
+      "last_price": 398.84,
       "news": "<a href=\"http://deadline.com/2025/12/2026-sundance-documentary-lineup-programmer-interview-1236645395/\" target=\"_blank\">Documentary Super Directors, Super Producers Book Passage To Final Sundance In Park City; Brittney Griner, Billie Jean King Also Courted By Festival</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 134.99,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/how-taxbit-achieved-cost-savings-and-faster-processing-times-using-amazon-s3-tables/\" target=\"_blank\">How Taxbit achieved cost savings and faster processing times using Amazon S3 Tables</a>"
+      "last_price": 135.49,
+      "news": "<a href=\"https://punchng.com/lagos-psychiatric-hospital-expands-access-to-care-with-online-services/\" target=\"_blank\">Lagos psychiatric hospital expands access to care with online services</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 195.96,
-      "news": "<a href=\"https://punchng.com/illegal-mining-the-silent-war-over-cross-rivers-mineral-wealth/\" target=\"_blank\">Illegal mining: The silent war over Cross River\u2019s mineral wealth</a>"
+      "last_price": 195.5,
+      "news": "<a href=\"https://whistleblowersblog.org/features/national-whistleblower-center-shaped-policy-and-public-awareness-in-2025/\" target=\"_blank\">National Whistleblower Center Shaped Policy and Public Awareness in 2025</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 484.92,
+      "last_price": 486.85,
       "news": "<a href=\"https://247wallst.com/technology-3/2025/12/18/china-prepares-to-wreck-us-ai-industry/\" target=\"_blank\">China Prepares to Wreck US AI Industry</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 183.69,
+      "last_price": 189.21,
       "news": "<a href=\"https://247wallst.com/technology-3/2025/12/18/china-prepares-to-wreck-us-ai-industry/\" target=\"_blank\">China Prepares to Wreck US AI Industry</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 193.98,
+      "last_price": 194.13,
       "news": "<a href=\"https://finance.yahoo.com/news/palantir-technologies-inc-pltr-announces-034724149.html\" target=\"_blank\">Palantir Technologies Inc (PLTR) Announces Renewal of Its 3 Year Contract with DGSI</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 483.14,
+      "last_price": 478.84,
       "news": "<a href=\"https://www.barchart.com/story/news/36405490/this-under-100-growth-stock-is-a-smart-buy-with-80-upside-potential\" target=\"_blank\">This Under-$100 Growth Stock Is a Smart Buy With 80% Upside Potential</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 36.58,
+      "last_price": 36.66,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 259.01,
+      "last_price": 260.23,
       "news": "<a href=\"https://www.newser.com/story/380468/endangered-elephants-are-being-beheaded-in-borneo.html\" target=\"_blank\">Endangered Elephants Are Being Beheaded in Borneo</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 226.84,
-      "news": "<a href=\"https://allears.net/2025/12/21/the-only-5-things-you-actually-need-to-buy-for-disney-world/\" target=\"_blank\">The Only 5 Things You Actually Need To Buy for Disney World</a>"
+      "last_price": 225.1,
+      "news": "<a href=\"https://soldiersystems.net/2025/12/23/sustaining-expeditions-new-tech-keeps-warfighters-fed-in-arctic-conditions/\" target=\"_blank\">Sustaining Expeditions: New Tech Keeps Warfighters Fed in Arctic Conditions</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.25,
+      "last_price": 9.14,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.84,
+      "last_price": 1.81,
       "news": "<a href=\"https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1\" target=\"_blank\">How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.93,
-      "news": "<a href=\"https://www.gamingonlinux.com/2025/12/continuing-to-make-things-weird-two-point-museum-and-revenge-of-the-savage-planet-do-crossovers/.\" target=\"_blank\">Continuing to make things weird Two Point Museum and Revenge of the Savage Planet do crossovers</a>"
+      "last_price": 69.88,
+      "news": "<a href=\"https://www.stemlynsblog.org/cough-remedies/\" target=\"_blank\">Cough remedies: what actually works?</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 303.84,
+      "last_price": 304.96,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 149.78,
+      "last_price": 150.4,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.65,
+      "last_price": 16.54,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-22T16:00:00+00:00",
-  "data_date": "2025-12-22",
+  "last_updated": "2025-12-23T16:00:00+00:00",
+  "data_date": "2025-12-23",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
