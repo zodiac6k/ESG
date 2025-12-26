@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 136.3,
-      "news": "<a href=\"https://punchng.com/lagos-psychiatric-hospital-expands-access-to-care-with-online-services/\" target=\"_blank\">Lagos psychiatric hospital expands access to care with online services</a>"
+      "news": "<a href=\"https://www.thestar.com.my/news/nation/2025/12/24/five-strategic-clusters-drive-madani-health-reform-says-dzulkefly\" target=\"_blank\">Five strategic clusters drive Madani health reform, says Dzulkefly</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 196.93,
-      "news": "<a href=\"https://punchng.com/budget-crisis-nass-extends-2025-fiscal-year-to-march/\" target=\"_blank\">Budget crisis: NASS extends 2025 fiscal year to March</a>"
+      "news": "<a href=\"https://www.afro.who.int/countries/zimbabwe/news/vision-action-zimbabwe-launches-its-national-public-health-institute\" target=\"_blank\">From vision to action: Zimbabwe launches its National Public Health Institute</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 221.93,
-      "news": "<a href=\"https://www.nationalgeographic.com/environment/article/kishangarh-dumping-yard-marble-india\" target=\"_blank\">India\u2019s marble waste site that glitters like a glacier</a>"
+      "news": "<a href=\"https://www.zdnet.com/home-and-office/home-entertainment/aurzen-d1r-cube-roku-projector-review/\" target=\"_blank\">I replaced my bedroom TV with this $180 Roku projector and can't go back</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-24T16:00:00+00:00",
-  "data_date": "2025-12-24",
+  "last_updated": "2025-12-25T16:00:00+00:00",
+  "data_date": "2025-12-25",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
