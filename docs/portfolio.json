@@ -19,18 +19,18 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "65.27%",
-      "CAGR": "18.23%",
+      "Total Return": "65.37%",
+      "CAGR": "18.25%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.60"
     },
     "QQQ": {
-      "Total Return": "59.30%",
+      "Total Return": "59.29%",
       "CAGR": "16.79%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "52.78%",
+      "Total Return": "52.77%",
       "CAGR": "15.17%",
       "Max Drawdown": "-24.47%"
     }
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 398.22,
+      "last_price": 399.79,
       "news": "<a href=\"http://deadline.com/2025/12/2026-sundance-documentary-lineup-programmer-interview-1236645395/\" target=\"_blank\">Documentary Super Directors, Super Producers Book Passage To Final Sundance In Park City; Brittney Griner, Billie Jean King Also Courted By Festival</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 136.3,
+      "last_price": 135.71,
       "news": "<a href=\"https://www.thestar.com.my/news/nation/2025/12/24/five-strategic-clusters-drive-madani-health-reform-says-dzulkefly\" target=\"_blank\">Five strategic clusters drive Madani health reform, says Dzulkefly</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 196.93,
-      "news": "<a href=\"https://www.afro.who.int/countries/zimbabwe/news/vision-action-zimbabwe-launches-its-national-public-health-institute\" target=\"_blank\">From vision to action: Zimbabwe launches its National Public Health Institute</a>"
+      "last_price": 197.37,
+      "news": "<a href=\"https://punchng.com/pictorial-ogun-gov-gifts-suvs-to-20-lg-chairmen/\" target=\"_blank\">PICTORIAL: Ogun gov gifts SUVs to 20 LG chairmen</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 488.02,
+      "last_price": 487.71,
       "news": "<a href=\"https://247wallst.com/technology-3/2025/12/18/china-prepares-to-wreck-us-ai-industry/\" target=\"_blank\">China Prepares to Wreck US AI Industry</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 188.61,
+      "last_price": 190.53,
       "news": "<a href=\"https://247wallst.com/technology-3/2025/12/18/china-prepares-to-wreck-us-ai-industry/\" target=\"_blank\">China Prepares to Wreck US AI Industry</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 194.17,
+      "last_price": 188.71,
       "news": "<a href=\"https://finance.yahoo.com/news/palantir-technologies-inc-pltr-announces-034724149.html\" target=\"_blank\">Palantir Technologies Inc (PLTR) Announces Renewal of Its 3 Year Contract with DGSI</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 477.11,
+      "last_price": 481.19,
       "news": "<a href=\"https://www.barchart.com/story/news/36405490/this-under-100-growth-stock-is-a-smart-buy-with-80-upside-potential\" target=\"_blank\">This Under-$100 Growth Stock Is a Smart Buy With 80% Upside Potential</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 36.6,
+      "last_price": 36.55,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 260.78,
+      "last_price": 261.9,
       "news": "<a href=\"https://www.newser.com/story/380468/endangered-elephants-are-being-beheaded-in-borneo.html\" target=\"_blank\">Endangered Elephants Are Being Beheaded in Borneo</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 221.93,
-      "news": "<a href=\"https://www.zdnet.com/home-and-office/home-entertainment/aurzen-d1r-cube-roku-projector-review/\" target=\"_blank\">I replaced my bedroom TV with this $180 Roku projector and can't go back</a>"
+      "last_price": 223.88,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210491/0/en/Global-Times-In-Medog-scientific-research-is-revealing-how-biodiversity-is-protected-in-one-of-China-s-most-remote-ecosystems.html\" target=\"_blank\">Global Times: In Medog, scientific research is revealing how biodiversity is protected in one of China\u2019s most remote ecosystems</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.08,
+      "last_price": 8.95,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.78,
+      "last_price": 1.82,
       "news": "<a href=\"https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1\" target=\"_blank\">How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.89,
+      "last_price": 69.9,
       "news": "<a href=\"https://www.stemlynsblog.org/cough-remedies/\" target=\"_blank\">Cough remedies: what actually works?</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 306.14,
+      "last_price": 306.04,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.88,
+      "last_price": 150.93,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.58,
+      "last_price": 16.62,
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-25T16:00:00+00:00",
-  "data_date": "2025-12-25",
+  "last_updated": "2025-12-26T16:00:00+00:00",
+  "data_date": "2025-12-26",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
