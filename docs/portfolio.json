@@ -97,7 +97,7 @@
       "quantity": 32.37,
       "initial_price": 137.32,
       "last_price": 481.19,
-      "news": "<a href=\"https://www.barchart.com/story/news/36405490/this-under-100-growth-stock-is-a-smart-buy-with-80-upside-potential\" target=\"_blank\">This Under-$100 Growth Stock Is a Smart Buy With 80% Upside Potential</a>"
+      "news": "<a href=\"https://finance.yahoo.com/news/stifel-cloudflare-net-key-player-072033857.html\" target=\"_blank\">Stifel: Cloudflare (NET) a Key Player in Emerging AI Security Market</a>"
     },
     {
       "ticker": "CGNX",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 223.88,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-mothballs-keep-weasels-away/\" target=\"_blank\">Do mothballs keep weasels away?</a>"
+      "news": "<a href=\"https://english.khabarhub.com/2025/28/513348/\" target=\"_blank\">Snow leopard survey in Manang: Habitat identified around Ngisyang, Narphu and Tilicho</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-27T16:00:00+00:00",
-  "data_date": "2025-12-27",
+  "last_updated": "2025-12-28T16:00:00+00:00",
+  "data_date": "2025-12-28",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
