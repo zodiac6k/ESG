@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 483.62,
-      "news": "<a href=\"https://www.thehindubusinessline.com/news/real-estate/70-of-puravankara-launches-from-fresh-acquisitions-says-company-executive/article70446338.ece\" target=\"_blank\">70% of Puravankara launches from fresh acquisitions, says company executive</a>"
+      "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 186.5,
-      "news": "<a href=\"https://www.barchart.com/story/news/36823896/s-p-futures-tread-water-ahead-of-fomc-meeting-minutes\" target=\"_blank\">S&P Futures Tread Water Ahead of FOMC Meeting Minutes</a>"
+      "news": "<a href=\"https://www.mutualfundobserver.com/2025/12/briefly-noted-111/\" target=\"_blank\">Briefly Noted\u2026</a>"
     },
     {
       "ticker": "PLTR",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 177.75,
-      "news": "<a href=\"https://finance.yahoo.com/news/palantir-technologies-inc-pltr-announces-034724149.html\" target=\"_blank\">Palantir Technologies Inc (PLTR) Announces Renewal of Its 3 Year Contract with DGSI</a>"
+      "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
       "ticker": "CRWD",
@@ -97,7 +97,7 @@
       "quantity": 32.37,
       "initial_price": 137.32,
       "last_price": 468.76,
-      "news": "<a href=\"https://finance.yahoo.com/news/stifel-cloudflare-net-key-player-072033857.html\" target=\"_blank\">Stifel: Cloudflare (NET) a Key Player in Emerging AI Security Market</a>"
+      "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
       "ticker": "CGNX",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 219.36,
-      "news": "<a href=\"https://www.ibtimes.com/ecology-fuel-viktor-genkulov-explains-shipping-industrys-shift-sustainable-fuels-3794025\" target=\"_blank\">Ecology and Fuel: Viktor Genkulov Explains the Shipping Industry's Shift to Sustainable Fuels</a>"
+      "news": "<a href=\"https://www.newser.com/story/381241/warming-shuts-ski-resorts-turning-lifts-into-junk.html\" target=\"_blank\">Warming Shuts Ski Resorts, Turning Lifts Into Junk</a>"
     },
     {
       "ticker": "SSYS",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 301.15,
-      "news": "No news available"
+      "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
       "ticker": "ESGU",
@@ -169,7 +169,7 @@
       "quantity": 155.38,
       "initial_price": 71.51,
       "last_price": 148.98,
-      "news": "No news available"
+      "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
       "ticker": "ICLN",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2025-12-31T16:00:00+00:00",
-  "data_date": "2025-12-31",
+  "last_updated": "2026-01-01T16:00:00+00:00",
+  "data_date": "2026-01-01",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
