@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "62.52%",
-      "CAGR": "17.57%",
+      "Total Return": "64.66%",
+      "CAGR": "18.08%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.58"
+      "Sharpe Ratio": "0.60"
     },
     "QQQ": {
-      "Total Return": "56.84%",
-      "CAGR": "16.19%",
+      "Total Return": "56.54%",
+      "CAGR": "16.11%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "50.91%",
-      "CAGR": "14.70%",
+      "Total Return": "51.19%",
+      "CAGR": "14.77%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 389.07,
-      "news": "<a href=\"http://deadline.com/2025/12/2026-sundance-documentary-lineup-programmer-interview-1236645395/\" target=\"_blank\">Documentary Super Directors, Super Producers Book Passage To Final Sundance In Park City; Brittney Griner, Billie Jean King Also Courted By Festival</a>"
+      "last_price": 398.55,
+      "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/india/2025/india-251231-india-pib01.htm\" target=\"_blank\">MINISTRY OF DEFENCE; YEAR END REVIEW - 2025</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 132.72,
+      "last_price": 135.82,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2025/12/30/3211328/0/en/Revival-Gold-2025-Year-in-Review.html\" target=\"_blank\">Revival Gold 2025 Year in Review</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 195.09,
-      "news": "<a href=\"https://punchng.com/?p=2022843\" target=\"_blank\">US attack: Nigeria must strengthen security \u2013 Kano APC chieftain</a>"
+      "last_price": 195.88,
+      "news": "<a href=\"https://punchng.com/alliance-with-pdp-elders-proves-loyalty-to-tinubu-fubara-dismisses-blackmail-2/\" target=\"_blank\">Alliance with PDP elders proves loyalty to Tinubu, Fubara dismisses blackmail</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 483.62,
+      "last_price": 472.94,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 186.5,
-      "news": "<a href=\"https://www.mutualfundobserver.com/2025/12/briefly-noted-111/\" target=\"_blank\">Briefly Noted\u2026</a>"
+      "last_price": 188.85,
+      "news": "<a href=\"https://www.mutualfundobserver.com/2026/01/briefly-noted-111/\" target=\"_blank\">Briefly Noted\u2026</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 177.75,
+      "last_price": 167.86,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 468.76,
+      "last_price": 453.58,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 35.98,
+      "last_price": 36.93,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 256.99,
+      "last_price": 268.87,
       "news": "<a href=\"https://www.newser.com/story/380468/endangered-elephants-are-being-beheaded-in-borneo.html\" target=\"_blank\">Endangered Elephants Are Being Beheaded in Borneo</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 219.36,
-      "news": "<a href=\"https://www.newser.com/story/381241/warming-shuts-ski-resorts-turning-lifts-into-junk.html\" target=\"_blank\">Warming Shuts Ski Resorts, Turning Lifts Into Junk</a>"
+      "last_price": 216.71,
+      "news": "<a href=\"https://www.ibtimes.com/satellite-internet-vs-5g-rural-broadband-comparison-faster-reliable-wireless-connectivity-3794137\" target=\"_blank\">Satellite Internet vs 5G: Rural Broadband Comparison for Faster, Reliable Wireless Connectivity</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.68,
+      "last_price": 9.01,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.77,
+      "last_price": 1.85,
       "news": "<a href=\"https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1\" target=\"_blank\">How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 69.31,
+      "last_price": 70.71,
       "news": "<a href=\"https://muslimmatters.org/2025/12/30/can-you-fatwah-shop-with-ai/\" target=\"_blank\">Can You Fatwah Shop with AI? The Answer Might Surprise You</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 301.15,
+      "last_price": 313.69,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 148.98,
+      "last_price": 149.19,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.43,
+      "last_price": 17.1,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-01T16:00:00+00:00",
-  "data_date": "2026-01-01",
+  "last_updated": "2026-01-02T16:00:00+00:00",
+  "data_date": "2026-01-02",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
