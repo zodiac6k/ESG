@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 195.88,
-      "news": "<a href=\"https://punchng.com/alliance-with-pdp-elders-proves-loyalty-to-tinubu-fubara-dismisses-blackmail-2/\" target=\"_blank\">Alliance with PDP elders proves loyalty to Tinubu, Fubara dismisses blackmail</a>"
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 216.71,
-      "news": "<a href=\"https://www.ibtimes.com/satellite-internet-vs-5g-rural-broadband-comparison-faster-reliable-wireless-connectivity-3794137\" target=\"_blank\">Satellite Internet vs 5G: Rural Broadband Comparison for Faster, Reliable Wireless Connectivity</a>"
+      "news": "<a href=\"https://kaz-ataka.hatenablog.com/entry/2026/01/03/054127\" target=\"_blank\">What Is Mind? \u2014 A Question Raised by Neuro-sama [EN]</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-02T16:00:00+00:00",
-  "data_date": "2026-01-02",
+  "last_updated": "2026-01-03T16:00:00+00:00",
+  "data_date": "2026-01-03",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
