@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "64.66%",
-      "CAGR": "18.08%",
+      "Total Return": "67.93%",
+      "CAGR": "18.86%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.60"
+      "Sharpe Ratio": "0.61"
     },
     "QQQ": {
-      "Total Return": "56.54%",
-      "CAGR": "16.11%",
+      "Total Return": "57.78%",
+      "CAGR": "16.42%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "51.19%",
-      "CAGR": "14.77%",
+      "Total Return": "52.19%",
+      "CAGR": "15.03%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 398.55,
+      "last_price": 404.73,
       "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/india/2025/india-251231-india-pib01.htm\" target=\"_blank\">MINISTRY OF DEFENCE; YEAR END REVIEW - 2025</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 135.82,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2025/12/30/3211328/0/en/Revival-Gold-2025-Year-in-Review.html\" target=\"_blank\">Revival Gold 2025 Year in Review</a>"
+      "last_price": 142.85,
+      "news": "<a href=\"https://kevinmd.com/2026/01/physician-coaching-a-path-to-sustainable-medicine.html\" target=\"_blank\">Physician coaching: a path to sustainable medicine</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 195.88,
-      "news": "<a href=\"https://punchng.com/?p=2026778\" target=\"_blank\">Reps release Tax reforms Acts for scrutiny to address discrepancy controversy</a>"
+      "last_price": 201.09,
+      "news": "<a href=\"https://punchng.com/group-hails-kalus-peace-initiative-for-yuletide-in-south-east/\" target=\"_blank\">Group hails Kalu\u2019s peace initiative for Yuletide in South East</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 472.94,
+      "last_price": 472.85,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 188.85,
+      "last_price": 188.12,
       "news": "<a href=\"https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697\" target=\"_blank\">This could be a better \u2014 and safer \u2014 way into the AI trade in 2026</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 167.86,
+      "last_price": 174.04,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 453.58,
+      "last_price": 456.55,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 36.93,
+      "last_price": 37.37,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 268.87,
+      "last_price": 284.32,
       "news": "<a href=\"https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697\" target=\"_blank\">This could be a better \u2014 and safer \u2014 way into the AI trade in 2026</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 216.71,
-      "news": "<a href=\"https://english.khabarhub.com/2026/03/514345/\" target=\"_blank\">Today\u2019s News in a Nutshell</a>"
+      "last_price": 224.36,
+      "news": "<a href=\"https://screenrant.com/xbox-game-pass-under-5-hour-games/\" target=\"_blank\">10 Short Xbox Game Pass Games to Beat in One Sitting</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 9.01,
+      "last_price": 9.74,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.85,
+      "last_price": 1.99,
       "news": "<a href=\"https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1\" target=\"_blank\">How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 70.71,
+      "last_price": 72.0,
       "news": "<a href=\"https://muslimmatters.org/2025/12/30/can-you-fatwah-shop-with-ai/\" target=\"_blank\">Can You Fatwah Shop with AI? The Answer Might Surprise You</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 313.69,
+      "last_price": 318.06,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 149.19,
+      "last_price": 150.21,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.1,
+      "last_price": 17.13,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-04T16:00:00+00:00",
-  "data_date": "2026-01-04",
+  "last_updated": "2026-01-05T16:00:00+00:00",
+  "data_date": "2026-01-05",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
