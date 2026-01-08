@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "71.52%",
-      "CAGR": "19.70%",
+      "Total Return": "70.75%",
+      "CAGR": "19.52%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.63"
     },
     "QQQ": {
-      "Total Return": "59.17%",
-      "CAGR": "16.76%",
+      "Total Return": "59.32%",
+      "CAGR": "16.79%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "53.10%",
-      "CAGR": "15.25%",
+      "Total Return": "52.60%",
+      "CAGR": "15.13%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 413.36,
+      "last_price": 409.34,
       "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/india/2025/india-251231-india-pib01.htm\" target=\"_blank\">MINISTRY OF DEFENCE; YEAR END REVIEW - 2025</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 145.62,
-      "news": "<a href=\"https://kevinmd.com/2026/01/physician-coaching-a-path-to-sustainable-medicine.html\" target=\"_blank\">Physician coaching: a path to sustainable medicine</a>"
+      "last_price": 142.15,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/06/3213376/0/en/LQpay-Launches-Agentic-AI-API-Delivering-Human-Like-Access-Across-125-EMR-PM-Systems-Through-a-Single-REST-API.html\" target=\"_blank\">LQpay Launches Agentic AI API, Delivering Human-Like Access Across 125+ EMR/PM Systems Through a Single REST API</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 204.94,
-      "news": "<a href=\"https://punchng.com/2027-battle-rivers-crisis-escalates-as-top-apc-govs-back-fubara/\" target=\"_blank\">2027 battle: Rivers crisis escalates as top APC govs back Fubara</a>"
+      "last_price": 199.51,
+      "news": "<a href=\"https://punchng.com/governance-must-be-responsive-to-peoples-needs-tinubu/\" target=\"_blank\">Governance must be responsive to people\u2019s needs \u2013 Tinubu</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 478.51,
+      "last_price": 483.47,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 187.24,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/05/3213139/0/en/ReelTime-Media-s-Reel-Intelligence-Delivers-Transformational-2025-Structurally-Outperforming-Centralized-AI-Leaders-in-Under-8-Months.html\" target=\"_blank\">ReelTime Media\u2019s Reel Intelligence Delivers Transformational 2025, Structurally Outperforming Centralized AI Leaders in Under 8 Months</a>"
+      "last_price": 189.11,
+      "news": "<a href=\"https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html\" target=\"_blank\">3 semiconductor stocks to play the AI supercycle, according to analysts</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 179.71,
+      "last_price": 181.68,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/05/3213139/0/en/ReelTime-Media-s-Reel-Intelligence-Delivers-Transformational-2025-Structurally-Outperforming-Centralized-AI-Leaders-in-Under-8-Months.html\" target=\"_blank\">ReelTime Media\u2019s Reel Intelligence Delivers Transformational 2025, Structurally Outperforming Centralized AI Leaders in Under 8 Months</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 458.32,
+      "last_price": 478.91,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 38.6,
+      "last_price": 37.92,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 296.01,
+      "last_price": 292.2,
       "news": "<a href=\"https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697\" target=\"_blank\">This could be a better \u2014 and safer \u2014 way into the AI trade in 2026</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 0,
-      "news": "<a href=\"https://www.nzherald.co.nz/bay-of-plenty-times/news/lake-alta-ice-dive-how-police-train-in-freezing-remarkables-lake/EPARBBBPW5EVLP77D3E7V7E3N4/\" target=\"_blank\">Lake Alta ice dive: How police train in freezing Remarkables lake</a>"
+      "last_price": 233.5,
+      "news": "<a href=\"https://www.yahoo.com/news/articles/greenland-melting-ice-landslide-prone-191732079.html\" target=\"_blank\">Greenland\u2019s melting ice and landslide-prone fjords make the oil and minerals Trump is eyeing dangerous to extract</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 234.53,
+      "last_price": 10.08,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.22,
-      "news": "<a href=\"https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1\" target=\"_blank\">How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?</a>"
+      "last_price": 2.18,
+      "news": "<a href=\"https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001154\" target=\"_blank\">Digital health interventions for women in frontline public service roles: A systematic review of effectiveness in reducing substance use</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 73.15,
-      "news": "<a href=\"https://muslimmatters.org/2025/12/30/can-you-fatwah-shop-with-ai/\" target=\"_blank\">Can You Fatwah Shop with AI? The Answer Might Surprise You</a>"
+      "last_price": 72.71,
+      "news": "<a href=\"https://corpgov.law.harvard.edu/2026/01/06/executive-order-targeting-iss-and-glass-lewis-impact-on-the-2026-proxy-season-and-beyond/\" target=\"_blank\">Executive Order Targeting ISS and Glass Lewis: Impact on the 2026 Proxy Season and Beyond</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 0,
+      "last_price": 324.89,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 328.35,
+      "last_price": 150.77,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 0,
+      "last_price": 16.98,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-06T16:00:00+00:00",
-  "data_date": "2026-01-06",
+  "last_updated": "2026-01-07T16:00:00+00:00",
+  "data_date": "2026-01-07",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
