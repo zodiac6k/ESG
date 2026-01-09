@@ -19,18 +19,18 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "70.75%",
-      "CAGR": "19.52%",
+      "Total Return": "70.10%",
+      "CAGR": "19.37%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.63"
+      "Sharpe Ratio": "0.62"
     },
     "QQQ": {
-      "Total Return": "59.32%",
-      "CAGR": "16.79%",
+      "Total Return": "58.41%",
+      "CAGR": "16.57%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "52.60%",
+      "Total Return": "52.59%",
       "CAGR": "15.13%",
       "Max Drawdown": "-24.47%"
     }
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 409.34,
-      "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/india/2025/india-251231-india-pib01.htm\" target=\"_blank\">MINISTRY OF DEFENCE; YEAR END REVIEW - 2025</a>"
+      "last_price": 403.66,
+      "news": "<a href=\"https://www.linkedin.com/pulse/united-states-portable-espresso-machines-professional-a2btf\" target=\"_blank\">United States Portable Espresso Machines Professional Market Growth Supported by AI, CRM, and Marketing Automation</a>"
     },
     {
       "ticker": "EMR",
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 142.15,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/06/3213376/0/en/LQpay-Launches-Agentic-AI-API-Delivering-Human-Like-Access-Across-125-EMR-PM-Systems-Through-a-Single-REST-API.html\" target=\"_blank\">LQpay Launches Agentic AI API, Delivering Human-Like Access Across 125+ EMR/PM Systems Through a Single REST API</a>"
+      "last_price": 143.85,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/aws-analytics-at-reinvent-2025-unifying-data-ai-and-governance-at-scale/\" target=\"_blank\">AWS analytics at re:Invent 2025: Unifying Data, AI, and governance at scale</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 199.51,
-      "news": "<a href=\"https://punchng.com/governance-must-be-responsive-to-peoples-needs-tinubu/\" target=\"_blank\">Governance must be responsive to people\u2019s needs \u2013 Tinubu</a>"
+      "last_price": 205.24,
+      "news": "<a href=\"https://punchng.com/aisha-yesufu-others-appointed-to-adc-membership-registration-committee/\" target=\"_blank\">Aisha Yesufu, others appointed to ADC membership registration committee</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 483.47,
+      "last_price": 478.11,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 189.11,
+      "last_price": 185.04,
       "news": "<a href=\"https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html\" target=\"_blank\">3 semiconductor stocks to play the AI supercycle, according to analysts</a>"
     },
     {
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 181.68,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/05/3213139/0/en/ReelTime-Media-s-Reel-Intelligence-Delivers-Transformational-2025-Structurally-Outperforming-Centralized-AI-Leaders-in-Under-8-Months.html\" target=\"_blank\">ReelTime Media\u2019s Reel Intelligence Delivers Transformational 2025, Structurally Outperforming Centralized AI Leaders in Under 8 Months</a>"
+      "last_price": 176.86,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/07/3214678/0/en/The-35B-Secret-Why-Decision-Speed-is-the-New-Gold-Rush-in-Defense.html\" target=\"_blank\">The $35B Secret: Why 'Decision Speed' is the New Gold Rush in Defense</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 478.91,
+      "last_price": 463.87,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 37.92,
+      "last_price": 37.74,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 292.2,
+      "last_price": 281.64,
       "news": "<a href=\"https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697\" target=\"_blank\">This could be a better \u2014 and safer \u2014 way into the AI trade in 2026</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 233.5,
-      "news": "<a href=\"https://www.yahoo.com/news/articles/greenland-melting-ice-landslide-prone-191732079.html\" target=\"_blank\">Greenland\u2019s melting ice and landslide-prone fjords make the oil and minerals Trump is eyeing dangerous to extract</a>"
+      "last_price": 223.79,
+      "news": "<a href=\"https://www.bbc.com/news/articles/ckgvyvp1rrzo\" target=\"_blank\">UK's longest ski slope gets go ahead in 'game-changer' plan</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 10.08,
+      "last_price": 10.41,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.18,
+      "last_price": 2.56,
       "news": "<a href=\"https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001154\" target=\"_blank\">Digital health interventions for women in frontline public service roles: A systematic review of effectiveness in reducing substance use</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 72.71,
-      "news": "<a href=\"https://corpgov.law.harvard.edu/2026/01/06/executive-order-targeting-iss-and-glass-lewis-impact-on-the-2026-proxy-season-and-beyond/\" target=\"_blank\">Executive Order Targeting ISS and Glass Lewis: Impact on the 2026 Proxy Season and Beyond</a>"
+      "last_price": 72.67,
+      "news": "<a href=\"https://blogs.edf.org/energyexchange/2026/01/07/states-are-powering-the-u-s-electric-vehicle-transition-even-amid-federal-uncertainty/\" target=\"_blank\">States are powering the\u00a0U.S.\u00a0electric vehicle transition\u00a0\u2013\u00a0even amid federal uncertainty</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 324.89,
+      "last_price": 319.58,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.77,
+      "last_price": 150.57,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.98,
+      "last_price": 17.12,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-07T16:00:00+00:00",
-  "data_date": "2026-01-07",
+  "last_updated": "2026-01-08T16:00:00+00:00",
+  "data_date": "2026-01-08",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
