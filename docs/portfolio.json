@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 144.2,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/use-amazon-sagemaker-custom-tags-for-project-resource-governance-and-cost-tracking/\" target=\"_blank\">Use Amazon SageMaker custom tags for project resource governance and cost tracking</a>"
+      "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/\" target=\"_blank\">Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 207.38,
-      "news": "<a href=\"https://punchng.com/lp-ex-gov-candidate-supporters-join-adc-in-delta/\" target=\"_blank\">LP ex-gov candidate, supporters join ADC in Delta</a>"
+      "news": "No news available"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 219.09,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-temperature-do-deer-like/\" target=\"_blank\">What temperature do deer like?</a>"
+      "news": "<a href=\"https://slashdot.org/firehose.pl?op=view&amp;id=180554866\" target=\"_blank\">CES: So very big, so little sustainability tech</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-09T16:00:00+00:00",
-  "data_date": "2026-01-09",
+  "last_updated": "2026-01-10T16:00:00+00:00",
+  "data_date": "2026-01-10",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
