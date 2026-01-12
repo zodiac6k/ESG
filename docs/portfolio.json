@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 410.53,
-      "news": "<a href=\"https://www.linkedin.com/pulse/united-states-portable-espresso-machines-professional-a2btf\" target=\"_blank\">United States Portable Espresso Machines Professional Market Growth Supported by AI, CRM, and Marketing Automation</a>"
+      "news": "<a href=\"https://www.aluxurytravelblog.com/2026/01/11/review-the-chedi-lustica-bay-tivat-montenegro/\" target=\"_blank\">Review: The Chedi Lu\u0161tica Bay, Tivat, Montenegro</a>"
     },
     {
       "ticker": "EMR",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 207.38,
-      "news": "No news available"
+      "news": "<a href=\"https://punchng.com/apc-wins-election-through-grassroots-mobilisation-not-rigging-kwara-rep/\" target=\"_blank\">APC wins election through grassroots mobilisation, not rigging \u2013 Kwara rep</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 479.28,
+      "last_price": 0,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 184.86,
+      "last_price": 479.28,
       "news": "<a href=\"https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html\" target=\"_blank\">3 semiconductor stocks to play the AI supercycle, according to analysts</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 177.49,
+      "last_price": 0,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/07/3214678/0/en/The-35B-Secret-Why-Decision-Speed-is-the-New-Gold-Rush-in-Defense.html\" target=\"_blank\">The $35B Secret: Why 'Decision Speed' is the New Gold Rush in Defense</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 470.61,
+      "last_price": 177.49,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 39.01,
+      "last_price": 0,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 301.18,
+      "last_price": 39.01,
       "news": "<a href=\"https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697\" target=\"_blank\">This could be a better \u2014 and safer \u2014 way into the AI trade in 2026</a>"
     },
     {
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 219.09,
-      "news": "<a href=\"https://slashdot.org/firehose.pl?op=view&amp;id=180554866\" target=\"_blank\">CES: So very big, so little sustainability tech</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-time-of-day-are-most-big-bucks-killed/\" target=\"_blank\">What time of day are most big bucks killed?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-10T16:00:00+00:00",
-  "data_date": "2026-01-10",
+  "last_updated": "2026-01-11T16:00:00+00:00",
+  "data_date": "2026-01-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
