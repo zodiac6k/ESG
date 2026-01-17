@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "74.14%",
-      "CAGR": "20.31%",
+      "Total Return": "74.67%",
+      "CAGR": "20.43%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.64"
+      "Sharpe Ratio": "0.65"
     },
     "QQQ": {
-      "Total Return": "58.75%",
-      "CAGR": "16.65%",
+      "Total Return": "58.61%",
+      "CAGR": "16.62%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "53.19%",
-      "CAGR": "15.28%",
+      "Total Return": "53.06%",
+      "CAGR": "15.25%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 421.13,
-      "news": "<a href=\"https://www.thehindubusinessline.com/brandhub/pr-release/rockwell-automation-2025-sustainability-report-reflects-continued-commitment-to-build-a-more-resilient-agile-and-sustainable-future/article70508889.ece\" target=\"_blank\">Rockwell Automation 2025 Sustainability Report Reflects Continued Commitment to Build a More Resilient, Agile, and Sustainable Future</a>"
+      "last_price": 415.52,
+      "news": "<a href=\"https://en.antaranews.com/news/400005/rockwell-automation-2025-sustainability-report-reflects-continued-commitment-to-build-a-more-resilient\" target=\"_blank\">Rockwell Automation 2025 Sustainability Report Reflects Continued Commitment to Build a More Resilient</a>"
     },
     {
       "ticker": "EMR",
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 148.02,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/navigating-architectural-choices-for-a-lakehouse-using-amazon-sagemaker/\" target=\"_blank\">Navigating architectural choices for a lakehouse using Amazon SageMaker</a>"
+      "last_price": 149.46,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/using-amazon-emr-deltastreamer-to-stream-data-to-multiple-apache-hudi-tables/\" target=\"_blank\">Using Amazon EMR DeltaStreamer to stream data to multiple Apache Hudi tables</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 215.02,
-      "news": "<a href=\"https://freerepublic.com/focus/f-religion/4361977/posts\" target=\"_blank\">[Catholic Caucus] Why has the Pope dismissed a senior Vatican official and keen defender of the TLM?</a>"
+      "last_price": 219.39,
+      "news": "<a href=\"https://punchng.com/women-group-tasks-apc-on-credible-candidate-selection/\" target=\"_blank\">Women group tasks APC on credible candidate selection</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 456.66,
-      "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
+      "last_price": 459.86,
+      "news": "<a href=\"https://www.fool.com.au/2026/01/16/invest-in-the-best-stocks-in-the-world-with-these-asx-etfs/\" target=\"_blank\">Invest in the best stocks in the world with these ASX ETFs</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 187.05,
-      "news": "<a href=\"https://finance.yahoo.com/news/magnificent-7-stock-market-dominance-140007016.html\" target=\"_blank\">Magnificent 7\u2019s stock market dominance shows signs of cracking</a>"
+      "last_price": 186.23,
+      "news": "<a href=\"https://www.fool.com.au/2026/01/16/invest-in-the-best-stocks-in-the-world-with-these-asx-etfs/\" target=\"_blank\">Invest in the best stocks in the world with these ASX ETFs</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 177.07,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/01/07/3214678/0/en/The-35B-Secret-Why-Decision-Speed-is-the-New-Gold-Rush-in-Defense.html\" target=\"_blank\">The $35B Secret: Why 'Decision Speed' is the New Gold Rush in Defense</a>"
+      "last_price": 170.96,
+      "news": "<a href=\"https://finance.yahoo.com/news/3-technology-stocks-sell-2026-163117495.html\" target=\"_blank\">3 Technology Stocks to Sell in 2026</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 455.0,
+      "last_price": 453.88,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 40.59,
+      "last_price": 40.92,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 319.08,
-      "news": "<a href=\"https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697\" target=\"_blank\">This could be a better \u2014 and safer \u2014 way into the AI trade in 2026</a>"
+      "last_price": 327.01,
+      "news": "<a href=\"https://www.barchart.com/story/news/37056480/stocks-climb-before-the-open-as-tsmc-reignites-ai-optimism-u-s-economic-data-and-earnings-in-focus\" target=\"_blank\">Stocks Climb Before the Open as TSMC Reignites AI Optimism, U.S. Economic Data and Earnings in Focus</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 207.74,
-      "news": "<a href=\"https://www.nationalgeographic.com/travel/article/utahs-deer-valley-beckons-skiers-this-season-heres-why\" target=\"_blank\">Utah's Deer Valley beckons skiers this season\u2014here's why</a>"
+      "last_price": 210.38,
+      "news": "<a href=\"https://en.wikipedia.org/wiki/List_of_individual_trees\" target=\"_blank\">List of Individual Trees</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.62,
+      "last_price": 11.19,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.64,
+      "last_price": 2.76,
       "news": "<a href=\"https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001154\" target=\"_blank\">Digital health interventions for women in frontline public service roles: A systematic review of effectiveness in reducing substance use</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 74.06,
+      "last_price": 74.1,
       "news": "<a href=\"https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003594\" target=\"_blank\">A single-cell spatiotemporal transcriptomic atlas of mouse prefrontal cortex maps dynamics of intratelencephalic neurons during postnatal development</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 337.22,
+      "last_price": 342.47,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.9,
+      "last_price": 150.77,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.51,
+      "last_price": 17.7,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-15T16:00:00+00:00",
-  "data_date": "2026-01-15",
+  "last_updated": "2026-01-16T16:00:00+00:00",
+  "data_date": "2026-01-16",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
