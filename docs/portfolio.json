@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 149.46,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/using-amazon-emr-deltastreamer-to-stream-data-to-multiple-apache-hudi-tables/\" target=\"_blank\">Using Amazon EMR DeltaStreamer to stream data to multiple Apache Hudi tables</a>"
+      "news": "<a href=\"https://childrenshealthdefense.org/defender/hhs-study-cellphone-health-risks-as-fda-scrubs-online-safety-claims/\" target=\"_blank\">HHS to Study Cellphone Health Risks, as FDA Scrubs Online Safety Claims</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 219.39,
-      "news": "<a href=\"https://punchng.com/women-group-tasks-apc-on-credible-candidate-selection/\" target=\"_blank\">Women group tasks APC on credible candidate selection</a>"
+      "news": "<a href=\"https://zycrypto.com/mingo-unveils-global-ticketing-platform-expands-operations-to-54-countries-via-hedera/\" target=\"_blank\">MINGO Unveils Global Ticketing Platform, Expands Operations To 54 Countries Via Hedera</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 459.86,
-      "news": "<a href=\"https://www.fool.com.au/2026/01/16/invest-in-the-best-stocks-in-the-world-with-these-asx-etfs/\" target=\"_blank\">Invest in the best stocks in the world with these ASX ETFs</a>"
+      "news": "<a href=\"https://www.theverge.com/column/863319/highlights-musk-v-altman-openai\" target=\"_blank\">\u2018Sideshow\u2019 concerns and billionaire dreams: What I learned from Elon Musk\u2019s lawsuit against OpenAI</a>"
     },
     {
       "ticker": "NVDA",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 170.96,
-      "news": "<a href=\"https://finance.yahoo.com/news/3-technology-stocks-sell-2026-163117495.html\" target=\"_blank\">3 Technology Stocks to Sell in 2026</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/37068392/cathie-wood-is-buying-up-roblox-stock-what-is-the-bull-case-for-rblx-in-2026\" target=\"_blank\">Cathie Wood Is Buying Up Roblox Stock. What Is the Bull Case for RBLX in 2026?</a>"
     },
     {
       "ticker": "CRWD",
@@ -115,7 +115,7 @@
       "quantity": 77.92,
       "initial_price": 57.04,
       "last_price": 327.01,
-      "news": "<a href=\"https://www.barchart.com/story/news/37056480/stocks-climb-before-the-open-as-tsmc-reignites-ai-optimism-u-s-economic-data-and-earnings-in-focus\" target=\"_blank\">Stocks Climb Before the Open as TSMC Reignites AI Optimism, U.S. Economic Data and Earnings in Focus</a>"
+      "news": "<a href=\"https://www.investopedia.com/tsmc-strong-earnings-sparked-a-tech-rally-thursday-what-does-it-mean-for-the-ai-trade-11886185\" target=\"_blank\">TSMC's Strong Earnings Sparked a Tech Stock Rally Thursday. What Does It Mean for the AI Trade?</a>"
     },
     {
       "ticker": "SNOW",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 210.38,
-      "news": "<a href=\"https://en.wikipedia.org/wiki/List_of_individual_trees\" target=\"_blank\">List of Individual Trees</a>"
+      "news": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/maharashtra-civic-poll-results-after-leading-campaign-devendra-fadnavis-shares-credit-mahayuti-to-get-most-mayors/articleshow/126598946.cms\" target=\"_blank\">Maharashtra civic poll results: After leading campaign, Devendra Fadnavis shares credit; Mahayuti to get most mayors</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-16T16:00:00+00:00",
-  "data_date": "2026-01-16",
+  "last_updated": "2026-01-17T16:00:00+00:00",
+  "data_date": "2026-01-17",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
