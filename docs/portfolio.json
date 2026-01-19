@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 415.52,
-      "news": "<a href=\"https://en.antaranews.com/news/400005/rockwell-automation-2025-sustainability-report-reflects-continued-commitment-to-build-a-more-resilient\" target=\"_blank\">Rockwell Automation 2025 Sustainability Report Reflects Continued Commitment to Build a More Resilient</a>"
+      "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/china/2026/01/china-260116-prc-mofa01.htm\" target=\"_blank\">President Xi Jinping Meets with Canadian Prime Minister Mark Carney</a>"
     },
     {
       "ticker": "EMR",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 219.39,
-      "news": "<a href=\"https://zycrypto.com/mingo-unveils-global-ticketing-platform-expands-operations-to-54-countries-via-hedera/\" target=\"_blank\">MINGO Unveils Global Ticketing Platform, Expands Operations To 54 Countries Via Hedera</a>"
+      "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260116-canadapm02.htm\" target=\"_blank\">Prime Minister Carney forges new strategic partnership with the People's Republic of China focused on energy, agri-food, and trade</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 210.38,
-      "news": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/maharashtra-civic-poll-results-after-leading-campaign-devendra-fadnavis-shares-credit-mahayuti-to-get-most-mayors/articleshow/126598946.cms\" target=\"_blank\">Maharashtra civic poll results: After leading campaign, Devendra Fadnavis shares credit; Mahayuti to get most mayors</a>"
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/world-news/thousands-march-in-greenland-to-support-arctic-island-in-the-face-of-trumps-threats-to-take-it-over/articleshow/126634960.cms\" target=\"_blank\">Thousands march in Greenland to support Arctic island in the face of Trump's threats to take it over</a>"
     },
     {
       "ticker": "SSYS",
@@ -142,7 +142,7 @@
       "quantity": 452.59,
       "initial_price": 4.91,
       "last_price": 2.76,
-      "news": "<a href=\"https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001154\" target=\"_blank\">Digital health interventions for women in frontline public service roles: A systematic review of effectiveness in reducing substance use</a>"
+      "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011979\" target=\"_blank\">Temperature and genetic background drive mobilization of diverse transposable elements in a global human fungal pathogen</a>"
     },
     {
       "ticker": "ROBO",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-17T16:00:00+00:00",
-  "data_date": "2026-01-17",
+  "last_updated": "2026-01-18T16:00:00+00:00",
+  "data_date": "2026-01-18",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
