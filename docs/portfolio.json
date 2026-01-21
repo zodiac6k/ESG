@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "74.67%",
-      "CAGR": "20.43%",
+      "Total Return": "70.41%",
+      "CAGR": "19.44%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.65"
+      "Sharpe Ratio": "0.62"
     },
     "QQQ": {
-      "Total Return": "58.61%",
-      "CAGR": "16.62%",
+      "Total Return": "55.24%",
+      "CAGR": "15.79%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "53.06%",
-      "CAGR": "15.25%",
+      "Total Return": "49.95%",
+      "CAGR": "14.46%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 415.52,
+      "last_price": 404.0,
       "news": "<a href=\"https://www.globalsecurity.org/wmd/library/news/china/2026/01/china-260116-prc-mofa01.htm\" target=\"_blank\">President Xi Jinping Meets with Canadian Prime Minister Mark Carney</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 149.46,
-      "news": "<a href=\"https://childrenshealthdefense.org/defender/hhs-study-cellphone-health-risks-as-fda-scrubs-online-safety-claims/\" target=\"_blank\">HHS to Study Cellphone Health Risks, as FDA Scrubs Online Safety Claims</a>"
+      "last_price": 145.22,
+      "news": "<a href=\"https://www.naturalnews.com/2026-01-19-rfk-hhs-dismantles-fda-radiation-lies.html\" target=\"_blank\">RFK\u2019s HHS Dismantles FDA\u2019s Radiation Lies, Launches Probe Into Cellphone Cancer Threat</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 219.39,
-      "news": "<a href=\"https://punchng.com/my-successor-in-2031-will-be-better-than-me-says-otti/\" target=\"_blank\">My successor in 2031 will be better than me, says Otti</a>"
+      "last_price": 215.07,
+      "news": "<a href=\"https://punchng.com/stakeholders-review-niger-health-initiatives/\" target=\"_blank\">Stakeholders review Niger health initiatives</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 459.86,
+      "last_price": 454.52,
       "news": "<a href=\"https://www.theverge.com/column/863319/highlights-musk-v-altman-openai\" target=\"_blank\">\u2018Sideshow\u2019 concerns and billionaire dreams: What I learned from Elon Musk\u2019s lawsuit against OpenAI</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 186.23,
+      "last_price": 178.07,
       "news": "<a href=\"https://www.fool.com.au/2026/01/16/invest-in-the-best-stocks-in-the-world-with-these-asx-etfs/\" target=\"_blank\">Invest in the best stocks in the world with these ASX ETFs</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 170.96,
+      "last_price": 168.53,
       "news": "<a href=\"https://www.barchart.com/story/news/37068392/cathie-wood-is-buying-up-roblox-stock-what-is-the-bull-case-for-rblx-in-2026\" target=\"_blank\">Cathie Wood Is Buying Up Roblox Stock. What Is the Bull Case for RBLX in 2026?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 453.88,
+      "last_price": 442.73,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026\" target=\"_blank\">Veteran analyst resets AI stock buy list for 2026</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 40.92,
+      "last_price": 38.92,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 327.01,
+      "last_price": 318.23,
       "news": "<a href=\"https://www.investopedia.com/tsmc-strong-earnings-sparked-a-tech-rally-thursday-what-does-it-mean-for-the-ai-trade-11886185\" target=\"_blank\">TSMC's Strong Earnings Sparked a Tech Stock Rally Thursday. What Does It Mean for the AI Trade?</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 210.38,
-      "news": "<a href=\"https://wattsupwiththat.com/2026/01/18/global-warming-deep-freeze-engulfs-parts-of-europe-and-russia/\" target=\"_blank\">Global Warming? Deep Freeze Engulfs Parts of Europe and Russia</a>"
+      "last_price": 206.21,
+      "news": "<a href=\"https://www.lifesciencesworld.com/do-squirrels-drink-dew/\" target=\"_blank\">Do squirrels drink dew?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 11.19,
+      "last_price": 10.9,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.76,
+      "last_price": 2.57,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011979\" target=\"_blank\">Temperature and genetic background drive mobilization of diverse transposable elements in a global human fungal pathogen</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 74.1,
+      "last_price": 72.21,
       "news": "<a href=\"https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003594\" target=\"_blank\">A single-cell spatiotemporal transcriptomic atlas of mouse prefrontal cortex maps dynamics of intratelencephalic neurons during postnatal development</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 342.47,
+      "last_price": 337.35,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 150.77,
+      "last_price": 147.56,
       "news": "<a href=\"http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-esgu-absorbs-121m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss\" target=\"_blank\">Daily ETF Flows: ESGU Absorbs $121M</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.7,
+      "last_price": 17.53,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-01-19T16:00:00+00:00",
-  "data_date": "2026-01-19",
+  "last_updated": "2026-01-20T16:00:00+00:00",
+  "data_date": "2026-01-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
