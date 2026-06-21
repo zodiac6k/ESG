@@ -46,12 +46,12 @@ def fetch_live_prices(tickers):
                 # Fallback to most recent available data
                 fallback_data = yf.download(ticker, period="5d", auto_adjust=False, progress=False)
                 if not fallback_data.empty:
-                    results[ticker] = float(fallback_data["Adj Close"].iloc[-1])
+                    results[ticker] = float(fallback_data["Adj Close"].iloc[-1].item())
                     print(f"⚠ Using most recent data for {ticker}: {results[ticker]}")
                 else:
                     results[ticker] = 0
             else:
-                results[ticker] = float(data["Adj Close"].iloc[-1])
+                results[ticker] = float(data["Adj Close"].iloc[-1].item()) if not data["Adj Close"].empty else 0
                 print(f"✓ Fetched {ticker} price for {yesterday}: {results[ticker]}")
         except Exception as e:
             print(f"⚠ Failed to fetch {ticker}: {e}")
@@ -89,8 +89,8 @@ def fetch_newsapi_articles(ticker):
 def calculate_metrics(portfolio_daily):
     """Calculate portfolio performance metrics"""
     cum_return = (1 + portfolio_daily).cumprod()
-    total_return = float(cum_return[-1] - 1)
-    cagr = float(cum_return[-1] ** (1 / 3) - 1)
+    total_return = float(cum_return.iloc[-1] - 1)
+    cagr = float(cum_return.iloc[-1] ** (1 / 3) - 1)
     max_drawdown = float((cum_return / np.maximum.accumulate(cum_return) - 1).min())
     return total_return, cagr, max_drawdown
 
@@ -147,12 +147,12 @@ data = yf.download(tickers + benchmarks, start="2022-01-01", auto_adjust=False, 
 # Portfolio Growth
 weights = np.array([v["weight"] for v in portfolio_allocations.values()])
 weights = weights / weights.sum()
-portfolio_returns = data[tickers].pct_change().dropna().dot(weights)
+portfolio_returns = data[tickers].pct_change(fill_method=None).dropna().dot(weights)
 portfolio_growth = (1 + portfolio_returns).cumprod()
 
 # Benchmark Growth
-qqq_growth = (1 + data["QQQ"].pct_change().dropna()).cumprod()
-spy_growth = (1 + data["SPY"].pct_change().dropna()).cumprod()
+qqq_growth = (1 + data["QQQ"].pct_change(fill_method=None).dropna()).cumprod()
+spy_growth = (1 + data["SPY"].pct_change(fill_method=None).dropna()).cumprod()
 
 # Plot comparison chart
 plt.figure(figsize=(10, 5))
@@ -168,8 +168,8 @@ plt.close()
 
 # Calculate metrics
 portfolio_total_return, portfolio_cagr, portfolio_mdd = calculate_metrics(portfolio_returns)
-qqq_total_return, qqq_cagr, qqq_mdd = calculate_metrics(data["QQQ"].pct_change().dropna())
-spy_total_return, spy_cagr, spy_mdd = calculate_metrics(data["SPY"].pct_change().dropna())
+qqq_total_return, qqq_cagr, qqq_mdd = calculate_metrics(data["QQQ"].pct_change(fill_method=None).dropna())
+spy_total_return, spy_cagr, spy_mdd = calculate_metrics(data["SPY"].pct_change(fill_method=None).dropna())
 portfolio_sharpe = calculate_sharpe_ratio(portfolio_returns)
 
 benchmark_metrics = {
