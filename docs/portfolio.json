@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "103.24%",
-      "CAGR": "26.67%",
+      "Total Return": "105.57%",
+      "CAGR": "27.15%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.72"
+      "Sharpe Ratio": "0.73"
     },
     "QQQ": {
-      "Total Return": "81.86%",
-      "CAGR": "22.06%",
+      "Total Return": "83.33%",
+      "CAGR": "22.39%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "63.13%",
-      "CAGR": "17.72%",
+      "Total Return": "63.36%",
+      "CAGR": "17.77%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 460.37,
+      "last_price": 479.39,
       "news": "<a href=\"https://www.bankier.pl/wiadomosc/PRIME-ASI-SA-Zawarcie-umowy-wspolnikow-i-umowy-inwestycyjnej-dotyczacej-spolki-celowej-AMC-Polish-Arsenal-sp-z-o-o-9155164.html\" target=\"_blank\">PRIME ASI SA: Zawarcie umowy wsp\u00f3lnik\u00f3w i umowy inwestycyjnej dotycz\u0105cej sp\u00f3\u0142ki celowej AMC Polish Arsenal sp. z o.o.</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 141.44,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/opsguru-achieves-aws-data-and-analytics-competency-advancing-its-ai-ready-data-practice-830143741.html\" target=\"_blank\">OpsGuru Achieves AWS Data and Analytics Competency Advancing Its AI-Ready Data Practice</a>"
+      "last_price": 145.34,
+      "news": "<a href=\"https://www.linkedin.com/pulse/how-health-insurance-apps-transform-digital-2026-ivan-stepan-kov-edjsf\" target=\"_blank\">How Health Insurance Apps Transform Digital Healthcare Management In 2026</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 227.42,
-      "news": "<a href=\"https://punchng.com/reps-minority-caucus-sets-gbajabiamilas-legacy-as-benchmark/\" target=\"_blank\">Reps minority caucus sets Gbajabiamila\u2019s legacy as benchmark</a>"
+      "last_price": 231.24,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/06/afnis-2026-tinubu-pushes-for-united-african-front-on-solid-minerals-development/\" target=\"_blank\">AFNIS 2026: Tinubu pushes for united African front on solid minerals development</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 365.46,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/the-bottleneck-behind-the-ai-boom-has-quietly-shifted-from-chips-to-power-302807811.html\" target=\"_blank\">The Bottleneck Behind the AI Boom Has Quietly Shifted From Chips to Power</a>"
+      "last_price": 352.83,
+      "news": "<a href=\"https://finance.yahoo.com/technology/articles/microsoft-msft-project-kilby-agreement-134822490.html\" target=\"_blank\">Microsoft (MSFT) Project Kilby Agreement Highlights Data Center Power Demand, Stifel Says</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 199.0,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/the-bottleneck-behind-the-ai-boom-has-quietly-shifted-from-chips-to-power-302807811.html\" target=\"_blank\">The Bottleneck Behind the AI Boom Has Quietly Shifted From Chips to Power</a>"
+      "last_price": 195.74,
+      "news": "<a href=\"https://www.barchart.com/story/news/2613040/nvidia-is-no-longer-the-ultimate-ai-play-but-nvda-stock-is-a-buy-anyways\" target=\"_blank\">Nvidia Is No Longer the Ultimate AI Play, But NVDA Stock Is a Buy Anyways</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 113.5,
+      "last_price": 107.27,
       "news": "<a href=\"https://www.barchart.com/story/news/2598686/stock-index-futures-plunge-as-tech-selloff-rages-on-u-s-pmi-data-in-focus\" target=\"_blank\">Stock Index Futures Plunge as Tech Selloff Rages On, U.S. PMI Data in Focus</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 673.02,
+      "last_price": 678.65,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/the-quiet-race-to-rewire-the-worlds-encryption-before-quantum-computers-break-it-302802543.html\" target=\"_blank\">The Quiet Race to Rewire the World's Encryption Before Quantum Computers Break It</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 63.64,
+      "last_price": 66.54,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 588.97,
-      "news": "<a href=\"https://www.barchart.com/story/news/2533682/aehr-test-systems-aehr-stock-spikes-on-new-production-order\" target=\"_blank\">Aehr Test Systems (AEHR) Stock Spikes on New Production Order</a>"
+      "last_price": 668.0,
+      "news": "<a href=\"https://www.barchart.com/story/news/2613040/nvidia-is-no-longer-the-ultimate-ai-play-but-nvda-stock-is-a-buy-anyways\" target=\"_blank\">Nvidia Is No Longer the Ultimate AI Play, But NVDA Stock Is a Buy Anyways</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 225.95,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/life-lesson-of-the-day-by-walt-disney-id-say-its-been-my-biggest-problem-all-my-life-inspiring-lessons-on-financial-stability-life-comfort-struggles-and-why-money-solves-most-of-lifes-problems-by-the-american-animator-known-for-insights-into-creativity-persistence-and-the-challenges-behind-success/articleshow/131942979.cms\" target=\"_blank\">Life Lesson of the Day by Walt Disney: \u201cI'd say it's been my biggest problem all my life... \u2013 Inspiring lessons on financial stability, life comfort, struggles and why money solves most of life\u2019s problems by the American animator known for insights into creativity, persistence and the challenges behind success</a>"
+      "last_price": 227.06,
+      "news": "<a href=\"https://news.climate.columbia.edu/2026/06/24/when-glaciers-disappear-so-do-deities/\" target=\"_blank\">When Glaciers Disappear, So Do Deities</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.34,
+      "last_price": 8.33,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.01,
-      "news": "No news available"
+      "last_price": 2.95,
+      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352163\" target=\"_blank\">Antibiotics and priority effects on colonizing resistant Escherichia coli strain assemblages in a community setting</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 82.35,
+      "last_price": 83.44,
       "news": "<a href=\"https://en.antaranews.com/news/419961/geely-farizon-green-smart-mobility-solution-debuts-at-2026-hong-kong-expo\" target=\"_blank\">Geely Farizon Green Smart Mobility Solution Debuts at 2026 Hong Kong Expo</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 601.5,
+      "last_price": 625.2,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 20.48,
+      "last_price": 20.29,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-06-24T16:00:00+00:00",
-  "data_date": "2026-06-24",
+  "last_updated": "2026-06-25T16:00:00+00:00",
+  "data_date": "2026-06-25",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
