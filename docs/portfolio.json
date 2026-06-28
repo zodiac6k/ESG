@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 143.49,
-      "news": "<a href=\"https://www.nature.com/articles/s41591-026-04503-6\" target=\"_blank\">Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial</a>"
+      "news": "<a href=\"https://www.morningstar.com/news/pr-newswire/20260626to92646/boomerangfx-announces-strategic-partnership-with-web-marketing-clinic-accelerating-growth-of-its-ai-powered-clinic-software-and-marketing-platform-across-the-uk-and-europe\" target=\"_blank\">BoomerangFX Announces Strategic Partnership with Web Marketing Clinic, Accelerating Growth of Its AI-Powered Clinic Software and Marketing Platform Across the UK and Europe</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 232.21,
-      "news": "<a href=\"https://punchng.com/osun-of-particular-concern/\" target=\"_blank\">Osun of particular concern</a>"
+      "news": "<a href=\"https://punchng.com/ogun-2027-adebutus-aide-tackles-apc-chieftain-over-comments-on-pdp/\" target=\"_blank\">Ogun 2027: Adebutu\u2019s aide tackles APC chieftain over comments on PDP</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 372.97,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/06/25/3317900/32719/en/MSFT-Class-Action-Notice-Robbins-LLP-Reminds-Investors-of-the-Lead-Plaintiff-Deadline-in-the-Microsoft-Corporation-Class-Action-Lawsuit.html\" target=\"_blank\">MSFT Class Action Notice: Robbins LLP Reminds Investors of the Lead Plaintiff Deadline in the Microsoft Corporation Class Action Lawsuit</a>"
+      "news": "<a href=\"https://github.com/JerBouma/FinanceToolkit\" target=\"_blank\">Show HN: Every site gives a different P/E ratio, so I open-sourced the math</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 192.53,
-      "news": "<a href=\"https://www.marketbeat.com/articles/microsoft-solves-ais-biggest-bottleneck-with-chevron-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Microsoft Solves AI\u2019s Biggest Bottleneck With Chevron Deal</a>"
+      "news": "<a href=\"https://github.com/JerBouma/FinanceToolkit\" target=\"_blank\">Show HN: Every site gives a different P/E ratio, so I open-sourced the math</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 248.96,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/06/10-countries-with-the-best-road-quality-2026/\" target=\"_blank\">10 countries with the best road quality 2026</a>"
+      "news": "<a href=\"https://english.khabarhub.com/2026/27/555828/\" target=\"_blank\">Economic Digest: A Snapshot of Nepal\u2019s Business News</a>"
     },
     {
       "ticker": "SSYS",
@@ -142,7 +142,7 @@
       "quantity": 452.59,
       "initial_price": 4.91,
       "last_price": 3.04,
-      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352163\" target=\"_blank\">Antibiotics and priority effects on colonizing resistant Escherichia coli strain assemblages in a community setting</a>"
+      "news": "<a href=\"https://binaryigor.com/the-joy-and-power-of-understanding.html\" target=\"_blank\">The Joy and Power of Understanding</a>"
     },
     {
       "ticker": "ROBO",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-06-26T16:00:00+00:00",
-  "data_date": "2026-06-26",
+  "last_updated": "2026-06-27T16:00:00+00:00",
+  "data_date": "2026-06-27",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
