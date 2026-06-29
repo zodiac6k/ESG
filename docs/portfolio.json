@@ -19,10 +19,10 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "104.59%",
-      "CAGR": "26.95%",
-      "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.73"
+      "Total Return": "113.86%",
+      "CAGR": "28.84%",
+      "Max Drawdown": "-38.30%",
+      "Sharpe Ratio": "0.76"
     },
     "QQQ": {
       "Total Return": "80.81%",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 232.21,
-      "news": "<a href=\"https://punchng.com/ogun-2027-adebutus-aide-tackles-apc-chieftain-over-comments-on-pdp/\" target=\"_blank\">Ogun 2027: Adebutu\u2019s aide tackles APC chieftain over comments on PDP</a>"
+      "last_price": 464.42,
+      "news": "<a href=\"https://punchng.com/abia-nabs-109-year-old-akara-seller-65-others-for-sanitation-breaches/\" target=\"_blank\">Abia nabs 109-year-old Akara seller, 65 others for sanitation breaches</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 192.53,
-      "news": "<a href=\"https://github.com/JerBouma/FinanceToolkit\" target=\"_blank\">Show HN: Every site gives a different P/E ratio, so I open-sourced the math</a>"
+      "news": "<a href=\"https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-nears-two-year-low-6010\" target=\"_blank\">Weekly Wrap: Bitcoin Nears Two-Year Low</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 248.96,
-      "news": "<a href=\"https://english.khabarhub.com/2026/27/555828/\" target=\"_blank\">Economic Digest: A Snapshot of Nepal\u2019s Business News</a>"
+      "news": "<a href=\"https://streetartutopia.com/2026/06/27/beautiful-murals-sculptures-and-street-art-about-and-in-nature/\" target=\"_blank\">Nature Is Everything (14 Photos)</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-06-27T16:00:00+00:00",
-  "data_date": "2026-06-27",
+  "last_updated": "2026-06-28T16:00:00+00:00",
+  "data_date": "2026-06-28",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
