@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "108.35%",
-      "CAGR": "27.72%",
+      "Total Return": "104.63%",
+      "CAGR": "26.96%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.74"
+      "Sharpe Ratio": "0.73"
     },
     "QQQ": {
-      "Total Return": "85.30%",
-      "CAGR": "22.83%",
+      "Total Return": "88.45%",
+      "CAGR": "23.52%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "64.85%",
-      "CAGR": "18.13%",
+      "Total Return": "66.14%",
+      "CAGR": "18.44%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 482.33,
+      "last_price": 495.08,
       "news": "<a href=\"https://www.bankier.pl/wiadomosc/PRIME-ASI-SA-Zawarcie-umowy-wspolnikow-i-umowy-inwestycyjnej-dotyczacej-spolki-celowej-AMC-Polish-Arsenal-sp-z-o-o-9155164.html\" target=\"_blank\">PRIME ASI SA: Zawarcie umowy wsp\u00f3lnik\u00f3w i umowy inwestycyjnej dotycz\u0105cej sp\u00f3\u0142ki celowej AMC Polish Arsenal sp. z o.o.</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 142.82,
-      "news": "<a href=\"https://www.morningstar.com/news/pr-newswire/20260626to92646/boomerangfx-announces-strategic-partnership-with-web-marketing-clinic-accelerating-growth-of-its-ai-powered-clinic-software-and-marketing-platform-across-the-uk-and-europe\" target=\"_blank\">BoomerangFX Announces Strategic Partnership with Web Marketing Clinic, Accelerating Growth of Its AI-Powered Clinic Software and Marketing Platform Across the UK and Europe</a>"
+      "last_price": 143.15,
+      "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005132\" target=\"_blank\">Multilevel onsite training and mentorship model to accelerate early childhood cancer diagnosis in Northwest Ethiopia: A quasi-experimental mixed method study</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 227.8,
-      "news": "<a href=\"https://punchng.com/abia-nabs-109-year-old-akara-seller-65-others-for-sanitation-breaches/\" target=\"_blank\">Abia nabs 109-year-old Akara seller, 65 others for sanitation breaches</a>"
+      "last_price": 223.9,
+      "news": "<a href=\"https://www.journal-isms.com/save-the-date-july-12-for-a-sickle-cell-survivor-and-other-racial-issues-in-health-care/\" target=\"_blank\">Save the Date: July 12 for a Sickle Cell Survivor and Other Racial Issues in Health Care - journal-isms.com</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 368.57,
+      "last_price": 373.02,
       "news": "<a href=\"https://github.com/JerBouma/FinanceToolkit\" target=\"_blank\">Show HN: Every site gives a different P/E ratio, so I open-sourced the math</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 194.97,
+      "last_price": 200.09,
       "news": "<a href=\"https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-nears-two-year-low-6010\" target=\"_blank\">Weekly Wrap: Bitcoin Nears Two-Year Low</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 115.7,
+      "last_price": 116.67,
       "news": "<a href=\"https://www.barchart.com/story/news/2598686/stock-index-futures-plunge-as-tech-selloff-rages-on-u-s-pmi-data-in-focus\" target=\"_blank\">Stock Index Futures Plunge as Tech Selloff Rages On, U.S. PMI Data in Focus</a>"
     },
     {
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 742.91,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/the-quiet-race-to-rewire-the-worlds-encryption-before-quantum-computers-break-it-302802543.html\" target=\"_blank\">The Quiet Race to Rewire the World's Encryption Before Quantum Computers Break It</a>"
+      "last_price": 763.14,
+      "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-extends-falcon-aidr-052818137.html\" target=\"_blank\">CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 68.36,
+      "last_price": 72.42,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 694.64,
+      "last_price": 723.0,
       "news": "<a href=\"https://www.barchart.com/story/news/2613040/nvidia-is-no-longer-the-ultimate-ai-play-but-nvda-stock-is-a-buy-anyways\" target=\"_blank\">Nvidia Is No Longer the Ultimate AI Play, But NVDA Stock Is a Buy Anyways</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 251.65,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-birds-get-cold-at-night/\" target=\"_blank\">Do birds get cold at night?</a>"
+      "last_price": 254.5,
+      "news": "<a href=\"https://www.lifesciencesworld.com/will-squirrels-go-under-house/\" target=\"_blank\">Will squirrels go under house?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.19,
+      "last_price": 8.56,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.86,
+      "last_price": 3.02,
       "news": "<a href=\"https://www.nature.com/articles/s41598-026-60251-0\" target=\"_blank\">Occurrence and human health risk assessment of organochlorine pesticides in irrigated and non-irrigated agricultural soils of Wondogenet District, Ethiopia</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 83.4,
-      "news": "<a href=\"https://en.antaranews.com/news/419961/geely-farizon-green-smart-mobility-solution-debuts-at-2026-hong-kong-expo\" target=\"_blank\">Geely Farizon Green Smart Mobility Solution Debuts at 2026 Hong Kong Expo</a>"
+      "last_price": 85.66,
+      "news": "<a href=\"https://www.animenewsnetwork.com/review/game/nintendo-switch-2-pc/steam-playstation-5-xbox-series-x/s/pragmata/.238682\" target=\"_blank\">Pragmata Game Review</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 614.35,
+      "last_price": 640.76,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 162.54,
+      "last_price": 163.67,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 19.88,
+      "last_price": 20.49,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-06-29T16:00:00+00:00",
-  "data_date": "2026-06-29",
+  "last_updated": "2026-06-30T16:00:00+00:00",
+  "data_date": "2026-06-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
