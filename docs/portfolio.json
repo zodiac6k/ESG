@@ -19,7 +19,7 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "107.40%",
+      "Total Return": "107.41%",
       "CAGR": "27.53%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.74"
@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 471.7,
-      "news": "<a href=\"https://www.bankier.pl/wiadomosc/PRIME-ASI-SA-Zawarcie-umowy-wspolnikow-i-umowy-inwestycyjnej-dotyczacej-spolki-celowej-AMC-Polish-Arsenal-sp-z-o-o-9155164.html\" target=\"_blank\">PRIME ASI SA: Zawarcie umowy wsp\u00f3lnik\u00f3w i umowy inwestycyjnej dotycz\u0105cej sp\u00f3\u0142ki celowej AMC Polish Arsenal sp. z o.o.</a>"
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/global-times-summer-davos-reaffirms-openness-and-cooperation-amid-global-uncertainty-302816908.html\" target=\"_blank\">Global Times: Summer Davos reaffirms openness and cooperation amid global uncertainty</a>"
     },
     {
       "ticker": "EMR",
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 139.05,
-      "news": "<a href=\"https://siliconangle.com/2026/06/30/couchbases-ai-data-plane-aims-turn-fragmented-data-real-enterprise-agent-memory/\" target=\"_blank\">Couchbase\u2019s AI Data Plane aims to turn fragmented data into real enterprise agent memory</a>"
+      "news": "<a href=\"https://www.gov.uk/government/publications/de55-4nh-emr-group-limited-environmental-permit-application-advertisement-eprvp3322msa001\" target=\"_blank\">Notice: DE55 4NH, EMR Group Limited: environmental permit application advertisement - EPR/VP3322MS/A001</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 229.86,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/adare-bags-national-commissioner-of-the-year-award/\" target=\"_blank\">Adare bags National Commissioner of the year award</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/07/tinubu-economic-reforms-have-ended-states-reliance-on-salary-borrowing/\" target=\"_blank\">Tinubu: Economic reforms have ended states\u2019 reliance on salary borrowing</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 390.49,
-      "news": "<a href=\"https://github.com/JerBouma/FinanceToolkit\" target=\"_blank\">Show HN: Every site gives a different P/E ratio, so I open-sourced the math</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/3095174/nasdaq-futures-slip-as-chip-stocks-slide-again-u-s-jobs-report-in-focus\" target=\"_blank\">Nasdaq Futures Slip as Chip Stocks Extend Slide, U.S. Jobs Report in Focus</a>"
     },
     {
       "ticker": "NVDA",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 129.3,
-      "news": "<a href=\"https://oilprice.com/Energy/Energy-General/5-Under-the-Radar-Stocks-Fueling-the-AI-Revolution.html\" target=\"_blank\">5 Under-the-Radar Stocks Fueling the AI Revolution</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/3100051/stocks-climb-as-fed-rate-hike-fears-ease-on-a-weak-jobs-report\" target=\"_blank\">Stocks Climb as Fed Rate Hike Fears Ease on a Weak Jobs Report</a>"
     },
     {
       "ticker": "CRWD",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 260.15,
-      "news": "<a href=\"https://english.khabarhub.com/2026/02/556495/\" target=\"_blank\">Economic Digest: A Snapshot of Nepal\u2019s Business News</a>"
+      "news": "<a href=\"http://www.popsci.com/environment/sandy-luna-eagles-visit-nest-jackie-shadow/\" target=\"_blank\">Sandy and Luna return to nest after a big day of flying</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-02T16:00:00+00:00",
-  "data_date": "2026-07-02",
+  "last_updated": "2026-07-03T16:00:00+00:00",
+  "data_date": "2026-07-03",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
