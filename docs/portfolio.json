@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 139.05,
-      "news": "<a href=\"https://www.gov.uk/government/publications/de55-4nh-emr-group-limited-environmental-permit-application-advertisement-eprvp3322msa001\" target=\"_blank\">Notice: DE55 4NH, EMR Group Limited: environmental permit application advertisement - EPR/VP3322MS/A001</a>"
+      "news": "<a href=\"https://www.storagereview.com/news/couchbase-ai-data-plane-hits-ga-with-enterprise-analytics-2-2-and-iceberg-federation\" target=\"_blank\">Couchbase AI Data Plane Hits GA, With Enterprise Analytics 2.2 and Iceberg Federation</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 229.86,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/tinubu-economic-reforms-have-ended-states-reliance-on-salary-borrowing/\" target=\"_blank\">Tinubu: Economic reforms have ended states\u2019 reliance on salary borrowing</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/07/us-house-of-reps-honours-uzodimma-for-transformative-leadership/\" target=\"_blank\">US House of Reps honours\u00a0Uzodimma\u00a0for transformative leadership</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 194.83,
-      "news": "<a href=\"https://macdailynews.com/2026/07/01/president-trumps-latest-financial-disclosure-billions-in-crypto-apple-shares-and-palantir-exposure/\" target=\"_blank\">President Trump\u2019s latest financial disclosure: Billions in crypto, Apple shares, and Palantir exposure</a>"
+      "news": "<a href=\"https://cryptobriefing.com/robinhood-chain-daily-active-users-50k/\" target=\"_blank\">Robinhood Chain daily active users hit 50K as platform grows</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 260.15,
-      "news": "<a href=\"http://www.popsci.com/environment/sandy-luna-eagles-visit-nest-jackie-shadow/\" target=\"_blank\">Sandy and Luna return to nest after a big day of flying</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-did-a-tiger-evolve-from/\" target=\"_blank\">What did a tiger evolve from?</a>"
     },
     {
       "ticker": "SSYS",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 566.32,
-      "news": "No news available"
+      "news": "<a href=\"https://247wallst.com/investing/2026/07/03/michael-burry-shorts-micron-adding-to-his-nvidia-and-applied-materials-short-bets-against-chip-stocks/\" target=\"_blank\">Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks</a>"
     },
     {
       "ticker": "ESGU",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-03T16:00:00+00:00",
-  "data_date": "2026-07-03",
+  "last_updated": "2026-07-04T16:00:00+00:00",
+  "data_date": "2026-07-04",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
