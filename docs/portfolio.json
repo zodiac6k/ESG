@@ -19,8 +19,8 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "107.41%",
-      "CAGR": "27.53%",
+      "Total Return": "106.95%",
+      "CAGR": "27.44%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.74"
     },
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 139.05,
-      "news": "<a href=\"https://www.storagereview.com/news/couchbase-ai-data-plane-hits-ga-with-enterprise-analytics-2-2-and-iceberg-federation\" target=\"_blank\">Couchbase AI Data Plane Hits GA, With Enterprise Analytics 2.2 and Iceberg Federation</a>"
+      "news": "<a href=\"https://www.nature.com/articles/s41598-026-60367-3\" target=\"_blank\">Green HPTLC\u2013densitometry for simultaneous determination of antibiotic residues in milk with greenness assessment and application to real samples</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 229.86,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/us-house-of-reps-honours-uzodimma-for-transformative-leadership/\" target=\"_blank\">US House of Reps honours\u00a0Uzodimma\u00a0for transformative leadership</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/07/arewa-think-tank-urges-tinubu-to-ignore-allegations-against-gbajabiamila/\" target=\"_blank\">Arewa Think Tank urges Tinubu to ignore allegations against Gbajabiamila</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 390.49,
-      "news": "<a href=\"https://www.barchart.com/story/news/3095174/nasdaq-futures-slip-as-chip-stocks-slide-again-u-s-jobs-report-in-focus\" target=\"_blank\">Nasdaq Futures Slip as Chip Stocks Extend Slide, U.S. Jobs Report in Focus</a>"
+      "news": "<a href=\"https://biztoc.com/x/5ac525f957343135\" target=\"_blank\">Kyndryl and Microsoft Team Up on Cloud Sovereignty. Don\u2019t Count on This Being a Game-Changer for KD Stock</a>"
     },
     {
       "ticker": "NVDA",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 260.15,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-did-a-tiger-evolve-from/\" target=\"_blank\">What did a tiger evolve from?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-group-of-animals-is-called-a-romp/\" target=\"_blank\">What group of animals is called a romp?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-04T16:00:00+00:00",
-  "data_date": "2026-07-04",
+  "last_updated": "2026-07-05T16:00:00+00:00",
+  "data_date": "2026-07-05",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
