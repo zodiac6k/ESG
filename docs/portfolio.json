@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "108.22%",
-      "CAGR": "27.70%",
+      "Total Return": "108.74%",
+      "CAGR": "27.80%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "85.10%",
-      "CAGR": "22.78%",
+      "Total Return": "85.67%",
+      "CAGR": "22.91%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "67.24%",
-      "CAGR": "18.70%",
+      "Total Return": "67.96%",
+      "CAGR": "18.87%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 467.48,
+      "last_price": 472.12,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/global-times-summer-davos-reaffirms-openness-and-cooperation-amid-global-uncertainty-302816908.html\" target=\"_blank\">Global Times: Summer Davos reaffirms openness and cooperation amid global uncertainty</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 137.8,
-      "news": "<a href=\"https://goodereader.com/blog/reviews/full-review-of-the-remarkable-paper-pure-e-notebook\" target=\"_blank\">Full Review of the Remarkable Paper Pure e-notebook</a>"
+      "last_price": 138.88,
+      "news": "<a href=\"https://www.gov.uk/government/publications/cb8-7nd-emr-group-limited-environmental-permit-issued-eprlb3403fgv002\" target=\"_blank\">Decision: CB8 7ND, EMR Group Limited: environmental permit issued - EPR/LB3403FG/V002</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 223.42,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/reps-begin-review-of-south-south-development-commission-act-to-expand-funding/\" target=\"_blank\">Reps begin review of South-South Development Commission Act to expand funding</a>"
+      "last_price": 226.42,
+      "news": "<a href=\"https://thechronicle.com.gh/editorial-dual-citizenship-bill-prudence-must-prevail/\" target=\"_blank\">Editorial: Dual Citizenship Bill: Prudence Must Prevail</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 384.36,
-      "news": "<a href=\"https://biztoc.com/x/5ac525f957343135\" target=\"_blank\">Kyndryl and Microsoft Team Up on Cloud Sovereignty. Don\u2019t Count on This Being a Game-Changer for KD Stock</a>"
+      "last_price": 385.1,
+      "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/haleon-signs-five-agreement-microsoft-172322731.html\" target=\"_blank\">Haleon Signs a Five-Year Agreement With Microsoft (MSFT) to Deploy Agentic AI Across Its Global Operations</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 202.78,
-      "news": "<a href=\"https://cryptobriefing.com/bofa-nvidia-stock-buying-opportunity/\" target=\"_blank\">BofA calls Nvidia stock a compelling buying opportunity at seven-year low valuation</a>"
+      "last_price": 210.96,
+      "news": "<a href=\"https://www.barchart.com/story/news/3205333/deepseek-just-dealt-nvidia-stock-a-potentially-major-blow\" target=\"_blank\">DeepSeek Just Dealt Nvidia Stock a Potentially Major Blow</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 129.04,
-      "news": "<a href=\"https://www.barchart.com/story/news/3100051/stocks-climb-as-fed-rate-hike-fears-ease-on-a-weak-jobs-report\" target=\"_blank\">Stocks Climb as Fed Rate Hike Fears Ease on a Weak Jobs Report</a>"
+      "last_price": 126.79,
+      "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-expands-partnership-164450023.html\" target=\"_blank\">Palantir Technologies (PLTR) Expands Partnership with GNP Seguros</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 198.4,
+      "last_price": 187.18,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-extends-falcon-aidr-052818137.html\" target=\"_blank\">CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 65.76,
+      "last_price": 66.8,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 588.66,
-      "news": "<a href=\"https://www.barchart.com/story/news/2613040/nvidia-is-no-longer-the-ultimate-ai-play-but-nvda-stock-is-a-buy-anyways\" target=\"_blank\">Nvidia Is No Longer the Ultimate AI Play, But NVDA Stock Is a Buy Anyways</a>"
+      "last_price": 602.5,
+      "news": "<a href=\"https://www.barchart.com/story/news/3213146/stocks-settle-higher-as-chipmakers-rally-and-crude-prices-fall\" target=\"_blank\">Stocks Settle Higher as Chipmakers Rally and Crude Prices Fall</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 267.49,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-long-can-a-deer-go-without-food/\" target=\"_blank\">How long can a deer go without food?</a>"
+      "last_price": 261.45,
+      "news": "No news available"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.69,
+      "last_price": 8.55,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.11,
+      "last_price": 3.07,
       "news": "<a href=\"https://www.nature.com/articles/s41598-026-60251-0\" target=\"_blank\">Occurrence and human health risk assessment of organochlorine pesticides in irrigated and non-irrigated agricultural soils of Wondogenet District, Ethiopia</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 82.59,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/07/08/3323858/28124/en/Neobanking-Market-by-Banking-Type-Service-Type-Customer-Type-Platform-End-User-Global-Forecast-2026-2032.html\" target=\"_blank\">Neobanking Market by Banking Type, Service Type, Customer Type, Platform, End User - Global Forecast 2026-2032</a>"
+      "last_price": 82.96,
+      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/07/09/3324590/28124/en/Exponential-Growth-Forecasted-for-Generative-AI-in-Financial-Services-Market-to-Hit-7-24-Billion-by-2030.html\" target=\"_blank\">Exponential Growth Forecasted for Generative AI in Financial Services: Market to Hit $7.24 Billion by 2030</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,8 +159,8 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 581.7,
-      "news": "<a href=\"https://247wallst.com/investing/2026/07/03/michael-burry-shorts-micron-adding-to-his-nvidia-and-applied-materials-short-bets-against-chip-stocks/\" target=\"_blank\">Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks</a>"
+      "last_price": 581.34,
+      "news": "<a href=\"https://www.barchart.com/story/news/3213146/stocks-settle-higher-as-chipmakers-rally-and-crude-prices-fall\" target=\"_blank\">Stocks Settle Higher as Chipmakers Rally and Crude Prices Fall</a>"
     },
     {
       "ticker": "ESGU",
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 165.0,
+      "last_price": 165.68,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 19.33,
+      "last_price": 19.25,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-09T16:00:00+00:00",
-  "data_date": "2026-07-09",
+  "last_updated": "2026-07-10T16:00:00+00:00",
+  "data_date": "2026-07-10",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
