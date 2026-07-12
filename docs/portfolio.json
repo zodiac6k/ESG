@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 138.88,
-      "news": "<a href=\"https://www.gov.uk/government/publications/cb8-7nd-emr-group-limited-environmental-permit-issued-eprlb3403fgv002\" target=\"_blank\">Decision: CB8 7ND, EMR Group Limited: environmental permit issued - EPR/LB3403FG/V002</a>"
+      "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/\" target=\"_blank\">Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 226.42,
-      "news": "<a href=\"https://thechronicle.com.gh/editorial-dual-citizenship-bill-prudence-must-prevail/\" target=\"_blank\">Editorial: Dual Citizenship Bill: Prudence Must Prevail</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/07/2027-foog-backs-tinubu-oborevwori-empowers-over-200-women-in-warri/\" target=\"_blank\">2027: FOOG backs Tinubu, Oborevwori, empowers over 200 Women in Warri</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 261.45,
-      "news": "No news available"
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/new-updates/can-thickening-arctic-ice-with-seawater-slow-its-decline-successful-trial-faces-major-hurdles/articleshow/132323256.cms\" target=\"_blank\">Can thickening Arctic ice with seawater slow its decline? Successful trial faces major hurdles</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-10T16:00:00+00:00",
-  "data_date": "2026-07-10",
+  "last_updated": "2026-07-11T16:00:00+00:00",
+  "data_date": "2026-07-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
