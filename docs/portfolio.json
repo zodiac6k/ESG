@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 226.42,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/2027-foog-backs-tinubu-oborevwori-empowers-over-200-women-in-warri/\" target=\"_blank\">2027: FOOG backs Tinubu, Oborevwori, empowers over 200 Women in Warri</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/07/2027-why-i-picked-bintu-konto-as-running-mate-lp-presidential-candidate/\" target=\"_blank\">2027: Why I picked Bintu Konto as running mate \u2013 LP Presidential Candidate</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 261.45,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/new-updates/can-thickening-arctic-ice-with-seawater-slow-its-decline-successful-trial-faces-major-hurdles/articleshow/132323256.cms\" target=\"_blank\">Can thickening Arctic ice with seawater slow its decline? Successful trial faces major hurdles</a>"
+      "news": "<a href=\"https://www.designboom.com/art/mirrored-water-drop-installation-landscape-sayram-lake-china-zhide/\" target=\"_blank\">a mirrored water drop installation reflects the landscape of sayram lake in china</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-11T16:00:00+00:00",
-  "data_date": "2026-07-11",
+  "last_updated": "2026-07-12T16:00:00+00:00",
+  "data_date": "2026-07-12",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
