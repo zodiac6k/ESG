@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "104.51%",
-      "CAGR": "26.93%",
+      "Total Return": "108.22%",
+      "CAGR": "27.70%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.72"
+      "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "82.14%",
-      "CAGR": "22.13%",
+      "Total Return": "84.18%",
+      "CAGR": "22.58%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "66.67%",
-      "CAGR": "18.56%",
+      "Total Return": "67.26%",
+      "CAGR": "18.70%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 460.45,
+      "last_price": 469.77,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/global-times-summer-davos-reaffirms-openness-and-cooperation-amid-global-uncertainty-302816908.html\" target=\"_blank\">Global Times: Summer Davos reaffirms openness and cooperation amid global uncertainty</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 135.38,
-      "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/\" target=\"_blank\">Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore</a>"
+      "last_price": 136.09,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/multi-cloud-lakehouse-architecture-on-aws-for-agentic-ai-part-1-architecture-and-best-practices/\" target=\"_blank\">Multi-cloud lakehouse architecture on AWS for Agentic AI, Part 1: Architecture and best practices</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 222.25,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/north-west-development-commission-unveils-projects-for-30000-farmers-10000-youths/\" target=\"_blank\">North West Development Commission unveils projects for 30,000 farmers, 10,000 youths</a>"
+      "last_price": 222.68,
+      "news": "<a href=\"https://punchng.com/?p=2189604\" target=\"_blank\">Kaduna gov reconstitutes five boards, appoints new aides</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 390.99,
+      "last_price": 384.93,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/haleon-signs-five-agreement-microsoft-172322731.html\" target=\"_blank\">Haleon Signs a Five-Year Agreement With Microsoft (MSFT) to Deploy Agentic AI Across Its Global Operations</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 203.53,
-      "news": "<a href=\"https://www.barchart.com/story/news/3205333/deepseek-just-dealt-nvidia-stock-a-potentially-major-blow\" target=\"_blank\">DeepSeek Just Dealt Nvidia Stock a Potentially Major Blow</a>"
+      "last_price": 211.8,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/the-first-publicly-listed-fusion-stock-just-started-trading-and-it-did-not-arrive-quietly-302823991.html\" target=\"_blank\">The First Publicly Listed Fusion Stock Just Started Trading, and It Did Not Arrive Quietly</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 130.04,
+      "last_price": 133.72,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-expands-partnership-164450023.html\" target=\"_blank\">Palantir Technologies (PLTR) Expands Partnership with GNP Seguros</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 187.91,
+      "last_price": 210.73,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-extends-falcon-aidr-052818137.html\" target=\"_blank\">CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 63.91,
+      "last_price": 65.03,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 575.39,
+      "last_price": 595.7,
       "news": "<a href=\"https://www.barchart.com/story/news/3213146/stocks-settle-higher-as-chipmakers-rally-and-crude-prices-fall\" target=\"_blank\">Stocks Settle Higher as Chipmakers Rally and Crude Prices Fall</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 268.65,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-did-native-americans-get-around-without-horses/\" target=\"_blank\">How did Native Americans get around without horses?</a>"
+      "last_price": 275.94,
+      "news": "<a href=\"https://thediplomat.com/2026/07/far-more-than-ruins-life-in-engilcheck-kyrgyzstan/\" target=\"_blank\">Far More Than Ruins: Life in Engilcheck, Kyrgyzstan</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.29,
+      "last_price": 8.33,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.0,
+      "last_price": 2.97,
       "news": "<a href=\"https://www.nature.com/articles/s41598-026-60251-0\" target=\"_blank\">Occurrence and human health risk assessment of organochlorine pesticides in irrigated and non-irrigated agricultural soils of Wondogenet District, Ethiopia</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 80.56,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/07/09/3324590/28124/en/Exponential-Growth-Forecasted-for-Generative-AI-in-Financial-Services-Market-to-Hit-7-24-Billion-by-2030.html\" target=\"_blank\">Exponential Growth Forecasted for Generative AI in Financial Services: Market to Hit $7.24 Billion by 2030</a>"
+      "last_price": 80.78,
+      "news": "<a href=\"https://newatlas.com/robotics/first-bird-robot-swim-dive-launch-mit-epfl/\" target=\"_blank\">First bird-scale robot to swim, dive, and launch back into flight</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 553.61,
+      "last_price": 567.92,
       "news": "<a href=\"https://www.barchart.com/story/news/3213146/stocks-settle-higher-as-chipmakers-rally-and-crude-prices-fall\" target=\"_blank\">Stocks Settle Higher as Chipmakers Rally and Crude Prices Fall</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 164.53,
+      "last_price": 165.23,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.62,
+      "last_price": 19.07,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-13T16:00:00+00:00",
-  "data_date": "2026-07-13",
+  "last_updated": "2026-07-14T16:00:00+00:00",
+  "data_date": "2026-07-14",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
