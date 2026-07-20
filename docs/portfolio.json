@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 268.9,
-      "news": "<a href=\"https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-montreal-e334/\" target=\"_blank\">SUMMER\u2600\ufe0f Cheap non-stop flights from London to Montreal, Canada for \u00a3334</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/do-squirrels-forget-where-they-hide-about-half-of-their-nuts/\" target=\"_blank\">Do squirrels forget where they hide about half of their nuts?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-18T16:00:00+00:00",
-  "data_date": "2026-07-18",
+  "last_updated": "2026-07-19T16:00:00+00:00",
+  "data_date": "2026-07-19",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
