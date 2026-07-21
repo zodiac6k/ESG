@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "101.82%",
-      "CAGR": "26.37%",
+      "Total Return": "101.41%",
+      "CAGR": "26.29%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.71"
     },
     "QQQ": {
-      "Total Return": "77.94%",
-      "CAGR": "21.18%",
+      "Total Return": "78.13%",
+      "CAGR": "21.22%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "65.36%",
-      "CAGR": "18.25%",
+      "Total Return": "65.10%",
+      "CAGR": "18.19%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 461.85,
+      "last_price": 458.71,
       "news": "<a href=\"https://biztoc.com/x/1924236f0791ecfe\" target=\"_blank\">What You Need To Know Ahead of Rockwell Automation's Earnings Release</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 139.54,
+      "last_price": 136.58,
       "news": "<a href=\"https://www.techtarget.com/searchhealthit/feature/How-no-code-tools-are-democratizing-EMR-customization\" target=\"_blank\">How no-code tools are democratizing EMR customization</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 225.02,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/govt-cant-solve-nigerias-problems-alone-fg-reps/\" target=\"_blank\">Govt can\u2019t solve Nigeria\u2019s problems alone \u2013 FG, Reps</a>"
+      "last_price": 226.18,
+      "news": "<a href=\"https://punchng.com/?p=2194563\" target=\"_blank\">SEDC and the rebirth of Okpara\u2019s agro-revolution</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 393.82,
+      "last_price": 402.29,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepening-enterprise-ai-101236609.html\" target=\"_blank\">How Microsoft (MSFT) Is Deepening Its Enterprise AI Moat With a $2.5 Billion Customer Deployment Initiative</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 202.81,
+      "last_price": 203.28,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/the-first-publicly-listed-fusion-stock-just-started-trading-and-it-did-not-arrive-quietly-302823991.html\" target=\"_blank\">The First Publicly Listed Fusion Stock Just Started Trading, and It Did Not Arrive Quietly</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 132.38,
+      "last_price": 134.85,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-best-growth-stock-160938945.html\" target=\"_blank\">Is Palantir (PLTR) the Best Growth Stock With Highest Upside Potential?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 203.08,
+      "last_price": 198.49,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-extends-falcon-aidr-052818137.html\" target=\"_blank\">CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 64.07,
+      "last_price": 63.08,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 529.66,
+      "last_price": 525.7,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-big-change-203753000.html\" target=\"_blank\">Jim Cramer Reveals Big Change For Applied Materials, Inc. (AMAT)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 268.9,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-squirrels-forget-where-they-hide-about-half-of-their-nuts/\" target=\"_blank\">Do squirrels forget where they hide about half of their nuts?</a>"
+      "last_price": 274.34,
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/india/manali-emerges-as-indias-adventure-capital-sets-global-benchmark-for-heli-skiing-paragliding/articleshow/132496667.cms\" target=\"_blank\">Manali emerges as India's adventure capital, sets global benchmark for heli-skiing, paragliding</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.14,
+      "last_price": 8.08,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.69,
+      "last_price": 2.63,
       "news": "<a href=\"https://www.nature.com/articles/s41598-026-60251-0\" target=\"_blank\">Occurrence and human health risk assessment of organochlorine pesticides in irrigated and non-irrigated agricultural soils of Wondogenet District, Ethiopia</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.89,
+      "last_price": 77.31,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012226\" target=\"_blank\">A tumor-suppressive role of the PRC1 Polycomb epigenetic complex in the maintenance of adult Drosophila intestinal stem cell identity</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 521.81,
+      "last_price": 524.14,
       "news": "<a href=\"https://247wallst.com/investing/2026/07/17/amd-falls-5-intel-drops-4-nvidia-slides-3-before-recovering-as-rotation-hits-semiconductor-stocks/\" target=\"_blank\">AMD Falls 5%, Intel Drops 4%, NVIDIA Slides 3% Before Recovering as Rotation Hits Semiconductor Stocks</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 163.06,
+      "last_price": 162.69,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.37,
+      "last_price": 18.14,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-19T16:00:00+00:00",
-  "data_date": "2026-07-19",
+  "last_updated": "2026-07-20T16:00:00+00:00",
+  "data_date": "2026-07-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
