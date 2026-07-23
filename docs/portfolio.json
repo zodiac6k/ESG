@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "105.15%",
-      "CAGR": "27.07%",
+      "Total Return": "104.00%",
+      "CAGR": "26.83%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.72"
     },
     "QQQ": {
-      "Total Return": "81.44%",
-      "CAGR": "21.97%",
+      "Total Return": "80.51%",
+      "CAGR": "21.76%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "66.47%",
-      "CAGR": "18.52%",
+      "Total Return": "66.28%",
+      "CAGR": "18.47%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 464.82,
-      "news": "<a href=\"https://biztoc.com/x/1924236f0791ecfe\" target=\"_blank\">What You Need To Know Ahead of Rockwell Automation's Earnings Release</a>"
+      "last_price": 458.2,
+      "news": "<a href=\"https://www.nakedcapitalism.com/2026/07/links-7-21-2026.html\" target=\"_blank\">Links 7/21/2026</a>"
     },
     {
       "ticker": "EMR",
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 139.26,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/govern-amazon-redshift-data-across-accounts-with-sagemaker-unified-studio/\" target=\"_blank\">Govern Amazon Redshift Data Warehouses Data Across Accounts using Amazon SageMaker Unified Studio</a>"
+      "last_price": 139.63,
+      "news": "<a href=\"https://www.forbes.com/sites/sachinjain/2026/07/21/the-grand-declicking/\" target=\"_blank\">The Grand Declicking</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 229.86,
-      "news": "<a href=\"https://punchng.com/nafada-camp-rejects-apc-switch-backs-pantami/\" target=\"_blank\">Nafada camp rejects APC switch, backs Pantami</a>"
+      "last_price": 232.99,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/07/apc-storms-adelekes-home-town-seeks-electoral-support/\" target=\"_blank\">APC storms Adeleke\u2019s home town, seeks electoral support</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 397.75,
-      "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepening-enterprise-ai-101236609.html\" target=\"_blank\">How Microsoft (MSFT) Is Deepening Its Enterprise AI Moat With a $2.5 Billion Customer Deployment Initiative</a>"
+      "last_price": 390.34,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control-302830202.html\" target=\"_blank\">/C O R R E C T I O N -- Microsoft Corp./</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 207.29,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/the-first-publicly-listed-fusion-stock-just-started-trading-and-it-did-not-arrive-quietly-302823991.html\" target=\"_blank\">The First Publicly Listed Fusion Stock Just Started Trading, and It Did Not Arrive Quietly</a>"
+      "last_price": 212.06,
+      "news": "<a href=\"https://cryptobriefing.com/lighter-robinhood-chain-10m-tvl/\" target=\"_blank\">Lighter\u2019s deployment on Robinhood Crypto Chain hits $10M TVL in first week</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 132.66,
+      "last_price": 124.57,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-best-growth-stock-160938945.html\" target=\"_blank\">Is Palantir (PLTR) the Best Growth Stock With Highest Upside Potential?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 191.15,
+      "last_price": 188.42,
       "news": "<a href=\"https://www.marketbeat.com/articles/cybersecurity-stocks-are-holding-up-as-the-ai-trade-starts-to-crack/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cybersecurity Stocks Are Holding Up as the AI Trade Starts to Crack</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 62.94,
+      "last_price": 62.54,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 564.55,
+      "last_price": 553.92,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-big-change-203753000.html\" target=\"_blank\">Jim Cramer Reveals Big Change For Applied Materials, Inc. (AMAT)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 271.73,
-      "news": "<a href=\"https://www.lifesciencesworld.com/can-you-poison-muskrats/\" target=\"_blank\">Can you poison muskrats?</a>"
+      "last_price": 267.8,
+      "news": "<a href=\"https://petapixel.com/2026/07/21/ai-takes-away-from-the-artistry-of-photography-says-robert-irwin/\" target=\"_blank\">\u2018AI Takes Away From the Artistry of Photography\u2019 Says Robert Irwin</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.37,
+      "last_price": 8.21,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.78,
+      "last_price": 2.66,
       "news": "<a href=\"https://www.nature.com/articles/s41598-026-60251-0\" target=\"_blank\">Occurrence and human health risk assessment of organochlorine pesticides in irrigated and non-irrigated agricultural soils of Wondogenet District, Ethiopia</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 79.38,
+      "last_price": 79.4,
       "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012226\" target=\"_blank\">A tumor-suppressive role of the PRC1 Polycomb epigenetic complex in the maintenance of adult Drosophila intestinal stem cell identity</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 552.69,
+      "last_price": 555.52,
       "news": "<a href=\"https://247wallst.com/investing/2026/07/17/amd-falls-5-intel-drops-4-nvidia-slides-3-before-recovering-as-rotation-hits-semiconductor-stocks/\" target=\"_blank\">AMD Falls 5%, Intel Drops 4%, NVIDIA Slides 3% Before Recovering as Rotation Hits Semiconductor Stocks</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 164.04,
+      "last_price": 163.86,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.52,
+      "last_price": 18.54,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-21T16:00:00+00:00",
-  "data_date": "2026-07-21",
+  "last_updated": "2026-07-22T16:00:00+00:00",
+  "data_date": "2026-07-22",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
