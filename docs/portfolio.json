@@ -19,10 +19,10 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "100.73%",
-      "CAGR": "26.15%",
+      "Total Return": "102.85%",
+      "CAGR": "26.59%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.70"
+      "Sharpe Ratio": "0.71"
     },
     "QQQ": {
       "Total Return": "75.10%",
@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 462.16,
-      "news": "<a href=\"https://www.nakedcapitalism.com/2026/07/links-7-21-2026.html\" target=\"_blank\">Links 7/21/2026</a>"
+      "news": "<a href=\"https://www.exposedbycmd.org/2026/07/23/alec-caters-to-maga-big-oil-and-tech-industry-at-its-2026-annual-meeting/\" target=\"_blank\">Right-Wing Bill Mill Meeting Centers Voter Suppression, Protecting Data Centers</a>"
     },
     {
       "ticker": "EMR",
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 147.94,
-      "news": "<a href=\"https://www.forbes.com/sites/sachinjain/2026/07/21/the-grand-declicking/\" target=\"_blank\">The Grand Declicking</a>"
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/automate-creating-aws-glue-data-catalog-views-with-aws-sdk-for-data-mesh-use-case/\" target=\"_blank\">Automate creating AWS Glue Data Catalog views with AWS SDK for data mesh use case</a>"
     },
     {
       "ticker": "HON",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 381.7,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/databricks-and-microsoft-expand-partnership-to-help-enterprises-bring-business-context-to-enterprise-ai-302832954.html\" target=\"_blank\">Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI</a>"
+      "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/semiconductor-crossroads-healthy-consolidation-deeper-191601632.html\" target=\"_blank\">Semiconductor Crossroads: Healthy Consolidation or Deeper Repricing?</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 206.84,
-      "news": "<a href=\"https://cryptobriefing.com/lighter-robinhood-chain-10m-tvl/\" target=\"_blank\">Lighter\u2019s deployment on Robinhood Crypto Chain hits $10M TVL in first week</a>"
+      "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/semiconductor-crossroads-healthy-consolidation-deeper-191601632.html\" target=\"_blank\">Semiconductor Crossroads: Healthy Consolidation or Deeper Repricing?</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 268.06,
-      "news": "No news available"
+      "news": "<a href=\"https://www.lifesciencesworld.com/can-birds-lay-eggs-whenever-they-want/\" target=\"_blank\">Can birds lay eggs whenever they want?</a>"
     },
     {
       "ticker": "SSYS",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 527.01,
-      "news": "<a href=\"https://247wallst.com/investing/2026/07/17/amd-falls-5-intel-drops-4-nvidia-slides-3-before-recovering-as-rotation-hits-semiconductor-stocks/\" target=\"_blank\">AMD Falls 5%, Intel Drops 4%, NVIDIA Slides 3% Before Recovering as Rotation Hits Semiconductor Stocks</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/3455085/chip-stock-sell-off-puts-downward-pressure-on-broader-market\" target=\"_blank\">Chip Stock Sell-off Puts Downward Pressure on Broader Market</a>"
     },
     {
       "ticker": "ESGU",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-24T16:00:00+00:00",
-  "data_date": "2026-07-24",
+  "last_updated": "2026-07-25T16:00:00+00:00",
+  "data_date": "2026-07-25",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
