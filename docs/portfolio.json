@@ -19,10 +19,10 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "102.85%",
-      "CAGR": "26.59%",
+      "Total Return": "100.73%",
+      "CAGR": "26.15%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.71"
+      "Sharpe Ratio": "0.70"
     },
     "QQQ": {
       "Total Return": "75.10%",
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 147.94,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/automate-creating-aws-glue-data-catalog-views-with-aws-sdk-for-data-mesh-use-case/\" target=\"_blank\">Automate creating AWS Glue Data Catalog views with AWS SDK for data mesh use case</a>"
+      "news": "<a href=\"https://wwwnc.cdc.gov/eid/article/32/8/24-1522_article\" target=\"_blank\">Infections in Infancy and Association with Long-Term Weight Gain and Obesity in Children, Southern California, USA</a>"
     },
     {
       "ticker": "HON",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 268.06,
-      "news": "<a href=\"https://www.lifesciencesworld.com/can-birds-lay-eggs-whenever-they-want/\" target=\"_blank\">Can birds lay eggs whenever they want?</a>"
+      "news": "<a href=\"http://electrek.co/2026/07/25/e-quipment-highlight-avant-tecno-e727-electric-wheel-loader/\" target=\"_blank\">E-quipment highlight: Avant Tecno e727 electric wheel loader</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-25T16:00:00+00:00",
-  "data_date": "2026-07-25",
+  "last_updated": "2026-07-26T16:00:00+00:00",
+  "data_date": "2026-07-26",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
