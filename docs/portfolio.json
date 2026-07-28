@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "100.73%",
-      "CAGR": "26.15%",
+      "Total Return": "102.85%",
+      "CAGR": "26.59%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.70"
+      "Sharpe Ratio": "0.71"
     },
     "QQQ": {
-      "Total Return": "75.10%",
-      "CAGR": "20.53%",
+      "Total Return": "74.56%",
+      "CAGR": "20.41%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "64.39%",
-      "CAGR": "18.02%",
+      "Total Return": "64.43%",
+      "CAGR": "18.03%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 462.16,
+      "last_price": 466.0,
       "news": "<a href=\"https://www.exposedbycmd.org/2026/07/23/alec-caters-to-maga-big-oil-and-tech-industry-at-its-2026-annual-meeting/\" target=\"_blank\">Right-Wing Bill Mill Meeting Centers Voter Suppression, Protecting Data Centers</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 147.94,
+      "last_price": 149.3,
       "news": "<a href=\"https://wwwnc.cdc.gov/eid/article/32/8/24-1522_article\" target=\"_blank\">Infections in Infancy and Association with Long-Term Weight Gain and Obesity in Children, Southern California, USA</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 243.15,
-      "news": "<a href=\"https://punchng.com/beyond-the-governor-why-gombes-2027-election-may-hinge-on-running-mates/\" target=\"_blank\">Beyond the governor: Why Gombe\u2019s 2027 election may hinge on running mates</a>"
+      "last_price": 245.75,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/07/nass-at-3-between-legislative-volume-and-the-verdict-of-nigerians/\" target=\"_blank\">NASS AT 3: Between legislative volume and the verdict of Nigerians</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 381.7,
-      "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/semiconductor-crossroads-healthy-consolidation-deeper-191601632.html\" target=\"_blank\">Semiconductor Crossroads: Healthy Consolidation or Deeper Repricing?</a>"
+      "last_price": 389.1,
+      "news": "<a href=\"https://www.barchart.com/story/news/3470026/fed-decision-tech-earnings-and-other-can-t-miss-items-this-week\" target=\"_blank\">Fed Decision, Tech Earnings and Other Can't Miss Items this Week</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 206.84,
+      "last_price": 196.51,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/semiconductor-crossroads-healthy-consolidation-deeper-191601632.html\" target=\"_blank\">Semiconductor Crossroads: Healthy Consolidation or Deeper Repricing?</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 122.92,
+      "last_price": 131.53,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-best-growth-stock-160938945.html\" target=\"_blank\">Is Palantir (PLTR) the Best Growth Stock With Highest Upside Potential?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 183.28,
+      "last_price": 180.11,
       "news": "<a href=\"https://www.marketbeat.com/articles/cybersecurity-stocks-are-holding-up-as-the-ai-trade-starts-to-crack/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cybersecurity Stocks Are Holding Up as the AI Trade Starts to Crack</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 62.05,
+      "last_price": 61.29,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 536.25,
+      "last_price": 516.89,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-big-change-203753000.html\" target=\"_blank\">Jim Cramer Reveals Big Change For Applied Materials, Inc. (AMAT)</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 268.06,
-      "news": "<a href=\"http://electrek.co/2026/07/25/e-quipment-highlight-avant-tecno-e727-electric-wheel-loader/\" target=\"_blank\">E-quipment highlight: Avant Tecno e727 electric wheel loader</a>"
+      "last_price": 272.92,
+      "news": "<a href=\"https://www.lifesciencesworld.com/are-11-billion-snow-crabs-missing/\" target=\"_blank\">Are 11 billion snow crabs missing?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.03,
+      "last_price": 8.06,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.57,
+      "last_price": 2.63,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.83,
-      "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012226\" target=\"_blank\">A tumor-suppressive role of the PRC1 Polycomb epigenetic complex in the maintenance of adult Drosophila intestinal stem cell identity</a>"
+      "last_price": 78.58,
+      "news": "<a href=\"https://www.nakedcapitalism.com/2026/07/links-7-26-2026.html\" target=\"_blank\">Links 7/26/2026</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 527.01,
+      "last_price": 516.23,
       "news": "<a href=\"https://www.barchart.com/story/news/3455085/chip-stock-sell-off-puts-downward-pressure-on-broader-market\" target=\"_blank\">Chip Stock Sell-off Puts Downward Pressure on Broader Market</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 162.05,
+      "last_price": 162.09,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.78,
+      "last_price": 17.81,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-26T16:00:00+00:00",
-  "data_date": "2026-07-26",
+  "last_updated": "2026-07-27T16:00:00+00:00",
+  "data_date": "2026-07-27",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
