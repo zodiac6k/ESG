@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "97.80%",
-      "CAGR": "25.53%",
+      "Total Return": "92.66%",
+      "CAGR": "24.43%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.69"
+      "Sharpe Ratio": "0.67"
     },
     "QQQ": {
-      "Total Return": "72.87%",
-      "CAGR": "20.02%",
+      "Total Return": "69.35%",
+      "CAGR": "19.20%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "64.82%",
-      "CAGR": "18.12%",
+      "Total Return": "62.29%",
+      "CAGR": "17.52%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 471.17,
+      "last_price": 459.39,
       "news": "<a href=\"https://www.exposedbycmd.org/2026/07/23/alec-caters-to-maga-big-oil-and-tech-industry-at-its-2026-annual-meeting/\" target=\"_blank\">Right-Wing Bill Mill Meeting Centers Voter Suppression, Protecting Data Centers</a>"
     },
     {
@@ -51,17 +51,17 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 151.81,
-      "news": "<a href=\"https://wwwnc.cdc.gov/eid/article/32/8/24-1522_article\" target=\"_blank\">Infections in Infancy and Association with Long-Term Weight Gain and Obesity in Children, Southern California, USA</a>"
+      "last_price": 145.73,
+      "news": "<a href=\"https://www.yankodesign.com/2026/07/28/huion-note-e-review-the-notebook-that-never-runs-out-of-pages/\" target=\"_blank\">Huion Note E Review: The Notebook That Never Runs Out of Pages</a>"
     },
     {
       "ticker": "HON",
-      "name": "Honeywell International Inc.",
+      "name": "HON",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 247.05,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/07/reflections-on-speaker-abbas-led-houses-action-against-insecurity-in-2025/\" target=\"_blank\">Reflections on Speaker Abbas-led House\u2019s action against insecurity in 2025</a>"
+      "last_price": 241.12,
+      "news": "<a href=\"https://punchng.com/marketers-adopt-new-standards-to-reshape-industry-practices/\" target=\"_blank\">Marketers adopt new standards to reshape industry practices</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 393.35,
+      "last_price": 390.54,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2026/07/27/3333667/3080/en/MSFT-Shareholder-Alert-Microsoft-Corporation-Securities-Class-Action-Lawsuit-Investors-Should-Contact-Levi-Korsinsky.html\" target=\"_blank\">MSFT Shareholder Alert: Microsoft Corporation Securities Class Action Lawsuit - Investors Should Contact Levi & Korsinsky</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 197.01,
-      "news": "<a href=\"https://cryptobriefing.com/irisapp-limit-orders-robinhood-chain/\" target=\"_blank\">IrisApp launches limit orders for automated trading on Robinhood Chain</a>"
+      "last_price": 190.01,
+      "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html\" target=\"_blank\">Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 123.53,
+      "last_price": 123.0,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-best-growth-stock-160938945.html\" target=\"_blank\">Is Palantir (PLTR) the Best Growth Stock With Highest Upside Potential?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 181.8,
+      "last_price": 179.38,
       "news": "<a href=\"https://www.marketbeat.com/articles/cybersecurity-stocks-are-holding-up-as-the-ai-trade-starts-to-crack/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cybersecurity Stocks Are Holding Up as the AI Trade Starts to Crack</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 60.36,
+      "last_price": 57.82,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 476.46,
+      "last_price": 436.45,
       "news": "<a href=\"https://soyacincau.com/2026/07/27/honda-malaysia-installs-5-6mw-solar-pv-system-and-bess-at-melaka-plant/\" target=\"_blank\">Honda Malaysia installs 5.6MW Solar PV system and BESS at Melaka plant</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 270.36,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-far-can-a-squirrel-see/\" target=\"_blank\">How far can a squirrel see?</a>"
+      "last_price": 282.9,
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-far-can-a-deer-hear-in-miles/\" target=\"_blank\">How far can a deer hear in miles?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.95,
+      "last_price": 7.67,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.52,
+      "last_price": 2.48,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.5,
+      "last_price": 75.76,
       "news": "<a href=\"https://www.irishtimes.com/business/work/2026/07/27/why-workers-are-nostalgic-for-life-before-ai/\" target=\"_blank\">Why workers are nostalgic for life before artificial intelligence</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 491.46,
+      "last_price": 465.0,
       "news": "<a href=\"https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-monday-july-27-2026-12027189\" target=\"_blank\">5 Things to Know Before the Stock Market Opens on Monday</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 162.43,
+      "last_price": 159.87,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.2,
+      "last_price": 16.87,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-28T16:00:00+00:00",
-  "data_date": "2026-07-28",
+  "last_updated": "2026-07-29T16:00:00+00:00",
+  "data_date": "2026-07-29",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
