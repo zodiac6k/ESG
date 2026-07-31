@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "92.66%",
-      "CAGR": "24.43%",
+      "Total Return": "102.79%",
+      "CAGR": "26.58%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.67"
+      "Sharpe Ratio": "0.71"
     },
     "QQQ": {
-      "Total Return": "69.35%",
-      "CAGR": "19.20%",
+      "Total Return": "74.93%",
+      "CAGR": "20.49%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "62.29%",
-      "CAGR": "17.52%",
+      "Total Return": "65.01%",
+      "CAGR": "18.17%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 459.39,
+      "last_price": 471.01,
       "news": "<a href=\"https://www.exposedbycmd.org/2026/07/23/alec-caters-to-maga-big-oil-and-tech-industry-at-its-2026-annual-meeting/\" target=\"_blank\">Right-Wing Bill Mill Meeting Centers Voter Suppression, Protecting Data Centers</a>"
     },
     {
@@ -51,17 +51,17 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 145.73,
-      "news": "<a href=\"https://www.yankodesign.com/2026/07/28/huion-note-e-review-the-notebook-that-never-runs-out-of-pages/\" target=\"_blank\">Huion Note E Review: The Notebook That Never Runs Out of Pages</a>"
+      "last_price": 148.64,
+      "news": "<a href=\"https://healthsystemcio.com/?p=93667\" target=\"_blank\">Providence Onboards Epic AI Tools in Project Pixel; Smitherman Says Some Stay on the Watch List</a>"
     },
     {
       "ticker": "HON",
-      "name": "HON",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 241.12,
-      "news": "<a href=\"https://punchng.com/marketers-adopt-new-standards-to-reshape-industry-practices/\" target=\"_blank\">Marketers adopt new standards to reshape industry practices</a>"
+      "last_price": 241.91,
+      "news": "<a href=\"https://punchng.com/oyetola-warns-of-digital-shipping-disputes-ahead/\" target=\"_blank\">Oyetola warns of digital shipping disputes ahead</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 390.54,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/07/27/3333667/3080/en/MSFT-Shareholder-Alert-Microsoft-Corporation-Securities-Class-Action-Lawsuit-Investors-Should-Contact-Levi-Korsinsky.html\" target=\"_blank\">MSFT Shareholder Alert: Microsoft Corporation Securities Class Action Lawsuit - Investors Should Contact Levi & Korsinsky</a>"
+      "last_price": 451.1,
+      "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq futures steady after Korean stocks fall, Iran resumes attacks</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 190.01,
-      "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html\" target=\"_blank\">Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens</a>"
+      "last_price": 195.04,
+      "news": "<a href=\"https://247wallst.com/investing/2026/07/29/apple-becomes-a-5-trillion-company-heres-what-comes-next/\" target=\"_blank\">Apple Becomes a $5 Trillion Company. Here\u2019s What Comes Next</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 123.0,
+      "last_price": 122.26,
       "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-best-growth-stock-160938945.html\" target=\"_blank\">Is Palantir (PLTR) the Best Growth Stock With Highest Upside Potential?</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 179.38,
+      "last_price": 185.22,
       "news": "<a href=\"https://www.marketbeat.com/articles/cybersecurity-stocks-are-holding-up-as-the-ai-trade-starts-to-crack/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cybersecurity Stocks Are Holding Up as the AI Trade Starts to Crack</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 57.82,
+      "last_price": 62.62,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 436.45,
+      "last_price": 501.77,
       "news": "<a href=\"https://soyacincau.com/2026/07/27/honda-malaysia-installs-5-6mw-solar-pv-system-and-bess-at-melaka-plant/\" target=\"_blank\">Honda Malaysia installs 5.6MW Solar PV system and BESS at Melaka plant</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 282.9,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-far-can-a-deer-hear-in-miles/\" target=\"_blank\">How far can a deer hear in miles?</a>"
+      "last_price": 298.1,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-time-of-day-are-voles-most-active/\" target=\"_blank\">What time of day are voles most active?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.67,
+      "last_price": 8.03,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.48,
+      "last_price": 2.7,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 75.76,
+      "last_price": 78.58,
       "news": "<a href=\"https://www.irishtimes.com/business/work/2026/07/27/why-workers-are-nostalgic-for-life-before-ai/\" target=\"_blank\">Why workers are nostalgic for life before artificial intelligence</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 465.0,
+      "last_price": 504.53,
       "news": "<a href=\"https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-monday-july-27-2026-12027189\" target=\"_blank\">5 Things to Know Before the Stock Market Opens on Monday</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 159.87,
+      "last_price": 162.5,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.87,
+      "last_price": 17.67,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-07-29T16:00:00+00:00",
-  "data_date": "2026-07-29",
+  "last_updated": "2026-07-30T16:00:00+00:00",
+  "data_date": "2026-07-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
