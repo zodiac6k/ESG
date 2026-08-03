@@ -56,12 +56,12 @@
     },
     {
       "ticker": "HON",
-      "name": "HON",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 243.05,
-      "news": "<a href=\"https://thechalkboardmag.com/living-well-steph-hon-cadence/\" target=\"_blank\">Living Well with Steph Hon, Founder and CEO of Cadence: On Better Routines, Smarter Packing, and Building Cadence</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/inside-lagos-waste-flood-crisis-are-local-governments-pulling-their-weight/\" target=\"_blank\">Inside Lagos waste, flood crisis: Are local governments pulling their weight?</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 293.28,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-do-eagles-do-before-they-fly/\" target=\"_blank\">What do eagles do before they fly?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-do-bears-mark-their-territories/\" target=\"_blank\">How do bears mark their territories?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-01T16:00:00+00:00",
-  "data_date": "2026-08-01",
+  "last_updated": "2026-08-02T16:00:00+00:00",
+  "data_date": "2026-08-02",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
