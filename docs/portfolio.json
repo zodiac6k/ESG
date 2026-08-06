@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "119.97%",
-      "CAGR": "30.05%",
+      "Total Return": "119.45%",
+      "CAGR": "29.95%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.77"
     },
     "QQQ": {
-      "Total Return": "85.24%",
-      "CAGR": "22.81%",
+      "Total Return": "83.57%",
+      "CAGR": "22.44%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.60%",
-      "CAGR": "19.72%",
+      "Total Return": "71.26%",
+      "CAGR": "19.64%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 445.23,
+      "last_price": 450.05,
       "news": "<a href=\"https://apnews.com/press-release/access-newswire/press-release-bc381feb2e195aeb5ddce0d86e50d9ea\" target=\"_blank\">ROK Resources Announces the Closing of its Non-Core Southeast Saskatchewan Asset Disposition</a>"
     },
     {
@@ -51,17 +51,17 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 158.84,
+      "last_price": 162.47,
       "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355201\" target=\"_blank\">Pharmacogenomic landscape in Thailand: Array-based profiling and EMR-linked medication exposure</a>"
     },
     {
       "ticker": "HON",
-      "name": "HON",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 248.79,
-      "news": "<a href=\"https://www.globenewswire.com/news-release/2026/08/03/3337887/0/en/Brady-Corporation-Completes-Transformational-Acquisition-of-Honeywell-Technologies-Productivity-Solutions-and-Services-Business-Creating-Leading-Industrial-Technology-Company.html\" target=\"_blank\">Brady Corporation Completes Transformational Acquisition of Honeywell Technologies\u2019 Productivity Solutions and Services Business, Creating Leading Industrial Technology Company</a>"
+      "last_price": 248.12,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/osun-council-chairmen-military-clash-over-illegal-mining-activities/\" target=\"_blank\">Osun council chairmen, military clash over illegal mining activities</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 492.81,
+      "last_price": 487.46,
       "news": "<a href=\"https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/\" target=\"_blank\">Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 211.94,
+      "last_price": 219.22,
       "news": "<a href=\"https://247wallst.com/investing/2026/08/03/coherent-cohr-price-prediction-how-much-a-1000-investment-could-be-worth-by-2027/\" target=\"_blank\">Coherent (COHR) Price Prediction: How Much a $1,000 Investment Could Be Worth by 2027</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 162.66,
+      "last_price": 158.43,
       "news": "<a href=\"https://www.globenewswire.com/news-release/2026/08/03/3337498/18849/en/Mercury-Partners-with-Palantir-to-Enhance-Factory-Automation-and-Accelerate-Production-Timelines.html\" target=\"_blank\">Mercury Partners with Palantir to Enhance Factory Automation and Accelerate Production Timelines</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 211.22,
+      "last_price": 209.86,
       "news": "<a href=\"https://www.marketbeat.com/articles/cybersecurity-stocks-are-holding-up-as-the-ai-trade-starts-to-crack/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cybersecurity Stocks Are Holding Up as the AI Trade Starts to Crack</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 71.52,
+      "last_price": 70.71,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 546.62,
+      "last_price": 534.24,
       "news": "<a href=\"https://soyacincau.com/2026/07/27/honda-malaysia-installs-5-6mw-solar-pv-system-and-bess-at-melaka-plant/\" target=\"_blank\">Honda Malaysia installs 5.6MW Solar PV system and BESS at Melaka plant</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 316.77,
-      "news": "<a href=\"https://www.trendir.com/making-this-door-mat-mistake-its-the-reason-your-floors-always-look-grimy-no-matter-how-often-you-clean/\" target=\"_blank\">Making this door mat mistake? It\u2019s the reason your floors always look grimy no matter how often you clean</a>"
+      "last_price": 316.84,
+      "news": "<a href=\"https://www.lifesciencesworld.com/are-squirrels-kin-to-rats/\" target=\"_blank\">Are squirrels kin to rats?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.8,
+      "last_price": 8.96,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.56,
+      "last_price": 3.57,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 84.34,
+      "last_price": 84.37,
       "news": "<a href=\"https://www.irishtimes.com/business/work/2026/07/27/why-workers-are-nostalgic-for-life-before-ai/\" target=\"_blank\">Why workers are nostalgic for life before artificial intelligence</a>"
     },
     {
@@ -159,8 +159,8 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 542.21,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/startrader-expands-ai-offering-with-31-new-us-share--etf-cfds-in-semiconductors-optical-networking--nuclear-302839924.html\" target=\"_blank\">STARTRADER expands AI offering with 31 New US Share & ETF CFDs in Semiconductors, Optical Networking & Nuclear</a>"
+      "last_price": 530.7,
+      "news": "<a href=\"https://cryptobriefing.com/michael-burry-exits-microsoft-oracle-portfolio/\" target=\"_blank\">Michael Burry discloses major portfolio changes, exits Microsoft and Oracle</a>"
     },
     {
       "ticker": "ESGU",
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 169.1,
+      "last_price": 168.76,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.44,
+      "last_price": 18.1,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-04T16:00:00+00:00",
-  "data_date": "2026-08-04",
+  "last_updated": "2026-08-05T16:00:00+00:00",
+  "data_date": "2026-08-05",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
