@@ -56,12 +56,12 @@
     },
     {
       "ticker": "HON",
-      "name": "HON",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 246.21,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/08/2027-paper-certificates-dont-guarantee-good-leadership-obidike-defends-tinubu/\" target=\"_blank\">2027: Paper certificates don\u2019t guarantee good leadership, Obidike defends Tinubu</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/buni-swears-in-ssg-advisers-permanent-secretaries-board-chairmen/\" target=\"_blank\">Buni swears in SSG, advisers, permanent secretaries, board chairmen</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 330.49,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-do-coyote-hunters-do-with-their-kills/\" target=\"_blank\">What do coyote hunters do with their kills?</a>"
+      "news": "<a href=\"https://www.nbcnews.com/select/shopping/ocoopa-hand-warmer-recall-rcna591394\" target=\"_blank\">You won\u2019t want to wait until winter to return these recalled handwarmers \u2014 here\u2019s why</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-07T16:00:00+00:00",
-  "data_date": "2026-08-07",
+  "last_updated": "2026-08-08T16:00:00+00:00",
+  "data_date": "2026-08-08",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
