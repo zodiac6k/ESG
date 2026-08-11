@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "121.73%",
-      "CAGR": "30.40%",
+      "Total Return": "120.09%",
+      "CAGR": "30.08%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.78"
+      "Sharpe Ratio": "0.77"
     },
     "QQQ": {
-      "Total Return": "85.03%",
-      "CAGR": "22.77%",
+      "Total Return": "84.48%",
+      "CAGR": "22.65%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "72.03%",
-      "CAGR": "19.82%",
+      "Total Return": "71.98%",
+      "CAGR": "19.81%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 441.04,
+      "last_price": 435.22,
       "news": "<a href=\"https://apnews.com/press-release/access-newswire/press-release-bc381feb2e195aeb5ddce0d86e50d9ea\" target=\"_blank\">ROK Resources Announces the Closing of its Non-Core Southeast Saskatchewan Asset Disposition</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 158.26,
+      "last_price": 158.71,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation/\" target=\"_blank\">Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 246.21,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/08/chinda-most-suitable-for-rivers-brick-house/\" target=\"_blank\">Chinda most suitable for Rivers\u00a0Brick House</a>"
+      "last_price": 242.93,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/vgn-pledges-diaspora-support-for-okpebholos-fight-against-cultism-other-crimes/\" target=\"_blank\">VGN pledges diaspora support for Okpebholo\u2019s fight against cultism other crimes</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 499.99,
+      "last_price": 506.06,
       "news": "<a href=\"https://247wallst.com/investing/2026/08/06/could-microsoft-amazon-or-google-actually-buy-reddit/\" target=\"_blank\">Could Microsoft, Amazon, or Google Actually Buy Reddit?</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 223.96,
+      "last_price": 217.55,
       "news": "<a href=\"https://www.barchart.com/story/news/3643532/jpmorgan-chase-ceo-jamie-dimon-says-ai-will-cure-cancers-but-how-should-you-invest\" target=\"_blank\">JPMorgan Chase CEO Jamie Dimon Says AI 'Will Cure Cancers' \u2014 But How Should You Invest?</a>"
     },
     {
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 172.01,
-      "news": "<a href=\"https://www.barchart.com/story/news/3737462/wall-street-can-t-agree-on-palantir-here-s-what-investors-should-do-next\" target=\"_blank\">Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next</a>"
+      "last_price": 175.23,
+      "news": "<a href=\"https://beincrypto.com/bofa-jpmorgan-oppenheimer-favorite-ai-stocks-targets/\" target=\"_blank\">BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 214.42,
+      "last_price": 225.16,
       "news": "<a href=\"https://www.marketbeat.com/articles/cybersecurity-stocks-are-holding-up-as-the-ai-trade-starts-to-crack/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cybersecurity Stocks Are Holding Up as the AI Trade Starts to Crack</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 66.89,
+      "last_price": 64.36,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 539.14,
-      "news": "<a href=\"https://soyacincau.com/2026/07/27/honda-malaysia-installs-5-6mw-solar-pv-system-and-bess-at-melaka-plant/\" target=\"_blank\">Honda Malaysia installs 5.6MW Solar PV system and BESS at Melaka plant</a>"
+      "last_price": 522.12,
+      "news": "<a href=\"https://www.barchart.com/story/news/3745506/inflation-date-earnings-momentum-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation Date, Earnings Momentum and Other Key Things to Watch this Week</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 330.49,
-      "news": "<a href=\"http://lenscratch.com/2026/08/the-2025-lenscratch-2nd-place-student-prize-winner-diana-sosnowska/\" target=\"_blank\">The 2026 Lenscratch Honorable Mention Student Prize Winner: Anton Zdanovich</a>"
+      "last_price": 334.7,
+      "news": "<a href=\"https://www.dealnews.com/REI-Co-op-Big-Haul-28-L-Duffel-for-50-free-shipping/21993958.html\" target=\"_blank\">REI Co-op Big Haul 28L Duffel for $50 + free shipping</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.92,
+      "last_price": 8.86,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.69,
+      "last_price": 3.68,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 84.44,
+      "last_price": 83.46,
       "news": "<a href=\"https://www.irishtimes.com/business/work/2026/07/27/why-workers-are-nostalgic-for-life-before-ai/\" target=\"_blank\">Why workers are nostalgic for life before artificial intelligence</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 543.27,
+      "last_price": 529.39,
       "news": "<a href=\"https://cryptobriefing.com/michael-burry-exits-microsoft-oracle-portfolio/\" target=\"_blank\">Michael Burry discloses major portfolio changes, exits Microsoft and Oracle</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 169.54,
+      "last_price": 169.49,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.3,
+      "last_price": 18.08,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-09T16:00:00+00:00",
-  "data_date": "2026-08-09",
+  "last_updated": "2026-08-10T16:00:00+00:00",
+  "data_date": "2026-08-10",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
