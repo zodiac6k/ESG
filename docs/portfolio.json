@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "120.09%",
-      "CAGR": "30.08%",
+      "Total Return": "120.67%",
+      "CAGR": "30.19%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.77"
     },
     "QQQ": {
-      "Total Return": "84.48%",
-      "CAGR": "22.65%",
+      "Total Return": "83.86%",
+      "CAGR": "22.51%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.98%",
-      "CAGR": "19.81%",
+      "Total Return": "71.43%",
+      "CAGR": "19.68%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 435.22,
+      "last_price": 447.0,
       "news": "<a href=\"https://apnews.com/press-release/access-newswire/press-release-bc381feb2e195aeb5ddce0d86e50d9ea\" target=\"_blank\">ROK Resources Announces the Closing of its Non-Core Southeast Saskatchewan Asset Disposition</a>"
     },
     {
@@ -51,17 +51,17 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 158.71,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation/\" target=\"_blank\">Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation</a>"
+      "last_price": 164.38,
+      "news": "<a href=\"https://www.lewrockwell.com/2026/08/no_author/health-inc-the-worlds-largest-conglomerate-scam/\" target=\"_blank\">\u2018Health Inc\u2019 \u2013 The World\u2019s Largest Conglomerate Scam</a>"
     },
     {
       "ticker": "HON",
-      "name": "Honeywell International Inc.",
+      "name": "HON",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 242.93,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/08/vgn-pledges-diaspora-support-for-okpebholos-fight-against-cultism-other-crimes/\" target=\"_blank\">VGN pledges diaspora support for Okpebholo\u2019s fight against cultism other crimes</a>"
+      "last_price": 230.12,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/ministry-of-interior-and-renewed-hope-innovations-in-the-last-three-years/\" target=\"_blank\">Ministry of Interior and Renewed Hope innovations in the last three years</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 506.06,
-      "news": "<a href=\"https://247wallst.com/investing/2026/08/06/could-microsoft-amazon-or-google-actually-buy-reddit/\" target=\"_blank\">Could Microsoft, Amazon, or Google Actually Buy Reddit?</a>"
+      "last_price": 503.81,
+      "news": "<a href=\"https://247wallst.com/investing/2026/08/10/48-of-google-cloud-revenue-next-year-could-come-from-just-2-companies-that-have-still-never-turned-a-profit/\" target=\"_blank\">48% of Google Cloud Revenue Next Year Could Come From Just 2 Companies That Have Still Never Turned a Profit</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 217.55,
-      "news": "<a href=\"https://www.barchart.com/story/news/3643532/jpmorgan-chase-ceo-jamie-dimon-says-ai-will-cure-cancers-but-how-should-you-invest\" target=\"_blank\">JPMorgan Chase CEO Jamie Dimon Says AI 'Will Cure Cancers' \u2014 But How Should You Invest?</a>"
+      "last_price": 217.5,
+      "news": "<a href=\"https://www.activistpost.com/theyre-poisoning-the-seed-how-a-single-strait-7000-miles-away-is-about-to-starve-2-billion-people-and-why-your-government-already-knows/\" target=\"_blank\">THEY\u2019RE POISONING THE SEED: How a Single Strait 7,000 Miles Away Is About to Starve 2 Billion People\u2014And Why Your Government Already Knows</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 175.23,
+      "last_price": 174.94,
       "news": "<a href=\"https://beincrypto.com/bofa-jpmorgan-oppenheimer-favorite-ai-stocks-targets/\" target=\"_blank\">BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 225.16,
+      "last_price": 221.9,
       "news": "<a href=\"https://www.marketbeat.com/articles/cybersecurity-stocks-are-holding-up-as-the-ai-trade-starts-to-crack/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cybersecurity Stocks Are Holding Up as the AI Trade Starts to Crack</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 64.36,
+      "last_price": 62.9,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 522.12,
-      "news": "<a href=\"https://www.barchart.com/story/news/3745506/inflation-date-earnings-momentum-and-other-key-things-to-watch-this-week\" target=\"_blank\">Inflation Date, Earnings Momentum and Other Key Things to Watch this Week</a>"
+      "last_price": 525.61,
+      "news": "<a href=\"https://www.barchart.com/story/news/3751723/stocks-set-to-extend-gains-on-tech-strength-u-s-inflation-data-awaited\" target=\"_blank\">Stocks Set for Muted Open as Oil Rises on Hormuz Uncertainty, U.S. Inflation Data Awaited</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 334.7,
-      "news": "<a href=\"https://www.dealnews.com/REI-Co-op-Big-Haul-28-L-Duffel-for-50-free-shipping/21993958.html\" target=\"_blank\">REI Co-op Big Haul 28L Duffel for $50 + free shipping</a>"
+      "last_price": 334.14,
+      "news": "<a href=\"http://www.hollywoodreporter.com/movies/movie-features/x-files-i-want-to-believe-chris-carter-interview-1236668936/\" target=\"_blank\">X Files Creator Chris Carter on Movie Recut, Aliens and Ryan Coogler</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.86,
+      "last_price": 9.01,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.68,
+      "last_price": 3.81,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 83.46,
+      "last_price": 84.0,
       "news": "<a href=\"https://www.irishtimes.com/business/work/2026/07/27/why-workers-are-nostalgic-for-life-before-ai/\" target=\"_blank\">Why workers are nostalgic for life before artificial intelligence</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 529.39,
+      "last_price": 534.2,
       "news": "<a href=\"https://cryptobriefing.com/michael-burry-exits-microsoft-oracle-portfolio/\" target=\"_blank\">Michael Burry discloses major portfolio changes, exits Microsoft and Oracle</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 169.49,
+      "last_price": 169.02,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.08,
+      "last_price": 18.2,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-10T16:00:00+00:00",
-  "data_date": "2026-08-10",
+  "last_updated": "2026-08-11T16:00:00+00:00",
+  "data_date": "2026-08-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
