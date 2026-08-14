@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "112.42%",
-      "CAGR": "28.55%",
+      "Total Return": "113.54%",
+      "CAGR": "28.77%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.74"
+      "Sharpe Ratio": "0.75"
     },
     "QQQ": {
-      "Total Return": "85.20%",
-      "CAGR": "22.81%",
+      "Total Return": "87.35%",
+      "CAGR": "23.28%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.86%",
-      "CAGR": "19.78%",
+      "Total Return": "73.06%",
+      "CAGR": "20.06%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 451.39,
+      "last_price": 445.51,
       "news": "<a href=\"https://www.nature.com/articles/s41586-026-10888-8\" target=\"_blank\">Cascading continental-scale floods across Europe in 1342\u20131343</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 163.8,
-      "news": "<a href=\"https://www.forbes.com/sites/robertglatter/2026/08/11/the-bitter-lessons-of-the-emr-nowthe-ai-experiment-follows/\" target=\"_blank\">The Bitter Lessons Of The EMR: Now The AI Experiment Follows</a>"
+      "last_price": 164.21,
+      "news": "<a href=\"https://home.qapiplus.com/blog/webinar-recording-what-home-health-agencies-should-actually-be-asking-ai-vendors\" target=\"_blank\">Webinar Recording:\u00a0What Home Health Agencies Should Actually Be Asking AI Vendors</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 235.34,
-      "news": "<a href=\"https://punchng.com/2027-polls-abiodun-urges-ogun-monarchs-to-promote-peace/\" target=\"_blank\">2027 polls: Abiodun urges Ogun monarchs to promote peace</a>"
+      "last_price": 233.99,
+      "news": "<a href=\"https://punchng.com/nigeria-must-fix-policing-and-get-it-right/\" target=\"_blank\">Nigeria must fix policing and get it right</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 492.43,
+      "last_price": 496.88,
       "news": "<a href=\"https://www.barchart.com/story/news/3782464/why-oklo-s-first-ever-revenue-is-not-enough-to-stop-oklo-stock-s-decline\" target=\"_blank\">Why Oklo's First-Ever Revenue Is Not Enough to Stop OKLO Stock's Decline</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 224.09,
+      "last_price": 225.3,
       "news": "<a href=\"https://www.barchart.com/story/news/3782464/why-oklo-s-first-ever-revenue-is-not-enough-to-stop-oklo-stock-s-decline\" target=\"_blank\">Why Oklo's First-Ever Revenue Is Not Enough to Stop OKLO Stock's Decline</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 171.04,
+      "last_price": 179.01,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 221.78,
+      "last_price": 225.53,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 60.67,
+      "last_price": 61.59,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 548.15,
+      "last_price": 534.54,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 332.26,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-do-foxes-survive-in-the-winter/\" target=\"_blank\">How do foxes survive in the winter?</a>"
+      "last_price": 337.38,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-is-the-most-valuable-animal-fur/\" target=\"_blank\">What is the most valuable animal fur?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.84,
+      "last_price": 8.97,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.63,
+      "last_price": 3.62,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 84.76,
+      "last_price": 85.01,
       "news": "<a href=\"https://www.irishtimes.com/business/work/2026/07/27/why-workers-are-nostalgic-for-life-before-ai/\" target=\"_blank\">Why workers are nostalgic for life before artificial intelligence</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 546.61,
+      "last_price": 550.74,
       "news": "<a href=\"https://cryptobriefing.com/michael-burry-exits-microsoft-oracle-portfolio/\" target=\"_blank\">Michael Burry discloses major portfolio changes, exits Microsoft and Oracle</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 169.41,
+      "last_price": 170.48,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.41,
+      "last_price": 18.36,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-12T16:00:00+00:00",
-  "data_date": "2026-08-12",
+  "last_updated": "2026-08-13T16:00:00+00:00",
+  "data_date": "2026-08-13",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
