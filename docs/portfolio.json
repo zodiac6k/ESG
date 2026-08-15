@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "113.54%",
-      "CAGR": "28.77%",
+      "Total Return": "120.28%",
+      "CAGR": "30.11%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.75"
+      "Sharpe Ratio": "0.77"
     },
     "QQQ": {
-      "Total Return": "87.35%",
-      "CAGR": "23.28%",
+      "Total Return": "87.09%",
+      "CAGR": "23.22%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "73.06%",
-      "CAGR": "20.06%",
+      "Total Return": "72.72%",
+      "CAGR": "19.98%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 445.51,
-      "news": "<a href=\"https://www.nature.com/articles/s41586-026-10888-8\" target=\"_blank\">Cascading continental-scale floods across Europe in 1342\u20131343</a>"
+      "last_price": 449.37,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/automation-fair-2026-opens-registration-for-industrys-premier-industrial-operations-event-302848935.html\" target=\"_blank\">Automation Fair 2026 Opens Registration for Industry's Premier Industrial Operations Event</a>"
     },
     {
       "ticker": "EMR",
@@ -51,17 +51,17 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 164.21,
+      "last_price": 163.17,
       "news": "<a href=\"https://home.qapiplus.com/blog/webinar-recording-what-home-health-agencies-should-actually-be-asking-ai-vendors\" target=\"_blank\">Webinar Recording:\u00a0What Home Health Agencies Should Actually Be Asking AI Vendors</a>"
     },
     {
       "ticker": "HON",
-      "name": "HON",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 233.99,
-      "news": "<a href=\"https://punchng.com/nigeria-must-fix-policing-and-get-it-right/\" target=\"_blank\">Nigeria must fix policing and get it right</a>"
+      "last_price": 233.96,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/lalong-mourns-former-plateau-assembly-speaker-peter-azi/\" target=\"_blank\">Lalong mourns former Plateau Assembly Speaker, Peter Azi</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 496.88,
-      "news": "<a href=\"https://www.barchart.com/story/news/3782464/why-oklo-s-first-ever-revenue-is-not-enough-to-stop-oklo-stock-s-decline\" target=\"_blank\">Why Oklo's First-Ever Revenue Is Not Enough to Stop OKLO Stock's Decline</a>"
+      "last_price": 495.4,
+      "news": "<a href=\"https://whenwillaitakemyjob.ai\" target=\"_blank\">When Will AI Take My Job?</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 225.3,
-      "news": "<a href=\"https://www.barchart.com/story/news/3782464/why-oklo-s-first-ever-revenue-is-not-enough-to-stop-oklo-stock-s-decline\" target=\"_blank\">Why Oklo's First-Ever Revenue Is Not Enough to Stop OKLO Stock's Decline</a>"
+      "last_price": 225.16,
+      "news": "<a href=\"https://www.c-sharpcorner.com/article/complementing-behavioral-models-in-capital-markets-execution-settlement-with-l/\" target=\"_blank\">Complementing Behavioral Models in Capital Markets Execution & Settlement with LangGraph</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 179.01,
+      "last_price": 174.04,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 225.53,
+      "last_price": 216.95,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 61.59,
+      "last_price": 65.63,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 534.54,
+      "last_price": 507.18,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 337.38,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-is-the-most-valuable-animal-fur/\" target=\"_blank\">What is the most valuable animal fur?</a>"
+      "last_price": 328.92,
+      "news": "<a href=\"https://www.regionalmedianews.com/news/national/health/the-warming-climate-is-forcing-marathons-to-consider-changes-to-keep-runners-cool/\" target=\"_blank\">The warming climate is forcing marathons to consider changes to keep runners cool</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.97,
+      "last_price": 9.0,
       "news": "No news available"
     },
     {
@@ -141,17 +141,17 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.62,
+      "last_price": 3.71,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
       "ticker": "ROBO",
-      "name": "Robo Global Robotics and Automation Index ETF",
+      "name": "Robo-Stox Global Robotics and Automation Index ETF",
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 85.01,
-      "news": "<a href=\"https://www.irishtimes.com/business/work/2026/07/27/why-workers-are-nostalgic-for-life-before-ai/\" target=\"_blank\">Why workers are nostalgic for life before artificial intelligence</a>"
+      "last_price": 84.83,
+      "news": "<a href=\"https://blogs.cisco.com/our-corporate-purpose/how-autonoma-and-cisco-are-reimagining-air-travel\" target=\"_blank\">How Autonoma and Cisco are reimagining air travel</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 550.74,
+      "last_price": 550.42,
       "news": "<a href=\"https://cryptobriefing.com/michael-burry-exits-microsoft-oracle-portfolio/\" target=\"_blank\">Michael Burry discloses major portfolio changes, exits Microsoft and Oracle</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 170.48,
+      "last_price": 170.06,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.36,
+      "last_price": 18.21,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-13T16:00:00+00:00",
-  "data_date": "2026-08-13",
+  "last_updated": "2026-08-14T16:00:00+00:00",
+  "data_date": "2026-08-14",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
