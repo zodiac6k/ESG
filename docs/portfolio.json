@@ -19,8 +19,8 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "120.28%",
-      "CAGR": "30.11%",
+      "Total Return": "120.34%",
+      "CAGR": "30.13%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.77"
     },
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 233.96,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/08/lalong-mourns-former-plateau-assembly-speaker-peter-azi/\" target=\"_blank\">Lalong mourns former Plateau Assembly Speaker, Peter Azi</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/gombe-govt-rejects-n133bn-n138bn-water-spending-claim/\" target=\"_blank\">Gombe Govt rejects N133bn\u2013N138bn water spending claim</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 328.92,
-      "news": "<a href=\"https://www.regionalmedianews.com/news/national/health/the-warming-climate-is-forcing-marathons-to-consider-changes-to-keep-runners-cool/\" target=\"_blank\">The warming climate is forcing marathons to consider changes to keep runners cool</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/is-there-anything-that-repels-deer/\" target=\"_blank\">Is there anything that repels deer?</a>"
     },
     {
       "ticker": "SSYS",
@@ -160,7 +160,7 @@
       "quantity": 113.92,
       "initial_price": 97.53,
       "last_price": 550.42,
-      "news": "<a href=\"https://cryptobriefing.com/michael-burry-exits-microsoft-oracle-portfolio/\" target=\"_blank\">Michael Burry discloses major portfolio changes, exits Microsoft and Oracle</a>"
+      "news": "<a href=\"https://cryptobriefing.com/semiconductor-stocks-best-august-20-years/\" target=\"_blank\">Semiconductor stocks poised for best August in over 20 years</a>"
     },
     {
       "ticker": "ESGU",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-14T16:00:00+00:00",
-  "data_date": "2026-08-14",
+  "last_updated": "2026-08-15T16:00:00+00:00",
+  "data_date": "2026-08-15",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
