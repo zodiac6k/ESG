@@ -19,8 +19,8 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "120.34%",
-      "CAGR": "30.13%",
+      "Total Return": "120.42%",
+      "CAGR": "30.14%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.77"
     },
@@ -56,7 +56,7 @@
     },
     {
       "ticker": "HON",
-      "name": "Honeywell International Inc.",
+      "name": "HON",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 225.16,
-      "news": "<a href=\"https://www.c-sharpcorner.com/article/complementing-behavioral-models-in-capital-markets-execution-settlement-with-l/\" target=\"_blank\">Complementing Behavioral Models in Capital Markets Execution & Settlement with LangGraph</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/3867712/nvda-stock-alert-nvidia-ceo-jensen-huang-says-chips-are-investable-asset-class\" target=\"_blank\">NVDA Stock Alert: Nvidia CEO Jensen Huang Says Chips Are \u2018Investable Asset Class\u2019</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 328.92,
-      "news": "<a href=\"https://www.lifesciencesworld.com/is-there-anything-that-repels-deer/\" target=\"_blank\">Is there anything that repels deer?</a>"
+      "news": "<a href=\"https://www.abc.net.au/news/2026-08-16/warming-climate-forcing-marathon-changes-to-keep-runners-cool/107037266\" target=\"_blank\">Warming climate forcing marathon changes to keep runners cool</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-15T16:00:00+00:00",
-  "data_date": "2026-08-15",
+  "last_updated": "2026-08-16T16:00:00+00:00",
+  "data_date": "2026-08-16",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
