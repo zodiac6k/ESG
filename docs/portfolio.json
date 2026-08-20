@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "107.10%",
-      "CAGR": "27.47%",
+      "Total Return": "112.76%",
+      "CAGR": "28.62%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.72"
+      "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "83.62%",
-      "CAGR": "22.45%",
+      "Total Return": "83.25%",
+      "CAGR": "22.37%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "70.74%",
-      "CAGR": "19.52%",
+      "Total Return": "71.10%",
+      "CAGR": "19.60%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 433.67,
+      "last_price": 433.27,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/automation-fair-2026-opens-registration-for-industrys-premier-industrial-operations-event-302848935.html\" target=\"_blank\">Automation Fair 2026 Opens Registration for Industry's Premier Industrial Operations Event</a>"
     },
     {
@@ -51,17 +51,17 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 157.78,
-      "news": "<a href=\"https://home.qapiplus.com/blog/webinar-recording-what-home-health-agencies-should-actually-be-asking-ai-vendors\" target=\"_blank\">Webinar Recording:\u00a0What Home Health Agencies Should Actually Be Asking AI Vendors</a>"
+      "last_price": 157.6,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/fresher-insights-faster-decisions-talabats-near-real-time-analytics-across-aws-and-google-cloud/\" target=\"_blank\">Fresher insights, faster decisions: talabat\u2019s near-real-time analytics across AWS and Google Cloud</a>"
     },
     {
       "ticker": "HON",
-      "name": "HON",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 227.71,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/08/osun-poll-oonis-aide-urges-tinubu-to-ensure-free-fair-2027-elections/\" target=\"_blank\">Osun Poll: Ooni\u2019s aide urges Tinubu to ensure free, fair 2027 elections</a>"
+      "last_price": 221.73,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/gov-bala-mohammed-swears-in-20-bauchi-lg-chairmen/\" target=\"_blank\">Gov Bala Mohammed swears in 20 Bauchi LG chairmen</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 481.63,
+      "last_price": 484.31,
       "news": "<a href=\"https://whenwillaitakemyjob.ai\" target=\"_blank\">When Will AI Take My Job?</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 219.74,
+      "last_price": 217.56,
       "news": "<a href=\"https://www.barchart.com/story/news/3867712/nvda-stock-alert-nvidia-ceo-jensen-huang-says-chips-are-investable-asset-class\" target=\"_blank\">NVDA Stock Alert: Nvidia CEO Jensen Huang Says Chips Are \u2018Investable Asset Class\u2019</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 171.54,
+      "last_price": 175.19,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 212.92,
-      "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
+      "last_price": 201.63,
+      "news": "<a href=\"https://247wallst.com/investing/2026/08/18/this-politician-on-the-house-intelligence-committees-cyber-panel-just-bought-three-cybersecurity-stocks/\" target=\"_blank\">This Politician on the House Intelligence Committee\u2019s Cyber Panel Just Bought Three Cybersecurity Stocks</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 63.41,
+      "last_price": 60.64,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 514.33,
+      "last_price": 496.17,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 325.33,
-      "news": "<a href=\"https://freerepublic.com/focus/f-chat/4392118/posts\" target=\"_blank\">Number of collisions with bison on N.W.T. roads declines\n(Bison may be drawn to recovering wildfire areas, instead of roadside vegetation, says ecologist)</a>"
+      "last_price": 325.01,
+      "news": "<a href=\"http://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/\" target=\"_blank\">The 90-year history of the binoculars bolted to scenic overlooks</a>"
     },
     {
       "ticker": "SSYS",
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.44,
+      "last_price": 3.41,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 81.82,
+      "last_price": 81.72,
       "news": "<a href=\"https://blogs.cisco.com/our-corporate-purpose/how-autonoma-and-cisco-are-reimagining-air-travel\" target=\"_blank\">How Autonoma and Cisco are reimagining air travel</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 531.39,
+      "last_price": 519.67,
       "news": "<a href=\"https://cryptobriefing.com/semiconductor-stocks-best-august-20-years/\" target=\"_blank\">Semiconductor stocks poised for best August in over 20 years</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 168.13,
+      "last_price": 168.4,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.74,
+      "last_price": 17.83,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-18T16:00:00+00:00",
-  "data_date": "2026-08-18",
+  "last_updated": "2026-08-19T16:00:00+00:00",
+  "data_date": "2026-08-19",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
