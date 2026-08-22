@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "102.68%",
-      "CAGR": "26.55%",
+      "Total Return": "112.52%",
+      "CAGR": "28.57%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.70"
+      "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "81.94%",
-      "CAGR": "22.08%",
+      "Total Return": "82.58%",
+      "CAGR": "22.22%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "69.66%",
-      "CAGR": "19.27%",
+      "Total Return": "70.35%",
+      "CAGR": "19.43%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 431.45,
+      "last_price": 437.08,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/automation-fair-2026-opens-registration-for-industrys-premier-industrial-operations-event-302848935.html\" target=\"_blank\">Automation Fair 2026 Opens Registration for Industry's Premier Industrial Operations Event</a>"
     },
     {
@@ -51,17 +51,17 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 154.72,
+      "last_price": 157.26,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/fresher-insights-faster-decisions-talabats-near-real-time-analytics-across-aws-and-google-cloud/\" target=\"_blank\">Fresher insights, faster decisions: talabat\u2019s near-real-time analytics across AWS and Google Cloud</a>"
     },
     {
       "ticker": "HON",
-      "name": "HON",
+      "name": "Honeywell International Inc.",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 218.32,
-      "news": "<a href=\"https://en.antaranews.com/news/427727/dayone-launches-singapores-first-biological-data-center-prototype-with-cortical-labs-and-nus-medicine\" target=\"_blank\">DayOne Launches Singapore's First Biological Data Center Prototype with Cortical Labs and NUS Medicine</a>"
+      "last_price": 215.9,
+      "news": "<a href=\"https://www.itnews.com.au/feature/minister-to-launch-smart-device-security-labelling-pilot-at-connecting-technology-summit-628269\" target=\"_blank\">Minister to launch smart device security labelling pilot at Connecting Technology Summit</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 481.15,
+      "last_price": 483.24,
       "news": "<a href=\"https://whenwillaitakemyjob.ai\" target=\"_blank\">When Will AI Take My Job?</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 216.85,
+      "last_price": 214.72,
       "news": "<a href=\"https://www.marketwatch.com/story/heres-a-ridiculously-cheap-way-to-protect-yourself-against-a-stock-market-selloff-67d3b312\" target=\"_blank\">Here\u2019s a \u2018ridiculously cheap\u2019 way to protect yourself against a stock-market selloff</a>"
     },
     {
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 173.96,
-      "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
+      "last_price": 179.94,
+      "news": "<a href=\"https://www.barchart.com/story/news/3946718/sandisks-long-term-financial-outlook-is-turning-heads-on-wall-street\" target=\"_blank\">SanDisk\u2019s Long-Term Financial Outlook Is Turning Heads on Wall Street</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 190.34,
+      "last_price": 191.95,
       "news": "<a href=\"https://247wallst.com/investing/2026/08/18/this-politician-on-the-house-intelligence-committees-cyber-panel-just-bought-three-cybersecurity-stocks/\" target=\"_blank\">This Politician on the House Intelligence Committee\u2019s Cyber Panel Just Bought Three Cybersecurity Stocks</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 59.73,
+      "last_price": 60.54,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 496.21,
+      "last_price": 492.32,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 321.29,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-eagles-have-sensitive-hearing/\" target=\"_blank\">Do eagles have sensitive hearing?</a>"
+      "last_price": 332.78,
+      "news": "<a href=\"https://www.cbc.ca/news/canada/edmonton/edmonton-revisiting-calcium-chloride-snow-clearing-9.7314948\" target=\"_blank\">Edmonton to revisit using calcium chloride for snow clearing</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.86,
+      "last_price": 7.9,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.16,
+      "last_price": 3.19,
       "news": "<a href=\"https://github.com/jeffreytse/grimoire\" target=\"_blank\">Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 80.94,
+      "last_price": 81.17,
       "news": "<a href=\"https://blogs.cisco.com/our-corporate-purpose/how-autonoma-and-cisco-are-reimagining-air-travel\" target=\"_blank\">How Autonoma and Cisco are reimagining air travel</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 522.35,
+      "last_price": 520.05,
       "news": "<a href=\"https://cryptobriefing.com/semiconductor-stocks-best-august-20-years/\" target=\"_blank\">Semiconductor stocks poised for best August in over 20 years</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 166.99,
+      "last_price": 167.74,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.63,
+      "last_price": 17.59,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-20T16:00:00+00:00",
-  "data_date": "2026-08-20",
+  "last_updated": "2026-08-21T16:00:00+00:00",
+  "data_date": "2026-08-21",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
