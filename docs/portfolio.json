@@ -56,12 +56,12 @@
     },
     {
       "ticker": "HON",
-      "name": "Honeywell International Inc.",
+      "name": "HON",
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 215.9,
-      "news": "<a href=\"https://punchng.com/yewa-awori-healing-oguns-50-year-political-wound-in-2027/\" target=\"_blank\">Yewa/Awori: Healing Ogun\u2019s 50-year political wound in 2027</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/08/olu-of-warri-at-5-atuwatse-iii-calls-for-national-unity-cultural-renewal/\" target=\"_blank\">Olu of Warri at 5: Atuwatse III calls for national unity, cultural renewal</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 483.24,
-      "news": "<a href=\"https://whenwillaitakemyjob.ai\" target=\"_blank\">When Will AI Take My Job?</a>"
+      "news": "<a href=\"https://www.barchart.com/story/news/3985868/nvidia-might-deliver-another-beat-and-raise-quarter-but-its-financing-deals-could-be-the-bigger-driver-of-nvda-stock\" target=\"_blank\">Nvidia Might Deliver Another \u2018Beat and Raise\u2019 Quarter, But Its Financing Deals Could Be the Bigger Driver of NVDA Stock</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 214.72,
-      "news": "<a href=\"https://www.investopedia.com/nvidia-reports-earnings-on-wednesday-here-is-how-much-the-stock-is-expected-to-move-nvda-q2-fy2027-12062509\" target=\"_blank\">Nvidia Reports Earnings Wednesday. Here\u2019s How Much the Stock Is Expected to Move</a>"
+      "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html\" target=\"_blank\">Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 332.78,
-      "news": "No news available"
+      "news": "<a href=\"https://www.lifesciencesworld.com/are-deer-more-active-in-cold-or-hot-weather/\" target=\"_blank\">Are deer more active in cold or hot weather?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-22T16:00:00+00:00",
-  "data_date": "2026-08-22",
+  "last_updated": "2026-08-23T16:00:00+00:00",
+  "data_date": "2026-08-23",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
