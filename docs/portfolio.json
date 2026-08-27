@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "109.41%",
-      "CAGR": "27.94%",
+      "Total Return": "112.05%",
+      "CAGR": "28.47%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.73"
+      "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "80.76%",
-      "CAGR": "21.81%",
+      "Total Return": "82.05%",
+      "CAGR": "22.10%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "69.85%",
-      "CAGR": "19.31%",
+      "Total Return": "70.43%",
+      "CAGR": "19.45%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 429.69,
+      "last_price": 431.75,
       "news": "<a href=\"https://biztoc.com/x/c7334565510c12d1\" target=\"_blank\">Do Wall Street Analysts Like Rockwell Automation Stock?</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 157.57,
-      "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/\" target=\"_blank\">Accelerating aircraft IFEC diagnostics with agentic AI on AWS</a>"
+      "last_price": 158.29,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/introducing-aws-glue-6-0-for-apache-spark/\" target=\"_blank\">Introducing AWS Glue 6.0 for faster and more cost-effective data integration</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 214.77,
-      "news": "<a href=\"https://financialpost.com/globe-newswire/appointment-of-non-executive-directors\" target=\"_blank\">Appointment of Non-Executive Directors</a>"
+      "last_price": 220.67,
+      "news": "<a href=\"https://punchng.com/alaafin-unveils-37-member-oyo-empire-day-celebration-committee/\" target=\"_blank\">Alaafin unveils 37-member Oyo Empire Day celebration committee</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 487.31,
-      "news": "<a href=\"https://www.barchart.com/story/news/3985868/nvidia-might-deliver-another-beat-and-raise-quarter-but-its-financing-deals-could-be-the-bigger-driver-of-nvda-stock\" target=\"_blank\">Nvidia Might Deliver Another \u2018Beat and Raise\u2019 Quarter, But Its Financing Deals Could Be the Bigger Driver of NVDA Stock</a>"
+      "last_price": 496.37,
+      "news": "<a href=\"https://www.insidertrades.com/education/snowflake-could-be-headed-for-new-highs-despite-insider-selling/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Snowflake Could Be Headed for New Highs Despite Insider Selling</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 208.48,
-      "news": "<a href=\"https://www.barchart.com/story/news/3993117/nvidia-earnings-jackson-hole-and-other-key-things-to-watch-this-week\" target=\"_blank\">Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week</a>"
+      "last_price": 209.66,
+      "news": "<a href=\"https://cryptobriefing.com/nvidia-phantom-traders-long-earnings/\" target=\"_blank\">Nvidia traders show 88.7% long positions ahead of earnings on Phantom</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 175.89,
+      "last_price": 177.5,
       "news": "<a href=\"https://www.barchart.com/story/news/3946718/sandisks-long-term-financial-outlook-is-turning-heads-on-wall-street\" target=\"_blank\">SanDisk\u2019s Long-Term Financial Outlook Is Turning Heads on Wall Street</a>"
     },
     {
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 190.68,
-      "news": "<a href=\"https://www.barchart.com/story/news/3993117/nvidia-earnings-jackson-hole-and-other-key-things-to-watch-this-week\" target=\"_blank\">Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week</a>"
+      "last_price": 189.18,
+      "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08242026-12066087\" target=\"_blank\">Markets News, Aug. 24, 2026: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 58.54,
+      "last_price": 61.72,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 484.19,
+      "last_price": 479.76,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 322.78,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-deer-move-in-middle-of-day/\" target=\"_blank\">Do deer move in middle of day?</a>"
+      "last_price": 315.37,
+      "news": "<a href=\"https://www.lifesciencesworld.com/do-bears-get-thirsty/\" target=\"_blank\">Do bears get thirsty?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.65,
+      "last_price": 7.92,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.12,
-      "news": "No news available"
+      "last_price": 3.3,
+      "news": "<a href=\"https://timesofindia.indiatimes.com/science/californias-clear-lake-gave-america-an-early-warning-about-pesticides-ddd-was-barely-detectable-in-water-but-built-up-thousands-of-times-higher-in-fish-eating-grebes/articleshow/133238017.cms\" target=\"_blank\">In 1949, officials sprayed a california lake with ddd, water tests looked safe, but the chemical reached 1,600 ppm in grebe fat</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 79.97,
-      "news": "<a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356766\" target=\"_blank\">Supplementing Korean artificial intelligence ethical principles: A five-year update</a>"
+      "last_price": 81.18,
+      "news": "<a href=\"https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003951\" target=\"_blank\">Recognition of pathogenic bacteria by intestinal stem cells promotes adult Drosophila midgut regeneration</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 506.18,
+      "last_price": 515.4,
       "news": "<a href=\"https://cryptobriefing.com/semiconductor-stocks-best-august-20-years/\" target=\"_blank\">Semiconductor stocks poised for best August in over 20 years</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 167.26,
+      "last_price": 167.94,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.43,
+      "last_price": 17.68,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-08-24T16:00:00+00:00",
-  "data_date": "2026-08-24",
+  "last_updated": "2026-08-26T16:00:00+00:00",
+  "data_date": "2026-08-26",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
