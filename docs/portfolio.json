@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 217.55,
-      "news": "<a href=\"https://www.marketbeat.com/articles/nutanixs-rally-has-a-bigger-story-than-earnings-as-amds-ai-bet-takes-shape/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Nutanix\u2019s Rally Has a Bigger Story Than Earnings as AMD\u2019s AI Bet Takes Shape</a>"
+      "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/okta-just-jumped-29-ai-025115755.html\" target=\"_blank\">Okta Just Jumped 29%. AI Agents May Be Creating a New Bottleneck</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 328.0,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-deer-move-in-the-wind-before-a-cold-front/\" target=\"_blank\">Do deer move in the wind before a cold front?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-state-has-the-best-crab-legs/\" target=\"_blank\">What state has the best crab legs?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-08-29T16:00:00+00:00",
-  "data_date": "2026-08-29",
+  "last_updated": "2026-08-30T16:00:00+00:00",
+  "data_date": "2026-08-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
