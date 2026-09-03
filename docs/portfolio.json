@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "109.55%",
-      "CAGR": "27.97%",
+      "Total Return": "113.05%",
+      "CAGR": "28.67%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.72"
+      "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "81.09%",
-      "CAGR": "21.89%",
+      "Total Return": "81.50%",
+      "CAGR": "21.98%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "69.48%",
-      "CAGR": "19.23%",
+      "Total Return": "70.23%",
+      "CAGR": "19.40%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 417.53,
+      "last_price": 425.36,
       "news": "<a href=\"https://cryptobriefing.com/south-korea-reshuffles-cabinet-appoints-new-finance-and-defense-ministers/\" target=\"_blank\">South Korea reshuffles Cabinet, appoints new finance and defense ministers</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 147.63,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/deliver-real-time-data-to-streaming-tables-for-apache-iceberg-with-amazon-kinesis-data-streams/\" target=\"_blank\">Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams</a>"
+      "last_price": 148.98,
+      "news": "<a href=\"https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion\" target=\"_blank\">BT's Old Copper Landline Network Could Be Worth Over $2 Billion</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 209.98,
-      "news": "<a href=\"https://www.motherjones.com/politics/2026/08/trump-zeldin-epa-rollback-rules-toxic-chemical-plant-pollution-emissions-cancer-alley/\" target=\"_blank\">Trump Is Unraveling a Hard-Won Rule to Reduce Toxic Pollution From Chemical Plants</a>"
+      "last_price": 206.07,
+      "news": "<a href=\"https://www.antiwar.com/blog/2026/09/01/appeal-to-pope-leo-xiv-to-organize-a-global-leaders-summit-to-address-the-questions-of-peace-and-nuclear-disarmament/\" target=\"_blank\">Appeal to Pope Leo XIV: To Organize a Global Leaders Summit to Address the Questions of Peace and Nuclear Disarmament</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 501.02,
+      "last_price": 496.82,
       "news": "<a href=\"https://www.marketbeat.com/articles/insider-confidence-is-building-in-these-3-very-different-stocks/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Insider Confidence Is Building in These 3 Very Different Stocks</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 217.44,
-      "news": "<a href=\"https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e\" target=\"_blank\">America is asking the wrong question about its $40 trillion in debt, this MIT expert warns</a>"
+      "last_price": 224.41,
+      "news": "<a href=\"https://kitploit.com/en/posts/github-ginlix-ai-langalpha-v20260901\" target=\"_blank\">LangAlpha v2026.09.01</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 179.92,
+      "last_price": 169.46,
       "news": "<a href=\"https://www.barchart.com/story/news/3946718/sandisks-long-term-financial-outlook-is-turning-heads-on-wall-street\" target=\"_blank\">SanDisk\u2019s Long-Term Financial Outlook Is Turning Heads on Wall Street</a>"
     },
     {
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 215.07,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/cognizant-and-crowdstrike-protect-critical-operations-across-converged-it-and-ot-environments-302863250.html\" target=\"_blank\">Cognizant and CrowdStrike Protect Critical Operations Across Converged IT and OT Environments</a>"
+      "last_price": 203.42,
+      "news": "<a href=\"https://apnews.com/press-release/business-wire/press-release-5c54285af61d471ea06156a0da1da68b\" target=\"_blank\">CrowdStrike Extends Falcon Platform Capabilities Across Google Cloud\u2019s Enterprise AI Ecosystem</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 60.08,
+      "last_price": 59.94,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 441.85,
+      "last_price": 438.46,
       "news": "<a href=\"https://www.barchart.com/story/news/3763562/stocks-finish-lower-as-soaring-crude-prices-spur-inflation-fears\" target=\"_blank\">Stocks Finish Lower as Soaring Crude Prices Spur Inflation Fears</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 319.8,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-coyotes-hunt-at-dawn/\" target=\"_blank\">Do coyotes hunt at dawn?</a>"
+      "last_price": 305.84,
+      "news": "<a href=\"https://english.khabarhub.com/2026/02/566078/\" target=\"_blank\">Can Nepal become world\u2019s meeting place for Himalayan science?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.59,
+      "last_price": 7.57,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.29,
+      "last_price": 3.38,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005205\" target=\"_blank\">Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 78.87,
+      "last_price": 78.86,
       "news": "<a href=\"https://m.economictimes.com/wealth/earn/ai-tokens-and-a-massive-wealth-transfer-what-the-ultra-rich-are-doing-in-2026-that-the-middle-class-cant/global-wealth-just-hit-305-trillion-so-why-are-banks-still-behind/slideshow/133630421.cms\" target=\"_blank\">AI, tokens and a massive wealth transfer: What the ultra-rich are doing in 2026 that the middle class can\u2019t</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 500.31,
+      "last_price": 501.44,
       "news": "<a href=\"https://cryptobriefing.com/semiconductor-stocks-best-august-20-years/\" target=\"_blank\">Semiconductor stocks poised for best August in over 20 years</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 166.95,
+      "last_price": 167.54,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.24,
+      "last_price": 17.37,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-01T16:00:00+00:00",
-  "data_date": "2026-09-01",
+  "last_updated": "2026-09-02T16:00:00+00:00",
+  "data_date": "2026-09-02",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
