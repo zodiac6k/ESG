@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "113.33%",
-      "CAGR": "28.73%",
+      "Total Return": "114.82%",
+      "CAGR": "29.03%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "83.66%",
-      "CAGR": "22.46%",
+      "Total Return": "83.99%",
+      "CAGR": "22.54%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "72.01%",
-      "CAGR": "19.82%",
+      "Total Return": "71.35%",
+      "CAGR": "19.66%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 428.28,
+      "last_price": 433.81,
       "news": "<a href=\"https://cryptobriefing.com/south-korea-reshuffles-cabinet-appoints-new-finance-and-defense-ministers/\" target=\"_blank\">South Korea reshuffles Cabinet, appoints new finance and defense ministers</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 150.21,
+      "last_price": 152.82,
       "news": "<a href=\"https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion\" target=\"_blank\">BT's Old Copper Landline Network Could Be Worth Over $2 Billion</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 207.63,
-      "news": "<a href=\"https://punchng.com/oyo-threatens-closure-of-homes-business-premises-over-poor-waste-disposal/\" target=\"_blank\">Oyo threatens closure of homes, business premises over poor waste disposal</a>"
+      "last_price": 209.61,
+      "news": "<a href=\"https://punchng.com/cross-river-raises-2026-budget-cites-changing-economic-realities/\" target=\"_blank\">Cross River raises 2026 budget, cites changing economic realities</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 510.12,
+      "last_price": 499.7,
       "news": "<a href=\"https://www.barchart.com/story/news/4387150/nvidia-could-soon-trail-only-amazon-in-tech-revenue-why-i-favor-nvda-stock-here\" target=\"_blank\">Nvidia Could Soon Trail Only Amazon in Tech Revenue. Why I Favor NVDA Stock Here.</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 228.45,
-      "news": "<a href=\"https://www.barchart.com/story/news/4387150/nvidia-could-soon-trail-only-amazon-in-tech-revenue-why-i-favor-nvda-stock-here\" target=\"_blank\">Nvidia Could Soon Trail Only Amazon in Tech Revenue. Why I Favor NVDA Stock Here.</a>"
+      "last_price": 230.36,
+      "news": "<a href=\"https://cryptobriefing.com/robinhood-chain-uniswap-v4-hooks-tokenized-stocks/\" target=\"_blank\">Robinhood Chain becomes a playground for Uniswap v4 hook strategies targeting tokenized stocks</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 182.53,
+      "last_price": 174.33,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/ai-models-become-commoditized-palantir-220151115.html\" target=\"_blank\">As AI Models Become Commoditized, Palantir Is Betting Its Ontology Is the New Moat</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 214.97,
+      "last_price": 213.1,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/governments-just-put-a-deadline-on-encryption-and-a-quiet-corner-of-cybersecurity-is-suddenly-on-the-clock-302867706.html\" target=\"_blank\">Governments Just Put a Deadline on Encryption, and a Quiet Corner of Cybersecurity Is Suddenly on the Clock.</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 60.79,
+      "last_price": 62.25,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 435.91,
+      "last_price": 454.71,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 356.47,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-many-deer-fawns-survive/\" target=\"_blank\">How many deer fawns survive?</a>"
+      "last_price": 337.18,
+      "news": "<a href=\"https://www.business-standard.com/india-news/beyond-the-flood-what-nepal-s-disaster-means-for-himalayan-ecosystems-126090400093_1.html\" target=\"_blank\">Beyond the flood: What Nepal's disaster means for Himalayan ecosystems</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.77,
+      "last_price": 8.0,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.32,
+      "last_price": 3.46,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005205\" target=\"_blank\">Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 79.77,
+      "last_price": 80.57,
       "news": "<a href=\"https://m.economictimes.com/wealth/earn/ai-tokens-and-a-massive-wealth-transfer-what-the-ultra-rich-are-doing-in-2026-that-the-middle-class-cant/global-wealth-just-hit-305-trillion-so-why-are-banks-still-behind/slideshow/133630421.cms\" target=\"_blank\">AI, tokens and a massive wealth transfer: What the ultra-rich are doing in 2026 that the middle class can\u2019t</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 502.2,
+      "last_price": 519.86,
       "news": "<a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-september-2026/article71416736.ece\" target=\"_blank\">Sensex today | Stock Market Highlights: Sensex ends 373 pts lower at 76,570, Nifty below 24,000; Asian Paints, HDFC Bank fall most</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 169.39,
+      "last_price": 168.7,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.63,
+      "last_price": 17.77,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-03T16:00:00+00:00",
-  "data_date": "2026-09-03",
+  "last_updated": "2026-09-04T16:00:00+00:00",
+  "data_date": "2026-09-04",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
