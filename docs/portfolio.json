@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 433.81,
-      "news": "<a href=\"https://cryptobriefing.com/south-korea-reshuffles-cabinet-appoints-new-finance-and-defense-ministers/\" target=\"_blank\">South Korea reshuffles Cabinet, appoints new finance and defense ministers</a>"
+      "news": "<a href=\"https://en.antaranews.com/news/429896/asias-premier-fashion-event-centrestage-officially-kicks-off\" target=\"_blank\">Asia's premier fashion event CENTRESTAGE officially kicks off</a>"
     },
     {
       "ticker": "EMR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 337.18,
-      "news": "<a href=\"https://www.business-standard.com/india-news/beyond-the-flood-what-nepal-s-disaster-means-for-himalayan-ecosystems-126090400093_1.html\" target=\"_blank\">Beyond the flood: What Nepal's disaster means for Himalayan ecosystems</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-does-it-mean-when-a-deer-stands-on-its-back-legs/\" target=\"_blank\">What does it mean when a deer stands on its back legs?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-04T16:00:00+00:00",
-  "data_date": "2026-09-04",
+  "last_updated": "2026-09-05T16:00:00+00:00",
+  "data_date": "2026-09-05",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
