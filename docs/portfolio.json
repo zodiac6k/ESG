@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 209.61,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/09/2027-adc-chieftain-calls-for-unity-between-legacy-members-new-entrants/\" target=\"_blank\">2027: ADC chieftain calls for unity between legacy members, new entrants</a>"
+      "news": "<a href=\"https://punchng.com/drivers-of-economic-transformation-1/\" target=\"_blank\">Drivers of economic transformation (1)</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 230.36,
-      "news": "<a href=\"https://cryptobriefing.com/robinhood-chain-uniswap-v4-hooks-tokenized-stocks/\" target=\"_blank\">Robinhood Chain becomes a playground for Uniswap v4 hook strategies targeting tokenized stocks</a>"
+      "news": "<a href=\"https://kitploit.com/en/posts/github-sushegaad-claude-skills-governance-risk-and-compliance-v190\" target=\"_blank\">Claude-Skills-Governance-Risk-and-Compliance v1.9.0</a>"
     },
     {
       "ticker": "PLTR",
@@ -88,7 +88,7 @@
       "quantity": 467.84,
       "initial_price": 9.5,
       "last_price": 174.33,
-      "news": "<a href=\"https://seekingalpha.com/article/4943332-what-moved-markets-this-week\" target=\"_blank\">What Moved Markets This Week</a>"
+      "news": "<a href=\"https://www.thestreet.com/investing/stocks/michael-burry-warns-palantir-stock-investors-bear-case\" target=\"_blank\">Michael Burry sends a strong warning to Palantir stock investors</a>"
     },
     {
       "ticker": "CRWD",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 337.18,
-      "news": "<a href=\"https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/\" target=\"_blank\">Orbitals Review: The Perfect Couples Co-op Game for the Switch 2</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-far-can-a-squirrel-run-into-the-woods/\" target=\"_blank\">How far can a squirrel run into the woods?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-06T16:00:00+00:00",
-  "data_date": "2026-09-06",
+  "last_updated": "2026-09-07T16:00:00+00:00",
+  "data_date": "2026-09-07",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
