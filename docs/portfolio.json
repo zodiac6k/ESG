@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "112.50%",
-      "CAGR": "28.56%",
+      "Total Return": "109.53%",
+      "CAGR": "27.96%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.73"
+      "Sharpe Ratio": "0.72"
     },
     "QQQ": {
-      "Total Return": "83.31%",
-      "CAGR": "22.39%",
+      "Total Return": "81.36%",
+      "CAGR": "21.95%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "69.62%",
-      "CAGR": "19.26%",
+      "Total Return": "68.60%",
+      "CAGR": "19.02%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 426.08,
+      "last_price": 421.37,
       "news": "<a href=\"https://en.antaranews.com/news/429896/asias-premier-fashion-event-centrestage-officially-kicks-off\" target=\"_blank\">Asia's premier fashion event CENTRESTAGE officially kicks off</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 150.34,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/aws-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-the-16th-consecutive-year/\" target=\"_blank\">AWS recognized as a Leader in the 2026 Gartner Magic Quadrant for Strategic Cloud Platform Services for the 16th consecutive year</a>"
+      "last_price": 148.37,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/build-declarative-etl-pipelines-with-aws-glue-6-0/\" target=\"_blank\">Build declarative ETL pipelines with AWS Glue 6.0</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 204.93,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/former-sdny-bankruptcy-judge-robert-e-gerber-joins-zaiger-linden-roberti--pepe-302872405.html\" target=\"_blank\">/C O R R E C T I O N -- Zaiger Linden Roberti & Pepe LLC/</a>"
+      "last_price": 202.18,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/09/2027-adebutu-unveils-seven-point-agenda-in-governorship-campaign-flag-off/\" target=\"_blank\">2027: Adebutu unveils seven-point agenda in governorship campaign flag-off</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 491.65,
+      "last_price": 492.44,
       "news": "<a href=\"https://www.barchart.com/story/news/4387150/nvidia-could-soon-trail-only-amazon-in-tech-revenue-why-i-favor-nvda-stock-here\" target=\"_blank\">Nvidia Could Soon Trail Only Amazon in Tech Revenue. Why I Favor NVDA Stock Here.</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 223.67,
-      "news": "<a href=\"https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910\" target=\"_blank\">Beneath the surface, the next stock-market leaders are getting ready to break out, says Morgan Stanley</a>"
+      "last_price": 218.36,
+      "news": "<a href=\"https://www.barchart.com/story/news/4515656/is-super-micro-stock-underperforming-the-nasdaq\" target=\"_blank\">Is Super Micro Stock Underperforming the Nasdaq?</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 169.53,
+      "last_price": 165.86,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/michael-burry-warns-palantir-stock-investors-bear-case\" target=\"_blank\">Michael Burry sends a strong warning to Palantir stock investors</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 207.8,
+      "last_price": 208.86,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/jim-cramer-excited-two-cybersecurity-224636953.html\" target=\"_blank\">Jim Cramer Is Excited About These Two Cybersecurity Stocks</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 61.87,
+      "last_price": 61.69,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 468.85,
-      "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/capex-rebound-powers-applied-materials-143910451.html\" target=\"_blank\">Capex Rebound Powers Applied Materials\u2019 (AMAT) Performance</a>"
+      "last_price": 454.01,
+      "news": "<a href=\"https://www.dailymail.com/sport/football/article-16117087/lionel-messi-eldense-purchase-football-empire.html\" target=\"_blank\">Lionel Messi's growing football empire: Argentina legend set to buy Spanish second-division club Eldense</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 331.48,
-      "news": "<a href=\"https://www.lifesciencesworld.com/are-polar-bears-friendly-to-humans/\" target=\"_blank\">Are polar bears friendly to humans?</a>"
+      "last_price": 329.72,
+      "news": "<a href=\"https://www.lifesciencesworld.com/why-do-you-rarely-see-bucks/\" target=\"_blank\">Why do you rarely see bucks?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.67,
+      "last_price": 7.57,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.38,
+      "last_price": 3.27,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005205\" target=\"_blank\">Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 79.05,
+      "last_price": 77.82,
       "news": "<a href=\"https://pypi.org/project/hashimori/\" target=\"_blank\">hashimori added to PyPI</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 532.0,
+      "last_price": 517.43,
       "news": "<a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-september-2026/article71416736.ece\" target=\"_blank\">Sensex today | Stock Market Highlights: Sensex ends 373 pts lower at 76,570, Nifty below 24,000; Asian Paints, HDFC Bank fall most</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 166.91,
+      "last_price": 165.83,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 18.01,
+      "last_price": 17.82,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-09T16:00:00+00:00",
-  "data_date": "2026-09-09",
+  "last_updated": "2026-09-10T16:00:00+00:00",
+  "data_date": "2026-09-10",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
