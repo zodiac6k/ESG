@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "109.53%",
-      "CAGR": "27.96%",
+      "Total Return": "111.85%",
+      "CAGR": "28.43%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.72"
+      "Sharpe Ratio": "0.73"
     },
     "QQQ": {
-      "Total Return": "81.36%",
-      "CAGR": "21.95%",
+      "Total Return": "82.95%",
+      "CAGR": "22.30%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "68.60%",
-      "CAGR": "19.02%",
+      "Total Return": "70.04%",
+      "CAGR": "19.36%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 421.37,
-      "news": "<a href=\"https://en.antaranews.com/news/429896/asias-premier-fashion-event-centrestage-officially-kicks-off\" target=\"_blank\">Asia's premier fashion event CENTRESTAGE officially kicks off</a>"
+      "last_price": 428.39,
+      "news": "<a href=\"https://www.nature.com/articles/s41467-026-77346-x\" target=\"_blank\">Chromosome-scale genomes and population resequencing resolve subgenome diversity and halophyte adaptation in Salicornia</a>"
     },
     {
       "ticker": "EMR",
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 148.37,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/build-declarative-etl-pipelines-with-aws-glue-6-0/\" target=\"_blank\">Build declarative ETL pipelines with AWS Glue 6.0</a>"
+      "last_price": 152.19,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/ai-in-virtual-medical-assistant-market-to-reach-us-12-3-bn-by-2031--growing-at-36-5-cagr-new-report-by-wissen-research-302875527.html\" target=\"_blank\">AI in Virtual Medical Assistant Market to Reach US$ 12.3 Bn by 2031, Growing at 36.5% CAGR, New Report by Wissen Research</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 202.18,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/09/2027-adebutu-unveils-seven-point-agenda-in-governorship-campaign-flag-off/\" target=\"_blank\">2027: Adebutu unveils seven-point agenda in governorship campaign flag-off</a>"
+      "last_price": 202.36,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/the-next-big-drone-opportunity-a-potential-200-billionplus-global-services-market-takes-shape-302875269.html\" target=\"_blank\">The Next Big Drone Opportunity: A Potential $200 Billion-Plus Global Services Market Takes Shape</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 492.44,
-      "news": "<a href=\"https://www.barchart.com/story/news/4387150/nvidia-could-soon-trail-only-amazon-in-tech-revenue-why-i-favor-nvda-stock-here\" target=\"_blank\">Nvidia Could Soon Trail Only Amazon in Tech Revenue. Why I Favor NVDA Stock Here.</a>"
+      "last_price": 495.63,
+      "news": "<a href=\"https://247wallst.com/investing/2026/09/10/analysts-are-miscalculating-americas-data-center-lead/\" target=\"_blank\">Analysts Are Miscalculating America\u2019s Data Center Lead</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 218.36,
-      "news": "<a href=\"https://www.barchart.com/story/news/4515656/is-super-micro-stock-underperforming-the-nasdaq\" target=\"_blank\">Is Super Micro Stock Underperforming the Nasdaq?</a>"
+      "last_price": 218.29,
+      "news": "<a href=\"https://247wallst.com/investing/2026/09/10/analysts-are-miscalculating-americas-data-center-lead/\" target=\"_blank\">Analysts Are Miscalculating America\u2019s Data Center Lead</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 165.86,
-      "news": "<a href=\"https://www.thestreet.com/investing/stocks/michael-burry-warns-palantir-stock-investors-bear-case\" target=\"_blank\">Michael Burry sends a strong warning to Palantir stock investors</a>"
+      "last_price": 167.23,
+      "news": "<a href=\"https://www.marketbeat.com/articles/sovereign-ai-palantir-and-nebius-cut-the-cloud-cord/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Sovereign AI: Palantir and Nebius Cut the Cloud Cord</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 208.86,
+      "last_price": 206.74,
       "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/jim-cramer-excited-two-cybersecurity-224636953.html\" target=\"_blank\">Jim Cramer Is Excited About These Two Cybersecurity Stocks</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 61.69,
+      "last_price": 64.22,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 454.01,
-      "news": "<a href=\"https://www.dailymail.com/sport/football/article-16117087/lionel-messi-eldense-purchase-football-empire.html\" target=\"_blank\">Lionel Messi's growing football empire: Argentina legend set to buy Spanish second-division club Eldense</a>"
+      "last_price": 456.49,
+      "news": "<a href=\"https://www.nature.com/articles/s41583-026-01078-6\" target=\"_blank\">The ventral hippocampus: computations, circuits and functions</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 329.72,
-      "news": "<a href=\"https://www.lifesciencesworld.com/why-do-you-rarely-see-bucks/\" target=\"_blank\">Why do you rarely see bucks?</a>"
+      "last_price": 328.99,
+      "news": "<a href=\"https://www.lifesciencesworld.com/is-polar-bear-stronger-than-siberian-tiger/\" target=\"_blank\">Is polar bear stronger than Siberian tiger?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.57,
+      "last_price": 7.72,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.27,
+      "last_price": 3.32,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005205\" target=\"_blank\">Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.82,
+      "last_price": 79.11,
       "news": "<a href=\"https://pypi.org/project/hashimori/\" target=\"_blank\">hashimori added to PyPI</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 517.43,
+      "last_price": 527.07,
       "news": "<a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-september-2026/article71416736.ece\" target=\"_blank\">Sensex today | Stock Market Highlights: Sensex ends 373 pts lower at 76,570, Nifty below 24,000; Asian Paints, HDFC Bank fall most</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 165.83,
+      "last_price": 167.15,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.82,
+      "last_price": 17.92,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-10T16:00:00+00:00",
-  "data_date": "2026-09-10",
+  "last_updated": "2026-09-11T16:00:00+00:00",
+  "data_date": "2026-09-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
