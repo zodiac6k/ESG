@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 152.19,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/ai-in-virtual-medical-assistant-market-to-reach-us-12-3-bn-by-2031--growing-at-36-5-cagr-new-report-by-wissen-research-302875527.html\" target=\"_blank\">AI in Virtual Medical Assistant Market to Reach US$ 12.3 Bn by 2031, Growing at 36.5% CAGR, New Report by Wissen Research</a>"
+      "news": "<a href=\"https://www.abc.net.au/news/2026-09-12/mildura-base-hospital-patient-dies-forgotten-referral/107141512\" target=\"_blank\">Forgotten referral led to patient's death, Victorian shadow minister says</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 202.36,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/the-next-big-drone-opportunity-a-potential-200-billionplus-global-services-market-takes-shape-302875269.html\" target=\"_blank\">The Next Big Drone Opportunity: A Potential $200 Billion-Plus Global Services Market Takes Shape</a>"
+      "news": "<a href=\"https://www.vanguardngr.com/2026/09/2027-ndigbo-solidly-behind-obi-group-tells-apc/\" target=\"_blank\">2027: Ndigbo solidly behind Obi \u2013 Group tells APC</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 495.63,
-      "news": "<a href=\"https://247wallst.com/investing/2026/09/10/analysts-are-miscalculating-americas-data-center-lead/\" target=\"_blank\">Analysts Are Miscalculating America\u2019s Data Center Lead</a>"
+      "news": "<a href=\"https://finance.yahoo.com/technology/articles/jim-cramer-praises-microsoft-msft-205636631.html\" target=\"_blank\">Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX)</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 218.29,
-      "news": "<a href=\"https://247wallst.com/investing/2026/09/10/analysts-are-miscalculating-americas-data-center-lead/\" target=\"_blank\">Analysts Are Miscalculating America\u2019s Data Center Lead</a>"
+      "news": "<a href=\"https://finance.yahoo.com/technology/articles/jim-cramer-praises-microsoft-msft-205636631.html\" target=\"_blank\">Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX)</a>"
     },
     {
       "ticker": "PLTR",
@@ -97,7 +97,7 @@
       "quantity": 32.37,
       "initial_price": 137.32,
       "last_price": 206.74,
-      "news": "<a href=\"https://finance.yahoo.com/technology/ai/articles/jim-cramer-excited-two-cybersecurity-224636953.html\" target=\"_blank\">Jim Cramer Is Excited About These Two Cybersecurity Stocks</a>"
+      "news": "<a href=\"https://finance.yahoo.com/technology/articles/jim-cramer-praises-microsoft-msft-205636631.html\" target=\"_blank\">Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX)</a>"
     },
     {
       "ticker": "CGNX",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 328.99,
-      "news": "<a href=\"https://www.lifesciencesworld.com/is-polar-bear-stronger-than-siberian-tiger/\" target=\"_blank\">Is polar bear stronger than Siberian tiger?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-do-wolf-droppings-look-like/\" target=\"_blank\">What do wolf droppings look like?</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 79.11,
-      "news": "<a href=\"https://pypi.org/project/hashimori/\" target=\"_blank\">hashimori added to PyPI</a>"
+      "news": "<a href=\"https://forkast.news/connecticuts-ai-is-not-a-defense-doctrine-arrives-in-20-days-and-it-changes-everything-for-employment-ai/\" target=\"_blank\">Connecticut\u2019s \u2018AI Is Not a Defense\u2019 Doctrine Arrives in 20 Days \u2014 And It Changes Everything for Employment AI</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-11T16:00:00+00:00",
-  "data_date": "2026-09-11",
+  "last_updated": "2026-09-12T16:00:00+00:00",
+  "data_date": "2026-09-12",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
