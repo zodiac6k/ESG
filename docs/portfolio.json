@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "108.89%",
-      "CAGR": "27.83%",
+      "Total Return": "108.28%",
+      "CAGR": "27.71%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.72"
     },
     "QQQ": {
-      "Total Return": "81.49%",
-      "CAGR": "21.98%",
+      "Total Return": "80.30%",
+      "CAGR": "21.71%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "69.28%",
-      "CAGR": "19.18%",
+      "Total Return": "68.50%",
+      "CAGR": "19.00%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 418.85,
-      "news": "<a href=\"https://www.naturalnews.com/2026-09-13-south-koreans-protest-possible-military-deployment-hormuz.html\" target=\"_blank\">South Koreans Protest Possible Military Deployment to Strait of Hormuz</a>"
+      "last_price": 417.0,
+      "news": "<a href=\"https://www.barchart.com/story/news/4585668/is-rockwell-automation-stock-outperforming-the-s-p-500\" target=\"_blank\">Is Rockwell Automation Stock Outperforming the S&P 500?</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 148.3,
+      "last_price": 147.0,
       "news": "<a href=\"https://www.abc.net.au/news/2026-09-12/mildura-base-hospital-patient-dies-forgotten-referral/107141512\" target=\"_blank\">Forgotten referral led to patient's death, Victorian shadow minister says</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 201.38,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/09/bamanga-tukur-nigeria-loses-towering-statesman-pdp/\" target=\"_blank\">Bamanga Tukur: Nigeria loses towering statesman \u2014 PDP</a>"
+      "last_price": 203.44,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/09/south-west-2027-can-opposition-parties-breach-tinubus-political-fortress/\" target=\"_blank\">South-West 2027: Can opposition parties breach Tinubu\u2019s political fortress?</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 505.41,
+      "last_price": 497.12,
       "news": "<a href=\"https://finance.yahoo.com/technology/articles/jim-cramer-praises-microsoft-msft-205636631.html\" target=\"_blank\">Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX)</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 210.96,
+      "last_price": 212.17,
       "news": "<a href=\"https://www.thestreet.com/automotive/china-just-launched-a-19170-electric-vehicle\" target=\"_blank\">China just launched a $19,170 electric vehicle</a>"
     },
     {
@@ -87,8 +87,8 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 173.31,
-      "news": "<a href=\"https://www.marketbeat.com/articles/sovereign-ai-palantir-and-nebius-cut-the-cloud-cord/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Sovereign AI: Palantir and Nebius Cut the Cloud Cord</a>"
+      "last_price": 172.56,
+      "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
       "ticker": "CRWD",
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 235.38,
+      "last_price": 242.49,
       "news": "<a href=\"https://finance.yahoo.com/technology/articles/jim-cramer-praises-microsoft-msft-205636631.html\" target=\"_blank\">Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX)</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 59.9,
+      "last_price": 59.15,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 424.21,
-      "news": "<a href=\"https://www.nature.com/articles/s41583-026-01078-6\" target=\"_blank\">The ventral hippocampus: computations, circuits and functions</a>"
+      "last_price": 421.17,
+      "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 332.35,
-      "news": "<a href=\"https://www.lifesciencesworld.com/where-do-crows-go-in-extreme-cold/\" target=\"_blank\">Where do crows go in extreme cold?</a>"
+      "last_price": 322.98,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-urine-deters-coyotes/\" target=\"_blank\">What urine deters coyotes?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.55,
+      "last_price": 7.52,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.21,
+      "last_price": 3.14,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005205\" target=\"_blank\">Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.35,
+      "last_price": 77.25,
       "news": "<a href=\"https://forkast.news/connecticuts-ai-is-not-a-defense-doctrine-arrives-in-20-days-and-it-changes-everything-for-employment-ai/\" target=\"_blank\">Connecticut\u2019s \u2018AI Is Not a Defense\u2019 Doctrine Arrives in 20 Days \u2014 And It Changes Everything for Employment AI</a>"
     },
     {
@@ -159,8 +159,8 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 497.4,
-      "news": "<a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-september-2026/article71416736.ece\" target=\"_blank\">Sensex today | Stock Market Highlights: Sensex ends 373 pts lower at 76,570, Nifty below 24,000; Asian Paints, HDFC Bank fall most</a>"
+      "last_price": 498.85,
+      "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
       "ticker": "ESGU",
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 166.37,
+      "last_price": 165.14,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.56,
+      "last_price": 17.44,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-14T16:00:00+00:00",
-  "data_date": "2026-09-14",
+  "last_updated": "2026-09-15T16:00:00+00:00",
+  "data_date": "2026-09-15",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
