@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "108.28%",
-      "CAGR": "27.71%",
+      "Total Return": "108.62%",
+      "CAGR": "27.78%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.72"
     },
     "QQQ": {
-      "Total Return": "80.30%",
-      "CAGR": "21.71%",
+      "Total Return": "80.35%",
+      "CAGR": "21.72%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "68.50%",
-      "CAGR": "19.00%",
+      "Total Return": "67.76%",
+      "CAGR": "18.82%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 417.0,
+      "last_price": 414.92,
       "news": "<a href=\"https://www.barchart.com/story/news/4585668/is-rockwell-automation-stock-outperforming-the-s-p-500\" target=\"_blank\">Is Rockwell Automation Stock Outperforming the S&P 500?</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 147.0,
+      "last_price": 145.83,
       "news": "<a href=\"https://www.abc.net.au/news/2026-09-12/mildura-base-hospital-patient-dies-forgotten-referral/107141512\" target=\"_blank\">Forgotten referral led to patient's death, Victorian shadow minister says</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 203.44,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/09/south-west-2027-can-opposition-parties-breach-tinubus-political-fortress/\" target=\"_blank\">South-West 2027: Can opposition parties breach Tinubu\u2019s political fortress?</a>"
+      "last_price": 207.66,
+      "news": "<a href=\"https://www.beyondblue.org.au/about/media/media-releases/the-future-we-choose-new-beyond-blue-report\" target=\"_blank\">The Future We Choose: New Beyond Blue report explores the forces shaping the next decade of mental health in Australia</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 497.12,
+      "last_price": 490.3,
       "news": "<a href=\"https://finance.yahoo.com/technology/articles/jim-cramer-praises-microsoft-msft-205636631.html\" target=\"_blank\">Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX)</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 212.17,
-      "news": "<a href=\"https://www.thestreet.com/automotive/china-just-launched-a-19170-electric-vehicle\" target=\"_blank\">China just launched a $19,170 electric vehicle</a>"
+      "last_price": 213.9,
+      "news": "<a href=\"https://www.marketbeat.com/articles/cashing-in-on-the-qubit-nvidia-takes-the-quantum-leap/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Cashing in on the Qubit: NVIDIA Takes the Quantum Leap</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 172.56,
+      "last_price": 174.34,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 242.49,
-      "news": "<a href=\"https://finance.yahoo.com/technology/articles/jim-cramer-praises-microsoft-msft-205636631.html\" target=\"_blank\">Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX)</a>"
+      "last_price": 241.36,
+      "news": "<a href=\"https://www.trefis.com/articles/615399/what-actually-lifted-okta-stock-to-a-one-year-high/2026-09-15\" target=\"_blank\">What Actually Lifted Okta Stock To A One-Year High?</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 59.15,
+      "last_price": 60.1,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 421.17,
+      "last_price": 415.38,
       "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 322.98,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-urine-deters-coyotes/\" target=\"_blank\">What urine deters coyotes?</a>"
+      "last_price": 331.02,
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-early-do-deer-come-out/\" target=\"_blank\">How early do deer come out?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.52,
+      "last_price": 7.57,
       "news": "No news available"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.25,
-      "news": "<a href=\"https://forkast.news/connecticuts-ai-is-not-a-defense-doctrine-arrives-in-20-days-and-it-changes-everything-for-employment-ai/\" target=\"_blank\">Connecticut\u2019s \u2018AI Is Not a Defense\u2019 Doctrine Arrives in 20 Days \u2014 And It Changes Everything for Employment AI</a>"
+      "last_price": 77.56,
+      "news": "<a href=\"https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-aerospace-students-to-develop-unmanned-aerial-vehicles-uavs-for-border-surveillance-in-collaboration-with-industry/article71468422.ece\" target=\"_blank\">Chandigarh University Aerospace Students to Develop Unmanned Aerial Vehicles (UAVs) for Border Surveillance in Collaboration with Industry</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 498.85,
+      "last_price": 502.06,
       "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 165.14,
+      "last_price": 164.52,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.44,
+      "last_price": 17.32,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-15T16:00:00+00:00",
-  "data_date": "2026-09-15",
+  "last_updated": "2026-09-16T16:00:00+00:00",
+  "data_date": "2026-09-16",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
