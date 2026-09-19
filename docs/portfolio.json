@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "112.54%",
-      "CAGR": "28.57%",
+      "Total Return": "113.89%",
+      "CAGR": "28.84%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.73"
+      "Sharpe Ratio": "0.74"
     },
     "QQQ": {
-      "Total Return": "83.47%",
-      "CAGR": "22.42%",
+      "Total Return": "84.63%",
+      "CAGR": "22.68%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "69.66%",
-      "CAGR": "19.27%",
+      "Total Return": "69.88%",
+      "CAGR": "19.32%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 410.05,
+      "last_price": 415.62,
       "news": "<a href=\"https://www.barchart.com/story/news/4585668/is-rockwell-automation-stock-outperforming-the-s-p-500\" target=\"_blank\">Is Rockwell Automation Stock Outperforming the S&P 500?</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 147.4,
-      "news": "<a href=\"https://www.abc.net.au/news/2026-09-12/mildura-base-hospital-patient-dies-forgotten-referral/107141512\" target=\"_blank\">Forgotten referral led to patient's death, Victorian shadow minister says</a>"
+      "last_price": 149.92,
+      "news": "<a href=\"https://www.naturalnews.com/2026-09-17-children-need-greater-protection-from-wireless-radiation.html\" target=\"_blank\">Scientists Say Children Need Greater Protection From Wireless Radiation</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 206.49,
-      "news": "<a href=\"https://www.bleepingcomputer.com/forums/t/818691/mcafee-identified-trojanwinsuspiciousattachmentscripta/\" target=\"_blank\">McAfee identified trojan:win/suspiciousattachmentscript.a</a>"
+      "last_price": 206.46,
+      "news": "<a href=\"https://www.vanguardngr.com/2026/09/adebutu-dares-yayi-to-go-to-court-over-ekiti-indigene-claim/\" target=\"_blank\">Adebutu dares Yayi to go to court over Ekiti indigene claim</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 497.75,
-      "news": "<a href=\"https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/\" target=\"_blank\">Build Your Own AI Agent Harness in C#, the MafClaw Live Series</a>"
+      "last_price": 493.78,
+      "news": "<a href=\"https://www.barchart.com/story/news/4652425/u-s-stock-futures-rally-as-bond-yields-fall-on-feds-inflation-resolve\" target=\"_blank\">U.S. Stock Futures Rally as Bond Yields Fall on Fed\u2019s Inflation Resolve</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 219.34,
-      "news": "<a href=\"https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/\" target=\"_blank\">Build Your Own AI Agent Harness in C#, the MafClaw Live Series</a>"
+      "last_price": 222.27,
+      "news": "<a href=\"https://finance.yahoo.com/markets/stocks/articles/return-capital-looming-over-nvidia-114808044.html\" target=\"_blank\">The Return-on-Capital Question Looming Over NVIDIA Corporation\u2019s (NVDA) AI Investments</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 176.24,
+      "last_price": 177.64,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,8 +96,8 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 245.7,
-      "news": "<a href=\"https://www.trefis.com/articles/615399/what-actually-lifted-okta-stock-to-a-one-year-high/2026-09-15\" target=\"_blank\">What Actually Lifted Okta Stock To A One-Year High?</a>"
+      "last_price": 237.65,
+      "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
       "ticker": "CGNX",
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 60.85,
+      "last_price": 61.56,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 417.4,
+      "last_price": 444.57,
       "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 338.39,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-time-do-deer-start-to-come-out-at-night/\" target=\"_blank\">What time do deer start to come out at night?</a>"
+      "last_price": 332.43,
+      "news": "<a href=\"https://www.lifesciencesworld.com/where-did-10-billion-crabs-go/\" target=\"_blank\">Where did 10 billion crabs go?</a>"
     },
     {
       "ticker": "SSYS",
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.54,
+      "last_price": 3.63,
       "news": "<a href=\"https://pypi.org/project/pod-memory-manager/\" target=\"_blank\">pod-memory-manager added to PyPI</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 78.63,
+      "last_price": 78.5,
       "news": "<a href=\"https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-aerospace-students-to-develop-unmanned-aerial-vehicles-uavs-for-border-surveillance-in-collaboration-with-industry/article71468422.ece\" target=\"_blank\">Chandigarh University Aerospace Students to Develop Unmanned Aerial Vehicles (UAVs) for Border Surveillance in Collaboration with Industry</a>"
     },
     {
@@ -159,8 +159,8 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 519.1,
-      "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
+      "last_price": 533.07,
+      "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09172026-12125532\" target=\"_blank\">Markets News, Sep. 17, 2026: Tech Stocks Rise, Lead Major U.S. Indexes Higher; Bond Yields, Oil Prices Drop</a>"
     },
     {
       "ticker": "ESGU",
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 166.44,
+      "last_price": 166.54,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.73,
+      "last_price": 17.56,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-17T16:00:00+00:00",
-  "data_date": "2026-09-17",
+  "last_updated": "2026-09-18T16:00:00+00:00",
+  "data_date": "2026-09-18",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
