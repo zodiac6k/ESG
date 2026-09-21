@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 206.46,
-      "news": "<a href=\"https://www.vanguardngr.com/2026/09/kalu-urges-wto-action-on-food-security-investment/\" target=\"_blank\">Kalu urges WTO action on food security, investment</a>"
+      "news": "<a href=\"https://punchng.com/ebonyi-governor-sacks-works-commissioner/\" target=\"_blank\">Ebonyi governor sacks works commissioner</a>"
     },
     {
       "ticker": "MSFT",
@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 493.78,
-      "news": "<a href=\"https://www.barchart.com/story/news/4676827/mag-7-laggard-meta-has-quietly-turned-positive-for-2026-what-comes-next\" target=\"_blank\">Mag 7 Laggard Meta Has Quietly Turned Positive for 2026. What Comes Next.</a>"
+      "news": "<a href=\"https://www.thestreet.com/investing/stocks/cramer-recommends-nokia-beaten-down-90s-ai-tech\" target=\"_blank\">Cramer strongly recommends buying beaten-down 90s tech legend</a>"
     },
     {
       "ticker": "NVDA",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 332.43,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-dogs-do-coyotes-eat/\" target=\"_blank\">What dogs do coyotes eat?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-do-foxes-estimate-distance/\" target=\"_blank\">How do foxes estimate distance?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-19T16:00:00+00:00",
-  "data_date": "2026-09-19",
+  "last_updated": "2026-09-20T16:00:00+00:00",
+  "data_date": "2026-09-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
