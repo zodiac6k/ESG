@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "113.89%",
-      "CAGR": "28.84%",
+      "Total Return": "118.56%",
+      "CAGR": "29.77%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.74"
+      "Sharpe Ratio": "0.75"
     },
     "QQQ": {
-      "Total Return": "84.63%",
-      "CAGR": "22.68%",
+      "Total Return": "89.95%",
+      "CAGR": "23.85%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "69.88%",
-      "CAGR": "19.32%",
+      "Total Return": "72.51%",
+      "CAGR": "19.93%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 415.62,
-      "news": "<a href=\"https://www.bankier.pl/wiadomosc/ALLEGRO-EU-S-A-Allegro-zawiera-Suplement-dot-Zrownowazonego-Rozwoju-klasyfikujacy-pozyczki-udzielone-pod-Nadrzedna-Umowa-Kredytowa-jako-Kredyty-Powiazane-ze-Zrownowazonym-Rozwojem-ang-Sustainability-Linked-Loans-SLL-9199365.html\" target=\"_blank\">ALLEGRO.EU S.A.: Allegro zawiera Suplement dot. Zr\u00f3wnowa\u017conego Rozwoju klasyfikuj\u0105cy po\u017cyczki udzielone pod Nadrz\u0119dn\u0105 Umow\u0105 Kredytow\u0105 jako Kredyty Powi\u0105zane ze Zr\u00f3wnowa\u017conym Rozwojem (ang. Sustainability-Linked Loans (SLL))</a>"
+      "last_price": 424.89,
+      "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2026/09/mil-260920-globaltimes01.htm\" target=\"_blank\">Proposed US-Japan-ROK Arctic plan raises 'geopolitical, security competition concerns'</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 149.92,
+      "last_price": 151.72,
       "news": "<a href=\"https://www.naturalnews.com/2026-09-17-children-need-greater-protection-from-wireless-radiation.html\" target=\"_blank\">Scientists Say Children Need Greater Protection From Wireless Radiation</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 206.46,
-      "news": "<a href=\"https://punchng.com/ebonyi-governor-sacks-works-commissioner/\" target=\"_blank\">Ebonyi governor sacks works commissioner</a>"
+      "last_price": 206.48,
+      "news": "<a href=\"https://punchng.com/beyond-politics-what-defines-leaders-legacy/\" target=\"_blank\">Beyond politics: What defines leader\u2019s legacy?</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 493.78,
+      "last_price": 501.61,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/cramer-recommends-nokia-beaten-down-90s-ai-tech\" target=\"_blank\">Cramer strongly recommends buying beaten-down 90s tech legend</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 222.27,
-      "news": "<a href=\"https://www.barchart.com/story/news/4676827/mag-7-laggard-meta-has-quietly-turned-positive-for-2026-what-comes-next\" target=\"_blank\">Mag 7 Laggard Meta Has Quietly Turned Positive for 2026. What Comes Next.</a>"
+      "last_price": 227.38,
+      "news": "<a href=\"https://zycrypto.com/multi-asset-trading-venue-monochrome-exchange-launches-ieo-of-its-native-token-mcr/\" target=\"_blank\">Multi-Asset Trading Venue Monochrome Exchange Launches IEO of Its Native Token, $MCR</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 177.64,
+      "last_price": 183.09,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 237.65,
+      "last_price": 249.35,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 61.56,
+      "last_price": 61.99,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 444.57,
+      "last_price": 464.24,
       "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 332.43,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-do-foxes-estimate-distance/\" target=\"_blank\">How do foxes estimate distance?</a>"
+      "last_price": 339.39,
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-long-can-deer-go-without-eating/\" target=\"_blank\">How long can deer go without eating?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.0,
+      "last_price": 7.91,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.63,
+      "last_price": 3.48,
       "news": "<a href=\"https://pypi.org/project/pod-memory-manager/\" target=\"_blank\">pod-memory-manager added to PyPI</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 78.5,
-      "news": "<a href=\"https://www.edf.org/media/edf-analysis-repeal-power-plant-pollution-standards-will-cause-84000-early-deaths-3-trillion\" target=\"_blank\">EDF analysis: repeal of power plant pollution standards will cause up to 84,000 early deaths, $3 trillion in damages</a>"
+      "last_price": 80.29,
+      "news": "<a href=\"https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html\" target=\"_blank\">The 'robot relations' department may become reality in workplace of the future</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 533.07,
+      "last_price": 559.34,
       "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09172026-12125532\" target=\"_blank\">Markets News, Sep. 17, 2026: Tech Stocks Rise, Lead Major U.S. Indexes Higher; Bond Yields, Oil Prices Drop</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 166.54,
+      "last_price": 169.28,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.56,
+      "last_price": 17.8,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-20T16:00:00+00:00",
-  "data_date": "2026-09-20",
+  "last_updated": "2026-09-21T16:00:00+00:00",
+  "data_date": "2026-09-21",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
