@@ -25,13 +25,13 @@
       "Sharpe Ratio": "0.75"
     },
     "QQQ": {
-      "Total Return": "89.95%",
-      "CAGR": "23.85%",
+      "Total Return": "89.88%",
+      "CAGR": "23.83%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "72.51%",
-      "CAGR": "19.93%",
+      "Total Return": "71.24%",
+      "CAGR": "19.64%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": NaN,
+      "last_price": 432.89,
       "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2026/09/mil-260920-globaltimes01.htm\" target=\"_blank\">Proposed US-Japan-ROK Arctic plan raises 'geopolitical, security competition concerns'</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": NaN,
+      "last_price": 154.59,
       "news": "<a href=\"https://www.naturalnews.com/2026-09-21-hhs-review-scientific-evidence-wireless-radiation-emf-exposure.html\" target=\"_blank\">HHS Opens Review on Scientific Evidence of Wireless Radiation and EMF Field Exposure as Kennedy Seeks Public Input</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": NaN,
+      "last_price": 212.57,
       "news": "<a href=\"https://punchng.com/enugu-gov-appoints-101-aides/\" target=\"_blank\">Enugu gov appoints 101 aides</a>"
     },
     {
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": NaN,
-      "news": "<a href=\"https://www.thestreet.com/investing/stocks/cramer-recommends-nokia-beaten-down-90s-ai-tech\" target=\"_blank\">Cramer strongly recommends buying beaten-down 90s tech legend</a>"
+      "last_price": 500.59,
+      "news": "<a href=\"https://www.barchart.com/story/news/4720690/microsoft-just-hiked-its-dividend-by-8-how-to-play-the-stock-here\" target=\"_blank\">Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": NaN,
-      "news": "<a href=\"https://zycrypto.com/multi-asset-trading-venue-monochrome-exchange-launches-ieo-of-its-native-token-mcr/\" target=\"_blank\">Multi-Asset Trading Venue Monochrome Exchange Launches IEO of Its Native Token, $MCR</a>"
+      "last_price": 225.51,
+      "news": "<a href=\"https://www.marketbeat.com/articles/can-apple-overtake-nvidia-as-the-worlds-most-valuable-company/?utm_source=yahoofinance&amp;utm_medium=yahoofinance\" target=\"_blank\">Can Apple Overtake NVIDIA as the World's Most Valuable Company?</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": NaN,
+      "last_price": 191.79,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": NaN,
+      "last_price": 262.49,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": NaN,
+      "last_price": 58.19,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": NaN,
+      "last_price": 474.38,
       "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": NaN,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-long-after-an-eagle-egg-is-laid-does-it-hatch/\" target=\"_blank\">How long after an eagle egg is laid does it hatch?</a>"
+      "last_price": 334.81,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-does-a-raccoon-footprints-look-like/\" target=\"_blank\">What does a raccoon footprints look like?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": NaN,
+      "last_price": 8.03,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": NaN,
+      "last_price": 3.51,
       "news": "<a href=\"https://pypi.org/project/pod-memory-manager/\" target=\"_blank\">pod-memory-manager added to PyPI</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": NaN,
-      "news": "<a href=\"https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html\" target=\"_blank\">The 'robot relations' department may become reality in workplace of the future</a>"
+      "last_price": 80.21,
+      "news": "<a href=\"https://github.com/yibie/awesome-jev\" target=\"_blank\">yibie/awesome-jev: A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": NaN,
+      "last_price": 565.72,
       "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09172026-12125532\" target=\"_blank\">Markets News, Sep. 17, 2026: Tech Stocks Rise, Lead Major U.S. Indexes Higher; Bond Yields, Oil Prices Drop</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": NaN,
+      "last_price": 168.0,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": NaN,
+      "last_price": 17.42,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-22T16:00:00+00:00",
-  "data_date": "2026-09-22",
+  "last_updated": "2026-09-23T16:00:00+00:00",
+  "data_date": "2026-09-23",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
