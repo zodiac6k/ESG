@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "117.95%",
-      "CAGR": "29.65%",
+      "Total Return": "121.20%",
+      "CAGR": "30.30%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.75"
+      "Sharpe Ratio": "0.76"
     },
     "QQQ": {
-      "Total Return": "89.86%",
-      "CAGR": "23.82%",
+      "Total Return": "90.73%",
+      "CAGR": "24.01%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.10%",
-      "CAGR": "19.61%",
+      "Total Return": "72.03%",
+      "CAGR": "19.82%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 432.93,
+      "last_price": 434.15,
       "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2026/09/mil-260920-globaltimes01.htm\" target=\"_blank\">Proposed US-Japan-ROK Arctic plan raises 'geopolitical, security competition concerns'</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 156.14,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai/\" target=\"_blank\">Query unstructured data in Amazon SageMaker Catalog using generative AI</a>"
+      "last_price": 158.23,
+      "news": "<a href=\"https://intuscribe.com/blog/best-ai-medical-scribe-australia-2026\" target=\"_blank\">Best AI Medical Scribe Australia 2026: GP, Specialist & Allied Health Buyer\u2019s Guide</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 211.79,
-      "news": "<a href=\"https://punchng.com/ogun-urges-firms-to-embrace-circular-economy-cut-waste/\" target=\"_blank\">Ogun urges firms to embrace circular economy, cut waste</a>"
+      "last_price": 212.55,
+      "news": "<a href=\"https://punchng.com/plateau-assembly-demands-urgent-security-intervention-over-killings/\" target=\"_blank\">Plateau Assembly demands urgent security intervention\u00a0over killings</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 497.93,
+      "last_price": 516.17,
       "news": "<a href=\"https://www.barchart.com/story/news/4720690/microsoft-just-hiked-its-dividend-by-8-how-to-play-the-stock-here\" target=\"_blank\">Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 224.58,
+      "last_price": 225.07,
       "news": "<a href=\"https://www.infoq.com/presentations/mcp-calm-api-architecture/\" target=\"_blank\">Presentation: APIs for Agents: Rethinking API Programs in the MCP Era</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 192.59,
+      "last_price": 189.67,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 259.67,
+      "last_price": 252.13,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 57.7,
+      "last_price": 58.66,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 474.25,
+      "last_price": 485.0,
       "news": "<a href=\"https://247wallst.com/investing/2026/09/14/chip-equipment-stocks-slide-as-ai-pacing-call-reaches-fab-spending-applied-materials-and-lam-research-fall-6-asml-sinks-5/\" target=\"_blank\">Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 334.0,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-time-of-night-do-owls-hunt/\" target=\"_blank\">What time of night do owls hunt?</a>"
+      "last_price": 335.94,
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-many-wolverines-are-left-in-yellowstone/\" target=\"_blank\">How many wolverines are left in Yellowstone?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.02,
+      "last_price": 8.26,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.43,
+      "last_price": 3.57,
       "news": "<a href=\"https://pypi.org/project/pod-memory-manager/\" target=\"_blank\">pod-memory-manager added to PyPI</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 80.38,
+      "last_price": 81.06,
       "news": "<a href=\"https://robohub.org/robotics-roadmaps-from-around-the-world-spotlight-of-the-month-china/\" target=\"_blank\">Robotics roadmaps from around the world spotlight of the month: China</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 566.07,
+      "last_price": 572.68,
       "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09172026-12125532\" target=\"_blank\">Markets News, Sep. 17, 2026: Tech Stocks Rise, Lead Major U.S. Indexes Higher; Bond Yields, Oil Prices Drop</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 167.88,
+      "last_price": 168.7,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.97,
+      "last_price": 17.23,
       "news": "<a href=\"https://www.ewtnnews.com/world/europe/cardinal-bo-urges-lawmakers-to-reject-the-automated-slaughter-of-autonomous-weapons\" target=\"_blank\">Cardinal Bo urges lawmakers to reject the \u2018automated slaughter\u2019 of autonomous weapons</a>"
     }
   ],
-  "last_updated": "2026-09-24T16:00:00+00:00",
-  "data_date": "2026-09-24",
+  "last_updated": "2026-09-25T16:00:00+00:00",
+  "data_date": "2026-09-25",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
