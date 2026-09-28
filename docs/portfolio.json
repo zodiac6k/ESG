@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 212.55,
-      "news": "<a href=\"https://punchng.com/ogun-2027-chasing-a-wild-goose-over-yayis-ancestry/\" target=\"_blank\">Ogun 2027: Chasing a wild goose over Yayi\u2019s ancestry</a>"
+      "news": "<a href=\"https://wattsupwiththat.com/2026/09/26/albanese-government-6-million-grant-for-climate-change-mental-health-research/\" target=\"_blank\">Albanese Government $6 Million Grant for Climate Change Mental Health Research</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 335.94,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-trees-benefit-from-squirrels/\" target=\"_blank\">Do trees benefit from squirrels?</a>"
+      "news": "<a href=\"https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more\" target=\"_blank\">Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-09-26T16:00:00+00:00",
-  "data_date": "2026-09-26",
+  "last_updated": "2026-09-27T16:00:00+00:00",
+  "data_date": "2026-09-27",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
