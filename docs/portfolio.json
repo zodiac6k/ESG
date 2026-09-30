@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "119.99%",
-      "CAGR": "30.06%",
+      "Total Return": "120.94%",
+      "CAGR": "30.24%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.75"
+      "Sharpe Ratio": "0.76"
     },
     "QQQ": {
-      "Total Return": "88.68%",
-      "CAGR": "23.57%",
+      "Total Return": "89.04%",
+      "CAGR": "23.65%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "70.75%",
-      "CAGR": "19.52%",
+      "Total Return": "70.44%",
+      "CAGR": "19.45%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 431.22,
+      "last_price": 431.53,
       "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2026/09/mil-260920-globaltimes01.htm\" target=\"_blank\">Proposed US-Japan-ROK Arctic plan raises 'geopolitical, security competition concerns'</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 159.39,
-      "news": "<a href=\"https://www.naturalnews.com/2026-09-25-hhs-opens-inquiry-wireless-radiation-health-risks.html\" target=\"_blank\">HHS Opens Inquiry Into Wireless Radiation Health Risks, Seeks Public Comment by Oct. 21</a>"
+      "last_price": 157.24,
+      "news": "<a href=\"https://activistpost.com/jersey-shore-residents-step-up-fight-to-keep-verizon-5g-towers-off-beachfront/\" target=\"_blank\">Jersey Shore Residents Step Up Fight To Keep Verizon 5G Towers Off Beachfront</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 211.52,
-      "news": "<a href=\"https://english.khabarhub.com/2026/28/569230/\" target=\"_blank\">Urgent Structural Reform of Tribhuvan University</a>"
+      "last_price": 210.13,
+      "news": "<a href=\"https://www.bleepingcomputer.com/forums/t/819020/please-reopen-mcafee-identified-trojanwinsuspiciousattachmentscripta/\" target=\"_blank\">Please reopen: McAfee identified trojan:win/suspiciousattachmentscript.a</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 509.22,
+      "last_price": 508.96,
       "news": "<a href=\"https://www.barchart.com/story/news/4720690/microsoft-just-hiked-its-dividend-by-8-how-to-play-the-stock-here\" target=\"_blank\">Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 228.86,
+      "last_price": 227.21,
       "news": "<a href=\"https://www.infoq.com/presentations/mcp-calm-api-architecture/\" target=\"_blank\">Presentation: APIs for Agents: Rethinking API Programs in the MCP Era</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 187.48,
+      "last_price": 186.97,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 259.25,
+      "last_price": 262.74,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 58.75,
+      "last_price": 59.67,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 486.76,
+      "last_price": 512.01,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 328.12,
-      "news": "<a href=\"https://www.lifesciencesworld.com/can-an-eagle-lift/\" target=\"_blank\">Can an eagle lift?</a>"
+      "last_price": 330.31,
+      "news": "<a href=\"https://www.globalresearch.ca/himalayan-nepal-tibet-tsunami-genesis-causes-critical-justice-appraisals/5942042\" target=\"_blank\">Himalayan Nepal-Tibet Tsunami: Genesis, Causes, and Critical Justice Appraisals</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.4,
+      "last_price": 8.51,
       "news": "No news available"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 80.38,
+      "last_price": 80.39,
       "news": "<a href=\"https://robohub.org/robotics-roadmaps-from-around-the-world-spotlight-of-the-month-china/\" target=\"_blank\">Robotics roadmaps from around the world spotlight of the month: China</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 560.79,
+      "last_price": 567.44,
       "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09172026-12125532\" target=\"_blank\">Markets News, Sep. 17, 2026: Tech Stocks Rise, Lead Major U.S. Indexes Higher; Bond Yields, Oil Prices Drop</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 167.38,
+      "last_price": 167.09,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.81,
+      "last_price": 17.01,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-09-28T16:00:00+00:00",
-  "data_date": "2026-09-28",
+  "last_updated": "2026-09-29T16:00:00+00:00",
+  "data_date": "2026-09-29",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
