@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "120.94%",
-      "CAGR": "30.24%",
+      "Total Return": "121.54%",
+      "CAGR": "30.36%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.76"
     },
     "QQQ": {
-      "Total Return": "89.04%",
-      "CAGR": "23.65%",
+      "Total Return": "89.51%",
+      "CAGR": "23.75%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "70.44%",
-      "CAGR": "19.45%",
+      "Total Return": "70.09%",
+      "CAGR": "19.37%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 431.53,
+      "last_price": 435.33,
       "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2026/09/mil-260920-globaltimes01.htm\" target=\"_blank\">Proposed US-Japan-ROK Arctic plan raises 'geopolitical, security competition concerns'</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 157.24,
-      "news": "<a href=\"https://activistpost.com/jersey-shore-residents-step-up-fight-to-keep-verizon-5g-towers-off-beachfront/\" target=\"_blank\">Jersey Shore Residents Step Up Fight To Keep Verizon 5G Towers Off Beachfront</a>"
+      "last_price": 155.1,
+      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-eks/\" target=\"_blank\">Announcing Spark Connect on Amazon EMR on EKS: Interactive PySpark development, anywhere</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 210.13,
-      "news": "<a href=\"https://www.bleepingcomputer.com/forums/t/819020/please-reopen-mcafee-identified-trojanwinsuspiciousattachmentscripta/\" target=\"_blank\">Please reopen: McAfee identified trojan:win/suspiciousattachmentscript.a</a>"
+      "last_price": 210.94,
+      "news": "<a href=\"https://punchng.com/nass-quiz-competition-is-investment-in-democracy-nilds/\" target=\"_blank\">NASS quiz competition is investment in democracy \u2013 NILDS</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 508.96,
+      "last_price": 512.9,
       "news": "<a href=\"https://www.barchart.com/story/news/4720690/microsoft-just-hiked-its-dividend-by-8-how-to-play-the-stock-here\" target=\"_blank\">Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 227.21,
+      "last_price": 228.38,
       "news": "<a href=\"https://www.infoq.com/presentations/mcp-calm-api-architecture/\" target=\"_blank\">Presentation: APIs for Agents: Rethinking API Programs in the MCP Era</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 186.97,
+      "last_price": 187.05,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 262.74,
+      "last_price": 264.75,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 59.67,
+      "last_price": 60.65,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 512.01,
+      "last_price": 511.38,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 330.31,
-      "news": "<a href=\"https://www.globalresearch.ca/himalayan-nepal-tibet-tsunami-genesis-causes-critical-justice-appraisals/5942042\" target=\"_blank\">Himalayan Nepal-Tibet Tsunami: Genesis, Causes, and Critical Justice Appraisals</a>"
+      "last_price": 339.56,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-triggers-the-deer-rut/\" target=\"_blank\">What triggers the deer rut?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.51,
+      "last_price": 8.31,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.52,
+      "last_price": 3.6,
       "news": "<a href=\"https://pypi.org/project/pod-memory-manager/\" target=\"_blank\">pod-memory-manager added to PyPI</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 80.39,
+      "last_price": 80.46,
       "news": "<a href=\"https://robohub.org/robotics-roadmaps-from-around-the-world-spotlight-of-the-month-china/\" target=\"_blank\">Robotics roadmaps from around the world spotlight of the month: China</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 567.44,
+      "last_price": 568.64,
       "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09172026-12125532\" target=\"_blank\">Markets News, Sep. 17, 2026: Tech Stocks Rise, Lead Major U.S. Indexes Higher; Bond Yields, Oil Prices Drop</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 167.09,
+      "last_price": 166.8,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.01,
+      "last_price": 17.0,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-09-29T16:00:00+00:00",
-  "data_date": "2026-09-29",
+  "last_updated": "2026-09-30T16:00:00+00:00",
+  "data_date": "2026-09-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
