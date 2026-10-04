@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 454.35,
-      "news": "<a href=\"https://www.globalsecurity.org/military/library/news/2026/09/mil-260920-globaltimes01.htm\" target=\"_blank\">Proposed US-Japan-ROK Arctic plan raises 'geopolitical, security competition concerns'</a>"
+      "news": "<a href=\"https://www.rand.org/pubs/commentary/2026/10/from-strategic-logic-to-practical-implementation-a.html\" target=\"_blank\">From Strategic Logic to Practical Implementation: A Phased Agenda for U.S.-ROK Shipbuilding Cooperation</a>"
     },
     {
       "ticker": "EMR",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 213.99,
-      "news": "<a href=\"https://www.gov.uk/government/news/attorney-general-and-solicitor-general-sworn-in-to-their-roles-as-law-officers-today\" target=\"_blank\">Attorney General and Solicitor General sworn in to their roles as Law Officers today</a>"
+      "news": "<a href=\"https://punchng.com/uk-gets-new-attorney-solicitor-general/\" target=\"_blank\">UK gets new attorney, solicitor general</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 341.04,
-      "news": "<a href=\"https://www.lifesciencesworld.com/where-do-black-footed-ferrets-get-their-water/\" target=\"_blank\">Where do black-footed ferrets get their water?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-time-of-day-do-deer-stop-moving/\" target=\"_blank\">What time of day do deer stop moving?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-02T16:00:00+00:00",
-  "data_date": "2026-10-02",
+  "last_updated": "2026-10-03T16:00:00+00:00",
+  "data_date": "2026-10-03",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
