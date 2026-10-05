@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 341.04,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-time-of-day-do-deer-stop-moving/\" target=\"_blank\">What time of day do deer stop moving?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/do-bucks-stay-in-the-same-area/\" target=\"_blank\">Do Bucks stay in the same area?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-03T16:00:00+00:00",
-  "data_date": "2026-10-03",
+  "last_updated": "2026-10-04T16:00:00+00:00",
+  "data_date": "2026-10-04",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
