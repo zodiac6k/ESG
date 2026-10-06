@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "127.54%",
-      "CAGR": "31.53%",
+      "Total Return": "128.42%",
+      "CAGR": "31.70%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.78"
     },
     "QQQ": {
-      "Total Return": "92.03%",
-      "CAGR": "24.30%",
+      "Total Return": "93.72%",
+      "CAGR": "24.66%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.65%",
-      "CAGR": "19.73%",
+      "Total Return": "72.81%",
+      "CAGR": "20.00%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 454.35,
+      "last_price": 455.18,
       "news": "<a href=\"https://www.rand.org/pubs/commentary/2026/10/from-strategic-logic-to-practical-implementation-a.html\" target=\"_blank\">From Strategic Logic to Practical Implementation: A Phased Agenda for U.S.-ROK Shipbuilding Cooperation</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 161.61,
+      "last_price": 162.33,
       "news": "<a href=\"https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/\" target=\"_blank\">Amazon S3 Tables now support all Apache Iceberg V3 data types</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 213.99,
-      "news": "<a href=\"https://punchng.com/uk-gets-new-attorney-solicitor-general/\" target=\"_blank\">UK gets new attorney, solicitor general</a>"
+      "last_price": 214.14,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/icac-and-unodc-jointly-debut-the-pioneering-prison-guide-icac-commissioner-charting-the-way-for-enhancing-global-prison-integrity-302897990.html\" target=\"_blank\">ICAC and UNODC jointly debut the pioneering Prison Guide, ICAC Commissioner: charting the way for enhancing global prison integrity</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 517.53,
+      "last_price": 525.18,
       "news": "<a href=\"https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html\" target=\"_blank\">Record AI spend is changing the market hunt for 'cash cows' and 'quality' stock investments</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 233.95,
+      "last_price": 238.9,
       "news": "<a href=\"https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html\" target=\"_blank\">Record AI spend is changing the market hunt for 'cash cows' and 'quality' stock investments</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 188.75,
+      "last_price": 189.4,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 270.04,
+      "last_price": 272.67,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 64.97,
+      "last_price": 64.37,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 540.04,
+      "last_price": 542.28,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 341.04,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-bucks-stay-in-the-same-area/\" target=\"_blank\">Do Bucks stay in the same area?</a>"
+      "last_price": 338.99,
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-do-birds-remember-their-nest/\" target=\"_blank\">How do birds remember their nest?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.7,
+      "last_price": 8.58,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.78,
+      "last_price": 3.56,
       "news": "<a href=\"https://en.antaranews.com/news/433559/four-major-tech-fairs-open-in-october-attracting-some-6200-exhibitors-from-around-the-world\" target=\"_blank\">Four major tech fairs open in October attracting some 6,200 exhibitors from around the world</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 82.82,
+      "last_price": 83.34,
       "news": "<a href=\"https://bleedingcool.com/comics/things-to-do-in-london-in-october-2026-if-you-like-comics/\" target=\"_blank\">Things To Do In London In October 2026 If You Like Comics</a>"
     },
     {
@@ -159,8 +159,8 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 588.9,
-      "news": "<a href=\"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09172026-12125532\" target=\"_blank\">Markets News, Sep. 17, 2026: Tech Stocks Rise, Lead Major U.S. Indexes Higher; Bond Yields, Oil Prices Drop</a>"
+      "last_price": 589.51,
+      "news": "<a href=\"https://www.naturalnews.com/2026-10-04-burry-moves-up-timeline-ai-bubble-short.html\" target=\"_blank\">Michael Burry Moves Up Timeline for AI Bubble Short, Switches to Put Options</a>"
     },
     {
       "ticker": "ESGU",
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 168.46,
+      "last_price": 169.59,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.19,
+      "last_price": 17.29,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-04T16:00:00+00:00",
-  "data_date": "2026-10-04",
+  "last_updated": "2026-10-05T16:00:00+00:00",
+  "data_date": "2026-10-05",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
