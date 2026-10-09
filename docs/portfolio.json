@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "125.29%",
-      "CAGR": "31.09%",
+      "Total Return": "122.23%",
+      "CAGR": "30.50%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.77"
+      "Sharpe Ratio": "0.76"
     },
     "QQQ": {
-      "Total Return": "94.12%",
-      "CAGR": "24.74%",
+      "Total Return": "91.52%",
+      "CAGR": "24.18%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "73.34%",
-      "CAGR": "20.13%",
+      "Total Return": "72.61%",
+      "CAGR": "19.96%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 441.9,
+      "last_price": 434.14,
       "news": "<a href=\"https://www.rand.org/pubs/commentary/2026/10/from-strategic-logic-to-practical-implementation-a.html\" target=\"_blank\">From Strategic Logic to Practical Implementation: A Phased Agenda for U.S.-ROK Shipbuilding Cooperation</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 159.22,
-      "news": "<a href=\"https://aws.amazon.com/blogs/security/improving-spire-security-and-resiliency-with-aws-managed-services/\" target=\"_blank\">Improving SPIRE security and resiliency with AWS managed services</a>"
+      "last_price": 159.06,
+      "news": "<a href=\"https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014615\" target=\"_blank\">KSHV K15 genetic heterogeneity is associated with Kaposi sarcoma aggressiveness through modulation of the host inflammatory microenvironment</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 208.11,
-      "news": "<a href=\"https://www.gov.uk/government/news/uk-speaker-of-house-of-commons-to-attend-153rd-inter-parliamentary-union---assembly-in-tanzania\" target=\"_blank\">UK Speaker of House of Commons to attend 153rd Inter-Parliamentary Union \nAssembly in Tanzania</a>"
+      "last_price": 206.6,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/bar-leone-hong-kong-is-named-the-worlds-best-bar-as-the-list-of-the-50-best-bars-2026-is-revealed-302901694.html\" target=\"_blank\">BAR LEONE, HONG KONG, IS NAMED THE WORLD'S BEST BAR AS THE LIST OF THE 50 BEST BARS 2026 IS REVEALED</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 529.76,
+      "last_price": 522.61,
       "news": "<a href=\"https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html\" target=\"_blank\">Record AI spend is changing the market hunt for 'cash cows' and 'quality' stock investments</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 237.47,
+      "last_price": 230.48,
       "news": "<a href=\"https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html\" target=\"_blank\">Record AI spend is changing the market hunt for 'cash cows' and 'quality' stock investments</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 194.12,
+      "last_price": 198.78,
       "news": "<a href=\"https://biztoc.com/x/ab337ca380f72191\" target=\"_blank\">ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock</a>"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 265.44,
+      "last_price": 263.01,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 61.21,
+      "last_price": 60.91,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 520.65,
+      "last_price": 509.57,
       "news": "No news available"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 332.85,
-      "news": "<a href=\"https://english.khabarhub.com/2026/07/570973/\" target=\"_blank\">Economic Digest: A Snapshot of Nepal\u2019s Business News</a>"
+      "last_price": 343.4,
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/global-camping-equipment-market-to-grow-at-6-7-cagr-as-outdoor-recreation-lightweight-gear-and-sustainable-camping-solutions-gain-momentum-reports-maximize-market-research-302901164.html\" target=\"_blank\">Global Camping Equipment Market to Grow at 6.7% CAGR as Outdoor Recreation, Lightweight Gear and Sustainable Camping Solutions Gain Momentum, reports Maximize Market Research</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 8.24,
+      "last_price": 8.05,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.41,
+      "last_price": 3.35,
       "news": "<a href=\"https://en.antaranews.com/news/433559/four-major-tech-fairs-open-in-october-attracting-some-6200-exhibitors-from-around-the-world\" target=\"_blank\">Four major tech fairs open in October attracting some 6,200 exhibitors from around the world</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 81.82,
+      "last_price": 80.08,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/summary-notice-of-pendency-and-proposed-settlement-of-derivative-actions-302900287.html\" target=\"_blank\">Summary Notice of Pendency and Proposed Settlement of Derivative Actions</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 582.82,
+      "last_price": 563.28,
       "news": "<a href=\"https://www.naturalnews.com/2026-10-04-burry-moves-up-timeline-ai-bubble-short.html\" target=\"_blank\">Michael Burry Moves Up Timeline for AI Bubble Short, Switches to Put Options</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 170.08,
+      "last_price": 169.39,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 17.31,
+      "last_price": 17.12,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-07T16:00:00+00:00",
-  "data_date": "2026-10-07",
+  "last_updated": "2026-10-08T16:00:00+00:00",
+  "data_date": "2026-10-08",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
