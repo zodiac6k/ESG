@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 161.83,
-      "news": "<a href=\"https://www.databricks.com/blog/biomedical-imagings-real-bottleneck-data-not-model\" target=\"_blank\">Biomedical Imaging's Real Bottleneck Is the Data, Not the Model</a>"
+      "news": "<a href=\"https://activistpost.com/hhs-opens-review-on-scientific-evidence-of-wireless-radiation-and-emf-field-exposure-as-kennedy-seeks-public-input/\" target=\"_blank\">HHS Opens Review on Scientific Evidence of Wireless Radiation and EMF Field Exposure as Kennedy Seeks Public Input</a>"
     },
     {
       "ticker": "HON",
@@ -115,7 +115,7 @@
       "quantity": 77.92,
       "initial_price": 57.04,
       "last_price": 507.03,
-      "news": "No news available"
+      "news": "<a href=\"https://www.gov.uk/government/publications/benefits-of-walking-wheeling-and-cycling-theoretical-framework\" target=\"_blank\">Research: Benefits of walking, wheeling and cycling: theoretical framework</a>"
     },
     {
       "ticker": "SNOW",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 368.89,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-lasers-scare-deer/\" target=\"_blank\">Do lasers scare deer?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-long-after-a-tree-dies-will-it-fall/\" target=\"_blank\">How long after a tree dies will it fall?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-09T16:00:00+00:00",
-  "data_date": "2026-10-09",
+  "last_updated": "2026-10-10T16:00:00+00:00",
+  "data_date": "2026-10-10",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
