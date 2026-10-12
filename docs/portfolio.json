@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 229.28,
-      "news": "<a href=\"https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html\" target=\"_blank\">Record AI spend is changing the market hunt for 'cash cows' and 'quality' stock investments</a>"
+      "news": "<a href=\"https://www.prnewswire.com/news-releases/ai-revenue-questions-pull-semiconductor-stocks-off-october-highs-302905067.html\" target=\"_blank\">AI Revenue Questions Pull Semiconductor Stocks Off October Highs</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 368.89,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-long-after-a-tree-dies-will-it-fall/\" target=\"_blank\">How long after a tree dies will it fall?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/do-muskrats-come-out-during-the-day/\" target=\"_blank\">Do muskrats come out during the day?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-10T16:00:00+00:00",
-  "data_date": "2026-10-10",
+  "last_updated": "2026-10-11T16:00:00+00:00",
+  "data_date": "2026-10-11",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
