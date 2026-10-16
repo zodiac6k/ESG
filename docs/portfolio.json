@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "114.48%",
-      "CAGR": "28.96%",
+      "Total Return": "113.38%",
+      "CAGR": "28.74%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.73"
     },
     "QQQ": {
-      "Total Return": "86.74%",
-      "CAGR": "23.14%",
+      "Total Return": "86.50%",
+      "CAGR": "23.09%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.64%",
-      "CAGR": "19.73%",
+      "Total Return": "72.13%",
+      "CAGR": "19.84%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 423.42,
-      "news": "<a href=\"https://www.rand.org/pubs/commentary/2026/10/from-strategic-logic-to-practical-implementation-a.html\" target=\"_blank\">From Strategic Logic to Practical Implementation: A Phased Agenda for U.S.-ROK Shipbuilding Cooperation</a>"
+      "last_price": 422.03,
+      "news": "<a href=\"https://truthout.org/articles/progressives-shouldnt-call-on-trump-to-restore-military-exercises-in-korea/\" target=\"_blank\">Progressives Shouldn\u2019t Call on Trump to Restore Military Exercises in Korea</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 161.08,
+      "last_price": 162.15,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/\" target=\"_blank\">Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 207.61,
-      "news": "<a href=\"https://punchng.com/2027-kaduna-christian-leaders-mobilise-north-for-tinubu-uba-sani/\" target=\"_blank\">2027: Kaduna Christian leaders mobilise North for Tinubu, Uba Sani</a>"
+      "last_price": 210.5,
+      "news": "<a href=\"https://punchng.com/oyo-apc-apm-trade-words-over-destruction-of-allis-billboards/\" target=\"_blank\">Oyo APC, APM trade words over destruction of Alli\u2019s billboards</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 533.69,
+      "last_price": 539.44,
       "news": "<a href=\"https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857\" target=\"_blank\">ICANN reveals bids for new top-level domains</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 221.3,
+      "last_price": 217.23,
       "news": "<a href=\"https://cryptobriefing.com/robinhood-chain-tokenized-stock-dex-volume/\" target=\"_blank\">Tokenized stock DEX volume tops $3.4 billion a week after Robinhood Chain launch</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 200.97,
+      "last_price": 200.5,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 249.29,
+      "last_price": 244.57,
       "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 57.27,
+      "last_price": 55.67,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 446.63,
-      "news": "<a href=\"https://www.gov.uk/government/publications/benefits-of-walking-wheeling-and-cycling-theoretical-framework\" target=\"_blank\">Research: Benefits of walking, wheeling and cycling: theoretical framework</a>"
+      "last_price": 430.01,
+      "news": "<a href=\"https://sports.yahoo.com/articles/girls-flag-football-tuesdays-scores-060145822.html\" target=\"_blank\">Girls' flag football: Tuesday's scores</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 335.08,
-      "news": "<a href=\"https://english.khabarhub.com/2026/14/571906/\" target=\"_blank\">Economic Digest: A Snapshot of Nepal\u2019s Business News</a>"
+      "last_price": 335.07,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-percentage-of-baby-deer-survive/\" target=\"_blank\">What percentage of baby deer survive?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.04,
+      "last_price": 7.12,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.93,
+      "last_price": 2.96,
       "news": "<a href=\"https://en.antaranews.com/news/433559/four-major-tech-fairs-open-in-october-attracting-some-6200-exhibitors-from-around-the-world\" target=\"_blank\">Four major tech fairs open in October attracting some 6,200 exhibitors from around the world</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.99,
+      "last_price": 77.3,
       "news": "<a href=\"http://nyc.streetsblog.org/2026/10/09/fridays-headlines-bedford-bedford-edition\" target=\"_blank\">Friday\u2019s Headlines: \u2018Bedford? Bedford?\u2019 Edition</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 519.42,
+      "last_price": 514.71,
       "news": "<a href=\"https://www.naturalnews.com/2026-10-04-burry-moves-up-timeline-ai-bubble-short.html\" target=\"_blank\">Michael Burry Moves Up Timeline for AI Bubble Short, Switches to Put Options</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 168.06,
+      "last_price": 168.72,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.64,
+      "last_price": 16.55,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-14T16:00:00+00:00",
-  "data_date": "2026-10-14",
+  "last_updated": "2026-10-15T16:00:00+00:00",
+  "data_date": "2026-10-15",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
