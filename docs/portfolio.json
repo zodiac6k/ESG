@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 426.23,
-      "news": "<a href=\"https://thediplomat.com/2026/10/opcon-transition-now-it-is-time-for-the-commanders-in-chief/\" target=\"_blank\">OPCON Transition: Now It Is Time for the Commanders-in-Chief</a>"
+      "news": "<a href=\"https://www.thehindubusinessline.com/economy/india-and-south-korea-explore-cooperation-in-nuclear-energy-green-hydrogen/article71590963.ece\" target=\"_blank\">India and South Korea explore cooperation in nuclear energy, green hydrogen</a>"
     },
     {
       "ticker": "EMR",
@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 161.47,
-      "news": "<a href=\"https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/\" target=\"_blank\">Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality</a>"
+      "news": "<a href=\"https://pypi.org/project/forge-doctor-data/\" target=\"_blank\">forge-doctor-data added to PyPI</a>"
     },
     {
       "ticker": "HON",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 214.13,
-      "news": "<a href=\"https://cryptobriefing.com/robinhood-chain-tokenized-stock-dex-volume/\" target=\"_blank\">Tokenized stock DEX volume tops $3.4 billion a week after Robinhood Chain launch</a>"
+      "news": "<a href=\"https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade\" target=\"_blank\">Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade</a>"
     },
     {
       "ticker": "PLTR",
@@ -97,7 +97,7 @@
       "quantity": 32.37,
       "initial_price": 137.32,
       "last_price": 227.39,
-      "news": "<a href=\"https://www.thestreet.com/investing/stocks/jim-cramer-crowdstrike-crwd-must-buy-ai-threats\" target=\"_blank\">Jim Cramer delivers unmistakable 2026 must-buy call on AI stock</a>"
+      "news": "No news available"
     },
     {
       "ticker": "CGNX",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 306.84,
-      "news": "<a href=\"https://www.lifesciencesworld.com/are-spider-crabs-good-eating/\" target=\"_blank\">Are spider crabs good eating?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/do-bears-have-better-noses-than-dogs/\" target=\"_blank\">Do bears have better noses than dogs?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-16T16:00:00+00:00",
-  "data_date": "2026-10-16",
+  "last_updated": "2026-10-17T16:00:00+00:00",
+  "data_date": "2026-10-17",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
