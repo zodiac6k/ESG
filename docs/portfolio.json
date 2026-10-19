@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 211.41,
-      "news": "No news available"
+      "news": "<a href=\"https://punchng.com/sanwo-olu-warns-lagos-residents-against-building-on-wetlands/\" target=\"_blank\">Sanwo-Olu warns Lagos residents against building on wetlands</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 306.84,
-      "news": "<a href=\"https://www.lifesciencesworld.com/do-bears-have-better-noses-than-dogs/\" target=\"_blank\">Do bears have better noses than dogs?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/is-crabbing-good-money/\" target=\"_blank\">Is crabbing good money?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-17T16:00:00+00:00",
-  "data_date": "2026-10-17",
+  "last_updated": "2026-10-18T16:00:00+00:00",
+  "data_date": "2026-10-18",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
