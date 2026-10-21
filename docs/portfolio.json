@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "109.56%",
-      "CAGR": "27.97%",
+      "Total Return": "110.21%",
+      "CAGR": "28.10%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.71"
     },
     "QQQ": {
-      "Total Return": "84.03%",
-      "CAGR": "22.55%",
+      "Total Return": "83.84%",
+      "CAGR": "22.50%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "70.95%",
-      "CAGR": "19.57%",
+      "Total Return": "71.52%",
+      "CAGR": "19.70%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 424.47,
+      "last_price": 427.77,
       "news": "<a href=\"https://www.thehindubusinessline.com/economy/india-and-south-korea-explore-cooperation-in-nuclear-energy-green-hydrogen/article71590963.ece\" target=\"_blank\">India and South Korea explore cooperation in nuclear energy, green hydrogen</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 160.54,
-      "news": "<a href=\"https://pypi.org/project/forge-doctor-data/\" target=\"_blank\">forge-doctor-data added to PyPI</a>"
+      "last_price": 160.46,
+      "news": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003905.v1.p1\" target=\"_blank\">New | phs003905.v1.p1 | The Electronic Medical Records and GEnomics Network Genomic Risk Assessment (eMERGE IV)</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 209.98,
-      "news": "<a href=\"https://punchng.com/sanwo-olu-warns-lagos-residents-against-building-on-wetlands/\" target=\"_blank\">Sanwo-Olu warns Lagos residents against building on wetlands</a>"
+      "last_price": 213.32,
+      "news": "<a href=\"https://punchng.com/tinubu-oborevwori-mourn-as-ex-delta-gov-uduaghan-dies-at-71/\" target=\"_blank\">Tinubu, Oborevwori mourn as ex-Delta gov Uduaghan dies at 71</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 533.52,
+      "last_price": 531.87,
       "news": "<a href=\"https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857\" target=\"_blank\">ICANN reveals bids for new top-level domains</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 217.09,
+      "last_price": 216.47,
       "news": "<a href=\"https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade\" target=\"_blank\">Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 194.15,
+      "last_price": 192.6,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 228.1,
+      "last_price": 227.37,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 55.16,
+      "last_price": 56.77,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 413.11,
+      "last_price": 404.98,
       "news": "<a href=\"https://sports.yahoo.com/articles/girls-flag-football-tuesdays-scores-060145822.html\" target=\"_blank\">Girls' flag football: Tuesday's scores</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 315.35,
-      "news": "<a href=\"https://www.lifesciencesworld.com/which-crab-is-safe-to-eat/\" target=\"_blank\">Which crab is safe to eat?</a>"
+      "last_price": 319.61,
+      "news": "<a href=\"https://goodmenproject.com/featured-content/exploring-how-plants-thrive-in-a-changing-environment/\" target=\"_blank\">Exploring How Plants Thrive in a Changing Environment</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.0,
+      "last_price": 6.96,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.89,
+      "last_price": 2.98,
       "news": "<a href=\"https://en.antaranews.com/news/433559/four-major-tech-fairs-open-in-october-attracting-some-6200-exhibitors-from-around-the-world\" target=\"_blank\">Four major tech fairs open in October attracting some 6,200 exhibitors from around the world</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 75.92,
+      "last_price": 76.7,
       "news": "<a href=\"http://comicbook.com/tv-shows/list/as-we-head-into-helluva-boss-season-3-heres-what-we-know-so-far-about-each-ring-of-hell/\" target=\"_blank\">As We Head Into Helluva Boss Season 3, Here\u2019s What We Know So Far About Each Ring Of Hell</a>"
     },
     {
@@ -159,8 +159,8 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 501.93,
-      "news": "<a href=\"https://www.naturalnews.com/2026-10-04-burry-moves-up-timeline-ai-bubble-short.html\" target=\"_blank\">Michael Burry Moves Up Timeline for AI Bubble Short, Switches to Put Options</a>"
+      "last_price": 500.01,
+      "news": "<a href=\"https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html\" target=\"_blank\">Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real</a>"
     },
     {
       "ticker": "ESGU",
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 167.55,
+      "last_price": 168.07,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.26,
+      "last_price": 16.33,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-19T16:00:00+00:00",
-  "data_date": "2026-10-19",
+  "last_updated": "2026-10-20T16:00:00+00:00",
+  "data_date": "2026-10-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
