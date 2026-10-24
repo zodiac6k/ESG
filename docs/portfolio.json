@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "106.96%",
-      "CAGR": "27.44%",
+      "Total Return": "108.26%",
+      "CAGR": "27.70%",
       "Max Drawdown": "-38.34%",
       "Sharpe Ratio": "0.70"
     },
     "QQQ": {
-      "Total Return": "80.47%",
+      "Total Return": "80.45%",
       "CAGR": "21.75%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "70.38%",
-      "CAGR": "19.44%",
+      "Total Return": "69.50%",
+      "CAGR": "19.23%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 423.87,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/rockwell-automation-introduces-factorytalk-conductor-an-ai-native-orchestration-platform-for-industrial-automation-302914710.html\" target=\"_blank\">Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation</a>"
+      "last_price": 426.11,
+      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/rockwell-automation-expands-factorytalk-conductor-with-nvidia-nemotron-support-302916895.html\" target=\"_blank\">Rockwell Automation Expands FactoryTalk Conductor with NVIDIA Nemotron Support</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 160.29,
+      "last_price": 161.59,
       "news": "<a href=\"https://www.prnewswire.com/news-releases/nuh-wins-gold-at-ihf-awards-2026-for-green-operating-theatre-programme-302916198.html\" target=\"_blank\">NUH WINS GOLD AT IHF AWARDS 2026 FOR GREEN OPERATING THEATRE PROGRAMME</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 218.31,
-      "news": "<a href=\"https://punchng.com/2027-tinubu-campaign-council-creates-new-directorate-reshuffles-teams/\" target=\"_blank\">2027: Tinubu campaign council creates new directorate, reshuffles teams</a>"
+      "last_price": 221.15,
+      "news": "<a href=\"https://punchng.com/yobe-youths-hail-buni-for-appointing-new-attorney-general/\" target=\"_blank\">Yobe youths hail Buni for appointing new Attorney-General</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 521.08,
-      "news": "<a href=\"https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857\" target=\"_blank\">ICANN reveals bids for new top-level domains</a>"
+      "last_price": 524.51,
+      "news": "<a href=\"https://www.jeroenbouma.com/projects/financetoolkit/mcp\" target=\"_blank\">Show HN: Finance Toolkit MCP with 500 financial metrics for Claude and others</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 212.21,
-      "news": "<a href=\"https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade\" target=\"_blank\">Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade</a>"
+      "last_price": 210.96,
+      "news": "<a href=\"https://www.jeroenbouma.com/projects/financetoolkit/mcp\" target=\"_blank\">Show HN: Finance Toolkit MCP with 500 financial metrics for Claude and others</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 196.19,
+      "last_price": 196.75,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 237.94,
+      "last_price": 257.57,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 54.6,
+      "last_price": 55.55,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 375.58,
+      "last_price": 377.24,
       "news": "<a href=\"https://sports.yahoo.com/articles/girls-flag-football-tuesdays-scores-060145822.html\" target=\"_blank\">Girls' flag football: Tuesday's scores</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 313.96,
-      "news": "<a href=\"https://peoplesreview.com.np/2026/10/22/xi-jinpings-new-long-march/\" target=\"_blank\">Xi Jinping\u2019s new Long March</a>"
+      "last_price": 325.43,
+      "news": "<a href=\"https://economictimes.indiatimes.com/news/india/un-biodiversity-summit-to-take-stock-of-2030-goals/articleshow/135125890.cms\" target=\"_blank\">UN biodiversity summit to take stock of 2030 goals</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 6.83,
+      "last_price": 6.8,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.05,
+      "last_price": 3.04,
       "news": "<a href=\"https://github.com/flisk-sh/flisk\" target=\"_blank\">Show HN: Repository of the Day - Flisk \u2013 run a full local service stack ASAP</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 74.84,
+      "last_price": 74.8,
       "news": "<a href=\"https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472\" target=\"_blank\">Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 475.69,
+      "last_price": 478.2,
       "news": "<a href=\"https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html\" target=\"_blank\">Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 167.17,
+      "last_price": 166.36,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.17,
+      "last_price": 16.02,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-22T16:00:00+00:00",
-  "data_date": "2026-10-22",
+  "last_updated": "2026-10-23T16:00:00+00:00",
+  "data_date": "2026-10-23",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
