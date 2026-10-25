@@ -43,7 +43,7 @@
       "quantity": 27.35,
       "initial_price": 203.14,
       "last_price": 426.11,
-      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/rockwell-automation-expands-factorytalk-conductor-with-nvidia-nemotron-support-302916895.html\" target=\"_blank\">Rockwell Automation Expands FactoryTalk Conductor with NVIDIA Nemotron Support</a>"
+      "news": "<a href=\"https://smallwarsjournal.com/2026/10/23/10-23-26-national-security-and-korean-news-and-commentary/\" target=\"_blank\">10/23/26 National Security and Korean News and Commentary</a>"
     },
     {
       "ticker": "EMR",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 221.15,
-      "news": "<a href=\"https://punchng.com/yobe-youths-hail-buni-for-appointing-new-attorney-general/\" target=\"_blank\">Yobe youths hail Buni for appointing new Attorney-General</a>"
+      "news": "<a href=\"https://punchng.com/monarch-denies-ogun-allegations/\" target=\"_blank\">Monarch denies Ogun allegations</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 325.43,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/india/un-biodiversity-summit-to-take-stock-of-2030-goals/articleshow/135125890.cms\" target=\"_blank\">UN biodiversity summit to take stock of 2030 goals</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-far-do-deer-travel-daily-in-a-day/\" target=\"_blank\">How far do deer travel daily in a day?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-23T16:00:00+00:00",
-  "data_date": "2026-10-23",
+  "last_updated": "2026-10-24T16:00:00+00:00",
+  "data_date": "2026-10-24",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
