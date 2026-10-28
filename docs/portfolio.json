@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "110.50%",
-      "CAGR": "28.16%",
+      "Total Return": "114.29%",
+      "CAGR": "28.93%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.71"
+      "Sharpe Ratio": "0.72"
     },
     "QQQ": {
-      "Total Return": "82.45%",
-      "CAGR": "22.19%",
+      "Total Return": "84.77%",
+      "CAGR": "22.71%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "70.70%",
-      "CAGR": "19.51%",
+      "Total Return": "71.66%",
+      "CAGR": "19.73%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 429.89,
+      "last_price": 439.2,
       "news": "<a href=\"https://smallwarsjournal.com/2026/10/23/10-23-26-national-security-and-korean-news-and-commentary/\" target=\"_blank\">10/23/26 National Security and Korean News and Commentary</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 161.7,
-      "news": "<a href=\"https://www.prnewswire.com/news-releases/nuh-wins-gold-at-ihf-awards-2026-for-green-operating-theatre-programme-302916198.html\" target=\"_blank\">NUH WINS GOLD AT IHF AWARDS 2026 FOR GREEN OPERATING THEATRE PROGRAMME</a>"
+      "last_price": 166.27,
+      "news": "<a href=\"https://www.cleveroad.com/blog/health-insurance-software-development/\" target=\"_blank\">Health Insurance Software Development: A 2026 Guide</a>"
     },
     {
       "ticker": "HON",
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 219.28,
+      "last_price": 218.81,
       "news": "<a href=\"https://punchng.com/monarch-denies-ogun-allegations/\" target=\"_blank\">Monarch denies Ogun allegations</a>"
     },
     {
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 532.6,
-      "news": "<a href=\"https://www.jeroenbouma.com/projects/financetoolkit/mcp\" target=\"_blank\">Show HN: Finance Toolkit MCP with 500 financial metrics for Claude and others</a>"
+      "last_price": 531.33,
+      "news": "<a href=\"https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off\" target=\"_blank\">Calpers pulls back from big tech as AI jitters deepen neocloud sell-off</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 216.0,
-      "news": "<a href=\"https://www.jeroenbouma.com/projects/financetoolkit/mcp\" target=\"_blank\">Show HN: Finance Toolkit MCP with 500 financial metrics for Claude and others</a>"
+      "last_price": 217.94,
+      "news": "<a href=\"https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off\" target=\"_blank\">Calpers pulls back from big tech as AI jitters deepen neocloud sell-off</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 198.84,
+      "last_price": 198.73,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 261.83,
+      "last_price": 268.02,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 55.63,
+      "last_price": 58.22,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 387.59,
+      "last_price": 395.93,
       "news": "<a href=\"https://sports.yahoo.com/articles/girls-flag-football-tuesdays-scores-060145822.html\" target=\"_blank\">Girls' flag football: Tuesday's scores</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 334.95,
-      "news": "<a href=\"https://freerepublic.com/focus/f-chat/4400546/posts\" target=\"_blank\">From Philadelphia Landmark to Artificial Reef: The Continued Saga of the SS United States</a>"
+      "last_price": 337.42,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-do-squirrels-do-with-the-nuts-they-bury/\" target=\"_blank\">What do squirrels do with the nuts they bury?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 6.97,
+      "last_price": 7.16,
       "news": "No news available"
     },
     {
@@ -141,8 +141,8 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.95,
-      "news": "<a href=\"https://github.com/flisk-sh/flisk\" target=\"_blank\">Show HN: Repository of the Day - Flisk \u2013 run a full local service stack ASAP</a>"
+      "last_price": 3.03,
+      "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140\" target=\"_blank\">Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</a>"
     },
     {
       "ticker": "ROBO",
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 75.52,
-      "news": "<a href=\"https://www.business-standard.com/specials/bs-events/bfsi-summit-2026-shaktikanta-das-to-poonam-gupta-here-are-key-speakers-126102500645_1.html\" target=\"_blank\">BFSI Summit 2026: Shaktikanta Das to Poonam Gupta, here are key speakers</a>"
+      "last_price": 77.18,
+      "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012353\" target=\"_blank\">Auxilin in enteroendocrine cells controls intestinal homeostasis through inter-cell signaling relays</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 491.83,
+      "last_price": 511.06,
       "news": "<a href=\"https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html\" target=\"_blank\">Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 167.55,
+      "last_price": 168.67,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.55,
+      "last_price": 15.86,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-26T16:00:00+00:00",
-  "data_date": "2026-10-26",
+  "last_updated": "2026-10-27T16:00:00+00:00",
+  "data_date": "2026-10-27",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
