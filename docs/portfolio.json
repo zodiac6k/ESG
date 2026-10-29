@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "114.29%",
-      "CAGR": "28.93%",
+      "Total Return": "115.58%",
+      "CAGR": "29.18%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.72"
+      "Sharpe Ratio": "0.73"
     },
     "QQQ": {
-      "Total Return": "84.77%",
-      "CAGR": "22.71%",
+      "Total Return": "85.89%",
+      "CAGR": "22.96%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.66%",
-      "CAGR": "19.73%",
+      "Total Return": "72.25%",
+      "CAGR": "19.87%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 439.2,
+      "last_price": 443.81,
       "news": "<a href=\"https://smallwarsjournal.com/2026/10/23/10-23-26-national-security-and-korean-news-and-commentary/\" target=\"_blank\">10/23/26 National Security and Korean News and Commentary</a>"
     },
     {
@@ -51,8 +51,8 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 166.27,
-      "news": "<a href=\"https://www.cleveroad.com/blog/health-insurance-software-development/\" target=\"_blank\">Health Insurance Software Development: A 2026 Guide</a>"
+      "last_price": 167.71,
+      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/pathologys-future-is-connected-hyland-is-bringing-it-into-focus-302918555.html\" target=\"_blank\">Pathology's Future Is Connected. Hyland Is Bringing It Into Focus.</a>"
     },
     {
       "ticker": "HON",
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 218.81,
-      "news": "<a href=\"https://punchng.com/monarch-denies-ogun-allegations/\" target=\"_blank\">Monarch denies Ogun allegations</a>"
+      "last_price": 219.26,
+      "news": "<a href=\"https://punchng.com/abdulrazaq-appoints-governing-councils-for-17-kwara-institutions/\" target=\"_blank\">AbdulRazaq appoints governing councils for 17 Kwara institutions</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 531.33,
+      "last_price": 531.01,
       "news": "<a href=\"https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off\" target=\"_blank\">Calpers pulls back from big tech as AI jitters deepen neocloud sell-off</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 217.94,
+      "last_price": 215.38,
       "news": "<a href=\"https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off\" target=\"_blank\">Calpers pulls back from big tech as AI jitters deepen neocloud sell-off</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 198.73,
+      "last_price": 196.81,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 268.02,
+      "last_price": 266.66,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 58.22,
+      "last_price": 58.43,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 395.93,
+      "last_price": 416.0,
       "news": "<a href=\"https://sports.yahoo.com/articles/girls-flag-football-tuesdays-scores-060145822.html\" target=\"_blank\">Girls' flag football: Tuesday's scores</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 337.42,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-do-squirrels-do-with-the-nuts-they-bury/\" target=\"_blank\">What do squirrels do with the nuts they bury?</a>"
+      "last_price": 339.91,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-kills-deer-the-most/\" target=\"_blank\">What kills deer the most?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.16,
+      "last_price": 7.15,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 3.03,
+      "last_price": 2.99,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140\" target=\"_blank\">Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.18,
-      "news": "<a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012353\" target=\"_blank\">Auxilin in enteroendocrine cells controls intestinal homeostasis through inter-cell signaling relays</a>"
+      "last_price": 78.1,
+      "news": "<a href=\"https://financialpost.com/investing/investors-are-ignoring-sky-high-stock-valuations-and-downplaying-the-potential-for-a-stock-market-bubble\" target=\"_blank\">Investors are ignoring sky-high stock valuations and downplaying the potential for a stock market bubble</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 511.06,
+      "last_price": 521.94,
       "news": "<a href=\"https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html\" target=\"_blank\">Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 168.67,
+      "last_price": 169.15,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.86,
+      "last_price": 15.75,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-27T16:00:00+00:00",
-  "data_date": "2026-10-27",
+  "last_updated": "2026-10-28T16:00:00+00:00",
+  "data_date": "2026-10-28",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
