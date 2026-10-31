@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "114.86%",
-      "CAGR": "29.04%",
+      "Total Return": "105.67%",
+      "CAGR": "27.17%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.73"
+      "Sharpe Ratio": "0.69"
     },
     "QQQ": {
-      "Total Return": "83.26%",
-      "CAGR": "22.37%",
+      "Total Return": "76.89%",
+      "CAGR": "20.94%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "71.59%",
-      "CAGR": "19.72%",
+      "Total Return": "68.55%",
+      "CAGR": "19.01%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,8 +42,8 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 451.4,
-      "news": "<a href=\"https://smallwarsjournal.com/2026/10/23/10-23-26-national-security-and-korean-news-and-commentary/\" target=\"_blank\">10/23/26 National Security and Korean News and Commentary</a>"
+      "last_price": 436.2,
+      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/rockwell-automation-introduces-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations-302922885.html\" target=\"_blank\">Rockwell Automation Introduces SecureOT Capabilities to Help OEMs Address Emerging Cybersecurity Regulations</a>"
     },
     {
       "ticker": "EMR",
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 170.74,
+      "last_price": 164.94,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/pathologys-future-is-connected-hyland-is-bringing-it-into-focus-302918555.html\" target=\"_blank\">Pathology's Future Is Connected. Hyland Is Bringing It Into Focus.</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 222.14,
-      "news": "<a href=\"https://finance.yahoo.com/media-advertising/articles/hkma-viutv-now-tv-awards-073700232.html\" target=\"_blank\">HKMA/ViuTV & Now TV Awards for Marketing Excellence 2026 announced West Kowloon Cultural District Authority as Top Award Winners</a>"
+      "last_price": 218.33,
+      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/hon-hai-technology-group-foxconn-unveils-3-distinctive-ev-models-at-hhtd26-302924529.html\" target=\"_blank\">Hon Hai Technology Group (Foxconn) Unveils 3 Distinctive EV Models At HHTD26</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,8 +69,8 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 530.14,
-      "news": "<a href=\"https://cryptobriefing.com/microsoft-foundry-120000-customers-revenue-triples/\" target=\"_blank\">Microsoft Foundry passes 120,000 customers as revenue more than triples</a>"
+      "last_price": 521.91,
+      "news": "<a href=\"https://biztoc.com/x/bf4981019974a09e\" target=\"_blank\">Microsoft Wants to Charge More as AI Agents Do More Work, While Google Sees a New Advertising Gold Mine \u2014\u2026</a>"
     },
     {
       "ticker": "NVDA",
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 213.66,
-      "news": "<a href=\"https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off\" target=\"_blank\">Calpers pulls back from big tech as AI jitters deepen neocloud sell-off</a>"
+      "last_price": 204.64,
+      "news": "<a href=\"https://pypi.org/project/agno-optimistfi/\" target=\"_blank\">agno-optimistfi added to PyPI</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 196.42,
+      "last_price": 184.11,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 261.15,
+      "last_price": 250.43,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 58.97,
+      "last_price": 56.15,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 421.66,
-      "news": "<a href=\"https://sports.yahoo.com/articles/girls-flag-football-tuesdays-scores-060145822.html\" target=\"_blank\">Girls' flag football: Tuesday's scores</a>"
+      "last_price": 390.09,
+      "news": "<a href=\"https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014898\" target=\"_blank\">From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 330.27,
-      "news": "<a href=\"https://www.lifesciencesworld.com/why-do-people-like-hairy-crab/\" target=\"_blank\">Why do people like hairy crab?</a>"
+      "last_price": 306.08,
+      "news": "<a href=\"https://www.lifesciencesworld.com/which-animal-has-white-fur/\" target=\"_blank\">Which animal has white fur?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 7.03,
+      "last_price": 6.72,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.93,
+      "last_price": 2.78,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140\" target=\"_blank\">Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 77.89,
+      "last_price": 74.62,
       "news": "<a href=\"https://financialpost.com/investing/investors-are-ignoring-sky-high-stock-valuations-and-downplaying-the-potential-for-a-stock-market-bubble\" target=\"_blank\">Investors are ignoring sky-high stock valuations and downplaying the potential for a stock market bubble</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 513.86,
+      "last_price": 471.51,
       "news": "<a href=\"https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html\" target=\"_blank\">Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 168.37,
+      "last_price": 165.22,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.69,
+      "last_price": 15.31,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-29T16:00:00+00:00",
-  "data_date": "2026-10-29",
+  "last_updated": "2026-10-30T16:00:00+00:00",
+  "data_date": "2026-10-30",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
