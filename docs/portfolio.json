@@ -70,7 +70,7 @@
       "quantity": 38.5,
       "initial_price": 202.0,
       "last_price": 521.91,
-      "news": "<a href=\"https://biztoc.com/x/bf4981019974a09e\" target=\"_blank\">Microsoft Wants to Charge More as AI Agents Do More Work, While Google Sees a New Advertising Gold Mine \u2014\u2026</a>"
+      "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html\" target=\"_blank\">Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off</a>"
     },
     {
       "ticker": "NVDA",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 204.64,
-      "news": "<a href=\"https://pypi.org/project/agno-optimistfi/\" target=\"_blank\">agno-optimistfi added to PyPI</a>"
+      "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html\" target=\"_blank\">Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 306.08,
-      "news": "<a href=\"https://www.lifesciencesworld.com/which-animal-has-white-fur/\" target=\"_blank\">Which animal has white fur?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/why-is-a-chinchilla-coat-so-expensive/\" target=\"_blank\">Why is a chinchilla coat so expensive?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-30T16:00:00+00:00",
-  "data_date": "2026-10-30",
+  "last_updated": "2026-10-31T16:00:00+00:00",
+  "data_date": "2026-10-31",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
