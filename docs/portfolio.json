@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 164.94,
-      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/pathologys-future-is-connected-hyland-is-bringing-it-into-focus-302918555.html\" target=\"_blank\">Pathology's Future Is Connected. Hyland Is Bringing It Into Focus.</a>"
+      "news": "<a href=\"https://activistpost.com/europe-to-require-big-change-in-how-cellphones-are-tested-for-radiation/\" target=\"_blank\">Europe to Require Big Change in How Cellphones Are Tested for Radiation</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 218.33,
-      "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/hon-hai-technology-group-foxconn-unveils-3-distinctive-ev-models-at-hhtd26-302924529.html\" target=\"_blank\">Hon Hai Technology Group (Foxconn) Unveils 3 Distinctive EV Models At HHTD26</a>"
+      "news": "<a href=\"https://punchng.com/adc-faction-inaugurates-north-west-campaign-council/\" target=\"_blank\">ADC faction inaugurates North-West campaign council</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 306.08,
-      "news": "<a href=\"https://www.lifesciencesworld.com/why-is-a-chinchilla-coat-so-expensive/\" target=\"_blank\">Why is a chinchilla coat so expensive?</a>"
+      "news": "<a href=\"https://www.slashfilm.com/2296623/controversial-60s-western-the-great-silence/\" target=\"_blank\">This Controversial (And Underseen) '60s Western Is One Of The Best Movies In The Genre</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-10-31T16:00:00+00:00",
-  "data_date": "2026-10-31",
+  "last_updated": "2026-11-01T16:00:00+00:00",
+  "data_date": "2026-11-01",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
