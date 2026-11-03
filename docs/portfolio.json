@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "105.67%",
-      "CAGR": "27.17%",
+      "Total Return": "103.48%",
+      "CAGR": "26.72%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.69"
+      "Sharpe Ratio": "0.68"
     },
     "QQQ": {
-      "Total Return": "76.89%",
-      "CAGR": "20.94%",
+      "Total Return": "74.48%",
+      "CAGR": "20.39%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "68.55%",
-      "CAGR": "19.01%",
+      "Total Return": "67.74%",
+      "CAGR": "18.82%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 436.2,
+      "last_price": 440.16,
       "news": "<a href=\"https://www.prnewswire.co.uk/news-releases/rockwell-automation-introduces-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations-302922885.html\" target=\"_blank\">Rockwell Automation Introduces SecureOT Capabilities to Help OEMs Address Emerging Cybersecurity Regulations</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 164.94,
+      "last_price": 165.96,
       "news": "<a href=\"https://activistpost.com/europe-to-require-big-change-in-how-cellphones-are-tested-for-radiation/\" target=\"_blank\">Europe to Require Big Change in How Cellphones Are Tested for Radiation</a>"
     },
     {
@@ -60,7 +60,7 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 218.33,
+      "last_price": 223.77,
       "news": "<a href=\"https://punchng.com/adc-faction-inaugurates-north-west-campaign-council/\" target=\"_blank\">ADC faction inaugurates North-West campaign council</a>"
     },
     {
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 521.91,
+      "last_price": 507.12,
       "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html\" target=\"_blank\">Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 204.64,
+      "last_price": 202.06,
       "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html\" target=\"_blank\">Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 184.11,
+      "last_price": 178.34,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 250.43,
+      "last_price": 241.81,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 56.15,
+      "last_price": 56.41,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 390.09,
+      "last_price": 374.53,
       "news": "<a href=\"https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014898\" target=\"_blank\">From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 306.08,
-      "news": "<a href=\"https://www.slashfilm.com/2296623/controversial-60s-western-the-great-silence/\" target=\"_blank\">This Controversial (And Underseen) '60s Western Is One Of The Best Movies In The Genre</a>"
+      "last_price": 290.68,
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-is-the-rule-for-bear-color/\" target=\"_blank\">What is the rule for bear color?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 6.72,
+      "last_price": 6.85,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 2.78,
+      "last_price": 2.66,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140\" target=\"_blank\">Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 74.62,
+      "last_price": 74.81,
       "news": "<a href=\"https://financialpost.com/investing/investors-are-ignoring-sky-high-stock-valuations-and-downplaying-the-potential-for-a-stock-market-bubble\" target=\"_blank\">Investors are ignoring sky-high stock valuations and downplaying the potential for a stock market bubble</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 471.51,
+      "last_price": 453.65,
       "news": "<a href=\"https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html\" target=\"_blank\">Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 165.22,
+      "last_price": 164.4,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 15.31,
+      "last_price": 15.73,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-01T16:00:00+00:00",
-  "data_date": "2026-11-01",
+  "last_updated": "2026-11-02T16:00:00+00:00",
+  "data_date": "2026-11-02",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
