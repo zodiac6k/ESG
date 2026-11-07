@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "87.26%",
-      "CAGR": "23.26%",
+      "Total Return": "90.44%",
+      "CAGR": "23.95%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.61"
+      "Sharpe Ratio": "0.63"
     },
     "QQQ": {
-      "Total Return": "65.76%",
-      "CAGR": "18.35%",
+      "Total Return": "68.08%",
+      "CAGR": "18.90%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "63.48%",
-      "CAGR": "17.80%",
+      "Total Return": "63.99%",
+      "CAGR": "17.93%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 381.05,
+      "last_price": 375.86,
       "news": "<a href=\"https://en.antaranews.com/news/440071/fuzhou-to-host-global-observance-of-world-cities-day-2026\" target=\"_blank\">Fuzhou to Host Global Observance of World Cities Day 2026</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 162.61,
+      "last_price": 162.35,
       "news": "<a href=\"https://aws.amazon.com/blogs/big-data/migrate-google-bigquery-to-an-open-lakehouse-on-aws-with-apache-iceberg/\" target=\"_blank\">Migrate Google BigQuery to an open lakehouse on AWS with Apache Iceberg</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 215.78,
-      "news": "<a href=\"https://punchng.com/kogi-west-apc-candidate-rejects-court-ruling-vows-appeal/\" target=\"_blank\">Kogi West APC candidate rejects court ruling, vows appeal</a>"
+      "last_price": 220.05,
+      "news": "<a href=\"https://punchng.com/adc-names-campaign-dg-for-kwara-gov-candidate/\" target=\"_blank\">ADC names campaign DG for Kwara gov candidate</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 535.93,
+      "last_price": 530.61,
       "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html\" target=\"_blank\">Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off</a>"
     },
     {
@@ -78,7 +78,7 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 181.6,
+      "last_price": 186.64,
       "news": "<a href=\"https://www.theglobeandmail.com/business/article-marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-centre-bet/\" target=\"_blank\">Marvell to buy Lumentum in $115-billion deal in AI data-centre bet</a>"
     },
     {
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 154.99,
+      "last_price": 160.38,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 217.2,
+      "last_price": 216.9,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 47.5,
+      "last_price": 47.78,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 319.25,
+      "last_price": 332.72,
       "news": "<a href=\"https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014898\" target=\"_blank\">From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 269.54,
-      "news": "<a href=\"https://www.lifesciencesworld.com/who-eats-elk-in-yellowstone/\" target=\"_blank\">Who eats elk in Yellowstone?</a>"
+      "last_price": 275.88,
+      "news": "<a href=\"https://www.lifesciencesworld.com/do-house-sparrows-sleep-at-night/\" target=\"_blank\">Do house sparrows sleep at night?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 6.11,
+      "last_price": 6.42,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.67,
+      "last_price": 1.75,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140\" target=\"_blank\">Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</a>"
     },
     {
@@ -150,8 +150,8 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 68.82,
-      "news": "<a href=\"https://financialpost.com/investing/investors-are-ignoring-sky-high-stock-valuations-and-downplaying-the-potential-for-a-stock-market-bubble\" target=\"_blank\">Investors are ignoring sky-high stock valuations and downplaying the potential for a stock market bubble</a>"
+      "last_price": 70.07,
+      "news": "<a href=\"https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento\" target=\"_blank\">Reflecting on Digital Rights Wins and Losses in Sacramento</a>"
     },
     {
       "ticker": "SOXX",
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 131.9,
+      "last_price": 136.53,
       "news": "<a href=\"https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html\" target=\"_blank\">Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real</a>"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 160.04,
+      "last_price": 160.66,
       "news": "No news available"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 16.14,
+      "last_price": 16.45,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-05T16:00:00+00:00",
-  "data_date": "2026-11-05",
+  "last_updated": "2026-11-06T16:00:00+00:00",
+  "data_date": "2026-11-06",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
