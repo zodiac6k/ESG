@@ -29,7 +29,7 @@ A website is a set of **text files** that a browser reads.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Asha Ram Yoga</title>
+  <title>Smile Yoga by Asha</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
