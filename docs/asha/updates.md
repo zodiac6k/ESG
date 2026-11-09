@@ -12,6 +12,8 @@ TEMPLATE:
 One or two sentences about what happened.
 - Practice or highlight 1
 - Practice or highlight 2
+
+TIP: put **two stars** around words to make them bold.
 -->
 
 ## 2026-11-09 | Website launched

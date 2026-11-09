@@ -12,7 +12,8 @@ A website is a set of **text files** that a browser reads.
 |---|---|---|
 | `index.html` | The **content**: headings, paragraphs, buttons | The bricks and rooms of a house |
 | `style.css` | The **look**: colours, fonts, spacing | The paint and furniture |
-| `updates.js` | The **behaviour**: reads the daily notes and shows them | The electricity |
+| `site.js` | The **behaviour**: phone menu button, fade-in effect | The light switches |
+| `updates.js` | Reads the daily notes and shows them as cards | The electricity |
 | `updates.md` | The **daily diary**: the only file Asha edits each day | A notebook on the wall |
 
 **GitHub** stores the files. **GitHub Pages** turns them into a live website for free.
@@ -140,6 +141,8 @@ Rules:
 - `## ` starts a new update
 - date in **YEAR-MONTH-DAY** format, then ` | `, then the title
 - normal lines become paragraphs, lines starting with `- ` become bullets
+- put `**two stars**` around words to make them **bold**
+- only the newest 5 show at first; visitors click "Show older updates" for more
 
 ### Step 11: What `updates.js` does (in 4 steps)
 1. **fetch** (download) `updates.md`
