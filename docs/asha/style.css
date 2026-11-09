@@ -1,0 +1,102 @@
+/* ===== Colours (change these to re-theme the whole site) ===== */
+:root {
+  --bg: #fbf8f3;
+  --bg-alt: #f1ebe0;
+  --text: #2b2a27;
+  --muted: #6b665d;
+  --accent: #b5562b;      /* saffron/terracotta */
+  --accent-dark: #8f3f1b;
+  --card: #ffffff;
+  --line: #e2d9c9;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.6;
+}
+.wrap { max-width: 1000px; margin: 0 auto; padding: 0 16px; }
+section { padding: 56px 0; scroll-margin-top: 60px; }
+section.alt { background: var(--bg-alt); }
+h1, h2, h3 { line-height: 1.2; margin: 0 0 12px; }
+h1 { font-size: clamp(2rem, 6vw, 3.2rem); }
+h2 { font-size: 1.8rem; color: var(--accent-dark); }
+h3 { font-size: 1.1rem; }
+.mt { margin-top: 32px; }
+.muted { color: var(--muted); }
+
+/* ===== Top menu ===== */
+.topbar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;
+  gap: 8px; padding: 10px 16px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+.brand { font-weight: 700; color: var(--text); text-decoration: none; }
+.brand span { color: var(--accent); }
+nav { display: flex; flex-wrap: wrap; gap: 14px; }
+nav a { color: var(--text); text-decoration: none; font-size: 0.95rem; }
+nav a:hover { color: var(--accent); }
+
+/* ===== Hero ===== */
+.hero { padding: 80px 0; background: linear-gradient(160deg, #f6e7d6, var(--bg)); }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.8rem; color: var(--accent); margin: 0 0 8px; }
+.lead { font-size: 1.15rem; max-width: 640px; }
+.cta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+.btn {
+  display: inline-block; padding: 12px 20px; border-radius: 8px;
+  background: var(--accent); color: #fff; text-decoration: none; font-weight: 600;
+}
+.btn:hover { background: var(--accent-dark); }
+.btn.ghost { background: transparent; color: var(--accent-dark); border: 2px solid var(--accent); }
+
+/* ===== Cards ===== */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 20px;
+}
+.card ul { padding-left: 18px; margin: 0; }
+.card.link { text-decoration: none; color: var(--text); }
+.card.link:hover { border-color: var(--accent); }
+.card.link p { color: var(--accent-dark); font-weight: 600; margin: 0; word-break: break-word; }
+.tag { font-size: 0.8rem; color: var(--accent); font-weight: 600; margin: 0 0 4px; }
+
+/* ===== Table ===== */
+table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 12px; overflow: hidden; }
+th, td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { width: 30%; background: #f7efe3; }
+
+.scroll-x { overflow-x: auto; }
+.agenda th { width: auto; }
+.agenda td:first-child, .agenda td:last-child { white-space: nowrap; }
+
+/* ===== Lists ===== */
+.ticks { list-style: none; padding: 0; }
+.ticks li { padding-left: 26px; position: relative; margin-bottom: 8px; }
+.ticks li::before { content: "✓"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+
+/* ===== Daily updates ===== */
+.update {
+  background: var(--card); border-left: 4px solid var(--accent);
+  border-radius: 8px; padding: 16px 20px; margin-bottom: 14px;
+}
+.update .date { font-size: 0.85rem; color: var(--accent); font-weight: 600; }
+.update h3 { margin: 4px 0 8px; }
+.update p { margin: 0 0 6px; }
+.update ul { margin: 0; padding-left: 20px; }
+
+footer { text-align: center; padding: 24px 16px; color: var(--muted); border-top: 1px solid var(--line); }
+
+/* ===== Phones ===== */
+@media (max-width: 600px) {
+  section { padding: 40px 0; }
+  nav { gap: 10px; font-size: 0.9rem; }
+  th { width: 38%; }
+  .agenda th, .agenda td { padding: 10px 8px; font-size: 0.9rem; }
+  .agenda th:first-child, .agenda td:first-child { display: none; }
+}
