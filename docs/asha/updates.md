@@ -18,5 +18,5 @@ TIP: put **two stars** around words to make them bold.
 
 ## 2026-11-09 | Website launched
 Welcome! This page will carry a short note after every session: what we practised, how the group felt, and tips for home practice.
-- 60-minute Corporate Yoga & Wellness Workshop and therapeutic yoga now open for bookings
+- Deskasana (60-minute corporate workshop) and therapeutic yoga now open for bookings
 - Call or WhatsApp +91 93421 13730, or email kscasha@gmail.com
