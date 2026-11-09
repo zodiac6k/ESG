@@ -158,7 +158,7 @@ You can read the code in `updates.js`. Each step has a comment.
 
 ### Step 12: Upload the files
 1. Sign in to github.com and open the repository.
-2. Go to the `docs` folder and open `asha`.
+2. Go to the `docs` folder and open `smileyoga`.
 3. To create a file, click **Add file → Create new file**. To add files from your computer, click **Upload files**.
 4. Click **Commit changes**.
 
@@ -167,14 +167,14 @@ You can read the code in `updates.js`. Each step has a comment.
 2. Under "Source", choose **Deploy from a branch**.
 3. Branch: **main**, folder: **/docs**. Click **Save**.
 4. After 1–2 minutes the site is live at:
-   `https://<your-github-username>.github.io/<repository-name>/asha/`
+   `https://<your-github-username>.github.io/<repository-name>/smileyoga/`
 
 ---
 
 ## Part F: Posting the daily update (Asha's 2-minute routine)
 
 ### Step 14: Every day after class
-1. Open `docs/asha/updates.md` on github.com (on a phone or laptop).
+1. Open `docs/smileyoga/updates.md` on github.com (on a phone or laptop).
 2. Click the **pencil ✏️** (Edit).
 3. Paste a new block **at the top of the list**:
    ```
