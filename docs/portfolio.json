@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 332.71,
+      "last_price": 332.72,
       "news": "<a href=\"https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014898\" target=\"_blank\">From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods</a>"
     },
     {
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 275.88,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-time-do-deer-sleep-at-night/\" target=\"_blank\">What time do deer sleep at night?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/what-are-foxes-behavioral-characteristics/\" target=\"_blank\">What are foxes behavioral characteristics?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-07T16:00:00+00:00",
-  "data_date": "2026-11-07",
+  "last_updated": "2026-11-08T16:00:00+00:00",
+  "data_date": "2026-11-08",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
