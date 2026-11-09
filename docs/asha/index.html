@@ -5,79 +5,128 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Asha Ram Yoga</title>
   <meta name="description" content="Asha Ram: certified yoga therapist (M.Sc. Yoga, S-VYASA). Therapeutic yoga and corporate wellness workshops, in Chennai and online.">
+  <meta name="theme-color" content="#fbf7f0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
   <!-- ===== TOP MENU ===== -->
   <header class="topbar">
-    <a class="brand" href="#home">Asha Ram <span>Yoga &amp; Wellness</span></a>
-    <nav>
-      <a href="#about">About</a>
-      <a href="#services">Services</a>
-      <a href="#workshop">Workshop</a>
-      <a href="#updates">Daily Updates</a>
-      <a href="#contact">Contact</a>
-    </nav>
+    <div class="wrap bar">
+      <a class="brand" href="#home">
+        <svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="var(--accent)"/><path d="M16 7c3 4 3 8 0 12-3-4-3-8 0-12Zm-8 7c4 0 7 2 8 6-4 0-7-2-8-6Zm16 0c-4 0-7 2-8 6 4 0 7-2 8-6ZM8 23h16" stroke="#fff" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>Asha Ram <em>Yoga &amp; Wellness</em></span>
+      </a>
+      <button class="menu-btn" aria-label="Open menu" aria-expanded="false">☰</button>
+      <nav id="menu">
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#workshop">Workshop</a>
+        <a href="#updates">Updates</a>
+        <a class="nav-cta" href="#contact">Book a session</a>
+      </nav>
+    </div>
   </header>
 
-  <!-- ===== HERO (first screen) ===== -->
+  <!-- ===== HERO ===== -->
   <section id="home" class="hero">
-    <div class="wrap">
-      <p class="eyebrow">Yoga Therapy · Corporate Wellness · Chennai &amp; Online</p>
-      <h1>Yoga for Well-Being</h1>
-      <p class="lead">Therapeutic yoga and corporate wellness workshops by Asha Ram, certified yoga therapist with an M.Sc. in Yoga from S-VYASA. Relief for posture strain, stress and lifestyle conditions, for every fitness level.</p>
-      <div class="cta">
-        <a class="btn" href="tel:+919342113730">Call +91 93421 13730</a>
-        <a class="btn ghost" href="mailto:kscasha@gmail.com">Email kscasha@gmail.com</a>
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Yoga Therapy · Corporate Wellness</p>
+        <h1>Breathe better.<br>Sit taller.<br><span>Feel calmer.</span></h1>
+        <p class="lead">Therapeutic yoga and 60-minute corporate wellness workshops by <b>Asha Ram</b>, certified yoga therapist (M.Sc. Yoga, S-VYASA). In Chennai and online.</p>
+        <div class="cta">
+          <a class="btn" href="https://wa.me/919342113730" target="_blank" rel="noopener">WhatsApp to book</a>
+          <a class="btn ghost" href="#workshop">See the workshop</a>
+        </div>
       </div>
+      <!-- Simple drawing: sun + seated figure -->
+      <svg class="hero-art" viewBox="0 0 320 320" role="img" aria-label="Illustration of a person meditating in front of the sun">
+        <circle cx="160" cy="150" r="120" fill="var(--sun-1)"/>
+        <circle cx="160" cy="150" r="88" fill="var(--sun-2)"/>
+        <circle cx="160" cy="150" r="56" fill="var(--sun-3)"/>
+        <path d="M0 255c60-30 110-30 160-10s100 20 160-10v85H0Z" fill="var(--hill-1)"/>
+        <path d="M0 275c70-20 120-15 170 0s100 10 150-5v55H0Z" fill="var(--hill-2)"/>
+        <g fill="var(--figure)">
+          <circle cx="160" cy="132" r="15"/>
+          <path d="M141 152h38c6 0 10 4 11 10l7 44h-74l7-44c1-6 5-10 11-10Z"/>
+          <path d="M108 222c10-14 32-18 52-18s42 4 52 18c-14 7-32 10-52 10s-38-3-52-10Z"/>
+          <path d="M140 165c-12 14-18 28-20 42l10 3c4-12 9-22 16-30Z"/>
+          <path d="M180 165c12 14 18 28 20 42l-10 3c-4-12-9-22-16-30Z"/>
+        </g>
+      </svg>
+    </div>
+
+    <div class="wrap">
+      <ul class="stats">
+        <li><b>M.Sc.</b><span>Yoga, S-VYASA</span></li>
+        <li><b>5+ yrs</b><span>Teaching in UAE</span></li>
+        <li><b>60 min</b><span>Corporate workshop</span></li>
+        <li><b>3</b><span>Languages: EN · தமிழ் · हिन्दी</span></li>
+      </ul>
     </div>
   </section>
 
   <!-- ===== ABOUT (from CV) ===== -->
   <section id="about">
     <div class="wrap">
-      <h2>About Asha</h2>
-      <p>Asha is a certified yoga therapist with an M.Sc. in Yoga and five years of experience teaching therapeutic yoga in the UAE. She supports weight loss, PCOD, anxiety, back pain and seniors' wellness. She helps women, students and working professionals build a daily practice that supports work–life balance and long-term health.</p>
+      <p class="eyebrow">About</p>
+      <h2>Meet Asha</h2>
+      <div class="about-grid">
+        <div>
+          <p class="big">Asha is a certified yoga therapist with an M.Sc. in Yoga and five years of experience teaching therapeutic yoga in the UAE.</p>
+          <p>She supports weight loss, PCOD, anxiety, back pain and seniors' wellness, and helps women, students and working professionals build a daily practice for work–life balance and long-term health.</p>
 
-      <h3 class="mt">Experience</h3>
-      <div class="timeline">
-        <div class="item">
-          <p class="tag">2021 – present · UAE</p>
-          <h3>Therapeutic Yoga Instructor, Independent Practice</h3>
-          <p>Therapeutic yoga for weight loss, PCOD, anxiety, back pain and healthy lifestyle. Wellness programmes for seniors. Workshops on healthy diet and fitness.</p>
+          <h3 class="mt">Experience</h3>
+          <div class="timeline">
+            <div class="item">
+              <p class="tag">2021 – present · UAE</p>
+              <h4>Therapeutic Yoga Instructor, Independent Practice</h4>
+              <p>Therapeutic yoga for weight loss, PCOD, anxiety, back pain and healthy lifestyle. Wellness programmes for seniors. Diet and fitness workshops.</p>
+            </div>
+            <div class="item">
+              <p class="tag">2014 – 2015 · Abu Dhabi</p>
+              <h4>Yoga Instructor, Melody Music Institute</h4>
+              <p>Group classes for women and students: asana, breathing and relaxation.</p>
+            </div>
+          </div>
         </div>
-        <div class="item">
-          <p class="tag">2014 – 2015 · Abu Dhabi</p>
-          <h3>Yoga Instructor, Melody Music Institute</h3>
-          <p>Group classes for women and students: asana, breathing practice and relaxation.</p>
+
+        <div class="panel">
+          <h3>Qualifications</h3>
+          <ul class="quals">
+            <li><b>M.Sc. (Yoga)</b><span>S-VYASA, Bangalore · 2020</span><small>Research: anxiety, depression and sleep disorders</small></li>
+            <li><b>Yoga Instructor's Course (YIC)</b><span>S-VYASA &amp; CYA International · 2016 · First Class</span></li>
+            <li><b>Diploma in Diabetes</b><span>S-VYASA, Bangalore · 2016 · First Class</span></li>
+            <li><b>Mudra Therapy</b><span>Dr Divya Keshav Murthy, S-VYASA · 2022</span></li>
+            <li><b>Music Therapy</b><span>Dr Karuna Vandana, S-VYASA · 2022</span></li>
+            <li><b>Yoga Nidra</b><span>Dr Divya Keshav Murthy · 2026</span></li>
+            <li><b>Ayurveda for Yoga Teachers</b><span>Dr Neelesh Taware</span></li>
+          </ul>
         </div>
       </div>
-
-      <h3 class="mt">Qualifications</h3>
-      <table>
-        <tr><th>M.Sc. (Yoga)</th><td>S-VYASA, Bangalore · 2020 · Research on anxiety, depression and sleep disorders</td></tr>
-        <tr><th>Yoga Instructor's Course (YIC)</th><td>S-VYASA, Bangalore &amp; CYA International · 2016 · First Class</td></tr>
-        <tr><th>Diploma in Diabetes</th><td>S-VYASA, Bangalore · 2016 · First Class</td></tr>
-        <tr><th>Mudra Therapy</th><td>Dr Divya Keshav Murthy, S-VYASA · 2022</td></tr>
-        <tr><th>Music Therapy</th><td>Dr Karuna Vandana, S-VYASA · 2022</td></tr>
-        <tr><th>Yoga Nidra</th><td>Dr Divya Keshav Murthy · 2026</td></tr>
-        <tr><th>Ayurveda for Yoga Teachers</th><td>Dr Neelesh Taware</td></tr>
-      </table>
-      <p class="muted">Languages: English, Tamil, Hindi</p>
     </div>
   </section>
 
   <!-- ===== SERVICES ===== -->
   <section id="services" class="alt">
     <div class="wrap">
-      <h2>Services</h2>
+      <p class="eyebrow">Services</p>
+      <h2>How Asha can help</h2>
       <div class="cards">
-        <div class="card"><h3>Corporate Wellness Workshop</h3><p>60-minute workshop for office teams, on-site or live online. <a href="#workshop">See the agenda ↓</a></p></div>
-        <div class="card"><h3>Therapeutic Yoga</h3><p>Personal programmes for back pain, PCOD, anxiety, weight loss and diabetes support.</p></div>
-        <div class="card"><h3>Seniors' Wellness</h3><p>Gentle, safe practice for mobility, balance and calm.</p></div>
-        <div class="card"><h3>Women &amp; Students</h3><p>Group classes to build a steady daily practice for focus and balance.</p></div>
-        <div class="card"><h3>Diet &amp; Fitness Workshops</h3><p>Practical guidance on healthy eating and an active lifestyle.</p></div>
+        <a class="card feature" href="#workshop">
+          <span class="icon">🏢</span>
+          <h3>Corporate Wellness Workshop</h3>
+          <p>60 minutes for office teams, on-site or live online. No change of clothes needed.</p>
+          <span class="more">See the agenda →</span>
+        </a>
+        <div class="card"><span class="icon">🌿</span><h3>Therapeutic Yoga</h3><p>Personal programmes for back pain, PCOD, anxiety, weight loss and diabetes support.</p></div>
+        <div class="card"><span class="icon">🤲</span><h3>Seniors' Wellness</h3><p>Gentle, safe practice for mobility, balance and calm.</p></div>
+        <div class="card"><span class="icon">🌸</span><h3>Women &amp; Students</h3><p>Group classes to build a steady daily practice for focus and balance.</p></div>
+        <div class="card"><span class="icon">🥗</span><h3>Diet &amp; Fitness Workshops</h3><p>Practical guidance on healthy eating and an active lifestyle.</p></div>
       </div>
     </div>
   </section>
@@ -85,88 +134,102 @@
   <!-- ===== 60-MINUTE WORKSHOP ===== -->
   <section id="workshop">
     <div class="wrap">
-      <h2>Corporate Yoga &amp; Wellness Workshop</h2>
-      <p>Long hours at a desk cause neck, shoulder and back strain, mental tiredness and stress. This 60-minute workshop combines gentle movement, stretching, breathwork and deep relaxation. No special equipment or room needed.</p>
+      <p class="eyebrow">Corporate Workshop</p>
+      <h2>60 minutes to reset the workday</h2>
+      <p class="intro">Long hours at a desk cause neck, shoulder and back strain, tiredness and stress. This workshop combines gentle movement, stretching, breathwork and deep relaxation. No special equipment or room needed.</p>
 
-      <h3 class="mt">Benefits</h3>
-      <ul class="ticks">
-        <li><b>Neck, shoulder and back relief:</b> eases tension from long sitting.</li>
-        <li><b>Stress and anxiety management:</b> regulated breathing helps calm the nervous system.</li>
-        <li><b>Focus and energy:</b> restores clarity for the rest of the workday.</li>
-        <li><b>Easy to organise:</b> no change of clothes, works in a meeting room or online.</li>
-      </ul>
-
-      <h3 class="mt">60-Minute Agenda</h3>
-      <div class="scroll-x">
-        <table class="agenda">
-          <tr><th>#</th><th>Phase</th><th>What we do</th><th>Time</th></tr>
-          <tr><td>1</td><td>Opening</td><td>AUM chanting, Shanthi Mantra (Om Saha Navavatu)</td><td>2 min</td></tr>
-          <tr><td>2</td><td>Sukshma Vyayama</td><td>Hands in/out breathing, neck rotations, trunk twisting, shoulder rotations</td><td>5 min</td></tr>
-          <tr><td>3</td><td>Standing</td><td>Trikonasana (Triangle Pose) with normal breathing</td><td>3 min</td></tr>
-          <tr><td>4</td><td>Sitting</td><td>Vakrasana (Twisted Pose) with abdominal awareness</td><td>3 min</td></tr>
-          <tr><td>5</td><td>Prone</td><td>Makarasana (Crocodile Pose) with diaphragmatic breathing</td><td>3 min</td></tr>
-          <tr><td>6</td><td>Supine</td><td>Pavanamuktasana (Wind-Relieving Pose)</td><td>3 min</td></tr>
-          <tr><td>7</td><td>Relaxation</td><td>Guided Deep / Quick / Instant Relaxation (DRT, QRT, IRT)</td><td>10 min</td></tr>
-          <tr><td>8</td><td>Pranayama</td><td>Bhastrika (modified for high blood pressure), Nadi Shuddhi</td><td>10 min</td></tr>
-          <tr><td>9</td><td>Sound resonance</td><td>Bhramari (humming "MMM")</td><td>6 min</td></tr>
-          <tr><td>10</td><td>Meditation</td><td>MSRT, Sankalpa ("I am peaceful, I am healthy"), closing Shanthi Patha</td><td>10 min</td></tr>
-          <tr><td>11</td><td>Integration</td><td>Laughter yoga (Simha Garjana) and Q&amp;A</td><td>5 min</td></tr>
-        </table>
+      <div class="benefits">
+        <div><b>Neck &amp; back relief</b><span>Eases tension from long sitting</span></div>
+        <div><b>Less stress</b><span>Regulated breathing calms the nervous system</span></div>
+        <div><b>More focus</b><span>Clarity and energy for the rest of the day</span></div>
+        <div><b>Easy to run</b><span>Meeting room, open office or online</span></div>
       </div>
 
-      <h3 class="mt">Key Postures</h3>
-      <div class="cards">
-        <div class="card"><h3>Trikonasana</h3><p class="tag">Triangle Pose</p><p>Builds postural stability and stretches the legs and spine.</p></div>
-        <div class="card"><h3>Vakrasana</h3><p class="tag">Twisted Pose</p><p>Improves spinal flexibility and breath awareness.</p></div>
-        <div class="card"><h3>Makarasana</h3><p class="tag">Crocodile Pose</p><p>Restful face-down pose for deep belly breathing.</p></div>
-        <div class="card"><h3>Pavanamuktasana</h3><p class="tag">Wind-Relieving Pose</p><p>Releases the abdomen and lower-back tension.</p></div>
+      <h3 class="mt">How the hour is spent</h3>
+      <!-- Bar: each part's width = its minutes out of 60 -->
+      <div class="hourbar" aria-hidden="true">
+        <span class="g1" style="flex:7">Warm-up</span>
+        <span class="g2" style="flex:12">Postures</span>
+        <span class="g3" style="flex:10">Relax</span>
+        <span class="g4" style="flex:16">Pranayama</span>
+        <span class="g5" style="flex:10">Meditate</span>
+        <span class="g6" style="flex:5">Q&amp;A</span>
       </div>
 
-      <h3 class="mt">For Event Organisers</h3>
-      <ul class="ticks">
-        <li><b>Space:</b> conference room, open office area, or a virtual broadcast. Office chairs or yoga mats.</li>
-        <li><b>Attire:</b> comfortable work clothes are fine. Practise on an empty stomach or at least 2 hours after a light meal.</li>
-        <li><b>Inclusive:</b> every practice has easier options for joint sensitivity and all fitness levels.</li>
-        <li><b>Audio:</b> for hybrid or large groups, arrange a clear microphone for guided relaxation and breathwork.</li>
-      </ul>
+      <ol class="agenda">
+        <li class="g1"><span class="min">2′</span><div><b>Opening</b><p>AUM chanting, Shanthi Mantra (Om Saha Navavatu)</p></div></li>
+        <li class="g1"><span class="min">5′</span><div><b>Sukshma Vyayama</b><p>Hands in/out breathing, neck rotations, trunk twisting, shoulder rotations</p></div></li>
+        <li class="g2"><span class="min">3′</span><div><b>Standing: Trikonasana</b><p>Triangle Pose with normal breathing</p></div></li>
+        <li class="g2"><span class="min">3′</span><div><b>Sitting: Vakrasana</b><p>Twisted Pose with abdominal awareness</p></div></li>
+        <li class="g2"><span class="min">3′</span><div><b>Prone: Makarasana</b><p>Crocodile Pose with diaphragmatic breathing</p></div></li>
+        <li class="g2"><span class="min">3′</span><div><b>Supine: Pavanamuktasana</b><p>Wind-Relieving Pose</p></div></li>
+        <li class="g3"><span class="min">10′</span><div><b>Relaxation</b><p>Guided Deep / Quick / Instant Relaxation (DRT, QRT, IRT)</p></div></li>
+        <li class="g4"><span class="min">10′</span><div><b>Pranayama</b><p>Bhastrika (modified for high blood pressure), Nadi Shuddhi</p></div></li>
+        <li class="g4"><span class="min">6′</span><div><b>Bhramari</b><p>Humming "MMM" sound resonance</p></div></li>
+        <li class="g5"><span class="min">10′</span><div><b>Meditation</b><p>MSRT, Sankalpa ("I am peaceful, I am healthy"), closing Shanthi Patha</p></div></li>
+        <li class="g6"><span class="min">5′</span><div><b>Integration</b><p>Laughter yoga (Simha Garjana) and Q&amp;A</p></div></li>
+      </ol>
+
+      <h3 class="mt">Key postures</h3>
+      <div class="cards four">
+        <div class="card pose"><span class="num">1</span><h4>Trikonasana</h4><p class="tag">Triangle Pose</p><p>Builds postural stability and stretches the legs and spine.</p></div>
+        <div class="card pose"><span class="num">2</span><h4>Vakrasana</h4><p class="tag">Twisted Pose</p><p>Improves spinal flexibility and breath awareness.</p></div>
+        <div class="card pose"><span class="num">3</span><h4>Makarasana</h4><p class="tag">Crocodile Pose</p><p>Restful face-down pose for deep belly breathing.</p></div>
+        <div class="card pose"><span class="num">4</span><h4>Pavanamuktasana</h4><p class="tag">Wind-Relieving Pose</p><p>Releases the abdomen and lower-back tension.</p></div>
+      </div>
+
+      <details class="organisers">
+        <summary>For event organisers: space, attire &amp; setup</summary>
+        <ul class="ticks">
+          <li><b>Space:</b> conference room, open office area, or a virtual broadcast. Office chairs or yoga mats.</li>
+          <li><b>Attire:</b> comfortable work clothes are fine. Practise on an empty stomach or at least 2 hours after a light meal.</li>
+          <li><b>Inclusive:</b> every practice has easier options for joint sensitivity and all fitness levels.</li>
+          <li><b>Audio:</b> for hybrid or large groups, arrange a clear microphone for guided relaxation and breathwork.</li>
+        </ul>
+      </details>
     </div>
   </section>
 
   <!-- ===== DAILY UPDATES (read from updates.md) ===== -->
   <section id="updates" class="alt">
-    <div class="wrap">
-      <h2>Daily Updates</h2>
-      <p class="muted">What happened in class each day: newest first.</p>
-      <div id="update-list"><p class="muted">Loading updates…</p></div>
+    <div class="wrap narrow">
+      <p class="eyebrow">From the mat</p>
+      <h2>Daily updates</h2>
+      <p class="muted" id="update-meta">What happened in class each day, newest first.</p>
+      <div id="update-list" class="feed"><p class="muted">Loading updates…</p></div>
+      <button id="more-btn" class="btn ghost small" hidden>Show older updates</button>
     </div>
   </section>
 
   <!-- ===== CONTACT ===== -->
-  <section id="contact">
+  <section id="contact" class="contact">
     <div class="wrap">
-      <h2>Contact</h2>
-      <p>Based in Chennai, India. Sessions in person and online.</p>
-      <div class="cards">
-        <a class="card link" href="tel:+919342113730">
-          <h3>Phone</h3><p>+91 93421 13730</p>
-        </a>
-        <a class="card link" href="https://wa.me/919342113730" target="_blank" rel="noopener">
-          <h3>WhatsApp</h3><p>+91 93421 13730</p>
-        </a>
-        <a class="card link" href="mailto:kscasha@gmail.com">
-          <h3>Email</h3><p>kscasha@gmail.com</p>
-        </a>
-        <a class="card link" href="https://www.instagram.com/asha_yoga_ad/" target="_blank" rel="noopener">
-          <h3>Instagram</h3><p>@asha_yoga_ad</p>
-        </a>
+      <div class="contact-box">
+        <div>
+          <p class="eyebrow light">Contact</p>
+          <h2>Book a workshop or a session</h2>
+          <p>Based in Chennai, India. Sessions in person and online. Reply usually within a day.</p>
+        </div>
+        <div class="contact-links">
+          <a href="https://wa.me/919342113730" target="_blank" rel="noopener"><span>WhatsApp</span>+91 93421 13730</a>
+          <a href="tel:+919342113730"><span>Phone</span>+91 93421 13730</a>
+          <a href="mailto:kscasha@gmail.com"><span>Email</span>kscasha@gmail.com</a>
+          <a href="https://www.instagram.com/asha_yoga_ad/" target="_blank" rel="noopener"><span>Instagram</span>@asha_yoga_ad</a>
+        </div>
       </div>
     </div>
   </section>
 
   <footer>
-    <p>© <span id="year"></span> Asha Ram · Yoga &amp; Wellness</p>
+    <p>© <span id="year"></span> Asha Ram · Yoga &amp; Wellness · <a href="#home">Back to top ↑</a></p>
   </footer>
 
+  <!-- Floating WhatsApp button -->
+  <a class="wa-float" href="https://wa.me/919342113730" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path fill="#fff" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2c-1.6 0-3.1-.4-4.4-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.2-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.4.1-.6.3-.2.2-.8.8-.8 2s.8 2.3.9 2.5c.1.2 1.6 2.5 3.9 3.5 1.5.6 2 .7 2.7.6.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2l-.4-.2Z"/></svg>
+  </a>
+
+  <script src="site.js"></script>
   <script src="updates.js"></script>
 </body>
 </html>
