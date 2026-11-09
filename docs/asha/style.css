@@ -64,6 +64,7 @@ nav a:hover { color: var(--accent); }
 .card.link { text-decoration: none; color: var(--text); }
 .card.link:hover { border-color: var(--accent); }
 .card.link p { color: var(--accent-dark); font-weight: 600; margin: 0; word-break: break-word; }
+.card a { color: var(--accent-dark); }
 .tag { font-size: 0.8rem; color: var(--accent); font-weight: 600; margin: 0 0 4px; }
 
 /* ===== Table ===== */
@@ -74,6 +75,9 @@ th { width: 30%; background: #f7efe3; }
 .scroll-x { overflow-x: auto; }
 .agenda th { width: auto; }
 .agenda td:first-child, .agenda td:last-child { white-space: nowrap; }
+
+.timeline .item { border-left: 3px solid var(--accent); padding: 4px 0 4px 16px; margin-bottom: 16px; }
+.timeline .item p { margin: 0 0 4px; }
 
 /* ===== Lists ===== */
 .ticks { list-style: none; padding: 0; }

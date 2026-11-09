@@ -28,7 +28,7 @@ A website is a set of **text files** that a browser reads.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Asha Ramaswamy Yoga</title>
+  <title>Asha Ram Yoga</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -44,7 +44,7 @@ A website is a set of **text files** that a browser reads.
 | Tag | Meaning | Example |
 |---|---|---|
 | `<h1>` `<h2>` | Big and medium headings | `<h1>Yoga for Well-Being</h1>` |
-| `<p>` | Paragraph | `<p>45-minute sessions.</p>` |
+| `<p>` | Paragraph | `<p>60-minute workshop.</p>` |
 | `<a href="">` | Link | `<a href="tel:+919342113730">Call</a>` |
 | `<ul><li>` | Bullet list | `<ul><li>Neck rotation</li></ul>` |
 | `<table><tr><th><td>` | Table (row, header cell, cell) | Program details table |
@@ -52,18 +52,19 @@ A website is a set of **text files** that a browser reads.
 
 Every tag that opens must close: `<p>` … `</p>`.
 
-### Step 3: Turn Asha's document into sections
-Take the two proposal documents (45-min office module and 60-min workshop) and give each heading its own `<section>`:
+### Step 3: Turn Asha's documents into sections
+We use two sources: the **CV** (who Asha is) and the **Workshop Proposal** (what she offers). Each heading becomes its own `<section>`:
 
-| Document heading | Website section | `id` |
-|---|---|---|
-| Title + Executive Summary | Hero (first screen) | `home` |
-| Instructor Profile | About Asha | `about` |
-| Program Details + Benefits | Program at a Glance | `program` |
-| Session Flow + Safety | 45-Minute Office Module | `session` |
-| 2nd document: 60-min Workshop Agenda + Postures + Organiser Guidelines | 60-Minute Workshop | `workshop` |
-| *(new)* | Daily Updates | `updates` |
-| *(new)* | Contact | `contact` |
+| Source | Heading in the source | Website section | `id` |
+|---|---|---|---|
+| Proposal | Executive Summary | Hero (first screen) | `home` |
+| CV | Profile + Experience + Certifications + Education | About Asha | `about` |
+| CV | Experience (what she teaches) | Services | `services` |
+| Proposal | Benefits + 60-Min Agenda + Postures + Organiser Guidelines | Workshop | `workshop` |
+| *(new)* | – | Daily Updates | `updates` |
+| CV | Contact line | Contact | `contact` |
+
+**Rule for a public website:** only copy what helps a visitor. Leave out home address, family details and old unrelated jobs.
 
 ### Step 4: Add the menu
 Links that start with `#` jump to a section on the same page:
@@ -191,7 +192,7 @@ You can read the code in `updates.js`. Each step has a comment.
 - [ ] Opens on a phone without needing to scroll sideways
 - [ ] Phone link opens the dialer; WhatsApp and email links work
 - [ ] Today's update is at the top
-- [ ] No spelling mistakes in Asha's qualifications
+- [ ] Qualifications match the CV exactly (names, years, grades)
 - [ ] Dates use the YYYY-MM-DD format
 
 ## Ideas for later (level-up projects)
