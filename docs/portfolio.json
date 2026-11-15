@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 166.38,
-      "news": "<a href=\"https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/\" target=\"_blank\">The attendee\u2019s guide to the AWS re:Invent 2026 AI/ML track</a>"
+      "news": "<a href=\"https://en.antaranews.com/news/442523/sbc-medical-announces-capital-and-business-alliance-with-neurobrain-dynamics-to-advance-clinic-profitability-through-medical-ai\" target=\"_blank\">SBC Medical Announces Capital and Business Alliance with NeuroBrain Dynamics to Advance Clinic Profitability Through Medical AI</a>"
     },
     {
       "ticker": "HON",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 162.85,
-      "news": "<a href=\"https://economictimes.indiatimes.com/news/international/us/nvidia-ceo-crisis-who-is-jay-puri-longtime-nvidia-vp-in-focus-as-jensen-huang-faces-scrutiny-over-alleged-affairs-with-alice-huang-and-kimberly-powell/articleshow/135768885.cms\" target=\"_blank\">Nvidia CEO crisis: Who is Jay Puri? Longtime Nvidia VP in focus as Jensen Huang faces scrutiny over alleged affairs with Alice Huang and Kimberly Powell</a>"
+      "news": "<a href=\"https://www.nakedcapitalism.com/2026/11/jensen-huang-ouster-at-nvidia-bigger-governance-and-coming-financial-train-wreck-than-hank-greenberg-exit-from-aig.html\" target=\"_blank\">Jensen Huang Ouster at Nvidia: Bigger Governance and Coming Financial Train Wreck than Hank Greenberg Exit from AIG</a>"
     },
     {
       "ticker": "PLTR",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 291.0,
-      "news": "<a href=\"https://www.lifesciencesworld.com/what-happens-to-amphibians-in-cold-weather/\" target=\"_blank\">What happens to amphibians in cold weather?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-do-you-get-rid-of-voles-naturally-and-fast/\" target=\"_blank\">How do you get rid of voles naturally and fast?</a>"
     },
     {
       "ticker": "SSYS",
@@ -151,7 +151,7 @@
       "quantity": 349.31,
       "initial_price": 47.71,
       "last_price": 72.11,
-      "news": "<a href=\"https://post.rlsbb.cc/wall-world-strategy-razor1911/\" target=\"_blank\">Wall World Strategy-Razor1911</a>"
+      "news": "<a href=\"https://www.popsci.com/technology/robot-frog-artificial-muscles/\" target=\"_blank\">Robo-frog swims with liquid crystal muscles powered by light</a>"
     },
     {
       "ticker": "SOXX",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-13T16:00:00+00:00",
-  "data_date": "2026-11-13",
+  "last_updated": "2026-11-14T16:00:00+00:00",
+  "data_date": "2026-11-14",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
