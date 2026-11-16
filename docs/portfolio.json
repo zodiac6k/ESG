@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 222.46,
-      "news": "<a href=\"https://www.livemint.com/companies/news/foxconn-forecasts-double-digit-2027-revenue-growth-chairman-young-liu-says-ai-will-be-most-important-growth-driver-11794479750810.html\" target=\"_blank\">Foxconn forecasts \u2018double-digit\u2019 2027 revenue growth; Chairman Young Liu says \u2018AI will be most important growth driver\u2019</a>"
+      "news": "<a href=\"https://punchng.com/2027-delta-apc-begins-grassroots-mobilisation/\" target=\"_blank\">2027: Delta APC begins grassroots mobilisation</a>"
     },
     {
       "ticker": "MSFT",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 291.0,
-      "news": "<a href=\"https://www.lifesciencesworld.com/how-do-you-get-rid-of-voles-naturally-and-fast/\" target=\"_blank\">How do you get rid of voles naturally and fast?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/does-coyote-urine-spray-attract-coyotes/\" target=\"_blank\">Does coyote urine spray attract coyotes?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-14T16:00:00+00:00",
-  "data_date": "2026-11-14",
+  "last_updated": "2026-11-15T16:00:00+00:00",
+  "data_date": "2026-11-15",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
