@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "85.96%",
-      "CAGR": "22.97%",
+      "Total Return": "69.99%",
+      "CAGR": "19.35%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.60"
+      "Sharpe Ratio": "0.53"
     },
     "QQQ": {
-      "Total Return": "65.25%",
-      "CAGR": "18.23%",
+      "Total Return": "55.87%",
+      "CAGR": "15.95%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "59.66%",
-      "CAGR": "16.88%",
+      "Total Return": "53.85%",
+      "CAGR": "15.44%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 383.1,
+      "last_price": 361.93,
       "news": "<a href=\"https://en.antaranews.com/news/440071/fuzhou-to-host-global-observance-of-world-cities-day-2026\" target=\"_blank\">Fuzhou to Host Global Observance of World Cities Day 2026</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 157.6,
+      "last_price": 150.93,
       "news": "<a href=\"https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/\" target=\"_blank\">Amazon EMR 8.2 is now available</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 217.84,
-      "news": "<a href=\"https://punchng.com/ogun-2027-pdp-presents-governorship-flag-to-adebutu/\" target=\"_blank\">Ogun 2027: PDP presents governorship flag to Adebutu</a>"
+      "last_price": 212.64,
+      "news": "<a href=\"https://punchng.com/otti-presents-n1-23tn-2027-budget-to-abia-assembly/\" target=\"_blank\">Otti presents N1.23tn 2027 budget to Abia Assembly</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 498.3,
+      "last_price": 484.52,
       "news": "<a href=\"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html\" target=\"_blank\">Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 145.98,
-      "news": "<a href=\"https://www.naturalnews.com/2026-11-18-trump-filing-97m-nvidia-trades-huang-access.html\" target=\"_blank\">Trump\u2019s Financial Filing Exposes $97M in Nvidia Trades Amid Jensen Huang\u2019s White House Access</a>"
+      "last_price": 125.53,
+      "news": "<a href=\"https://www.fool.com.au/2026/11/20/anthropic-hits-the-market-was-it-enough-to-distract-investors-from-a-bruised-ai-sector-and-nvidias-scandal/\" target=\"_blank\">Anthropic hits the market. Was it enough to distract investors from a bruised AI sector and Nvidia's scandal?</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": NaN,
+      "last_price": 143.49,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": NaN,
+      "last_price": 229.44,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 47.66,
+      "last_price": 44.36,
       "news": "No news available"
     },
     {
@@ -114,8 +114,8 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 338.93,
-      "news": "<a href=\"https://fazlisyam.com/cendawan-jerami-jerami-padi-kekal-substrat-terbaik-berbanding-daun-pisang-dan-lalang/\" target=\"_blank\">Cendawan Jerami: Jerami Padi Kekal Substrat Terbaik Berbanding Daun Pisang dan Lalang</a>"
+      "last_price": 302.63,
+      "news": "<a href=\"https://fazlisyam.com/pelaga-di-bawah-naungan-teduhan-50-hasilkan-lebih-banyak-kapsul-berbanding-cahaya-penuh/\" target=\"_blank\">Pelaga di Bawah Naungan: Teduhan 50% Hasilkan Lebih Banyak Kapsul Berbanding Cahaya Penuh</a>"
     },
     {
       "ticker": "SNOW",
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": NaN,
-      "news": "<a href=\"https://www.lifesciencesworld.com/why-dont-deer-move-mid-day/\" target=\"_blank\">Why don\u2019t deer move mid day?</a>"
+      "last_price": 254.82,
+      "news": "<a href=\"https://www.lifesciencesworld.com/why-are-birds-not-coming-to-my-bird-feeders/\" target=\"_blank\">Why are birds not coming to my bird feeders?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 5.49,
+      "last_price": 5.06,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.48,
+      "last_price": 1.35,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140\" target=\"_blank\">Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": NaN,
+      "last_price": 62.56,
       "news": "<a href=\"https://www.popsci.com/technology/robot-frog-artificial-muscles/\" target=\"_blank\">Robo-frog swims with liquid crystal muscles powered by light</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 137.95,
+      "last_price": 123.4,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": NaN,
+      "last_price": 150.96,
       "news": "<a href=\"https://biztoc.com/x/faa1d28fc00cd057\" target=\"_blank\">ESGU Trailed IVV by $26,370 on $300,000 Over Five Years. Its ESG Tilts Are Part of the Reason</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.49,
+      "last_price": 13.84,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-19T16:00:00+00:00",
-  "data_date": "2026-11-19",
+  "last_updated": "2026-11-20T16:00:00+00:00",
+  "data_date": "2026-11-20",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
