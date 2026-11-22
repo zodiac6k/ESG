@@ -52,7 +52,7 @@
       "quantity": 75.09,
       "initial_price": 59.19,
       "last_price": 150.93,
-      "news": "<a href=\"https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/\" target=\"_blank\">Amazon EMR 8.2 is now available</a>"
+      "news": "<a href=\"https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/\" target=\"_blank\">Amazon SageMaker adds new capabilities \u2013 improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions</a>"
     },
     {
       "ticker": "HON",
@@ -61,7 +61,7 @@
       "quantity": 29.71,
       "initial_price": 149.62,
       "last_price": 212.64,
-      "news": "<a href=\"https://punchng.com/otti-presents-n1-23tn-2027-budget-to-abia-assembly/\" target=\"_blank\">Otti presents N1.23tn 2027 budget to Abia Assembly</a>"
+      "news": "<a href=\"https://iowacapitaldispatch.com/2026/11/19/amid-public-concern-and-a-lawsuit-u-s-army-delays-detonation-of-lead-explosives/\" target=\"_blank\">Army Postpones Detonation of Toxic Lead Azide in Iowa After Public Outcry</a>"
     },
     {
       "ticker": "MSFT",
@@ -79,7 +79,7 @@
       "quantity": 576.56,
       "initial_price": 13.49,
       "last_price": 125.53,
-      "news": "<a href=\"https://www.fool.com.au/2026/11/20/anthropic-hits-the-market-was-it-enough-to-distract-investors-from-a-bruised-ai-sector-and-nvidias-scandal/\" target=\"_blank\">Anthropic hits the market. Was it enough to distract investors from a bruised AI sector and Nvidia's scandal?</a>"
+      "news": "<a href=\"https://freerepublic.com/focus/f-chat/4403771/posts\" target=\"_blank\">Nasdaq Erases 2026 Gains. Anthropic Plunges 10%. Is the AI Trade Over?</a>"
     },
     {
       "ticker": "PLTR",
@@ -115,7 +115,7 @@
       "quantity": 77.92,
       "initial_price": 57.04,
       "last_price": 302.63,
-      "news": "<a href=\"https://fazlisyam.com/pelaga-di-bawah-naungan-teduhan-50-hasilkan-lebih-banyak-kapsul-berbanding-cahaya-penuh/\" target=\"_blank\">Pelaga di Bawah Naungan: Teduhan 50% Hasilkan Lebih Banyak Kapsul Berbanding Cahaya Penuh</a>"
+      "news": "<a href=\"https://fazlisyam.com/kultur-tisu-gerbera-varieti-oren-medium-bap-2-0-mg-l-hasilkan-sehingga-60-pucuk/\" target=\"_blank\">Kultur Tisu Gerbera Varieti Oren: Medium BAP 2.0 mg/l Hasilkan Sehingga 60 Pucuk</a>"
     },
     {
       "ticker": "SNOW",
@@ -124,7 +124,7 @@
       "quantity": 13.28,
       "initial_price": 251.0,
       "last_price": 254.82,
-      "news": "<a href=\"https://www.lifesciencesworld.com/why-are-birds-not-coming-to-my-bird-feeders/\" target=\"_blank\">Why are birds not coming to my bird feeders?</a>"
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-dark-is-it-where-the-titanic-is/\" target=\"_blank\">How dark is it where the Titanic is?</a>"
     },
     {
       "ticker": "SSYS",
@@ -181,7 +181,7 @@
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-20T16:00:00+00:00",
-  "data_date": "2026-11-20",
+  "last_updated": "2026-11-21T16:00:00+00:00",
+  "data_date": "2026-11-21",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
