@@ -19,19 +19,19 @@
   },
   "metrics": {
     "Portfolio": {
-      "Total Return": "84.19%",
-      "CAGR": "22.58%",
+      "Total Return": "79.88%",
+      "CAGR": "21.62%",
       "Max Drawdown": "-38.34%",
-      "Sharpe Ratio": "0.59"
+      "Sharpe Ratio": "0.57"
     },
     "QQQ": {
-      "Total Return": "66.78%",
-      "CAGR": "18.59%",
+      "Total Return": "63.47%",
+      "CAGR": "17.80%",
       "Max Drawdown": "-33.97%"
     },
     "SPY": {
-      "Total Return": "61.09%",
-      "CAGR": "17.23%",
+      "Total Return": "60.31%",
+      "CAGR": "17.04%",
       "Max Drawdown": "-24.47%"
     }
   },
@@ -42,7 +42,7 @@
       "weight": "5.56%",
       "quantity": 27.35,
       "initial_price": 203.14,
-      "last_price": 382.47,
+      "last_price": 381.83,
       "news": "<a href=\"https://en.antaranews.com/news/440071/fuzhou-to-host-global-observance-of-world-cities-day-2026\" target=\"_blank\">Fuzhou to Host Global Observance of World Cities Day 2026</a>"
     },
     {
@@ -51,7 +51,7 @@
       "weight": "4.44%",
       "quantity": 75.09,
       "initial_price": 59.19,
-      "last_price": 158.31,
+      "last_price": 156.98,
       "news": "<a href=\"https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/\" target=\"_blank\">Amazon SageMaker adds new capabilities \u2013 improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions</a>"
     },
     {
@@ -60,8 +60,8 @@
       "weight": "4.44%",
       "quantity": 29.71,
       "initial_price": 149.62,
-      "last_price": 221.97,
-      "news": "<a href=\"https://www.jnmuleenews.com/news/tms-movement-empowers-over-200-women-in-kogi-with-digital-marketing-skills-mws5y3cv\" target=\"_blank\">TMS Movement Empowers Over 200 Women in Kogi with Digital Marketing Skills</a>"
+      "last_price": 224.82,
+      "news": "<a href=\"https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html\" target=\"_blank\">The biggest money-making energy trade looks over. What to buy instead</a>"
     },
     {
       "ticker": "MSFT",
@@ -69,7 +69,7 @@
       "weight": "7.78%",
       "quantity": 38.5,
       "initial_price": 202.0,
-      "last_price": 492.5,
+      "last_price": 496.13,
       "news": "<a href=\"https://www.dailymail.com/yourmoney/article-16310061/wall-street-ai-stock-market-opportunity-investing.html\" target=\"_blank\">Stock market bloodbath sparks panic... but Wall Street gurus reveal golden 'opportunity' for investors - and the subtle signal that everyone's missed</a>"
     },
     {
@@ -78,8 +78,8 @@
       "weight": "7.78%",
       "quantity": 576.56,
       "initial_price": 13.49,
-      "last_price": 165.05,
-      "news": "<a href=\"https://m.economictimes.com/markets/us-stocks/wall-street-guide/nvidias-2-6-trillion-rout-shares-tumble-46-in-7-weeks-worst-losing-streak-since-2008/articleshow/136045936.cms\" target=\"_blank\">Nvidia's $2.6 trillion rout: Shares tumble 46% in 7 weeks, worst losing streak since 2008</a>"
+      "last_price": 155.38,
+      "news": "<a href=\"https://pypi.org/project/garrison-forge/\" target=\"_blank\">garrison-forge added to PyPI</a>"
     },
     {
       "ticker": "PLTR",
@@ -87,7 +87,7 @@
       "weight": "4.44%",
       "quantity": 467.84,
       "initial_price": 9.5,
-      "last_price": 159.36,
+      "last_price": 161.18,
       "news": "No news available"
     },
     {
@@ -96,7 +96,7 @@
       "weight": "4.44%",
       "quantity": 32.37,
       "initial_price": 137.32,
-      "last_price": 208.97,
+      "last_price": 210.86,
       "news": "No news available"
     },
     {
@@ -105,7 +105,7 @@
       "weight": "3.33%",
       "quantity": 54.05,
       "initial_price": 61.67,
-      "last_price": 48.47,
+      "last_price": 46.48,
       "news": "No news available"
     },
     {
@@ -114,7 +114,7 @@
       "weight": "4.44%",
       "quantity": 77.92,
       "initial_price": 57.04,
-      "last_price": 346.87,
+      "last_price": 323.76,
       "news": "<a href=\"https://fazlisyam.com/lili-keamanan-dan-pokok-labah-labah-mampu-turunkan-formaldehid-bawah-0-1-ppm-di-pejabat/\" target=\"_blank\">Lili Keamanan dan Pokok Labah-Labah Mampu Turunkan Formaldehid Bawah 0.1 ppm di Pejabat</a>"
     },
     {
@@ -123,8 +123,8 @@
       "weight": "3.33%",
       "quantity": 13.28,
       "initial_price": 251.0,
-      "last_price": 271.27,
-      "news": "<a href=\"https://english.khabarhub.com/2026/23/576690/\" target=\"_blank\">Api Peak declaration calls for climate justice and Himalayan conservation</a>"
+      "last_price": 271.09,
+      "news": "<a href=\"https://www.lifesciencesworld.com/how-far-can-an-owl-spot-a-mouse/\" target=\"_blank\">How far can an owl spot a mouse?</a>"
     },
     {
       "ticker": "SSYS",
@@ -132,7 +132,7 @@
       "weight": "3.33%",
       "quantity": 267.31,
       "initial_price": 12.47,
-      "last_price": 5.32,
+      "last_price": 5.1,
       "news": "No news available"
     },
     {
@@ -141,7 +141,7 @@
       "weight": "2.22%",
       "quantity": 452.59,
       "initial_price": 4.91,
-      "last_price": 1.53,
+      "last_price": 1.38,
       "news": "<a href=\"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140\" target=\"_blank\">Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</a>"
     },
     {
@@ -150,7 +150,7 @@
       "weight": "16.67%",
       "quantity": 349.31,
       "initial_price": 47.71,
-      "last_price": 66.71,
+      "last_price": 65.89,
       "news": "<a href=\"https://www.popsci.com/technology/robot-frog-artificial-muscles/\" target=\"_blank\">Robo-frog swims with liquid crystal muscles powered by light</a>"
     },
     {
@@ -159,7 +159,7 @@
       "weight": "11.11%",
       "quantity": 113.92,
       "initial_price": 97.53,
-      "last_price": 140.22,
+      "last_price": 128.62,
       "news": "No news available"
     },
     {
@@ -168,7 +168,7 @@
       "weight": "11.11%",
       "quantity": 155.38,
       "initial_price": 71.51,
-      "last_price": 158.2,
+      "last_price": 157.3,
       "news": "<a href=\"https://biztoc.com/x/faa1d28fc00cd057\" target=\"_blank\">ESGU Trailed IVV by $26,370 on $300,000 Over Five Years. Its ESG Tilts Are Part of the Reason</a>"
     },
     {
@@ -177,11 +177,11 @@
       "weight": "5.56%",
       "quantity": 320.03,
       "initial_price": 17.36,
-      "last_price": 14.23,
+      "last_price": 14.06,
       "news": "No news available"
     }
   ],
-  "last_updated": "2026-11-23T16:00:00+00:00",
-  "data_date": "2026-11-23",
+  "last_updated": "2026-11-24T16:00:00+00:00",
+  "data_date": "2026-11-24",
   "chart_path": "charts/portfolio_vs_benchmarks.png"
 }
